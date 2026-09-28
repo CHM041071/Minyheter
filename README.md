@@ -1,7 +1,7 @@
 # Nyhetsbrief
 
 En kort daglig morgenbrief, med **lesetid på 4–5 minutter**, som prioriterer
-**Norge → Skandinavia → Norden → Europa**, med en egen seksjon **«Følg med i dag»**.
+**Norge → Skandinavia → Norden → Europa → Verden**, med en egen seksjon **«Følg med i dag»**.
 Alt er gratis. Det eneste du trenger, er en gratis API-nøkkel fra Google AI Studio.
 
 ```
@@ -14,9 +14,17 @@ kalender.json ┼─> agent.py ─> SQLite ─> regler ──┤                
 
 - **Kort fortalt:** tre setninger som gir hele bildet
 - **Følg med i dag:** maks fire hendelser som skjer i dag
-- **Nyheter:** opptil 5 fra Norge og 3 hver fra Skandinavia, Norden og Europa,
+- **Nyheter:** opptil 5 fra Norge og 3 hver fra Skandinavia, Norden, Europa og Verden,
   med 1–2 setninger hver, oversatt til norsk. AI-en velger gjerne færre hvis dagen er rolig.
 - **Senere denne uken:** sammenfoldet nederst
+
+## Viktighet for Norge
+
+Hovedkriteriet på alle nivåer er hvor mye saken betyr for Norge. AI-en gir hver sak en
+vekt fra 1 til 5. Saker under `MIN_NORGE_VEKT` (standard 3) tas ikke med, og hvert nivå
+sorteres etter vekt. Underholdning, kjendiser, musikk, rekorder, kuriosa og sport utelukkes
+uansett hvor mye omtale de får. I reglene gir utenlandssaker som nevner Norge, EØS eller
+Norden ekstra poeng (`NORGE_ORD`).
 
 ## Hvordan AI brukes
 

@@ -49,10 +49,14 @@ FEEDS = {
         "DW": "https://rss.dw.com/rdf/rss-en-eu",
         "France 24": "https://www.france24.com/en/europe/rss",
     },
+    "Verden": {
+        "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "DW World": "https://rss.dw.com/rdf/rss-en-all",
+    },
 }
 NIVAER = list(FEEDS)
 # Maks antall saker per nivå. Med korte AI-oppsummeringer gir dette ca. 4–5 minutters lesetid.
-ANTALL_PER_NIVA = {"Norge": 5, "Skandinavia": 3, "Norden": 3, "Europa": 3}
+ANTALL_PER_NIVA = {"Norge": 5, "Skandinavia": 3, "Norden": 3, "Europa": 3, "Verden": 3}
 MAKS_FOLG_MED = 4
 MIN_POENG = 2
 
@@ -61,7 +65,9 @@ AI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completio
 # Prøves i rekkefølge: beste modell først, deretter Flash-Lite med mer romslig gratiskvote.
 AI_MODELLER = [m.strip() for m in os.environ.get(
     "AI_MODELLER", "gemini-3.8-flash,gemini-3.5-flash-lite,gemini-flash-latest").split(",") if m.strip()]
-KANDIDATER_PER_NIVA = {"Norge": 10, "Skandinavia": 6, "Norden": 5, "Europa": 6}
+KANDIDATER_PER_NIVA = {"Norge": 10, "Skandinavia": 6, "Norden": 5, "Europa": 7, "Verden": 7}
+# Saker AI-en vurderer under denne verdien (1–5) for betydning for Norge, tas ikke med.
+MIN_NORGE_VEKT = 3
 DAGER_I_KALENDER = 7
 BEHOLD_DAGER = 60
 INGRESS_MAKS = 600   # lagres i databasen, så AI-en har nok å utdype fra
@@ -87,7 +93,16 @@ UVIKTIG = ["fotball", "fotboll", "fodbold", "football", "eliteserien", "allsvens
            "champions league", "premier league", "håndball", "handboll", "håndbold", "langrenn",
            "skiskyting", "alpint", "tennis", "golf", "formel 1", "sport", "kjendis", "kändis",
            "kendis", "celebrity", "influencer", "reality", "melodi grand prix", "eurovision",
-           "oppskrift", "recept", "opskrift"]
+           "oppskrift", "recept", "opskrift",
+           "artist", "sanger", "sangerinne", "sångare", "popstjerne", "pop star", "singer", "rapper",
+           "album", "konsert", "konsertrekord", "turné", "turne", "world tour", "concert", "box office",
+           "billettrekord", "grammy", "oscar", "emmy", "film", "tv-serie", "netflix", "hollywood",
+           "taylor swift", "beyoncé", "influenser", "tiktok-stjerne", "youtuber", "podkast",
+           "kuriosa", "rekordforsøk", "guinness", "horoskop", "motetrend", "fashion week"]
+# Ord som tyder på direkte betydning for Norge. Gir ekstra poeng i reglene.
+NORGE_ORD = ["norge", "norges", "norsk", "norske", "norway", "norwegian", "eøs", "eea",
+             "nordisk", "nordiske", "nordic", "skandinav", "scandinavia", "barents", "svalbard",
+             "nordsjøen", "north sea", "oljefondet", "equinor"]
 
 # Kategorier for «Følg med i dag» når hendelsen kommer fra nyhetssakene
 KATEGORI_ORD = {
@@ -124,6 +139,7 @@ def ordmonster(ord_liste) -> re.Pattern:
 
 VIKTIG_RE = {vekt: ordmonster(liste) for vekt, liste in VIKTIG.items()}
 UVIKTIG_RE = ordmonster(UVIKTIG)
+NORGE_RE = ordmonster(NORGE_ORD)
 KATEGORI_RE = {k: ordmonster(v) for k, v in KATEGORI_ORD.items()}
 
 
@@ -210,7 +226,9 @@ def artikkelpoeng(a: dict) -> float:
     for vekt, monster in VIKTIG_RE.items():
         p += vekt * min(len(set(m.lower() for m in monster.findall(tekst))), 2)
     if UVIKTIG_RE.search(tekst):
-        p -= 6
+        p -= 8
+    if a["niva"] != "Norge" and NORGE_RE.search(tekst):
+        p += 3                              # utenlandssak som nevner Norge, EØS eller Norden
     p += max(0.0, 3 - a["posisjon"] / 5)  # høyt i kildens toppliste
     timer = (datetime.now(timezone.utc) - datetime.fromisoformat(a["publisert"])).total_seconds() / 3600
     p += max(0.0, 2 - timer / 12)          # fersk
@@ -445,11 +463,21 @@ def ai_brief(grupper_, kalender_i_dag, nyhets_folg, idag: date) -> dict:
     instruks = f"""Lag en KORT morgenbrief på norsk bokmål for {norsk_dato(idag)} {idag.year}.
 Hele briefen skal kunne leses på under 5 minutter. Kvalitet foran antall.
 
-1. "kort_fortalt": nøyaktig 3 korte setninger (maks 20 ord hver) om de viktigste sakene samlet.
-2. "saker": velg saker per nivå, prioritert i rekkefølgen Norge, Skandinavia, Norden, Europa ({antall}).
-   Fyll opp antallet på hvert nivå når det finnes relevante saker. Velg bare færre hvis resten er
-   sport, kjendisstoff eller uten betydning.
+1. "kort_fortalt": nøyaktig 3 korte setninger (maks 20 ord hver) om de sakene som betyr mest for Norge.
+2. "saker": velg saker per nivå, i rekkefølgen Norge, Skandinavia, Norden, Europa, Verden ({antall}).
+   HOVEDKRITERIET på alle nivåer er hvor stor betydning saken har for Norge og folk som bor i Norge.
+   Gi hver sak "vekt" fra 1 til 5:
+     5 = direkte og stor betydning for Norge (sikkerhet, økonomi, renter, energi, lover, krig i nærområdene)
+     4 = tydelig betydning for Norge (EU/EØS-regler, handel og toll, nordisk samarbeid, forsvar, migrasjon)
+     3 = viktig internasjonal utvikling som indirekte påvirker Norge (store politiske skifter, konflikter, markeder)
+     2 = interessant, men med liten betydning for Norge
+     1 = ingen betydning for Norge
+   Ta bare med saker med vekt 3 eller høyere, og sorter hvert nivå etter vekt.
+   Ta ALDRI med underholdning, kjendiser, musikk, film, rekorder, kuriosa, sport eller livsstil, uansett
+   hvor mye omtale de får. Enkeltstående kriminalsaker og ulykker tas bare med hvis de har bredere
+   samfunnsbetydning. Det er bedre med færre saker enn saker uten betydning.
    For hver sak:
+   - "vekt": 1–5 som beskrevet over
    - "tittel": kort norsk tittel
    - "tekst": 1–2 setninger (maks 40 ord) med det viktigste
    - "utdypning": 3–5 setninger (maks 110 ord) med mer detaljer: hvem, hva, hvorfor, tall og
@@ -464,7 +492,7 @@ Bruk bare informasjonen under. Ingen meninger eller spekulasjon.
 
 Svar med JSON:
 {{"kort_fortalt": [{{"tekst": "...", "ref": "G1"}}],
- "saker": {{"Norge": [{{"ref": "G1", "tittel": "...", "tekst": "...", "utdypning": "..."}}], "Skandinavia": [], "Norden": [], "Europa": []}},
+ "saker": {{"Norge": [{{"ref": "G1", "vekt": 5, "tittel": "...", "tekst": "...", "utdypning": "..."}}], "Skandinavia": [], "Norden": [], "Europa": [], "Verden": []}},
  "folg_med": [{{"ref": "K1", "tid": "10:00", "kategori": "Rentemøte", "hendelse": "...", "hvorfor": "..."}}]}}
 "ref" må være en id fra listene (G-nummer for saker, K-nummer for kalender).
 
@@ -502,16 +530,23 @@ SAKER (id | nivå | antall kilder, deretter [kilde] tittel — tekst fra hver ki
     for k in ra.get("kort_fortalt", [])[:3]:
         if (kk := kilder(k.get("ref"))) and k.get("tekst"):
             ut["kort_fortalt"].append({"tekst": k["tekst"], "kilder": kk[:1]})
+    def vekt(sak):
+        try:
+            return int(sak.get("vekt", 3))
+        except (TypeError, ValueError):
+            return 3
     brukt = set()
     for niva in NIVAER:
-        for sak in ra.get("saker", {}).get(niva, [])[:ANTALL_PER_NIVA[niva]]:
+        liste = [s for s in ra.get("saker", {}).get(niva, []) if vekt(s) >= MIN_NORGE_VEKT]
+        liste.sort(key=lambda s: -vekt(s))
+        for sak in liste[:ANTALL_PER_NIVA[niva]]:
             ref = str(sak.get("ref", "")).upper()
             if ref in kand and ref not in brukt and sak.get("tittel"):
                 brukt.add(ref)
                 ut["saker"][niva].append({"tittel": sak["tittel"], "tekst": sak.get("tekst", ""),
                                           "utdypning": sak.get("utdypning", "") or "",
                                           "kilder": kilder_for_gruppe(kand[ref]),
-                                          "antall_kilder": kand[ref]["antall_kilder"]})
+                                          "antall_kilder": kand[ref]["antall_kilder"], "vekt": vekt(sak)})
     for f in ra.get("folg_med", [])[:MAKS_FOLG_MED]:
         if (kk := kilder(f.get("ref"))) and f.get("hendelse"):
             ut["folg_med"].append({"tid": f.get("tid", "") if str(f.get("ref", "")).upper() in kal else "",

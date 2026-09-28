@@ -1,0 +1,41 @@
+name: Nyhetsbrief
+
+on:
+  schedule:
+    # Tiden er i UTC. 04:00 UTC = 06:00 norsk sommertid / 05:00 vintertid.
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: nyhetsbrief
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Lag dagens brief
+        run: python agent.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Lagre database og publiser nettsiden
+        run: |
+          git config user.name "nyhetsbrief-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          git diff --cached --quiet || git commit -m "Brief $(date -u +%F)"
+          git push

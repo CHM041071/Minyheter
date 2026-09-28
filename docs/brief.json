@@ -103,23 +103,23 @@
         "antall_kilder": 1
       },
       {
+        "tittel": "Magdalena Andersson (S) lämnar över sonderingsuppdraget",
+        "tekst": "Magdalena Andersson (S) ger upp försöket att bilda regering. Hon säger att Vänsterpartiets besked om att stötta M-talmannen Andreas Norlén var det som avgjorde. – Jag kan konstatera att det inte i nuläget finns någon …",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-lamnar-over-sonderingsuppdraget"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
         "tittel": "Riksdagen väljer ny talman – det här gäller",
         "tekst": "Nu samlas riksdagen för första gången efter valet och ska utse ny talman. Andreas Norlén (M) är hittills den enda nominerade kandidaten.",
         "kilder": [
           {
             "navn": "SVT",
             "lenke": "https://www.svt.se/nyheter/inrikes/riksdagen-valjer-ny-talman-det-har-galler"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Postkort fra dronning Margrethe på auktion",
-        "tekst": "",
-        "kilder": [
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/postkort-fra-dronning-margrethe-paa-auktion"
           }
         ],
         "antall_kilder": 1

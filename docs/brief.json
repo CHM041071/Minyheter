@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Den serbiske presidenten Aleksandar Vučić har gått av for å stille som statsministerkandidat i oktobervalget.",
+      "tekst": "Den serbiske presidenten Aleksandar Vučić har gått av for å stille som statsministerkandidat i oktober.",
       "kilder": [
         {
           "navn": "France 24",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "tekst": "Sveitsiske velgere har stemt nei til en strengere og mer lovfestet definisjon av landets nøytralitet.",
+      "tekst": "Sveitsiske velgere har avvist et forslag om å innføre en strengere definisjon av landets nøytralitet.",
       "kilder": [
         {
           "navn": "France 24",
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Millioner til Forsvarets forskningsinstitutt Nord",
-        "tekst": "Etter flere års venting bevilger regjeringen 20,7 millioner kroner til å opprette FFI Nord i Tromsø.",
-        "utdypning": "Etter mange års anbefaling legger regjeringen nå 20,7 millioner kroner på bordet for å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
+        "tittel": "Satsing på Forsvarets forskningsinstitutt i Nord",
+        "tekst": "Regjeringen bevilger 20,7 millioner kroner for å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
+        "utdypning": "Etter flere år med anbefalinger legger regjeringen nå 20,7 millioner kroner på bordet for å opprette Forsvarets forskningsinstitutt Nord i Tromsø. Forsvaret har ventet i flere år på denne satsingen.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -43,21 +43,9 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Pelsdyrbønder krever 60 millioner fra staten",
-        "tekst": "Pelsdyrbøndene krever mandag renter for forsinket erstatning etter at Stortinget vedtok å legge ned næringen.",
-        "utdypning": "Stortinget bestemte for sju år siden å legge ned hele næringen. I dag møtes partene i retten der pelsdyrbøndene krever 60 millioner kroner fra staten i renter for at erstatningen de ble lovet, ble forsinket.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/rettssaken-starter-na_-pelsdyrbonder-krever-60-millioner-fra-staten-1.18035399"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Taylor Swift satte historisk rekord på MTV-utdeling",
-        "tekst": "Taylor Swift ble tidenes mestvinnende artist under nattens MTV Video Music Awards med 31 priser.",
-        "utdypning": "Taylor Swift lå på forhånd likt med Beyoncé med 30 priser. Da sangeren sikret seg sin 31. statuett under nattens MTV Video Music Awards, ble hun historisk som tidenes mestvinnende artist.",
+        "tittel": "Taylor Swift historisk med prisrekord",
+        "tekst": "Taylor Swift ble tidenes mestvinnende artist under MTV Video Music Awards med 31 priser.",
+        "utdypning": "Taylor Swift tok en historisk seier under nattens MTV Video Music Awards og satte ny rekord som tidenes mestvinnende artist. På forhånd lå sangeren likt med Beyoncé med 30 priser. Da Swift sikret seg sin 31. statuett, ble hun historisk på gallaen hvor også Madonna var blant kveldens hovedpersoner.",
         "kilder": [
           {
             "navn": "NRK",
@@ -71,13 +59,25 @@
         "antall_kilder": 2
       },
       {
-        "tittel": "Kulturrådets ærespris til Deeyah Khan",
-        "tekst": "Deeyah Khan tildeles Kulturrådets ærespris for sin innsats som dokumentarfilmskaper.",
-        "utdypning": "Kulturrådets ærespris går i år til Deeyah Khan. Hun tildeles prisen for sin viktige innsats for norsk kulturliv som dokumentarfilmskaper.",
+        "tittel": "Pelsdyrbønder krever 60 millioner fra staten",
+        "tekst": "Pelsdyrbøndene krever renter for forsinket erstatning etter at Stortinget la ned næringen.",
+        "utdypning": "Stortinget besluttet for sju år siden å legge ned hele pelsdyrnæringen. Mandag møtes partene i retten fordi bøndene krever 60 millioner kroner i renter fra staten som følge av at erstatningen de ble lovet ble forsinket.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/norge/kulturradet-sin-aerespris-til-deeyah-khan-1.18038337"
+            "lenke": "https://www.nrk.no/rogaland/rettssaken-starter-na_-pelsdyrbonder-krever-60-millioner-fra-staten-1.18035399"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Anker frifinnelse i dobbeltdrapet i Ski",
+        "tekst": "Påtalemyndigheten har besluttet å anke dommen etter dobbeltdrapet i Ski.",
+        "utdypning": "Etter at dommen falt i saken om dobbeltdrapet i Ski, har påtalemyndigheten nå konkludert med at frikjennelsen skal ankes. Saken går dermed videre til en høyere rettsinstans for ny behandling.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/stor-oslo/dobbeltdrapet-i-ski_-anker-frifinnelse-1.18038713"
           }
         ],
         "antall_kilder": 1
@@ -85,9 +85,21 @@
     ],
     "Skandinavia": [
       {
+        "tittel": "Svensk region henter erfaringer fra Ukraina",
+        "tekst": "Region Västernorrland styrker beredskapen etter besøk i Ukraina.",
+        "utdypning": "Säkerhetsläget har försämrats i närtid, og region Västernorrland gjennomfører et intensivt beredskapsarbeid. Det opplyser fungerende hälso- och sjukvårdsdirektör Roger Westerlund, som nylig kom hjem fra krigets Ukraina sammen med sju andre.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-lar-sig-region-vasternorrland-om-beredskap-i-ukraina-se-bilder-fran-besoket"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
         "tittel": "Magdalena Andersson gir opp regjeringsdannelse",
-        "tekst": "Magdalena Andersson (S) overlater sonderingsoppdraget etter at Vänsterpartiet vraket samarbeidet.",
-        "utdypning": "Magdalena Andersson (S) gir opp forsøket på å bilda regjering. Hun opplyser at Vänsterpartiets besked om å støtte M-talmannen Andreas Norlén var det som avgjorde beslutningen, og slår fast at det ikke finnes flertall for en s-ledet regjering i natt.",
+        "tekst": "S-leder Magdalena Andersson gir opp forsøket på å danne regjering etter Vänsterpartiets beskjed.",
+        "utdypning": "Magdalena Andersson (S) har gitt opp forsøket på å danne regjering. Ifølge Andersson var det Vänsterpartiets besked om å støtte M-talmannen Andreas Norlén som ble avgjørende. Hun konstaterer at det i nuläget ikke finnes noen mulighet for flertall.",
         "kilder": [
           {
             "navn": "SVT",
@@ -97,13 +109,13 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Fiskenett fra Västernorrland skal beskytte mot droner i Ukraina",
-        "tekst": "Region Västernorrland bistår Ukraina i beredskapsarbeidet med fiskenett til dronebeskyttelse.",
-        "utdypning": "Säkerhetsläget har försämrats i närtid, og i region Västernorrland pågår et intensivt beredskapsarbeid. Sju representanter, deriblant tf hälso- och sjukvårdsdirektör Roger Westerlund, har nyligen kommit hem från krigets Ukraina der regionens fiskenett brukes til å beskytte mot droner.",
+        "tittel": "Avviser at forfatter ble portet fra Bokmässan",
+        "tekst": "Bokmässans ledning avviser at forfatter Jessica Eriksson Holm har blitt portet.",
+        "utdypning": "Når Stefan Holm ble portad från Bokmässan, fikk heller ikke hans kone, forfatteren Jessica Eriksson Holm, gjennomføre sine programpunkter. Nå dementerer imidlertid mässans ledning at hun har blitt portad fra arrangementet.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-lar-sig-region-vasternorrland-om-beredskap-i-ukraina-se-bilder-fran-besoket"
+            "lenke": "https://www.svt.se/kultur/bokmassan-jessica-eriksson-holm-blev-inte-portad"
           }
         ],
         "antall_kilder": 1
@@ -111,9 +123,21 @@
     ],
     "Norden": [
       {
-        "tittel": "Islands utenriksminister kritiserer manglende fredsforhandlinger i Gaza",
-        "tekst": "Þorgerður Katrín Gunnarsdóttir kaller det feighet å ikke forhandle om en varig fred i Gaza.",
-        "utdypning": "Islands utanríkisráðherra, Þorgerður Katrín Gunnarsdóttir, holdt tale til FNs hovedforsamling i New York i helgen. Der uttalte hun at det er «feighet» ikke å forhandle frem en varig fred i Gaza.",
+        "tittel": "Positiv til ny aldersgrense for sosiale medier på Island",
+        "tekst": "En spesialist ved Stafræn velferð støtter ministerens lovforslag om barns tilgang til sosiale medier.",
+        "utdypning": "Utdannings- og barneministrens lovforslag om barns tilgang til sosiale medier møter støtte fra en spesialist ved Stafræn velferð. Forslaget skal hjelpe foreldre som ofte opplever et betydelig press for å la barna bruke sosiale medier.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-09-28-education-and-prevention-will-matter-to-social-media-bill-488219/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Kritiserer manglende forhandlinger om Gaza",
+        "tekst": "Islands utenriksminister kaller det feighet å unngå forhandlinger om en varig fred i Gaza.",
+        "utdypning": "I sin tale til FNs hovedforsamling i New York under helgen uttalte Islands utenriksminister Þorgerður Katrín Gunnarsdóttir seg om situasjonen i Midtøsten. Hun sa at det var 'feighet' ikke å forhandle frem en varig fred i Gaza.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -123,25 +147,13 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Finsk kjøpekraft splitter seg i to",
-        "tekst": "Utviklingen viser at kjøpekraften synker for de fattigste, mens den stiger for de rikeste i Finland.",
-        "utdypning": "Utsiktene for finsk kjøpekraft er spesielt svake for leietakere og enslige forsørgere. Samtidig peker tallene på at situasjonen er en annen for den rikesiden av befolkningen, der kjøpekraften styrker seg.",
+        "tittel": "AI skaper utfordringer for studenters praksisplasser",
+        "tekst": "Handelssenter- og økonomistudenter i Finland sliter med å finne praksisplasser på grunn av automatisering.",
+        "utdypning": "Økonomistudenter i Finland sliter med å finne praksisplasser ettersom kunstig intelligens og automatisering endrer arbeidslivet. Situasjonen beskrives som en klemme for studenter som søker relevant erfaring før endt utdanning.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20248601?origin=rss"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Positivt til islandsk lovforslag om sosiale medier for barn",
-        "tekst": "Fagfolk på Island ønsker barne- og undervisningsministerens lovforslag om barns tilgang til sosiale medier velkommen.",
-        "utdypning": "En spesialist ved Stafræn velferð stiller seg positiv til lovforslaget fra ministeren for utdanning og barn. Foreldre opplever i dag et betydelig press for å tillate at barna bruker sosiale medier, noe det nye reguleringsarbeidet søker å lette.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-09-28-education-and-prevention-will-matter-to-social-media-bill-488219/"
+            "lenke": "https://yle.fi/a/74-20248645?origin=rss"
           }
         ],
         "antall_kilder": 1
@@ -149,9 +161,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Serbias president går av for å stille i valg",
-        "tekst": "Aleksandar Vučić trekker seg som statssjef for å lede partiet sitt som statsministerkandidat i oktober.",
-        "utdypning": "Serbias president Aleksandar Vučić trakk seg søndag som landets statssjef. Det åpner for at han kan stille som statsministerkandidat for det høyrepopulistiske partiet Serbisk framgangsparti i oktobervalget. Administrasjonen hans har lenge vært preget av langvarige protester og anklager om korrupsjon.",
+        "tittel": "Serbias president går av for å stille som statsminister",
+        "tekst": "Aleksandar Vučić har trådt tilbake som president for å lede partiet i oktobervalget.",
+        "utdypning": "Serbias president Aleksandar Vučić trakk seg søndag som landets statsoverhode. Dette baner vei for at han kan stille som kandidat for sitt høyrepopulistiske parti, Serbsisk framstegsparti, i statsministervalget i oktober. Vučićs administrasjon har vært preget av langvarige protester og beskyldninger om korrupsjon.",
         "kilder": [
           {
             "navn": "France 24",
@@ -166,8 +178,8 @@
       },
       {
         "tittel": "Sveits stemte ned strengere nøytralitet",
-        "tekst": "Sveitsiske velgere avviste i en folkeavstemning å innføre strengere og mer bindende nøytralitetsregler.",
-        "utdypning": "Mens andre nøytrale land som Austria og Irland øker forsvarsbudsjettene og styrker båndene til NATO, stemte sveitsiske velgere over en folkeavstemning om nøytralitet. Forslaget ville ha hindret landet i å innføre sanksjoner med mindre det var godkjent av FN, noe velgerne avviste.",
+        "tekst": "Sveitsiske velgere avviste i en folkeavstemning et forslag om strengere regler for landets nøytralitet.",
+        "utdypning": "Mens andre nøytrale land som Østerrike og Irland øker forsvarsbudsjettene og styrker båndene til NATO, stemte sveitsiske velgere søndag over et initiativ om å grunnlovsfeste en strengere definisjon av landets nøytralitet. Forslaget ble avvist av velgerne. Det ville ha hindret nasjonen i å innføre sanksjoner med mindre det var godkjent av FNs sikkerhetsråd.",
         "kilder": [
           {
             "navn": "France 24",
@@ -181,9 +193,9 @@
         "antall_kilder": 2
       },
       {
-        "tittel": "Russiske angrep krever åtte menneskeliv i Ukraina",
-        "tekst": "Åtte personer ble killed i russiske angrep etter at Moskva varslet at krigen vil fortsette.",
-        "utdypning": "Russiske angrep krevde åtte menneskeliv på tvers av Ukraina søndag, melder lokale myndigheter. Angrepene kom dagen etter at Moskva bekreftet at krigen skal fortsette. Ifølge president Volodymyr Zelensky har Russland skutt opp om lag 3 900 droner, flybomber og andre våpen den siste tiden.",
+        "tittel": "Åtte drept i russiske angrep mot Ukraina",
+        "tekst": "Russiske angrep krevde åtte menneskeliv søndag, dagen etter at Moskva lovet å fortsette krigen.",
+        "utdypning": "Russiske angrep krevde åtte menneskeliv på tvers av Ukraina søndag, ifølge lokale myndigheter. Angrepene kom dagen etter at Moskva erklærte at krigen vil fortsette. Ukrainas president Volodymyr Zelenskyj uttalte at Russland har skutt opp om lag 3 900 droner, flybomber og andre våpen den siste tiden.",
         "kilder": [
           {
             "navn": "France 24",

@@ -372,6 +372,37 @@ def kandidater(grupper_) -> dict[str, dict]:
     return ut
 
 
+def _post_urllib(kropp: bytes, token: str) -> tuple[int, str]:
+    req = urllib.request.Request(AI_URL, data=kropp, method="POST", headers={
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "User-Agent": "Nyhetsbrief/1.0",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=90) as svar:
+            return svar.status, svar.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        return e.code, e.read().decode("utf-8", "replace")
+
+
+def _post_curl(kropp: bytes, token: str) -> tuple[int, str]:
+    """Samme kall med curl, slik GitHubs egen dokumentasjon viser det."""
+    import subprocess
+    r = subprocess.run(
+        ["curl", "-sS", "-L", "-X", "POST", AI_URL,
+         "-H", "Accept: application/vnd.github+json",
+         "-H", f"Authorization: Bearer {token}",
+         "-H", "X-GitHub-Api-Version: 2022-11-28",
+         "-H", "Content-Type: application/json",
+         "--data-binary", "@-", "-w", "\n%{http_code}", "--max-time", "90"],
+        input=kropp, capture_output=True, timeout=120)
+    ut = r.stdout.decode("utf-8", "replace")
+    tekst, _, kode = ut.rpartition("\n")
+    return int(kode) if kode.strip().isdigit() else 0, tekst
+
+
 def spor_ai(instruks: str, modell: str) -> str:
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
@@ -386,33 +417,34 @@ def spor_ai(instruks: str, modell: str) -> str:
             {"role": "user", "content": instruks},
         ],
     }).encode()
-    for forsok in range(2):
-        req = urllib.request.Request(AI_URL, data=kropp, method="POST", headers={
-            "Authorization": f"Bearer {token}",
-            "Content-Type": "application/json",
-            "Accept": "application/json",
-        })
-        try:
-            with urllib.request.urlopen(req, timeout=90) as svar:
-                ra = svar.read().decode("utf-8", "replace")
-        except urllib.error.HTTPError as e:
-            if e.code == 429 and forsok == 0:
+
+    siste_feil = ""
+    for metode in (_post_urllib, _post_curl):
+        for forsok in range(2):
+            try:
+                status, ra = metode(kropp, token)
+            except Exception as e:
+                siste_feil = f"{metode.__name__}: {e}"
+                break
+            if status == 429 and forsok == 0:
                 print("[ai] rate limit, prøver igjen om 30 s", file=sys.stderr)
                 time.sleep(30)
                 continue
-            raise RuntimeError(f"HTTP {e.code}: {e.read()[:300]!r}")
-        try:
-            data = json.loads(ra)
-        except json.JSONDecodeError:
-            raise RuntimeError(f"svaret var ikke JSON: {ra[:300]!r}")
-        if "choices" not in data or not data["choices"]:
-            raise RuntimeError(f"uventet svar: {ra[:300]!r}")
-        valg = data["choices"][0]
-        innhold = (valg.get("message") or {}).get("content") or ""
-        if not innhold.strip():
-            raise RuntimeError(f"tomt svar (finish_reason={valg.get('finish_reason')})")
-        return innhold
-    raise RuntimeError("ingen svar etter nytt forsøk")
+            try:
+                data = json.loads(ra)
+            except json.JSONDecodeError:
+                siste_feil = f"{metode.__name__}: HTTP {status}, ikke JSON: {ra[:200]!r}"
+                break
+            if status >= 400 or "choices" not in data:
+                siste_feil = f"{metode.__name__}: HTTP {status}: {ra[:300]!r}"
+                break
+            valg = data["choices"][0]
+            innhold = (valg.get("message") or {}).get("content") or ""
+            if not innhold.strip():
+                raise RuntimeError(f"tomt svar (finish_reason={valg.get('finish_reason')})")
+            return innhold
+        print(f"[ai] {siste_feil}", file=sys.stderr)
+    raise RuntimeError(siste_feil or "ingen svar")
 
 
 def ai_brief(grupper_, kalender_i_dag, nyhets_folg, idag: date) -> dict:

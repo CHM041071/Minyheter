@@ -1,0 +1,24 @@
+{
+  "_forklaring": "Planlagte hendelser til «Følg med i dag». dato = ÅÅÅÅ-MM-DD, tid = TT:MM (valgfri), beskrivelse = én nøytral setning (valgfri). Kategorier: Rentemøte, Statsbudsjett, EU, NATO, Valg, Økonomiske tall, Rettsavgjørelse, Energimarked, Annet. Oppføringer med \"eksempel\": true hoppes over. Under \"ics\" kan du legge inn kalenderabonnementer (.ics-lenker) som hentes automatisk hver dag.",
+  "hendelser": [
+    {
+      "eksempel": true,
+      "dato": "2026-01-01",
+      "tid": "10:00",
+      "kategori": "Rentemøte",
+      "hendelse": "Norges Bank kunngjør rentebeslutning",
+      "beskrivelse": "Styringsrenten kunngjøres, med pressekonferanse etterpå.",
+      "kildenavn": "Norges Bank",
+      "kilde": "https://www.norges-bank.no"
+    }
+  ],
+  "ics": [
+    {
+      "eksempel": true,
+      "navn": "Eksempelkalender",
+      "kategori": "Økonomiske tall",
+      "url": "https://example.com/kalender.ics",
+      "lenke": "https://example.com"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+/* Nyhetsbrief – kjølig morgenlys, fjordblå blekk, nordlysgrønn for «følg med» */
+:root {
+  --papir: #eef2f5;
+  --flate: #ffffff;
+  --blekk: #16324a;
+  --tekst: #253443;
+  --dempet: #5c6f80;
+  --linje: #cdd7e0;
+  --nordlys: #17756c;
+  --serif: "Iowan Old Style", Charter, "Palatino Linotype", Georgia, serif;
+  --sans: "Avenir Next", Avenir, "Segoe UI", system-ui, sans-serif;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papir: #0f1a24;
+    --flate: #162330;
+    --blekk: #dce8f2;
+    --tekst: #c9d6e1;
+    --dempet: #8ea1b2;
+    --linje: #2a3a49;
+    --nordlys: #5cc4b6;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--papir);
+  color: var(--tekst);
+  font: 17px/1.6 var(--serif);
+  padding: env(safe-area-inset-top, 0) env(safe-area-inset-right, 0)
+           env(safe-area-inset-bottom, 0) env(safe-area-inset-left, 0);
+}
+main { max-width: 38rem; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+a { color: var(--blekk); text-underline-offset: 2px; }
+a:focus-visible { outline: 2px solid var(--nordlys); outline-offset: 2px; }
+
+h1, h2, h3 { font-family: var(--sans); color: var(--blekk); }
+
+/* Toppen: datoen er det bærende elementet */
+.topp { padding: 1rem 0 1.5rem; border-bottom: 1px solid var(--linje); }
+.ar { font: 600 0.95rem/1 var(--sans); color: var(--dempet); margin: 0 0 0.35rem; }
+.topp h1 { font-size: clamp(2.2rem, 9vw, 3.1rem); line-height: 1.02; font-weight: 700; letter-spacing: -0.02em; margin: 0; }
+.oppdatert { font: 0.85rem var(--sans); color: var(--dempet); margin: 0.6rem 0 0; }
+.bilde { font-size: 1.2rem; line-height: 1.5; margin: 1.25rem 0 0; }
+
+section { padding: 1.75rem 0 0.5rem; }
+h2 { font-size: 1.3rem; font-weight: 700; margin: 0 0 1rem; }
+h3 { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin: 0 0 0.35rem; }
+p { margin: 0 0 0.5rem; }
+.kilder { font: 0.85rem var(--sans); color: var(--dempet); }
+.kilder a { margin-right: 0.6rem; }
+
+/* Følg med i dag: tidslinje langs en nordlyslinje */
+.folg {
+  background: var(--flate);
+  margin: 1.5rem -1.25rem 0;
+  padding: 1.5rem 1.25rem 1rem;
+  border-top: 3px solid var(--nordlys);
+}
+.folg h2 { color: var(--nordlys); }
+.tidslinje { list-style: none; margin: 0; padding: 0; }
+.tidslinje li {
+  display: grid;
+  grid-template-columns: 3.6rem 1fr;
+  gap: 0.9rem;
+  padding: 0 0 1.1rem;
+}
+.tidslinje li > div { border-left: 2px solid var(--linje); padding-left: 0.9rem; }
+.tid { font: 700 0.95rem/1.6 var(--sans); color: var(--nordlys); text-align: right; font-variant-numeric: tabular-nums; }
+.kat { font: 600 0.8rem var(--sans); color: var(--dempet); margin: 0 0 0.15rem; }
+.tom { color: var(--dempet); font-style: italic; }
+
+.senere ul, .arkiv ul { list-style: none; padding: 0; margin: 0; }
+.senere li { padding: 0.45rem 0; border-bottom: 1px solid var(--linje); }
+.senere li span { font: 600 0.9rem var(--sans); color: var(--blekk); display: block; }
+.arkiv li { padding: 0.6rem 0; border-bottom: 1px solid var(--linje); font-family: var(--sans); }
+
+.niva article { padding: 0 0 1.25rem; }
+.niva article + article { border-top: 1px solid var(--linje); padding-top: 1.1rem; }
+
+footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--linje); font: 0.85rem var(--sans); color: var(--dempet); }
+@media (min-width: 42rem) { .folg { margin-left: 0; margin-right: 0; border-radius: 4px; } }
+
+/* Kort fortalt: tre linjer som gir hele bildet */
+.kort { list-style: none; margin: 1.25rem 0 0; padding: 0; }
+.kort li {
+  font-size: 1.12rem; line-height: 1.5;
+  padding: 0.5rem 0 0.5rem 1rem;
+  border-left: 3px solid var(--linje);
+}
+.kort li + li { margin-top: 0.35rem; }
+
+/* Senere denne uken: sammenfoldet, så briefen holdes kort */
+details.senere { margin-top: 1.5rem; border-top: 1px solid var(--linje); padding-top: 1rem; }
+details.senere summary { font: 600 1rem var(--sans); color: var(--blekk); cursor: pointer; }
+details.senere ul { margin-top: 0.75rem; }

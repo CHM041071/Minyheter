@@ -64,7 +64,8 @@ AI_MODELLER = [m.strip() for m in os.environ.get(
 KANDIDATER_PER_NIVA = {"Norge": 10, "Skandinavia": 6, "Norden": 5, "Europa": 6}
 DAGER_I_KALENDER = 7
 BEHOLD_DAGER = 60
-INGRESS_MAKS = 220
+INGRESS_MAKS = 600   # lagres i databasen, så AI-en har nok å utdype fra
+VIS_INGRESS = 250    # hvor mye som vises i reservemodus
 
 # --------------------------------------------------------------- ordlister
 # Ordstammer på norsk, svensk, dansk og engelsk. Treffer starten av ord.
@@ -256,7 +257,7 @@ def velg_saker(grupper_: list[dict]) -> dict:
             if a["kilde"] not in sett:
                 sett.add(a["kilde"])
                 kilder.append({"navn": a["kilde"], "lenke": a["lenke"]})
-        ut[g["niva"]].append({"tittel": h["tittel"], "tekst": h["ingress"],
+        ut[g["niva"]].append({"tittel": h["tittel"], "tekst": rens(h["ingress"], VIS_INGRESS), "utdypning": "",
                               "kilder": kilder, "antall_kilder": g["antall_kilder"]})
     return ut
 
@@ -426,9 +427,16 @@ def ai_brief(grupper_, kalender_i_dag, nyhets_folg, idag: date) -> dict:
     kand = kandidater(grupper_)
     kal = {f"K{i}": h for i, h in enumerate(kalender_i_dag, 1)}
 
-    linjer = "\n".join(
-        f"{gid} | {g['niva']} | {g['antall_kilder']} kilder | {g['hoved']['tittel']} | {g['hoved']['ingress']}"
-        for gid, g in kand.items())
+    def beskriv(gid, g):
+        deler = [f"{gid} | {g['niva']} | {g['antall_kilder']} kilder"]
+        sett = set()
+        for a in sorted(g["saker"], key=lambda a: (a is not g["hoved"], NIVAER.index(a["niva"]))):
+            if a["kilde"] in sett or len(sett) >= 3:
+                continue
+            sett.add(a["kilde"])
+            deler.append(f"   [{a['kilde']}] {a['tittel']} — {a['ingress']}")
+        return "\n".join(deler)
+    linjer = "\n".join(beskriv(gid, g) for gid, g in kand.items())
     kal_linjer = "\n".join(
         f"{k} | {h.get('tid', '')} | {h.get('kategori', '')} | {h['hendelse']} | {h.get('beskrivelse', '')}"
         for k, h in kal.items()) or "(ingen)"
@@ -439,8 +447,15 @@ Hele briefen skal kunne leses på under 5 minutter. Kvalitet foran antall.
 
 1. "kort_fortalt": nøyaktig 3 korte setninger (maks 20 ord hver) om de viktigste sakene samlet.
 2. "saker": velg saker per nivå, prioritert i rekkefølgen Norge, Skandinavia, Norden, Europa ({antall}).
-   Ta bare med saker som faktisk er viktige. Det er helt greit å velge færre.
-   Skriv en kort norsk tittel og 1–2 setninger (maks 40 ord) per sak. Oversett svenske, danske og engelske saker.
+   Fyll opp antallet på hvert nivå når det finnes relevante saker. Velg bare færre hvis resten er
+   sport, kjendisstoff eller uten betydning.
+   For hver sak:
+   - "tittel": kort norsk tittel
+   - "tekst": 1–2 setninger (maks 40 ord) med det viktigste
+   - "utdypning": 3–5 setninger (maks 110 ord) med mer detaljer: hvem, hva, hvorfor, tall og
+     reaksjoner. Bruk alle kildene som er oppgitt for saken. Gjenta ikke "tekst". Hvis kildene ikke
+     har mer å si, skriv kortere eller la feltet være tomt. Legg aldri til egen kunnskap.
+   Oversett svenske, danske og engelske saker.
 3. "folg_med": maks {MAKS_FOLG_MED} hendelser som skjer I DAG, hentet fra kalenderen eller fra saker som tydelig
    sier at noe skjer i dag (rentemøter, budsjetter, EU, NATO, valg, økonomiske tall, rettsavgjørelser, energi).
    Én setning om hva som skjer eller avgjøres. Ikke spå utfall, ikke vurder, ikke anbefal. Ikke finn på klokkeslett.
@@ -449,14 +464,14 @@ Bruk bare informasjonen under. Ingen meninger eller spekulasjon.
 
 Svar med JSON:
 {{"kort_fortalt": [{{"tekst": "...", "ref": "G1"}}],
- "saker": {{"Norge": [{{"ref": "G1", "tittel": "...", "tekst": "..."}}], "Skandinavia": [], "Norden": [], "Europa": []}},
+ "saker": {{"Norge": [{{"ref": "G1", "tittel": "...", "tekst": "...", "utdypning": "..."}}], "Skandinavia": [], "Norden": [], "Europa": []}},
  "folg_med": [{{"ref": "K1", "tid": "10:00", "kategori": "Rentemøte", "hendelse": "...", "hvorfor": "..."}}]}}
 "ref" må være en id fra listene (G-nummer for saker, K-nummer for kalender).
 
 KALENDER I DAG:
 {kal_linjer}
 
-SAKER (id | nivå | antall kilder | tittel | ingress):
+SAKER (id | nivå | antall kilder, deretter [kilde] tittel — tekst fra hver kilde):
 {linjer}"""
 
     ra, modell, feil = None, None, []
@@ -494,6 +509,7 @@ SAKER (id | nivå | antall kilder | tittel | ingress):
             if ref in kand and ref not in brukt and sak.get("tittel"):
                 brukt.add(ref)
                 ut["saker"][niva].append({"tittel": sak["tittel"], "tekst": sak.get("tekst", ""),
+                                          "utdypning": sak.get("utdypning", "") or "",
                                           "kilder": kilder_for_gruppe(kand[ref]),
                                           "antall_kilder": kand[ref]["antall_kilder"]})
     for f in ra.get("folg_med", [])[:MAKS_FOLG_MED]:
@@ -544,6 +560,11 @@ def side(tittel: str, innhold: str, rot: str) -> str:
 </html>"""
 
 
+def lesetid_utdypning(b: dict) -> int:
+    ord_ = sum(len(s.get("utdypning", "").split()) for l in b["saker"].values() for s in l)
+    return round(ord_ / 200)
+
+
 def lesetid(b: dict) -> int:
     tekst = " ".join([k["tekst"] for k in b["kort_fortalt"]]
                      + [f"{f['hendelse']} {f['hvorfor']}" for f in b["folg_med"]]
@@ -556,7 +577,7 @@ def bygg_brief_html(b: dict, idag: date, laget: datetime, rot: str) -> str:
     deler = [f"""<header class="topp">
   <p class="ar">{idag.year}</p>
   <h1>{e(norsk_dato(idag))}</h1>
-  <p class="oppdatert">Lesetid ca. {lesetid(b)} min. Oppdatert kl. {laget:%H.%M}.</p>
+  <p class="oppdatert">Lesetid ca. {lesetid(b)} min{f", {lesetid(b) + lesetid_utdypning(b)} min med alle utdypninger" if lesetid_utdypning(b) else ""}. Oppdatert kl. {laget:%H.%M}.</p>
   {f'<ul class="kort">{kort}</ul>' if kort else ""}
 </header>"""]
 
@@ -578,6 +599,7 @@ def bygg_brief_html(b: dict, idag: date, laget: datetime, rot: str) -> str:
         artikler = "".join(f"""<article>
   <h3>{e(s["tittel"])}</h3>
   {f'<p>{e(s["tekst"])}</p>' if s["tekst"] else ""}
+  {f'<details class="mer"><summary>Les mer</summary><p>{e(s["utdypning"])}</p></details>' if s.get("utdypning") else ""}
   <p class="kilder">{lenker(s["kilder"])}</p>
 </article>""" for s in liste)
         deler.append(f'<section class="niva"><h2>{e(niva)}</h2>{artikler}</section>')

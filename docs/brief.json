@@ -1,16 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen bevilger 20,7 millioner kroner til å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
-        }
-      ]
-    },
-    {
-      "tekst": "Serbias president Aleksandar Vucic har gått av for å stille som statsministerkandidat i oktober.",
+      "tekst": "Den serbiske presidenten Aleksandar Vučić har gått av for å stille som statsministerkandidat i oktobervalget.",
       "kilder": [
         {
           "navn": "France 24",
@@ -19,11 +10,20 @@
       ]
     },
     {
-      "tekst": "Pelsdyrbønder krever 60 millioner kroner i renter fra staten i retten mandag etter forsinket erstatning.",
+      "tekst": "Sveitsiske velgere har stemt nei til en strengere og mer lovfestet definisjon av landets nøytralitet.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/rettssaken-starter-na_-pelsdyrbonder-krever-60-millioner-fra-staten-1.18035399"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
+        }
+      ]
+    },
+    {
+      "tekst": "Regjeringen bevilger 20,7 millioner kroner til å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
         }
       ]
     }
@@ -31,8 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Millioner til Forsvarets forskningsinstitutt i Tromsø",
-        "tekst": "Etter flere års anbefaling legger regjeringen 20,7 millioner kroner på bordet for å opprette FFI Nord.",
+        "tittel": "Millioner til Forsvarets forskningsinstitutt Nord",
+        "tekst": "Etter flere års venting bevilger regjeringen 20,7 millioner kroner til å opprette FFI Nord i Tromsø.",
+        "utdypning": "Etter mange års anbefaling legger regjeringen nå 20,7 millioner kroner på bordet for å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -42,8 +43,9 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Pelsdyrbønder krever millioner",
-        "tekst": "Stortinget vedtok å legge ned næringen for sju år siden. Nå krever bøndene renter for forsinket erstatning.",
+        "tittel": "Pelsdyrbønder krever 60 millioner fra staten",
+        "tekst": "Pelsdyrbøndene krever mandag renter for forsinket erstatning etter at Stortinget vedtok å legge ned næringen.",
+        "utdypning": "Stortinget bestemte for sju år siden å legge ned hele næringen. I dag møtes partene i retten der pelsdyrbøndene krever 60 millioner kroner fra staten i renter for at erstatningen de ble lovet, ble forsinket.",
         "kilder": [
           {
             "navn": "NRK",
@@ -53,19 +55,25 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Datafeil rammer sykehus i nord",
-        "tekst": "Helse Nord har rettet systemfeil etter flere dager med problemer, men nødprosedyrer brukes fortsatt.",
+        "tittel": "Taylor Swift satte historisk rekord på MTV-utdeling",
+        "tekst": "Taylor Swift ble tidenes mestvinnende artist under nattens MTV Video Music Awards med 31 priser.",
+        "utdypning": "Taylor Swift lå på forhånd likt med Beyoncé med 30 priser. Da sangeren sikret seg sin 31. statuett under nattens MTV Video Music Awards, ble hun historisk som tidenes mestvinnende artist.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/systemfeil-i-helse-nord-rettet-1.18038520"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/taylor-swift-satte-prisrekord-under-mtv-utdeling-1.18038277"
+          },
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/kultur/taylor-swift-historisk-pa-vma-galan-2026"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 2
       },
       {
         "tittel": "Kulturrådets ærespris til Deeyah Khan",
-        "tekst": "Dokumentarfilmskaperen tildeles prisen for sin innsats for det norske kulturlivet.",
+        "tekst": "Deeyah Khan tildeles Kulturrådets ærespris for sin innsats som dokumentarfilmskaper.",
+        "utdypning": "Kulturrådets ærespris går i år til Deeyah Khan. Hun tildeles prisen for sin viktige innsats for norsk kulturliv som dokumentarfilmskaper.",
         "kilder": [
           {
             "navn": "NRK",
@@ -78,7 +86,8 @@
     "Skandinavia": [
       {
         "tittel": "Magdalena Andersson gir opp regjeringsdannelse",
-        "tekst": "S-laderen gir opp forsøket på å danne regjering etter at Vänsterpartiet meddelte støtte til M-talmannen.",
+        "tekst": "Magdalena Andersson (S) overlater sonderingsoppdraget etter at Vänsterpartiet vraket samarbeidet.",
+        "utdypning": "Magdalena Andersson (S) gir opp forsøket på å bilda regjering. Hun opplyser at Vänsterpartiets besked om å støtte M-talmannen Andreas Norlén var det som avgjorde beslutningen, og slår fast at det ikke finnes flertall for en s-ledet regjering i natt.",
         "kilder": [
           {
             "navn": "SVT",
@@ -88,8 +97,9 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Västernorrland sender fiskenett til Ukraina",
-        "tekst": "Fiskenett fra regionen brukes til å beskytte mot droner i Ukraina som ledd i et beredskapsarbeid.",
+        "tittel": "Fiskenett fra Västernorrland skal beskytte mot droner i Ukraina",
+        "tekst": "Region Västernorrland bistår Ukraina i beredskapsarbeidet med fiskenett til dronebeskyttelse.",
+        "utdypning": "Säkerhetsläget har försämrats i närtid, og i region Västernorrland pågår et intensivt beredskapsarbeid. Sju representanter, deriblant tf hälso- och sjukvårdsdirektör Roger Westerlund, har nyligen kommit hem från krigets Ukraina der regionens fiskenett brukes til å beskytte mot droner.",
         "kilder": [
           {
             "navn": "SVT",
@@ -101,8 +111,9 @@
     ],
     "Norden": [
       {
-        "tittel": "Kritiserer manglende fredsforhandlinger",
-        "tekst": " Islands utenriksminister kalte det feigt å ikke forhandle om varig fred i Gaza under sin FN-tale.",
+        "tittel": "Islands utenriksminister kritiserer manglende fredsforhandlinger i Gaza",
+        "tekst": "Þorgerður Katrín Gunnarsdóttir kaller det feighet å ikke forhandle om en varig fred i Gaza.",
+        "utdypning": "Islands utanríkisráðherra, Þorgerður Katrín Gunnarsdóttir, holdt tale til FNs hovedforsamling i New York i helgen. Der uttalte hun at det er «feighet» ikke å forhandle frem en varig fred i Gaza.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -112,19 +123,9 @@
         "antall_kilder": 1
       },
       {
-        "tittel": "Positiv til lovforslag om sosiale medier",
-        "tekst": "En spesialist velkommen barne- og undervisningsministerens lovforslag om barns tilgang til sosiale medier.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-09-28-education-and-prevention-will-matter-to-social-media-bill-488219/"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Splittet kjøpekraft på Island",
-        "tekst": "Økonomiske utsikter viser at kjøpekraften går ned for fattige og leietakere, mens den stiger for de rikere.",
+        "tittel": "Finsk kjøpekraft splitter seg i to",
+        "tekst": "Utviklingen viser at kjøpekraften synker for de fattigste, mens den stiger for de rikeste i Finland.",
+        "utdypning": "Utsiktene for finsk kjøpekraft er spesielt svake for leietakere og enslige forsørgere. Samtidig peker tallene på at situasjonen er en annen for den rikesiden av befolkningen, der kjøpekraften styrker seg.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -132,12 +133,25 @@
           }
         ],
         "antall_kilder": 1
+      },
+      {
+        "tittel": "Positivt til islandsk lovforslag om sosiale medier for barn",
+        "tekst": "Fagfolk på Island ønsker barne- og undervisningsministerens lovforslag om barns tilgang til sosiale medier velkommen.",
+        "utdypning": "En spesialist ved Stafræn velferð stiller seg positiv til lovforslaget fra ministeren for utdanning og barn. Foreldre opplever i dag et betydelig press for å tillate at barna bruker sosiale medier, noe det nye reguleringsarbeidet søker å lette.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-09-28-education-and-prevention-will-matter-to-social-media-bill-488219/"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
     "Europa": [
       {
-        "tittel": "Serbias president trekker seg",
-        "tekst": "Aleksandar Vucic har gått av som statsoverhode for å stille som statsministerkandidat for sitt parti i oktober.",
+        "tittel": "Serbias president går av for å stille i valg",
+        "tekst": "Aleksandar Vučić trekker seg som statssjef for å lede partiet sitt som statsministerkandidat i oktober.",
+        "utdypning": "Serbias president Aleksandar Vučić trakk seg søndag som landets statssjef. Det åpner for at han kan stille som statsministerkandidat for det høyrepopulistiske partiet Serbisk framgangsparti i oktobervalget. Administrasjonen hans har lenge vært preget av langvarige protester og anklager om korrupsjon.",
         "kilder": [
           {
             "navn": "France 24",
@@ -151,19 +165,9 @@
         "antall_kilder": 2
       },
       {
-        "tittel": "Angrep krever åtte liv i Ukraina",
-        "tekst": "Russiske angrep kostet åtte mennesker livet søndag, dagen etter at Moskva lovet å fortsette krigen.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Sveits stemmer over nøytralitet",
-        "tekst": "Sveitsiske velgere deltar i en folkeavstemning om hvorvidt landets nøytralitet skal styrkes i Grunnloven.",
+        "tittel": "Sveits stemte ned strengere nøytralitet",
+        "tekst": "Sveitsiske velgere avviste i en folkeavstemning å innføre strengere og mer bindende nøytralitetsregler.",
+        "utdypning": "Mens andre nøytrale land som Austria og Irland øker forsvarsbudsjettene og styrker båndene til NATO, stemte sveitsiske velgere over en folkeavstemning om nøytralitet. Forslaget ville ha hindret landet i å innføre sanksjoner med mindre det var godkjent av FN, noe velgerne avviste.",
         "kilder": [
           {
             "navn": "France 24",
@@ -175,6 +179,18 @@
           }
         ],
         "antall_kilder": 2
+      },
+      {
+        "tittel": "Russiske angrep krever åtte menneskeliv i Ukraina",
+        "tekst": "Åtte personer ble killed i russiske angrep etter at Moskva varslet at krigen vil fortsette.",
+        "utdypning": "Russiske angrep krevde åtte menneskeliv på tvers av Ukraina søndag, melder lokale myndigheter. Angrepene kom dagen etter at Moskva bekreftet at krigen skal fortsette. Ifølge president Volodymyr Zelensky har Russland skutt opp om lag 3 900 droner, flybomber og andre våpen den siste tiden.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow"
+          }
+        ],
+        "antall_kilder": 1
       }
     ]
   },

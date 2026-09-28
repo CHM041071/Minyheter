@@ -3,7 +3,7 @@ name: Nyhetsbrief
 on:
   schedule:
     # Tiden er i UTC. 04:00 UTC = 06:00 norsk sommertid / 05:00 vintertid.
-    - cron: "0 4 * * *"
+        - cron: "0 4,10,16 * * *"
   workflow_dispatch: {}
 
 permissions:

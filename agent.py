@@ -58,7 +58,9 @@ MIN_POENG = 2
 
 # GitHub Models: gratis, bruker GITHUB_TOKEN i Actions. Små forespørsler holder oss under gratisgrensene.
 AI_URL = "https://models.github.ai/inference/chat/completions"
-AI_MODELL = os.environ.get("AI_MODELL", "openai/gpt-4.1-mini")
+# Prøves i rekkefølge. Bytt eller legg til modeller med AI_MODELLER="a,b,c" i workflow-filen.
+AI_MODELLER = [m.strip() for m in os.environ.get(
+    "AI_MODELLER", "openai/gpt-4.1-mini,openai/gpt-4o-mini,openai/gpt-4.1").split(",") if m.strip()]
 KANDIDATER_PER_NIVA = {"Norge": 10, "Skandinavia": 6, "Norden": 5, "Europa": 6}
 DAGER_I_KALENDER = 7
 BEHOLD_DAGER = 60
@@ -370,14 +372,15 @@ def kandidater(grupper_) -> dict[str, dict]:
     return ut
 
 
-def spor_ai(instruks: str) -> str:
+def spor_ai(instruks: str, modell: str) -> str:
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
         raise RuntimeError("GITHUB_TOKEN mangler")
     kropp = json.dumps({
-        "model": AI_MODELL,
+        "model": modell,
         "temperature": 0.2,
-        "max_tokens": 2500,
+        "max_tokens": 3000,
+        "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": "Du er en nøktern, partipolitisk nøytral nyhetsredaktør. Du svarer kun med gyldig JSON."},
             {"role": "user", "content": instruks},
@@ -391,14 +394,25 @@ def spor_ai(instruks: str) -> str:
         })
         try:
             with urllib.request.urlopen(req, timeout=90) as svar:
-                return json.loads(svar.read())["choices"][0]["message"]["content"]
+                ra = svar.read().decode("utf-8", "replace")
         except urllib.error.HTTPError as e:
             if e.code == 429 and forsok == 0:
                 print("[ai] rate limit, prøver igjen om 30 s", file=sys.stderr)
                 time.sleep(30)
                 continue
             raise RuntimeError(f"HTTP {e.code}: {e.read()[:300]!r}")
-    raise RuntimeError("ingen svar")
+        try:
+            data = json.loads(ra)
+        except json.JSONDecodeError:
+            raise RuntimeError(f"svaret var ikke JSON: {ra[:300]!r}")
+        if "choices" not in data or not data["choices"]:
+            raise RuntimeError(f"uventet svar: {ra[:300]!r}")
+        valg = data["choices"][0]
+        innhold = (valg.get("message") or {}).get("content") or ""
+        if not innhold.strip():
+            raise RuntimeError(f"tomt svar (finish_reason={valg.get('finish_reason')})")
+        return innhold
+    raise RuntimeError("ingen svar etter nytt forsøk")
 
 
 def ai_brief(grupper_, kalender_i_dag, nyhets_folg, idag: date) -> dict:
@@ -438,8 +452,20 @@ KALENDER I DAG:
 SAKER (id | nivå | antall kilder | tittel | ingress):
 {linjer}"""
 
-    tekst = spor_ai(instruks)
-    ra = json.loads(tekst[tekst.find("{"): tekst.rfind("}") + 1])
+    ra, modell, feil = None, None, []
+    for m in AI_MODELLER:
+        try:
+            tekst = spor_ai(instruks, m)
+            start, slutt = tekst.find("{"), tekst.rfind("}")
+            if start < 0 or slutt < start:
+                raise RuntimeError(f"fant ikke JSON i svaret: {tekst[:200]!r}")
+            ra, modell = json.loads(tekst[start:slutt + 1]), m
+            break
+        except Exception as e:
+            print(f"[ai] {m} feilet: {e}", file=sys.stderr)
+            feil.append(m)
+    if ra is None:
+        raise RuntimeError(f"alle modeller feilet ({', '.join(feil)})")
 
     def kilder(ref):
         ref = str(ref).strip().upper()
@@ -471,6 +497,7 @@ SAKER (id | nivå | antall kilder | tittel | ingress):
     ut["folg_med"].sort(key=lambda f: f["tid"] or "99")
     if not any(ut["saker"].values()):
         raise RuntimeError("AI-svaret inneholdt ingen gyldige saker")
+    ut["modell"] = modell
     return ut
 
 
@@ -593,16 +620,18 @@ def main() -> None:
     try:
         innhold = ai_brief(grupper_, i_dag, regel_folg, idag)
         modus = "ai"
-        print(f"[ai] brief laget med {AI_MODELL}", file=sys.stderr)
+        brukt_modell = innhold.pop("modell")
+        print(f"[ai] brief laget med {brukt_modell}", file=sys.stderr)
     except Exception as feil:
         print(f"[ai] ikke tilgjengelig ({feil}) – bruker regelbasert brief", file=sys.stderr)
         innhold = {"kort_fortalt": kort_fortalt_regler(grupper_),
                    "saker": velg_saker(grupper_), "folg_med": regel_folg}
         modus = "regler"
+        brukt_modell = ""
 
     brief = {**innhold,
              "senere": [h for h in kalender if h["dato"] > idag.isoformat()],
-             "modus": modus, "modell": AI_MODELL if modus == "ai" else ""}
+             "modus": modus, "modell": brukt_modell}
 
     con.execute("INSERT OR REPLACE INTO briefer VALUES (?,?,?)",
                 (idag.isoformat(), json.dumps(brief, ensure_ascii=False), laget.isoformat()))

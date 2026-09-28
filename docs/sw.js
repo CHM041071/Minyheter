@@ -1,5 +1,5 @@
 // Nettverk først, så du alltid får dagens brief – men siste versjon fungerer offline.
-const CACHE = "nyhetsbrief-v1";
+const CACHE = "nyhetsbrief-v2";
 const SKALL = ["./", "stil.css", "manifest.webmanifest", "icon-192.png"];
 
 self.addEventListener("install", e => {

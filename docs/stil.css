@@ -96,3 +96,14 @@ footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--linje)
 details.senere { margin-top: 1.5rem; border-top: 1px solid var(--linje); padding-top: 1rem; }
 details.senere summary { font: 600 1rem var(--sans); color: var(--blekk); cursor: pointer; }
 details.senere ul { margin-top: 0.75rem; }
+
+/* Les mer: utdypning per sak */
+details.mer { margin: 0.1rem 0 0.5rem; }
+details.mer summary {
+  font: 600 0.85rem var(--sans); color: var(--nordlys);
+  cursor: pointer; list-style: none; display: inline-block; padding: 0.2rem 0;
+}
+details.mer summary::-webkit-details-marker { display: none; }
+details.mer summary::after { content: " +"; }
+details.mer[open] summary::after { content: " –"; }
+details.mer p { margin: 0.35rem 0 0.5rem; padding-left: 0.9rem; border-left: 2px solid var(--linje); }

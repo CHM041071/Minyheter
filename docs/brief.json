@@ -1,0 +1,211 @@
+{
+  "kort_fortalt": [
+    {
+      "tekst": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister"
+        }
+      ]
+    },
+    {
+      "tekst": "Switzerland votes on country's neutrality",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
+        }
+      ]
+    },
+    {
+      "tekst": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow"
+        }
+      ]
+    }
+  ],
+  "saker": {
+    "Norge": [
+      {
+        "tittel": "Forsvaret har venta i fleire år på satsinga – no legg regjeringa pengar på bordet",
+        "tekst": "Etter mange år med anbefaling, legg no regjeringa 20,7 millionar kroner på bordet for å opprette Forsvarets forskingsinstitutt Nord i Tromsø.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Taylor Swift satte prisrekord under MTV-utdeling",
+        "tekst": "Taylor Swift har satt ny rekord som tidenes mestvinnende artist under nattens MTV Video Music Awards, melder NTB. Sangeren lå på forhånd likt med Beyoncé med 30 priser. Da Swift sikret seg sin 31. statuett, ble hun …",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/taylor-swift-satte-prisrekord-under-mtv-utdeling-1.18038277"
+          },
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/kultur/taylor-swift-historisk-pa-vma-galan-2026"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Møter i retten mandag: Pelsdyrbønder krever 60 millioner fra staten",
+        "tekst": "Stortinget bestemte for sju år siden å legge ned hele næringen. I dag krever pelsdyrbøndene renter for at erstatningen de ble lovet, ble forsinket.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/rettssaken-starter-na_-pelsdyrbonder-krever-60-millioner-fra-staten-1.18035399"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Nordnorske foreldre best på bakovervendt sikring",
+        "tekst": "",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.18038489.1.18038489"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Siste sjanse",
+        "tekst": "Dei hadde nesten gitt opp då dei fekk tilbod om å vere med på å prøve ut ein ny behandling. No står dei saman for å vinne over anoreksien.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestland/xl/siste-sjanse-1.17994249"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
+    "Skandinavia": [
+      {
+        "tittel": "Fiskenät från Västernorrland skyddar mot drönare i Ukraina – se bilder från regionens resa",
+        "tekst": "Säkerhetsläget har försämrats i närtid och i region Västernorrland pågår nu ett intensivt beredskapsarbete, säger tf hälso- och sjukvårdsdirektör Roger Westerlund, nyss hemkommen från krigets Ukraina tillsammans med sju …",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-lar-sig-region-vasternorrland-om-beredskap-i-ukraina-se-bilder-fran-besoket"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Riksdagen väljer ny talman – det här gäller",
+        "tekst": "Nu samlas riksdagen för första gången efter valet och ska utse ny talman. Andreas Norlén (M) är hittills den enda nominerade kandidaten.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/riksdagen-valjer-ny-talman-det-har-galler"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Postkort fra dronning Margrethe på auktion",
+        "tekst": "",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/postkort-fra-dronning-margrethe-paa-auktion"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
+    "Norden": [
+      {
+        "tittel": "Education and prevention will matter to social media bill",
+        "tekst": "A specialist at Stafræn velferð welcomes the Minister of Education and Children's bill on children's access to social media. Parents are often under considerable pressure to allow their children onto social media, but …",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-09-28-education-and-prevention-will-matter-to-social-media-bill-488219/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "FM at UN: 'Cowardice' not to negotiate lasting peace in Gaza",
+        "tekst": "Þorgerður Katrín Gunnarsdóttir, Iceland's utanríkisráðherra (Minister for Foreign Affairs), said in her address to the United Nations General Assembly in New York during the weekend that it was cowardly not to be …",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-09-28-fm-at-un-cowardice-not-to-negotiate-lasting-peace-in-gaza-488218/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Optimistic collective agreements will hold if government plays its part",
+        "tekst": "The chair of Starfsgreinasamband Íslands (Federation of General and Special Workers in Iceland) says he is optimistic that collective agreements will hold after the national congress of Samband íslenskra sveitarfélaga …",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-09-28-optimistic-collective-agreements-will-hold-if-government-plays-its-part-488211/"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
+    "Europa": [
+      {
+        "tittel": "Serbian President Aleksandar Vucic resigns to run for prime minister in October elections",
+        "tekst": "Serbian President Aleksandar Vucic stepped down as the country's head of state Sunday, paving the way for him to run as his right-wing populist Serbian Progressive Party's candidate for prime minister in the October …",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Switzerland votes on country's neutrality",
+        "tekst": "As other neutral countries such as Austria and Ireland increase defence spending and strengthen ties with NATO, Swiss voters are taking part in a referendum on whether to enshrine a stricter definition of the country’s …",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Russian attacks kill eight in Ukraine after Moscow vows to continue war",
+        "tekst": "Russian strikes killed eight people across Ukraine on Sunday, authorities said, a day after Moscow vowed to continue the war. President Volodymyr Zelensky said Russia had launched about 3,900 drones, aerial bombs and …",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20260927-russian-strikes-kill-eight-ukraine-war-moscow"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ]
+  },
+  "folg_med": [],
+  "senere": [],
+  "modus": "regler",
+  "modell": ""
+}

@@ -1,6 +1,6 @@
 """
 Nyhetsbrief – daglig morgenbrief for Norge → Skandinavia → Norden → Europa.
-RSS → SQLite → regelbasert forhåndsutvalg → GitHub Models (gratis) → statisk HTML/PWA i docs/
+RSS → SQLite → regelbasert forhåndsutvalg → Google Gemini (gratisnivå) → statisk HTML/PWA i docs/
 Hvis AI-kallet feiler, lages briefen med reglene alene, så den kommer alltid.
 
 Rangering:
@@ -56,11 +56,11 @@ ANTALL_PER_NIVA = {"Norge": 5, "Skandinavia": 3, "Norden": 3, "Europa": 3}
 MAKS_FOLG_MED = 4
 MIN_POENG = 2
 
-# GitHub Models: gratis, bruker GITHUB_TOKEN i Actions. Små forespørsler holder oss under gratisgrensene.
-AI_URL = "https://models.github.ai/inference/chat/completions"
-# Prøves i rekkefølge. Bytt eller legg til modeller med AI_MODELLER="a,b,c" i workflow-filen.
+# Google Gemini via OpenAI-kompatibelt endepunkt. Krever GEMINI_API_KEY (gratis fra aistudio.google.com).
+AI_URL = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+# Prøves i rekkefølge: beste modell først, deretter Flash-Lite med mer romslig gratiskvote.
 AI_MODELLER = [m.strip() for m in os.environ.get(
-    "AI_MODELLER", "openai/gpt-4.1-mini,openai/gpt-4o-mini,openai/gpt-4.1").split(",") if m.strip()]
+    "AI_MODELLER", "gemini-3.8-flash,gemini-3.5-flash-lite,gemini-flash-latest").split(",") if m.strip()]
 KANDIDATER_PER_NIVA = {"Norge": 10, "Skandinavia": 6, "Norden": 5, "Europa": 6}
 DAGER_I_KALENDER = 7
 BEHOLD_DAGER = 60
@@ -372,79 +372,54 @@ def kandidater(grupper_) -> dict[str, dict]:
     return ut
 
 
-def _post_urllib(kropp: bytes, token: str) -> tuple[int, str]:
+def _post_urllib(kropp: bytes, nokkel: str) -> tuple[int, str]:
     req = urllib.request.Request(AI_URL, data=kropp, method="POST", headers={
-        "Authorization": f"Bearer {token}",
+        "Authorization": f"Bearer {nokkel}",
         "Content-Type": "application/json",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "Nyhetsbrief/1.0",
     })
     try:
-        with urllib.request.urlopen(req, timeout=90) as svar:
+        with urllib.request.urlopen(req, timeout=120) as svar:
             return svar.status, svar.read().decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
         return e.code, e.read().decode("utf-8", "replace")
 
 
-def _post_curl(kropp: bytes, token: str) -> tuple[int, str]:
-    """Samme kall med curl, slik GitHubs egen dokumentasjon viser det."""
-    import subprocess
-    r = subprocess.run(
-        ["curl", "-sS", "-L", "-X", "POST", AI_URL,
-         "-H", "Accept: application/vnd.github+json",
-         "-H", f"Authorization: Bearer {token}",
-         "-H", "X-GitHub-Api-Version: 2022-11-28",
-         "-H", "Content-Type: application/json",
-         "--data-binary", "@-", "-w", "\n%{http_code}", "--max-time", "90"],
-        input=kropp, capture_output=True, timeout=120)
-    ut = r.stdout.decode("utf-8", "replace")
-    tekst, _, kode = ut.rpartition("\n")
-    return int(kode) if kode.strip().isdigit() else 0, tekst
-
-
 def spor_ai(instruks: str, modell: str) -> str:
-    token = os.environ.get("GITHUB_TOKEN")
-    if not token:
-        raise RuntimeError("GITHUB_TOKEN mangler")
+    nokkel = os.environ.get("GEMINI_API_KEY")
+    if not nokkel:
+        raise RuntimeError("GEMINI_API_KEY mangler (legg den inn som secret i GitHub)")
     kropp = json.dumps({
         "model": modell,
         "temperature": 0.2,
-        "max_tokens": 3000,
-        "response_format": {"type": "json_object"},
+        "max_tokens": 8000,   # romslig, siden Flash-modeller også bruker tokens på å tenke
         "messages": [
-            {"role": "system", "content": "Du er en nøktern, partipolitisk nøytral nyhetsredaktør. Du svarer kun med gyldig JSON."},
+            {"role": "system", "content": "Du er en nøktern, partipolitisk nøytral nyhetsredaktør. Du svarer kun med gyldig JSON, uten kodeblokk."},
             {"role": "user", "content": instruks},
         ],
     }).encode()
 
-    siste_feil = ""
-    for metode in (_post_urllib, _post_curl):
-        for forsok in range(2):
-            try:
-                status, ra = metode(kropp, token)
-            except Exception as e:
-                siste_feil = f"{metode.__name__}: {e}"
-                break
-            if status == 429 and forsok == 0:
-                print("[ai] rate limit, prøver igjen om 30 s", file=sys.stderr)
-                time.sleep(30)
-                continue
-            try:
-                data = json.loads(ra)
-            except json.JSONDecodeError:
-                siste_feil = f"{metode.__name__}: HTTP {status}, ikke JSON: {ra[:200]!r}"
-                break
-            if status >= 400 or "choices" not in data:
-                siste_feil = f"{metode.__name__}: HTTP {status}: {ra[:300]!r}"
-                break
-            valg = data["choices"][0]
-            innhold = (valg.get("message") or {}).get("content") or ""
-            if not innhold.strip():
-                raise RuntimeError(f"tomt svar (finish_reason={valg.get('finish_reason')})")
-            return innhold
-        print(f"[ai] {siste_feil}", file=sys.stderr)
-    raise RuntimeError(siste_feil or "ingen svar")
+    for forsok in range(2):
+        status, ra = _post_urllib(kropp, nokkel)
+        if status in (429, 503) and forsok == 0:
+            print(f"[ai] {modell}: HTTP {status}, prøver igjen om 30 s", file=sys.stderr)
+            time.sleep(30)
+            continue
+        try:
+            data = json.loads(ra)
+        except json.JSONDecodeError:
+            raise RuntimeError(f"HTTP {status}, ikke JSON: {ra[:200]!r}")
+        if isinstance(data, list):   # Gemini pakker av og til feil i en liste
+            data = data[0] if data else {}
+        if status >= 400 or "choices" not in data:
+            melding = (data.get("error") or {}).get("message", "") if isinstance(data, dict) else ""
+            raise RuntimeError(f"HTTP {status}: {melding or ra[:300]}")
+        valg = data["choices"][0]
+        innhold = (valg.get("message") or {}).get("content") or ""
+        if not innhold.strip():
+            raise RuntimeError(f"tomt svar (finish_reason={valg.get('finish_reason')})")
+        return innhold
+    raise RuntimeError("ingen svar etter nytt forsøk")
 
 
 def ai_brief(grupper_, kalender_i_dag, nyhets_folg, idag: date) -> dict:

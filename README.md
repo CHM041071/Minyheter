@@ -2,10 +2,10 @@
 
 En kort daglig morgenbrief, med **lesetid på 4–5 minutter**, som prioriterer
 **Norge → Skandinavia → Norden → Europa**, med en egen seksjon **«Følg med i dag»**.
-Alt er gratis, og det trengs ingen API-nøkler.
+Alt er gratis. Det eneste du trenger, er en gratis API-nøkkel fra Google AI Studio.
 
 ```
-RSS-feeder ───┐                                  ┌─> GitHub Models (gratis AI) ─┐
+RSS-feeder ───┐                                  ┌─> Google Gemini (gratis)  ─┐
 kalender.json ┼─> agent.py ─> SQLite ─> regler ──┤                              ├─> docs/ (HTML + PWA)
 .ics-kalendere┘                                  └─> (reserve: bare regler) ────┘
 ```
@@ -20,28 +20,31 @@ kalender.json ┼─> agent.py ─> SQLite ─> regler ──┤                
 
 ## Hvordan AI brukes
 
-1. Reglene grupperer og rangerer alle sakene og sender bare de ~27 beste kandidatene
-   videre. Det holder forespørselen godt innenfor GitHub Models' gratisgrenser.
-2. AI-en (standard `openai/gpt-4.1-mini` via GitHub Models) velger ut, oversetter og skriver kort.
-3. AI-en kan bare vise til saker og kalenderhendelser via ID. Lenker og kilder hentes
-   alltid fra databasen. Punkter som peker på ukjente ID-er, fjernes, og klokkeslett godtas
-   bare fra kalenderen.
-4. **Hvis AI-kallet feiler** (grense nådd, nedetid), lages briefen med reglene alene.
-   Nederst på siden står det hvilken metode som ble brukt.
+1. Reglene grupperer og rangerer alle sakene og sender bare de ~27 beste kandidatene videre.
+2. Google Gemini velger ut, oversetter og skriver kort. Modellene prøves i denne rekkefølgen:
+   `gemini-3.8-flash` (best, ca. 20 gratis kall per dag), deretter `gemini-3.5-flash-lite`
+   (ca. 500 per dag) og til slutt `gemini-flash-latest`.
+3. AI-en kan bare vise til saker og kalenderhendelser via ID. Lenker og kilder hentes alltid
+   fra databasen. Punkter med ukjente ID-er fjernes, og klokkeslett godtas bare fra kalenderen.
+4. **Hvis alle AI-kall feiler**, lages briefen med reglene alene. Nederst på siden står
+   hvilken metode som ble brukt.
 
-Du kan bytte modell med `AI_MODELL` i workflow-filen. Se tilgjengelige modeller på
-github.com/marketplace/models.
+Du kan bytte modeller med `AI_MODELLER` i workflow-filen. Google endrer modellnavn og
+gratiskvoter jevnlig. Se ai.google.dev/gemini-api/docs/models.
 
 ## Oppsett
 
 1. **Lag et offentlig GitHub-repo** og last opp alle filene, inkludert mappene
-   `.github/workflows`, `docs` og `data`. Du trenger ingen API-nøkler. Workflowen bruker
-   den innebygde `GITHUB_TOKEN` med tillatelsen `models: read`.
-2. **Første kjøring:** Actions → Nyhetsbrief → *Run workflow*. Se i loggen hvilke
+   `.github/workflows`, `docs` og `data`. Merk at opplasting i nettleseren hopper over
+   `.github`. Den må lages med Add file → Create new file.
+2. **Gemini-nøkkel:** lag en gratis nøkkel på aistudio.google.com (Get API key). Legg den inn
+   under Settings → Secrets and variables → Actions → New repository secret, med navnet
+   `GEMINI_API_KEY`.
+3. **Første kjøring:** Actions → Nyhetsbrief → *Run workflow*. Se i loggen hvilke
    feeder som svarte (`[ok]`) og hvilke som feilet (`[feilet]`).
-3. **Slå på GitHub Pages:** Settings → Pages → *Deploy from a branch* → `main`, mappen `/docs`.
+4. **Slå på GitHub Pages:** Settings → Pages → *Deploy from a branch* → `main`, mappen `/docs`.
    Etter et par minutter ligger siden på `https://BRUKERNAVN.github.io/REPONAVN/`.
-4. **Legg den på iPhone:** åpne adressen i Safari → Del → *Legg til på Hjem-skjerm*.
+5. **Legg den på iPhone:** åpne adressen i Safari → Del → *Legg til på Hjem-skjerm*.
 
 ## Slik rangerer reglene
 
@@ -93,9 +96,9 @@ Her finner du datoer:
 
 ## Kostnad
 
-Ingen. GitHub Actions og Pages er gratis for offentlige repoer, og GitHub Models har et
-gratisnivå med daglige grenser. Én forespørsel på noen få tusen tokens om dagen ligger godt
-innenfor. Grensene kan endres av GitHub, men da slår reservemodusen inn automatisk.
+Ingen. GitHub Actions og Pages er gratis for offentlige repoer, og én Gemini-forespørsel om
+dagen ligger godt innenfor gratisnivået. Google kan bruke innhold sendt på gratisnivået til
+å forbedre tjenestene sine. Her er det bare offentlige nyhetssaker.
 
 ## Viktig om offentlig repo
 
@@ -109,7 +112,7 @@ overskrifter og korte ingresser fra kildene, alltid med lenke tilbake.
 | Kilder | `FEEDS` i `agent.py` |
 | Antall saker per nivå | `ANTALL_PER_NIVA` (hold den lav, så briefen forblir kort) |
 | Maks punkter i «Følg med» | `MAKS_FOLG_MED` |
-| AI-modell | `AI_MODELL` i workflow-filen |
+| AI-modeller | `AI_MODELLER` i workflow-filen |
 | Hva som regnes som viktig | `VIKTIG` og `UVIKTIG` |
 | Kategorier i «Følg med» | `KATEGORI_ORD` |
 | Farger og typografi | `docs/stil.css` |
@@ -119,7 +122,7 @@ overskrifter og korte ingresser fra kildene, alltid med lenke tilbake.
 
 ```bash
 pip install -r requirements.txt
-export GITHUB_TOKEN=github_pat_...   # valgfritt: fine-grained token med «Models: read»
+export GEMINI_API_KEY=...   # valgfritt, uten nøkkel brukes reglene
 python agent.py
 python -m http.server -d docs     # åpne http://localhost:8000
 ```

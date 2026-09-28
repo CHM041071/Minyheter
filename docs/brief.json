@@ -1,16 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen bevilger 20,7 millioner kroner til å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
+      "tekst": "Flere norske vannmagasiner er tappet langt under normalen, noe som skaper bekymring for både strømprisene og forsyningssikkerheten.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/innlandet/_-ser-ut-som-et-manelandskap-1.18036569"
         }
       ]
     },
     {
-      "tekst": "Pelsdyrbønder krever mandag staten for 60 millioner kroner i renter etter forsinket erstatning.",
+      "tekst": "Pelsdyrbønder krever mandag staten for 60 millioner kroner i renter etter forsinkede erstatninger.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "Alle sykehus i Nord-Norge rammes fortsatt av nødprosedyrer etter en alvorlig systemfeil.",
+      "tekst": "Regjeringa bevilger 20,7 millioner kroner til å opprette et nytt forskningsinstitutt i Tromsø.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/systemfeil-i-helse-nord-rettet-1.18038520"
+          "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
         }
       ]
     }
@@ -31,22 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Satser på FFI i Tromsø",
-        "tekst": "Regjeringen bevilger 20,7 millioner kroner for å opprette Forsvarets forskningsinstitutt Nord i Tromsø.",
-        "utdypning": "Etter mange år med anbefalinger legger regjeringa nå 20,7 millioner kroner på bordet. Midlene skal gå til å opprette Forsvarets forskningsinstitutt Nord i Tromsø for å styrke forskning og beredskap i nordområdene.",
+        "tittel": "Lav vannstand i magasinene vekker bekymring",
+        "tekst": "Mange vannmagasiner er tappet ned langt under normalen for årstiden, noe som gir bekymring for forsyningssikkerheten og strømprisen.",
+        "utdypning": "Situasjonen med lave vannmagasiner skaper uro for den kommende perioden. NRK melder at det ser ut som et månelandskap i flere av magasinene. Dette kan føre til dyrere strøm for forbrukerne.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/innlandet/_-ser-ut-som-et-manelandskap-1.18036569"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Pelsdyrbønder krever 60 millioner",
-        "tekst": "Pelsdyrbøndene krever mandag staten for 60 millioner kroner i renter på forsinket erstatning.",
-        "utdypning": "Stortinget bestemte for sju år siden å legge ned hele næringen. I dag møtes partene i retten fordi pelsdyrbøndene krever renter for at erstatningen de ble lovet ble forsinket av staten.",
+        "tittel": "Pelsdyrbønder krever staten for 60 millioner",
+        "tekst": "Pelsdyrbøndene krever mandag 60 millioner kroner i renter fra staten fordi erstatningen de ble lovet ble forsinket.",
+        "utdypning": "Stortinget vedtok for sju år siden å legge ned hele pelsdyrnæringen. Bøndene har lenge ventet på oppgjør, og møter i retten mandag for å kreve renter ettersom utbetalingene tok tid.",
         "kilder": [
           {
             "navn": "NRK",
@@ -54,31 +54,44 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "Nødprosedyrer ved nordnorske sykehus",
-        "tekst": "Helse Nord har rettet systemfeilen, men sykehusene bruker fremdeles nødprosedyrer.",
-        "utdypning": "Alle sykehusene i Nord-Norge har vært rammet av datafeil i flere dager. Helse Nord opplyser at systemfeilen nå er rettet opp, men at nødprosedyrer fortsatt må benyttes i driften.",
+        "tittel": "Millioner til Forsvarets forskningsinstitutt i Tromsø",
+        "tekst": "Etter mange års venting bevilger regjeringa 20,7 millioner kroner til å opprette FFI Nord i Tromsø.",
+        "utdypning": "Satsingen kommer etter flere års anbefalinger. Midlene skal gå til å etablere en fast tilstedeværelse for Forsvarets forskningsinstitutt i nord.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/systemfeil-i-helse-nord-rettet-1.18038520"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Kjempeunderskudd i Alta kommune",
+        "tekst": "Alta kommune risikerer å havne på Robek-lista etter å ha budsjettert med et overforbruk på 84 millioner kroner i år.",
+        "utdypning": "Politisk opposisjon ved Høyre og Frp retter sterk kritikk mot flertallet og uttaler at Ap og Sp ikke er styringsdyktige. Kommunen står nå overfor svært stramme økonomiske tider.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/millionsprekk-i-alta-_-kommunen-pa-sto-kurs-mot-robek-1.18039166"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Norge og Storbritannia hilser Grønland-avtale velkommen",
-        "tekst": "Norge og Storbritannia uttrykker støtte til den nye Grønland-avtalen.",
-        "utdypning": "Storbritannia og Norge har i fellesskap sendt positive signaler om den nye Grønland-avtalen som nylig har blitt inngått.",
+        "tittel": "Magdalena Andersson gir opp regjeringsdannelse",
+        "tekst": "S-leder Magdalena Andersson gir opp forsøket på å danne en svensk firepartiregjering etter dyp politisk splittelse.",
+        "utdypning": "Vänsterpartiets beskjed om å støtte M-talmannen Andreas Norlén ble avgjørende. Andersson opplyser at det i nuläget ikke finnes grunnlag for å få på plass et rødgrønt regjeringsalternativ, og hun overleverer sonderingsoppdraget.",
         "kilder": [
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/storbritannien-og-norge-hilser-ny-groenland-aftale-velkommen"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-lamnar-over-sonderingsuppdraget"
           }
         ],
         "antall_kilder": 1,
@@ -87,62 +100,24 @@
     ],
     "Norden": [
       {
-        "tittel": "Splittet kjøpekraft i Finland",
-        "tekst": "Finlands kjøpekraft deler seg i to med nedgang for de fattigste og oppgang for de rike.",
-        "utdypning": "Utsiktene er spesielt svake for leietakere og enslige foreldre i Finland, viser ny statistikk som peker på økende økonomiske forskjellene.",
+        "tittel": "Finsk etterretning: Økt trussel om russisk sabotasje",
+        "tekst": "Finsk etterretning advarer om at trusselen om russisk sabotasje i Europa og Finland har vokst.",
+        "utdypning": "De mest sårbare målene for mulige russiske sabotasjehandlinger i Finland er forsvarsindustrien og aktiviteter som yter støtte til Ukraina.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20248601?origin=rss"
+            "lenke": "https://yle.fi/a/74-20248687?origin=rss"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Europa": [
       {
-        "tittel": "Terrorpågripelser ved britisk flybase",
-        "tekst": "Britisk politi har arrestert fem menn og evakuert boliger etter en større sikkerhetshendelse.",
-        "utdypning": "Britisk politi evakuerte søndag boliger i Whelford nær Fairford-flybasen i det sørvestlige England, som brukes av amerikanske styrker. Fem menn ble arrestert for mistanke om sprengstoffoffiserer. Bombeteam har sjekket mistenkelige kjøretøy på stedet, og antiterrorpolitiet leder etterforskningen.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20260927-uk-police-evacuate-homes-near-air-base-used-by-us-arrest-men-on-suspected-explosives-offenses"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Sveits avviser strengere nøytralitet",
-        "tekst": "Sveitsiske velgere har i en folkeavstemning stemt nei til å innføre en strengere definisjon av landets nøytralitet.",
-        "utdypning": "Mens andre nøytrale land som Østerrike og Irland øker forsvarsutgiftene, har sveitsiske velgere avvist et initiativ som ville ha forhindret landet i å innføre sanksjoner uten godkjenning fra FN. Sveitsisk nøytralitet har vært grunnlovsfestet siden 1848, og tidlige prognoser viser at velgerne vil beholde dagens praksis.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/switzerland-voters-reject-stricter-view-of-neutrality/a-79446996?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Serbias president trekker seg",
-        "tekst": "Serbias president Aleksandar Vucic har gått av for å stille som statsministerkandidat i oktober.",
-        "utdypning": "Aleksandar Vucic trådte av som statssjef søndag for å bane vei som det høyrepopulistiske Serbiske framstegspartiets kandidat ved det kommende parlamentsvalget neste måned. Vucic' administrasjon har vært preget av langvarige protester og anklager om korrupsjon.",
+        "tittel": "Serbias president går av for å stille som statsminister",
+        "tekst": "Serbias president Aleksandar Vucic har trukket seg for å lede partiet sitt i det kommende parlamentsvalget i oktober.",
+        "utdypning": "Avgjørelsen kommer etter en lengre periode preget av omfattende protester og anklager om korrupsjon mot Vucics administrasjon. Han stiller nå som statsministerkandidat for det høyrepopulistiske Serbiske framskrittspartiet.",
         "kilder": [
           {
             "navn": "France 24",
@@ -158,24 +133,31 @@
           }
         ],
         "antall_kilder": 3,
+        "vekt": 4
+      },
+      {
+        "tittel": "Sveits avviser strengere nøytralitet",
+        "tekst": "Sveitsiske velgere har i en folkeavstemning sagt nei til å innføre en strengere definisjon av landets nøytralitet.",
+        "utdypning": "Forslaget ville ha hindret landet i å innføre internasjonale sanksjoner med mindre de var godkjent av FNs sikkerhetsråd. Sveits' tradisjonelle nøytralitet har vært grunnlovsfestet siden 1848.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/switzerland-voters-reject-stricter-view-of-neutrality/a-79446996?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
         "vekt": 3
       }
     ],
-    "Verden": [
-      {
-        "tittel": "Stigende dieselpriser globalt",
-        "tekst": "Dieselprisene skyter i været som følge av raffineriforstyrrelser, forsyningsmangel og geopolitiske spenninger.",
-        "utdypning": "Lastebiler, landbruk og industri er avhengige av diesel. Prisene stiger nå kraftig globalt på grunn av problemer med raffinerier og geopolitiske spenninger. En potensiell amerikansk eksportforbud truer med å forverre situasjonen ytterligere i Europa.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/diesel-prices-are-surging-ukraine-is-only-part-of-the-story/a-79390992?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ]
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

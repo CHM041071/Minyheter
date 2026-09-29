@@ -1,7 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Flere norske vannmagasiner er tappet langt under normalen, noe som skaper bekymring for både strømprisene og forsyningssikkerheten.",
+      "tekst": "Regjeringen vil styrke E-tjenesten med 400 millioner kroner for å gi Nato bedre oversikt over Russland.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/storstilt-spionsatsing-fra-regjeringen_-400-millioner-mer-til-e-tjenesten-1.18039475"
+        }
+      ]
+    },
+    {
+      "tekst": "Norske vannmagasiner er tappet langt under normalen, noe som skaper bekymring for strømprisene fremover.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +19,11 @@
       ]
     },
     {
-      "tekst": "Pelsdyrbønder krever mandag staten for 60 millioner kroner i renter etter forsinkede erstatninger.",
+      "tekst": "En ny rapport advarer om at datasentre sluker mye strøm uten å gi tilstrekkelig lokal verdiskapning.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/rettssaken-starter-na_-pelsdyrbonder-krever-60-millioner-fra-staten-1.18035399"
-        }
-      ]
-    },
-    {
-      "tekst": "Regjeringa bevilger 20,7 millioner kroner til å opprette et nytt forskningsinstitutt i Tromsø.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
+          "lenke": "https://www.nrk.no/vestfoldogtelemark/ny-rapport_-datasentre-sluker-strom-_-gir-begrenset-verdiskapning-1.18036425"
         }
       ]
     }
@@ -31,9 +31,35 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Lav vannstand i magasinene vekker bekymring",
-        "tekst": "Mange vannmagasiner er tappet ned langt under normalen for årstiden, noe som gir bekymring for forsyningssikkerheten og strømprisen.",
-        "utdypning": "Situasjonen med lave vannmagasiner skaper uro for den kommende perioden. NRK melder at det ser ut som et månelandskap i flere av magasinene. Dette kan føre til dyrere strøm for forbrukerne.",
+        "tittel": "Millionløft for E-tjenesten",
+        "tekst": "Regjeringen vil gi E-tjenesten 400 millioner kroner ekstra i statsbudsjettet for å styrke overvåkingen mot Russland.",
+        "utdypning": "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett. Bevilgningen skal gi Nato bedre øyne og ører mot et stadig mer truende Russland.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/storstilt-spionsatsing-fra-regjeringen_-400-millioner-mer-til-e-tjenesten-1.18039475"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Rapport: Datasentre sluker strøm",
+        "tekst": "En fersk rapport fra Teknologirådet advarer om at datasentre legger igjen lite verdier til tross for stort strømforbruk.",
+        "utdypning": "Datasentre forsyner seg grovt av norsk strømkapasitet, men legger igjen lite verdier lokalt, viser en fersk rapport fra Teknologirådet. Nå frykter tradisjonell industri for fremtiden og krever rask innstramming av regelverket.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/ny-rapport_-datasentre-sluker-strom-_-gir-begrenset-verdiskapning-1.18036425"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Lav vannstand i magasinene",
+        "tekst": "Flere norske vannmagasiner er tappet langt under normalen for årstiden, noe som bekymrer for forsyningssikkerheten.",
+        "utdypning": "Mange vannmagasin er tappet ned langt under normalen for årstida. Det skaper bekymring for forsyningssikkerhet og strømpris.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,39 +70,26 @@
         "vekt": 5
       },
       {
-        "tittel": "Pelsdyrbønder krever staten for 60 millioner",
-        "tekst": "Pelsdyrbøndene krever mandag 60 millioner kroner i renter fra staten fordi erstatningen de ble lovet ble forsinket.",
-        "utdypning": "Stortinget vedtok for sju år siden å legge ned hele pelsdyrnæringen. Bøndene har lenge ventet på oppgjør, og møter i retten mandag for å kreve renter ettersom utbetalingene tok tid.",
+        "tittel": "Mer penger til integrering",
+        "tekst": "Regjeringens budsjettlekkasje viser at det settes av nesten 100 millioner kroner mer til norskopplæring for innvandrere.",
+        "utdypning": "Regjeringa set av pengar til betre norskopplæring for innvandrarar. Men en professor etterlyser eit breiare fokus frå politikarane.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/rettssaken-starter-na_-pelsdyrbonder-krever-60-millioner-fra-staten-1.18035399"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Millioner til Forsvarets forskningsinstitutt i Tromsø",
-        "tekst": "Etter mange års venting bevilger regjeringa 20,7 millioner kroner til å opprette FFI Nord i Tromsø.",
-        "utdypning": "Satsingen kommer etter flere års anbefalinger. Midlene skal gå til å etablere en fast tilstedeværelse for Forsvarets forskningsinstitutt i nord.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringa-gir-20-millionar-kroner-til-ffi-nord-1.18038424"
+            "lenke": "https://www.nrk.no/rogaland/budsjettlekkasje-fra-regjeringa_-nesten-100-millionar-til-integrering-1.18038493"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Kjempeunderskudd i Alta kommune",
-        "tekst": "Alta kommune risikerer å havne på Robek-lista etter å ha budsjettert med et overforbruk på 84 millioner kroner i år.",
-        "utdypning": "Politisk opposisjon ved Høyre og Frp retter sterk kritikk mot flertallet og uttaler at Ap og Sp ikke er styringsdyktige. Kommunen står nå overfor svært stramme økonomiske tider.",
+        "tittel": "Vil åpne for nettpoker",
+        "tekst": "Kulturminister Lubna Jaffery (Ap) åpner for at det kan bli tillatt med lovlig nettpoker i Norge.",
+        "utdypning": "Kulturminister Lubna Jaffery (Ap) er positiv til norsk pokerspill.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/millionsprekk-i-alta-_-kommunen-pa-sto-kurs-mot-robek-1.18039166"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/innlandet/regjeringen-foreslar-lovendring-for-a-la-norsk-tipping-drive-lovlig-nettpoker-1.18039073"
           }
         ],
         "antall_kilder": 1,
@@ -85,24 +98,63 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Magdalena Andersson gir opp regjeringsdannelse",
-        "tekst": "S-leder Magdalena Andersson gir opp forsøket på å danne en svensk firepartiregjering etter dyp politisk splittelse.",
-        "utdypning": "Vänsterpartiets beskjed om å støtte M-talmannen Andreas Norlén ble avgjørende. Andersson opplyser at det i nuläget ikke finnes grunnlag for å få på plass et rødgrønt regjeringsalternativ, og hun overleverer sonderingsoppdraget.",
+        "tittel": "Livstidsdom for trippelmord i Uppsala",
+        "tekst": "Hovrätten fastslår tingsrettens dom på livstid for en 22 år gammel mann etter henrettelsen av tre unge menn.",
+        "utdypning": "De tre unga offren – 15, 16 og 20 år gamla – sköts i huvudet innan trippelmördaren flydde frisörsalongen i Uppsala. I tingsrätten dömdes en 22-årig man till livstids fängelse i vad som beskrivits som en avrättning – en dom som nå hovrätten fastställer.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-lamnar-over-sonderingsuppdraget"
+            "lenke": "https://www.svt.se/nyheter/lokalt/uppsala/22-aringen-doms-till-livstids-fangelse-for-trippelmordet-i-uppsala"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Politisk låsning i Sverige",
+        "tekst": "Den svenske regjeringsdannelsen møter store vanskeligheter etter at Magdalena Andersson har returnert sonderingsoppdraget.",
+        "utdypning": "Om det såg svårt ut att bilda en rödgrön regering tidigare, är det inget emot hur det ser ut nu. I hela valrörelsen undvek S-ledaren Magdalena Andersson att tala om de svårigheter hon såg framför sig för att kunna bilda regering. Efter dagens händelseutveckling är det lätt att inse varför.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/relationen-mellan-s-och-v-ar-djupfryst"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Ja til skogkjøp i Härjedalen",
+        "tekst": "Länsstyrelsen har tilltatt at techmilliardæren Alex Karp får kjøpe en stor skogseiendom i Sverige.",
+        "utdypning": "Techmiljardären Alex Karp fick i början av september ja från länsstyrelsen att köpa skog i Härjedalen för en kvarts miljard. Köpet bedöms inte påverka vare sig sysselsättning eller boende negativt i glesbygdsområdet, fastslår länsstyrelsen.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/jamtland/darfor-sa-lansstyrelsen-ja-till-palantir-vdns-skogskop-i-harjedalen"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Finsk etterretning: Økt trussel om russisk sabotasje",
-        "tekst": "Finsk etterretning advarer om at trusselen om russisk sabotasje i Europa og Finland har vokst.",
-        "utdypning": "De mest sårbare målene for mulige russiske sabotasjehandlinger i Finland er forsvarsindustrien og aktiviteter som yter støtte til Ukraina.",
+        "tittel": "Britisk atomparaply til JEF-landene",
+        "tekst": "Storbritannia tilbyr sin atomparaply til Finland og de andre medlemmene i det britisk-ledede JEF-samarbeidet.",
+        "utdypning": "The Joint Expeditionary Force (JEF) er en UK-ledet militær partnerskap som inkluderer de nordiske nasjonene, de baltiske statene samt Nederland og Storbritannia.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20248783?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Advarer om russisk sabotasjefare",
+        "tekst": "Finsk etterretning melder at trusselen om russisk sabotasje mot europeisk infrastruktur har økt.",
+        "utdypning": "De mest sårbare målene for russisk sabotasje i Finland er forsvarsindustrien og aktiviteter som støtter Ukraina.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -115,49 +167,98 @@
     ],
     "Europa": [
       {
-        "tittel": "Serbias president går av for å stille som statsminister",
-        "tekst": "Serbias president Aleksandar Vucic har trukket seg for å lede partiet sitt i det kommende parlamentsvalget i oktober.",
-        "utdypning": "Avgjørelsen kommer etter en lengre periode preget av omfattende protester og anklager om korrupsjon mot Vucics administrasjon. Han stiller nå som statsministerkandidat for det høyrepopulistiske Serbiske framskrittspartiet.",
+        "tittel": "USAs bekymring etter britisk base-sak",
+        "tekst": "Den amerikanske regjeringen stiller spørsmål ved kausjonshandteringen etter en sikkerhetshendelse ved RAF Fairford.",
+        "utdypning": "The US government sees 'the hand of a foreign actor' in the security scare at RAF Fairford, a hub for US heavy bombers in Europe. Donald Trump criticized the suspects being released on bail amid ongoing investigations. British police released five arrested men while probing whether a foreign state was involved.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20260927-serbian-president-aleksandar-vucic-resigns-expected-to-run-for-prime-minister"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-rdf"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-eu-2092-rdf"
           }
         ],
-        "antall_kilder": 3,
+        "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Sveits avviser strengere nøytralitet",
-        "tekst": "Sveitsiske velgere har i en folkeavstemning sagt nei til å innføre en strengere definisjon av landets nøytralitet.",
-        "utdypning": "Forslaget ville ha hindret landet i å innføre internasjonale sanksjoner med mindre de var godkjent av FNs sikkerhetsråd. Sveits' tradisjonelle nøytralitet har vært grunnlovsfestet siden 1848.",
+        "tittel": "Diplomatisk strid om krigsfanger",
+        "tekst": "Sør-Korea anklager Ukraina for å ha brutt en konfidensialitetsavtale om overføring av nordkoreanske krigsfanger.",
+        "utdypning": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret. South Korea has accused Ukraine of breaching a confidentiality agreement and of denying the deal's existence, demanding an apology.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/switzerland-votes-on-country-s-neutrality"
-          },
-          {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/switzerland-voters-reject-stricter-view-of-neutrality/a-79446996?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "URO og arrestasjoner i Frankrike",
+        "tekst": "Den franske statsministeren advarer mot voldelig eskalering i forbindelse med omfattende skoleprotester.",
+        "utdypning": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence. Over 160 people were arrested following protests that descended into clashes.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Argentina truer Storbritannia med søksmål",
+        "tekst": "Argentinas president gir en to ukers frist for å skrote et oljeprosjekt ved Falklandsøyene.",
+        "utdypning": "A major offshore oil project is opening a new front in the Falklands sovereignty dispute, with Buenos Aires threatening legal action and sanctions against companies involved. President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "OpenAI setter utrulling på pause",
+        "tekst": "Selskapet stanser lanseringen av en ny KI-modell på grunn av sikkerhetsbekymringer.",
+        "utdypning": "The firm also issued an update on incidents in which its models accessed Australian government systems. The decision comes amid a broader push within the industry to slow the development of increasingly powerful systems until safety measures can catch up.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Amerikansk importforbud mot Canada",
+        "tekst": "USAs forbud mot kanadisk alkohol og meieriprodukter trer i kraft som ledd i en pågående handelskonflikt.",
+        "utdypning": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ]
   },
   "folg_med": [],
   "senere": [],

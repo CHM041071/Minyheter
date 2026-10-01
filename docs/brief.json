@@ -1,7 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen gir grønt lys til tre års deponering av gruveavfall i Førdefjorden.",
+      "tekst": "Russland har gjennomført omfattende angrep mot ukrainsk energiinfrastruktur, noe som har utløst strømbrudd i flere regioner.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts"
+        }
+      ]
+    },
+    {
+      "tekst": "Klima- og miljødepartementet gir en tidsbegrenset tillatelse til deponering av gruveavfall i Førdefjorden i tre år.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +19,11 @@
       ]
     },
     {
-      "tekst": "Energidepartementet overprøver NVE og krever ny behandling av Davvi vindkraftverk.",
+      "tekst": "Storbritannias statsminister Andy Burnham har åpnet for at landet kan vurdere å melde seg inn i EU igjen.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/sapmi/regjeringen-overprover-fagetaten_-apner-for-omstridt-vindkraftverk-i-finnmark-1.18040981"
-        }
-      ]
-    },
-    {
-      "tekst": "Stortingets kontroll- og konstitusjonskomité innleder høringer om UD-forvaltningens Epstein-koblinger.",
-      "kilder": [
-        {
-          "navn": "SVT",
-          "lenke": "https://www.svt.se/nyheter/utrikes/jonas-gahr-store-hors-om-norska-epsteinkopplingarna"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu"
         }
       ]
     }
@@ -32,8 +32,8 @@
     "Norge": [
       {
         "tittel": "Grønt lys for gruveavfall i Førdefjorden",
-        "tekst": "Klima- og miljødepartementet gir en tidsbegrenset tillatelse til deponering av gruveavfall i Førdefjorden i tre år.",
-        "utdypning": "Klima- og miljødepartementet sier ja til deponering av gruveavfall i tre år fremover. Klima- og miljøminister Sigrun Aasland opplyser at Høyesteretts dom betyr at departementet må gjøre noe med vedtakene som er kjent ugyldige, og at de gamle vedtakene derfor suspenderes. Departementet vurderer om selskapet kan gis en langvarig tillatelse, med mål om å ha vurderingen ferdig tidlig i 2027.",
+        "tekst": "Klima- og miljødepartementet gir selskapet en tidsbegrenset tillatelse til deponering av gruveavfall i tre år framover.",
+        "utdypning": "Klima- og miljødepartementet gir en tidsbegrenset tillatelse til deponering av gruveavfall i Førdefjorden for de neste tre årene. Ifølge klima- og miljøminister Sigrun Aasland kommer tillatelsen som følge av Høyesteretts dom, som betyr at departementet må gjøre noe med vedtakene som er kjent ugyldige. De gamle vedtakene er suspendert, og departementet jobber nå med å vurdere en eventuell langvarig tillatelse med håp om å ha vurderingen klar tidlig i 2027.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,119 +44,87 @@
         "vekt": 5
       },
       {
-        "tittel": "Regjeringen overprøver NVE om vindkraft",
-        "tekst": "Energidepartementet krever ny behandling av Davvi vindkraftverk etter at NVE tidligere avslo prosjektet uten høring.",
-        "utdypning": "NVE sa opprinnelig nei til Davvi vindkraftverk uten å gjennomføre høring. Nå velger Energidepartementet å overprøve sine egne fageksperter og kaller vedtaket en feil. Sakene krever dermed en ny og helhetlig behandling av det omstridte vindkraftprosjektet.",
+        "tittel": "Forskere: Ingen økt russisk konfliktvilje på Svalbard",
+        "tekst": "Forskere vurderer at Russland ikke har trappet opp aktiviteten på Svalbard eller ønsker framprovosert konflikt med Nato i nord.",
+        "utdypning": "Forskere avviser at Russland trapper opp sin aktivitet på Svalbard. De slår fast at landet heller ikke ønsker å framprovosere en konflikt med Nato i nordområdene.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/sapmi/regjeringen-overprover-fagetaten_-apner-for-omstridt-vindkraftverk-i-finnmark-1.18040981"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Millioner til ny rakettrampe på Andøya",
-        "tekst": "Regjeringens nye millioninvestering skal gi flere aktører tilgang til rommet fra Andøya under norsk kontroll.",
-        "utdypning": "Regjeringen vil bruke nærmere 650 millioner kroner på å bygge en ny rakettrampe på Andøya. Den eksisterende rampen disponeres allerede av én enkelt aktør og deres kunder. Den nye satsingen skal sikre at flere får tilgang til verdensrommet fra norsk territorium.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/regjeringen-vil-bruke-naer-650-millioner-pa-ny-rakettrampe-pa-andoya-1.18039629"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Støre om Fairford-hendelsen og Iran",
-        "tekst": "Storbritannias statsminister bekrefter at det er sterke indikasjoner på iransk involvering i sikkerhetshendelsen ved Fairford-flybasen.",
-        "utdypning": "Storbritannias statsminister Andy Burnham uttaler til britiske medier at det foreligger sterke indikasjoner på at Iran spilte en rolle i en sikkerhetshendelse nær Fairford-flybasen i England. Fem britiske menn ble arrestert og senere løslatt mot kausjon etter hendelsen søndag, uten at det ble funnet eksplosiver på stedet. Iran har på sin side benektet enhver befatning med saken.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/britisk-statsminister_-sterke-indikasjoner-pa-at-iran-var-involvert-i-hendelsen-ved-fairford-flybase-1.18041326"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/forskere_-russland-er-ikke-ute-etter-konflikt-pa-svalbard-1.18041790"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Reagerer på Støres UD-kritikk",
-        "tekst": "Professor Hilde Henriksen Waage kaller statsministerens støtte til 20 år gammel UD-kritikk sjokkerende.",
-        "utdypning": "Historiker og professor Hilde Henriksen Waage reagerer kraftig på at statsminister Jonas Gahr Støre har stilt seg bak en 20 år gammel kritikk fra Utenriksdepartementet mot henne. Reaksjonen kommer i forbindelse med at Stortinget har startet granskingen av UD-forvaltningens roller.",
+        "tittel": "ConocoPhillips vurderer å trekke seg ut fra Tananger",
+        "tekst": "Dersom det amerikanske oljeselskapet selger seg ut, markerer det et endelig punktum for de opprinnelige oljeselskapene på norsk sokkel.",
+        "utdypning": "ConocoPhillips, selskapet som startet det norske oljeeventyret i 1969, vurderer nå å trekke seg ut fra Tananger. Et eventuelt salg markerer et endelig punktum for de opprinnelige amerikanske oljeselskapene på norsk sokkel.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/norge/hilde-henriksen-waage-reagerer-pa-store_-_-sjokkerende-1.18041437"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Stortinget gransker Epstein-koblinger",
-        "tekst": "Stortingets kontroll- og konstitusjonskomité starter høringer om UDs forbindelser til Epstein-saken.",
-        "utdypning": "Et tiår gammelt nettverk av nåværende og tidligere norske utenriks- og biståndsministre skal høres over to dager. Komiteen gransker den norske utrikesforvaltningens håndtering og koblinger i det mye omtalte Epstein-komplekset.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/jonas-gahr-store-hors-om-norska-epsteinkopplingarna"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/rogaland/conocophillips-vurderer-a-trekke-seg-ut-av-norge-1.18041972"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Utredning vil overføre Visby flyplass",
-        "tekst": "En ny svensk utredning foreslår at Försvarsmakten bør overta ansvaret for Visby flyplass.",
-        "utdypning": "Det er tidligere landshövding Anders Flanking som på oppdrag fra regjeringen har utredet fremtiden for flyplassen på Gotland. Forslaget innebærer at Fortifikationsverket og Försvarsmakten tar over både eierskapet og forvaltningsansvaret for Visby flyplass.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/ost/utredning-forsvarsmakten-bor-ta-over-visby-flygplats"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
+    "Skandinavia": [],
     "Norden": [
       {
-        "tittel": "Finland gir millioner til Gaza",
-        "tekst": "Finland bevilger sju millioner euro til gjenoppbygging i Gaza gjennom FN og EU.",
-        "utdypning": "De sju millionene i tilskudd kanaliseres via FNs Horizon-fond samt EUs PEGASE-støttemekanisme. Midlene er øremerket humanitær innsats og gjenoppbygging i områdene som er rammet av konflikten.",
+        "tittel": "Finlands arbeidsledighet høyest i EU",
+        "tekst": "Arbeidsledigheten i Finland lå på 10,3 prosent i august, noe som plasserer landet på topp i EU.",
+        "utdypning": "Tall viser at Finlands arbeidsledighet nå er den høyeste i hele EU. I august sto arbeidsledigheten på 10,3 prosent.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20249166?origin=rss"
+            "lenke": "https://yle.fi/a/74-20249303?origin=rss"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Flere drept i nye russiske angrep",
-        "tekst": "Minst fem personer ble drept i omfattende russiske rakettangrep mot Kyiv og ukrainsk energiinfrastruktur.",
-        "utdypning": "Russland gjennomførte natt til onsdag en av de største angrepsbølgene mot ukrainsk energiinfrastruktur siden våren. Minst fem personer, deriblant et 14 år gammelt barn, mistet livet i angrepene mot Kyiv og elleve andre regioner. Som følge av den militære flyaktiviteten ble også to polske flyplasser, Lublin og Rzeszow, midlertidig stengt.",
+        "tittel": "Massivt russisk angrep mot ukrainsk energi",
+        "tekst": "Russland har utført sitt kraftigste kombinerte angrep mot ukrainsk energiinfrastruktur på måneder, noe som har krevd liv og gitt strømbrudd.",
+        "utdypning": "Russland utførte onsdag sitt kraftigste kombinerte angrep mot Ukrainas energiinfrastruktur på flere måneder. Angrepene rammet 11 regioner, krevde sju menneskeliv og utløste akutte strømbrudd i Kyiv og omliggende områder. Angrepene forsterker frykten for en svært krevende vinter for landets strøm- og varmeforsyning.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv"
+            "lenke": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 5
       },
       {
-        "tittel": "Storbritannia og Frankrike skroter avtale",
-        "tekst": "Den britiske-franske pilotavtalen om retur av asylsøkere er skrotet etter drøyt ett år.",
-        "utdypning": "Avtalen, som gikk ut på en «en inn, en ut»-ordning for migranter som krysser den engelske kanal i små båter, ble avviklet onsdag. Programmet var ment å ramme menneskesmuglernes forretningsmodell ved å returnere udokumenterte migranter mot at andre søkte asyl på lovlig vis. Omkring 1500 personer ble omfattet av ordningen før den ble skrotet.",
+        "tittel": "Storbritannia åpner for å vurdere EU-retur",
+        "tekst": "Storbritannias statsminister Andy Burnham har overraskende tatt til orde for at landet kan se på alternativer utenfor EU og potensielt returnere.",
+        "utdypning": "Storbritannias statsminister Andy Burnham har brutt et politisk tabu ved å bringe ideen om at Storbritannia kan gjeninntre i EU på bordet. Uttalelsene har blitt møtt med positive reaksjoner fra europeiske ledere som Frankrikes president Emmanuel Macron og Spanias statsminister Pedro Sanchez, som begge omtaler et eventuelt britisk skritt mot EU som gode nyheter.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/tv-shows/a-propos/20260930-uk-pm-burnham-reopens-divisive-debate-on-rejoining-eu"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Storbritannia og Frankrike skrinlegger migrasjonsavtale",
+        "tekst": "En britisk-fransk avtale om utveksling av asylsøkere og migranter har blitt skrotet etter å ha vært i drift i litt over ett år.",
+        "utdypning": "En britisk-fransk prøveordning ment for å redusere småbåttrafikken over den engelske kanal er skrotet. Ordningen gikk ut på å sende uekte migranter i retur til Frankrike i bytte mot personer som søkte asyl på lovlig vis, og rundt 1 500 personer ble fjernet til Frankrike i løpet av perioden.",
         "kilder": [
           {
             "navn": "France 24",
@@ -168,31 +136,31 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Macron åpner for britisk EU-retur",
-        "tekst": "Frankrikes president sier det ville være gode nyheter dersom Storbritannia velger å melde seg inn i EU igjen.",
-        "utdypning": "Under en felles pressekonferanse med Spanias statsminister Pedro Sanchez i Madrid uttalte Emmanuel Macron at en britisk retur til unionen ville være en god beslutning. Uttalelsen falt under den franske presidentens to dager lange statsbesøk til Spania.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20260930-live-macron-sanchez-hold-joint-press-conference-during-french-president-s-spain-visit"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Koalisjonsstyrker trekker seg ut av Irak",
-        "tekst": "De siste britiske og amerikanske styrkene har forlatt Irak etter at anti-IS-oppdraget er avsluttet.",
-        "utdypning": "Tilbaketrekkingen av koalisjonsstyrkene skjer i henhold til en avtale som ble fremforhandlet for to år siden. Avviklingen av oppdraget var et sentralt og langvarig krav fra den irakiske regjeringen.",
+        "tittel": "Pakistanske luftangrep mot Afghanistan",
+        "tekst": "Pakistan har gjennomført luftangrep mot to afghanske provinser, og Taliban-myndighetene melder om flere sivile dødsfall.",
+        "utdypning": "Taliban-regjeringen i Afghanistan opplyser at minst ni sivile ble drept i pakistanske luftangrep rettet mot to provinser over natten. Pakistan hevder på sin side at de traff militante skjulesteder og drepte 22 krigere.",
         "kilder": [
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/pakistan-launches-deadly-airstrikes-on-afghanistan/a-79498092?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Kraftig svekkelse av sveitsiske isbreer",
+        "tekst": "Sveitsiske isbreer tapte over fem prosent av sitt isvolum i 2026, noe som markerer det nest største tapet som noen gang er registrert.",
+        "utdypning": "De siste fem årene har sveitsiske isbreer mistet nesten 20 prosent av sin masse, og 2026 opplevde det nest største tapet av brevolum i historien. Eksperter advarer om at det kan være tomt for is i løpet av de neste 10 til 15 årene.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

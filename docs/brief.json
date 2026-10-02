@@ -1,16 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USA presser EU-landene til å frigi strategiske dieselreservere umiddelbart for å dempe prisene som drives opp av krigen mot Iran.",
+      "tekst": "Kong Haakon gjennomfører fredag sin første høytidelige åpning av Stortinget som Norges konge.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/norge/kong-haakon-apner-stortinget-for-forste-gang-som-konge-1.18041872"
         }
       ]
     },
     {
-      "tekst": "Frp, Sp og KrF fremmer et felles stortingsforslag om kutt i drivstoffavgiften ut året etter at prisene har steget.",
+      "tekst": "Frp, Sp og KrF fremmer et felles stortingsforslag om å kutte drivstoffavgiftene ut året.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "PST ber folk langs den norske kysten være oppmerksomme fordi Kina og Russland har økt etterretningen mot kritisk infrastruktur.",
+      "tekst": "USA krever at europeiske allierte umiddelbart frigjør strategiske dieselreserver for å dempe prispresset.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/pst_-ber-folk-langs-kysten-vaere-oppmerksomme-1.18042551"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices"
         }
       ]
     }
@@ -31,9 +31,26 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Vil ha kutt i drivstoffavgiften",
-        "tekst": "Frp, Sp og KrF vil ha kutt i drivstoffavgiften ut året og utfordrer Høyre til å bli med på Stortinget.",
-        "utdypning": "De tre partiene fremmer et felles forslag om avgiftskutt på Stortinget etter at pumpeprisene har økt siden de midlertidige kuttene forsvant 1. september. Høyre-leder Ine Eriksen Søreide sa i august at det ikke var grunnlag for å videreføre kuttene, blant annet fordi oljeprisen hadde falt.",
+        "tittel": "Kong Haakon åpner Stortinget",
+        "tekst": "Kong Haakon foretar fredag sin første høytidelige åpning av Stortinget som konge.",
+        "utdypning": "Dette regnes som en av monarkens viktigste oppgaver. Dronning Mette-Marit kan ikke være til stede under seremonien på grunn av sykdom.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/norge/kong-haakon-apner-stortinget-for-forste-gang-som-konge-1.18041872"
+          },
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/norges-kong-haakon-har-aabnet-stortinget-foerste-gang-som-konge"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Forslag om drivstoffkutt på Stortinget",
+        "tekst": "Frp, Sp og KrF går sammen om å fremme et forslag i Stortinget om avgiftskutt på drivstoff ut året.",
+        "utdypning": "Forslaget ble varslet i en felles pressemelding fredag morgen. Partiene utfordrer Høyre til å støtte tiltaket etter at pumpeprisene har steget siden de midlertidige kuttene opphørte 1. september. Høyre-leder Ine Eriksen Søreide avviste i august å videreføre ordningen, blant annet med henvisning til lavere oljepriser.",
         "kilder": [
           {
             "navn": "NRK",
@@ -41,63 +58,16 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "PST ber folk langs kysten følge med",
-        "tekst": "PST ber folk langs kysten være oppmerksomme på økt russisk og kinesisk etterretning mot kritisk infrastruktur.",
-        "utdypning": "Politiets sikkerhetstjeneste advarer om at Kina og særlig Russland har økt sin etterretningsaktivitet rettet mot kritisk infrastruktur langs den norske kysten, og oppfordrer nå befolkningen til å følge med.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/pst_-ber-folk-langs-kysten-vaere-oppmerksomme-1.18042551"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Norsk tap og rødt kort mot Wales",
-        "tekst": "Norge tapte i Nations League mot Wales etter en marerittstart på andre omgang med rødt kort.",
-        "utdypning": "Torbjørn Heggem fikk rødt kort etter bare 16 sekunder av andre omgang, og like etter tok Wales ledelsen som holdt kampen ut. Eksperter omtalte starten som en katastrofe og et fullstendig hjernsläpp.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/sport/norge-tap-mot-wales_-torbjorn-heggem-fikk-rodt-kort-16-sekunder-etter-pause-1.18042679"
-          },
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/sport/fotboll/mardromssekunderna-sankte-norge-foll-mot-wales"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Fare for evakuering etter brann i Porsgrunn",
-        "tekst": "Porsgrunn kommune advarer om eksplosjonsfare etter en bygningsbrann, og naboer kan bli evakuert i tre døgn.",
-        "utdypning": "Politiet opplyser at det kan ta flere døgn før naboer til den brennende bygningen kan vende hjem på grunn av fare for eksplosjoner og flyvende gjenstander.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/naeringsbygg-i-porsgrunn-overtent-1.18043019"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/roykutvikling-i-bygning-1.18042701"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Redningsselskapet erkjenner sikkerhetssvikt",
-        "tekst": "En intern gransking avdekker sikkerhetsmangler i Redningsselskapet etter en dødsulykke i Lofoten.",
-        "utdypning": "Adrian Willyson Brask (36) druknet under et redningsforsøk i Lofoten, noe som nå har ført til at Redningsselskapet erkjenner sikkerhetssvikt etter at granskingen avdekket flere mangler.",
+        "tittel": "Sp reagerer på kostbar kabelreparasjon",
+        "tekst": "Statnett og danske Energinet har brukt 160 millioner kroner på å reparere en eldre utenlandskabel.",
+        "utdypning": "Senterpartiet reagerer kraftig på pengebruken og mener at forbindelsen, som beskrives som nær slutten av sin levetid, heller burde blitt koblet permanent ut.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/redningsselskapet-erkjenner-sikkerhetssvikt-etter-dodsulykken-i-lofoten-1.18043311"
+            "lenke": "https://www.nrk.no/sorlandet/brukte-160-mill.-pa-a-fikse-utanlandskabel---sp-reagerer-1.18040388"
           }
         ],
         "antall_kilder": 1,
@@ -106,9 +76,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Advarer om dyr vinter for husholdningene",
-        "tekst": "Svenske husholdninger står for en truf vinter når priser på drivstoff, strøm og renter stiger.",
-        "utdypning": "Prisene stiger samtidig som den svenske regjeringens lettnadspaket for husholdningene fasas ut, og det er global mangel på olje og gass som følge av krigen i Midtøsten. Råvaruanalytiker Christian Kopfer peker på at situasjonen er svært usikker.",
+        "tittel": "Dyr vinter i vente for svenske husholdninger",
+        "tekst": "Svenske forbrukere går en tøff vinter i møte med stigende priser på strøm, drivstoff og renter.",
+        "utdypning": "Prispresset forsterkes av at den svenske regjeringens tiltakspakker fases ut, samtidig som krigen i Midtøsten skaper global mangel på olje og gass. Råvareanalytikere beskriver markedsutsiktene som svært usikre.",
         "kilder": [
           {
             "navn": "SVT",
@@ -116,25 +86,12 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Nordmann mistenkt for drap under jakt i Sverige",
-        "tekst": "En mann er anhållen etter at en annen mann ble skutt og dør under jakt i Arjeplog i Sverige.",
-        "utdypning": "Både den drepte og den mistenkte mannen er hjemmehørende i Norge, ifølge de svenske politiopplysningene.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/man-dod-i-arjeplogs-kommun"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Magdalena Andersson får nytt sonderingsoppdrag",
-        "tekst": "Den svenske talmannen gir Socialdemokraternas leder Magdalena Andersson oppdraget med å sondere på nytt.",
-        "utdypning": "Talmann Andreas Norlén kunngjorde på en pressemffest at formelle runder starter mandag, og Andersson skal avlegge rapport innen 12. oktober.",
+        "tittel": "Nytt sonderingsoppdrag til Andersson",
+        "tekst": "Magdalena Andersson har fått et fornyet oppdrag fra den svenske talmannen om å undersøke regjeringsgrunnlag.",
+        "utdypning": "Beslutningen ble offentliggjort under en pressekonferanse fredag. Sonderingsrunden innledes formelt på mandag, og Andersson skal rapportere tilbake til talmannen innen 12. oktober.",
         "kilder": [
           {
             "navn": "SVT",
@@ -143,17 +100,30 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
+      },
+      {
+        "tittel": "Dansk støtte til lavere EU-budsjett",
+        "tekst": "Danmarks regjering har sikret seg parlamentarisk ryggdekning for å kreve et redusert EU-budsjett.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/regeringen-faar-opbakning-til-kraeve-lavere-eu-budget"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Islandske statsgebyrer øker mindre enn planlagt",
-        "tekst": "Statsgebyrer og faste avgifter på Island vil øke med 2,5 prosent ved årsskiftet istedenfor 5,2 prosent.",
-        "utdypning": "Statsminister Kristrún Frostadóttir kunngjorde endringen på Samtök atvinnulífsins' årsmøte etter sterk kritik fra opposisjonen og arbeidslivsorganisasjonene mot den opprinnelige inflasjonsbaserte økningen.",
+        "tittel": "Finlands regjering overlevde mistillitsvotum",
+        "tekst": "Finlands regjering og forsvarsminister har overlevd et mistillitsforslag i Riksdagen.",
+        "utdypning": "Mistillitsvotumet ble fremmet av landets største opposisjonsparti, SDP, med bakgrunn i regjeringens linje overfor Midtøsten.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-01-government-fee-increases-will-be-limited-to-25-488564/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20249557?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -162,9 +132,9 @@
     ],
     "Europa": [
       {
-        "tittel": "USA presser EU til å frigi dieselreserver",
-        "tekst": "USA krever at europeiske land umiddelbart frigi strategiske dieselreserver for å presse ned prisene.",
-        "utdypning": "Kravet kommer etter at USAs president Donald Trump har antydet et mulig eksportforbud for amerikansk diesel, som drives opp av krigen mot Iran. EU-statene holder et krismøte fredag for å diskutere en koordinert respons.",
+        "tittel": "USA krever åpning av europeiske diesellagre",
+        "tekst": "USA har bedt europeiske allierte om å umiddelbart frigi strategiske dieselreserver for å motvirke prisvekst.",
+        "utdypning": "Prisene er drevet opp av USAs krig mot Iran. Presset fra Washington øker etter at president Donald Trump antydet muligheten for et eksportforbud for amerikansk diesel, ettersom den innenlandske prisveksten svekker hans oppslutning. EU-landene skal drøfte en samordnet respons fredag.",
         "kilder": [
           {
             "navn": "France 24",
@@ -172,16 +142,29 @@
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-pressures-eu-allies-to-release-diesel-stockpiles/a-79509571?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Russiske droneangrep mot sentral bro i Kyiv",
-        "tekst": "Russiske droner traff Kyivs sørlige bro for fjerde gang på et døgn og tvang frem stenging av trafikken.",
-        "utdypning": "Angrepet rammet også en metrotogforbindelse som krysset broen, noe som er første gang en av byens broer blir rammet på denne måten. Broen er en av syv kritiske forbindelser over Dnipro-elven og er ekstremt viktig for byens infrastruktur.",
+        "tittel": "EU forbereder strøm- og gasskutt",
+        "tekst": "Europeiske land blir bedt om å iverksette energisparingsplaner før vinteren som følge av høye drivstoffpriser.",
+        "utdypning": "Gjennomsnittsprisen på diesel har passert to euro per liter, mot rundt 1,50 euro på samme tid i fjor. Den pågående konflikten i Midtøsten forsterker levekostnadskrisen i Europa, og landene vurderer nå effekten av ulike støttetiltak.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/tv-shows/talking-europe/20261002-a-grim-winter-ahead-eu-states-asked-to-prepare-gas-and-electricity-savings"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Kyiv-bro stengt etter nye droneangrep",
+        "tekst": "Russiske droner har truffet den viktige Sørlige bro i Kyiv for fjerde gang på ett døgn.",
+        "utdypning": "Trafikken over broen er stengt etter at et T-banetog med passasjerer havnet under angrep. Forbindelsen er en av sju broer over Dnipro-elven og regnes som avgjørende for ferdselen i den ukrainske hovedstaden.",
         "kilder": [
           {
             "navn": "France 24",
@@ -193,52 +176,98 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Hundrevis arrestert under skolaprotester i Frankrike",
-        "tekst": "Omfattende skolaprotester mot overfulle klasser og lærermangel har ført til hundrevis av arrestasjoner og sammenstøt i Frankrike.",
-        "utdypning": "Politiet har foretatt rundt 2000 arrestasjoner og flere er skadet etter at uroen spredte seg til 400 stengte skoler. Ministre har bedt om dialog, mens studentene krever ytterligere streik.",
-        "kilder": [
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
         "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Diplomatisk krangel mellom Ukraina og Sør-Korea",
-        "tekst": "Sør-Korea krever en unnskyldning fra Ukraina etter at ukrainske myndigheter utleverte to nordkoreanske krigsfanger.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyys offentliggjøring av overføringen til Seoul har vakt kraftige reaksjoner. Sør-Koreas president advarer om at Kyiv forsøker å provosere frem en krig på Koreahalvøya.",
+        "tittel": "Merz advarer om russisk trussel mot Europa",
+        "tekst": "Tysklands forbundskansler Friedrich Merz advarer om at Russland vil true hele Europa om landet ikke stoppes i Ukraina.",
+        "utdypning": "Uttalelsen kom under en seremoni der NATO ble tildelt Den westfalske fredspris. Samtidig bekreftes det at det tyske forsvaret skal etablere sitt første egne droneregiment.",
         "kilder": [
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Sør-Korea truer med tiltak mot Ukraina",
+        "tekst": "Sør-Koreas president Lee Jae Myung truer med videre tiltak overfor Ukraina dersom landet ikke beklager i en krigsfangestrid.",
+        "utdypning": "Uenigheten eskalerte etter at Ukrainas president Volodymyr Zelenskyj offentliggjorde overføringen av to nordkoreanske krigsfanger til Seoul. President Lee anklager Kyiv for å provosere fram krig på Koreahalvøya.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Klitsjko melder om dramatisk situasjon i Kyiv",
+        "tekst": "Ordfører Vitalij Klitsjko advarer om at intensiverte russiske angrep rammer Kyiv hardt.",
+        "utdypning": "Ifølge ordføreren er situasjonen i hovedstaden svært dramatisk etter at gjentatte angrep er rettet direkte mot kritisk sivil infrastruktur.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 3
       }
     ]
   },
-  "folg_med": [],
+  "folg_med": [
+    {
+      "tid": "",
+      "kategori": "Politikk",
+      "hendelse": "Kong Haakon foretar den høytidelige åpningen av det nye stortingsåret.",
+      "hvorfor": "Dette er første gang han utfører denne konstitusjonelle oppgaven som konge.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/norge/kong-haakon-apner-stortinget-for-forste-gang-som-konge-1.18041872"
+        },
+        {
+          "navn": "DR",
+          "lenke": "https://www.dr.dk/nyheder/seneste/norges-kong-haakon-har-aabnet-stortinget-foerste-gang-som-konge"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Energi",
+      "hendelse": "EU-landene møtes for å drøfte USAs krav om å frigi strategiske dieselreserver.",
+      "hvorfor": "Washington legger press på Europa og har antydet eksportforbud for amerikansk diesel.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices"
+        },
+        {
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Økonomi",
+      "hendelse": "Islands statsminister legger fram en liste med tiltak for regjeringen.",
+      "hvorfor": "Tiltakene og en felles erklæring med partene i arbeidslivet skal sikre tariffavtalene og dempe inflasjonen.",
+      "kilder": [
+        {
+          "navn": "RÚV English",
+          "lenke": "https://www.ruv.is/english/2026-10-02-that-was-the-deal-all-along-488611/"
+        }
+      ]
+    }
+  ],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modell": "gemini-3.8-flash"
 }

@@ -1,25 +1,25 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Frp, Sp og KrF fremmer et felles forslag på Stortinget om kutt i drivstoffavgiften ut året.",
+      "tekst": "G7-landene frigir 100 millioner fat diesel og råolje for å dempe prisgaloppen etter amerikanske trusler om eksportforbud.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/frp_-sp-og-krf-vil-ha-kutt-i-drivstoffavgiften-ut-aret-1.18043070"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks"
         }
       ]
     },
     {
-      "tekst": "Kong Haakon avlyser årets Sikt-konferanse som følge av tronskiftet.",
+      "tekst": "Russiske luftangrep har truffet enda en stor bro over Dnipro-elven i Kyiv, ifølge byens ordfører.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/kong-haakon-avlyser-sikt-konferansen-1.18044202"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv"
         }
       ]
     },
     {
-      "tekst": "Senterpartiet reagerer sterkt på at Statnett og danske Energinet har brukt 160 millioner på å fikse en utenlandskabel.",
+      "tekst": "Statnett og danske Energinet har brukt 160 millioner kroner på å reparere en utenlandskabel, noe som møter sterk politisk reaksjon.",
       "kilder": [
         {
           "navn": "NRK Norge",
@@ -31,22 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Vil ha kutt i drivstoffavgiften",
-        "tekst": "Frp, Sp og KrF fremmer et felles Stortingsforslag om å kutte drivstoffavgiften ut året, og utfordrer Høyre til å bli med.",
-        "utdypning": "Siden avgiftskuttene forsvant 1. september har pumpeprisen økt over hele landet. De tre partiene går sammen om å fremme et felles forslag på Stortinget. Høyre-leder Ine Eriksen Søreide sa i august at det ikke var grunnlag for å videreføre kuttene, blant annet fordi oljeprisen hadde falt.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/frp_-sp-og-krf-vil-ha-kutt-i-drivstoffavgiften-ut-aret-1.18043070"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Reagerer på millionbruk på utenlandskabel",
-        "tekst": "Statnett og danske Energinet har brukt 160 millioner kroner på å fikse en utenlandskabel, noe Senterpartiet reagerer sterkt på.",
-        "utdypning": "Kabelen som har blitt fikset synger på siste verset. Senterpartiet mener at den i stedet skulle blitt kopplet ut for godt.",
+        "tittel": "Millioner brukt på utenlandskabel",
+        "tekst": "Statnett og danske Energinet har brukt 160 millioner kroner på å fikse en utenlandskabel. Senterpartiet reagerer sterkt og mener den heller burde blitt koblet ut for godt.",
+        "utdypning": "Statnett og danske Energinet har brukt 160 millioner kroner på å reparere en utenlandskabel som synger på siste verset. Senterpartiet reagerer sterkt på pengebruken. De mener at kabelen i stedet skulle blitt koblet ut for godt.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -57,9 +44,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Kong Haakon avlyser Sikt-konferansen",
-        "tekst": "Kongehuset opplyser fredag kveld at Sikt-konferansen avlyses som følge av tronskiftet, og arrangementet blir ikke videreført i nåværende form.",
-        "utdypning": "Sikt-konferansen er en årlig konferanse som skal være et møtested for unge ledere mellom 20 og 40 år. Det var daværende kronprins Haakon som i 2013 tok initiativ til konferansen som en del av sitt offisielle virke.",
+        "tittel": "Kongehuset avlyser Sikt-konferansen",
+        "tekst": "Kong Haakon avlyser årets Sikt-konferansen som følge av tronskiftet. Kongehuset opplyser at konferansen i sin nåværende form ikke blir videreført.",
+        "utdypning": "Kong Haakon avlyser årets Sikt-konferanse som følge av tronskiftet, ifølge en pressemelding fra kongehuset fredag kveld. Sikt-konferansen er en årlig møteplass for unge ledere mellom 20 og 40 år. Det var daværende kronprins Haakon som tok initiativ til konferansen i 2013.",
         "kilder": [
           {
             "navn": "NRK",
@@ -72,26 +59,39 @@
         ],
         "antall_kilder": 2,
         "vekt": 4
-      }
-    ],
-    "Skandinavia": [
+      },
       {
-        "tittel": "Advarer om migranter som hybridhot",
-        "tekst": "Lettlands myndigheter opplyser at over 11.000 ulovlige grensepasseringer fra Belarus er stoppet i år, og peker på det som et hybridhot.",
-        "utdypning": "Flere grenseoverganger har blitt stengt som følge av situasjonen. Myndighetene anklager Belarus og Russland for å bruke migranter for å destabilisere EU.",
+        "tittel": "Vil bevare og billiggjøre flytilbud",
+        "tekst": "Samferdselsministeren vil frede FOT-rutene i nord og gjøre det billigere å fly. Lokalbefolkninga meiner imidlertid at det ikkje er nok.",
+        "utdypning": "Samferdselsministeren ønsker å frede FOT-rutene i nord og gjøre det billigere å fly. Forslaget møter likevel motbør fra lokalbefolkninga, som meiner at tiltaka ikkje er nok.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/migranter-pekas-ut-som-hybridhot-har-rustas-gransen"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
+        "tittel": "Kraftig vekst i cruiseturisme",
+        "tekst": "Talet på cruiseturistar i Noreg har tidobla seg etter tunge subsidiar frå staten.",
+        "utdypning": "Talet på cruiseturistar i Noreg har tidobla seg etter tunge subsidiar frå staten. En gjennomgang har sett på hvor pengene fra denne turismen faktisk havner.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/mr/xl/cruisebat-trafikken-er-dobla-pa-ti-ar-i-noreg_-slepp-ut-meir-co_-enn-innanlands-flytrafikk-1.17853772"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Skandinavia": [
+      {
         "tittel": "Siktet for terrorplaner mot Nigel Farage",
-        "tekst": "En mann som allerede er siktet for mordet på Ann Widdecombe, er nå også siktet for terrorforberedelser mot den britiske politikeren Nigel Farage.",
-        "utdypning": "Saken etterforskes av britisk politi, og opplysningene kommer fram i svenske og danske medier med referanse til The Telegraph.",
+        "tekst": "En mann som allerede er siktet for drap, knyttes nå til terrorforberedelser mot den britiske politikeren Nigel Farage.",
+        "utdypning": "Mannen ble i juli grepet, mistenkt for mordet på den britiske ex-ministern Ann Widdecombe. Nå anklages han også for forberedelse av terrorbrott, blant annet rettet mot politikeren Nigel Farage, ifølge opplysninger fra The Telegraph.",
         "kilder": [
           {
             "navn": "SVT",
@@ -112,22 +112,9 @@
     ],
     "Norden": [
       {
-        "tittel": "Islandske myndigheter begrenser avgiftsøkning",
-        "tekst": "Den islandske regjeringen vil begrense økningen i faste avgifter til 2,5 prosent ved årsskiftet, mot tidligere foreslåtte 5,2 prosent.",
-        "utdypning": "Statsminister Kristrún Frostadóttir presenterte nyheten under et årlig næringslivsmøte. Forslaget kommer etter sterk kritikk fra arbeidslivsorganisasjoner og opposisjonen mot de opprinnelige inflasjonsjusterte planene.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-01-government-fee-increases-will-be-limited-to-25-488564/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Finsk regjering overlevde mistillitsforslag",
-        "tekst": "Finlands regjering og forsvarsminister overlevde et mistillitsforslag fremmet av opposisjonspartiet SDP.",
-        "utdypning": "Mistillitsforslaget ble fremmet av landets største opposisjonsparti i forbindelse med regjeringens håndtering av Midtøsten-politikk.",
+        "tittel": "Finland: Regjering og forsvarsminister overlevde mistillitsforslag",
+        "tekst": "Den finske regjeringen og forsvarsministeren overlevde et mistillitsforslag fremmet av opposisjonspartiet SDP på grunn av landets Midtøsten-politikk.",
+        "utdypning": "Finlands største opposisjonsparti, SDP, hadde krevd mistillitsvotum mot hele regjeringa. Avstemningen endte imidlertid med at regjeringa og forsvarsministeren overlevde.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -140,9 +127,30 @@
     ],
     "Europa": [
       {
-        "tittel": "Russisk angrep mot ny bro i Kyiv",
-        "tekst": "Kyivs nordlige bro over Dnipro-elven ble treff av et russisk luftangrep, opplyser byens ordfører Vitaliy Klitschko.",
-        "utdypning": "Angrepet skjer midt i en opptrapping av russiske angrep mot kritisk infrastruktur i Ukrainas hovedstad. Dagen før ble også byens sørlige bro rammet av flere angrep, noe tjenestepersoner beskriver som en dramatisk situasjon for byen.",
+        "tittel": "G7 frigir 100 millioner fat olje og diesel",
+        "tekst": "G7-landene frigir 100 millioner fat olje og diesel fra sine lagre for å unngå et amerikansk eksportforbud og dempe prisveksten.",
+        "utdypning": "Medlemmene i G7-bloken ble fredag enige om å frigi 100 millioner fat diesel og råolje fra sine reserver over en firemåneder periode. Tiltaket skal avverge et potensielt amerikansk eksportforbud og dempe stigende priser. EU-kommisjonen avviste tidligere Washingtons trusler, men den koordinerte frigivningen skjer etter at USAs leder ba europeiske land om å avhjelpe situasjonen.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "Russiske angrep rammer ny bro i Kyiv",
+        "tekst": "Ukrainas hovedstad opplever en opptrapping av angrep mot infrastruktur etter at nok en stor bro ble truffet av et russisk luftangrep.",
+        "utdypning": "Kyivs Nordlige bro over Dnipro-elven ble truffet av et russisk luftangrep lørdag, opplyser ordfører Vitali Klitschko. Angrepet skjer midt i en opptrapping av angrep mot infrastruktur i den ukrainske hovedstaden. Dagen før ble byens Sørlige bro rammet av flere angrep som embetsfolk beskrev som ødeleggende.",
         "kilder": [
           {
             "navn": "France 24",
@@ -161,66 +169,36 @@
         "vekt": 5
       },
       {
-        "tittel": "USA presser Europa til å frigi dieselreserver",
-        "tekst": "USA ber europeiske allierte om å frigi strategiske dieselreserver umiddelbart for å dempe prispresset etter konflikten med Iran.",
-        "utdypning": "USAs president Donald Trump har antydet en mulig eksportban på amerikansk diesel, noe som har drevet prisene oppover. G7-landene og EU-statene diskuterer en koordinert respons for å unngå ytterligere prisøkninger som har rammet husholdninger.",
+        "tittel": "Massive boligprotester i Spania",
+        "tekst": "Tiener tusenvis marsjerte i spanske gater for rimelig bolig etter at parlamentet avslo regjeringens krisetiltak.",
+        "utdypning": "Titusenvis av demonstranter marsjerte i Madrid og rundt 50 andre spanske byer for å kreve rimelige boliger. Protestene ble utløst av sinne over at parlamentet knapt avslo krisetiltak fremmet av statsminister Pedro Sanchez for å styrke leietakernes vern. Husleiene har doblet seg det siste tiåret, og arrangører anslo at 500 000 mennesker deltok i Madrid.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261001-us-europe-diesel-reserves-fuel-prices"
+            "lenke": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures"
           },
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-eu-2092-rdf"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 3,
         "vekt": 4
-      },
-      {
-        "tittel": "Spansk parlament stemte ned boliglover",
-        "tekst": "Spanske lovgivere stemte ned to lovforslag fra statsminister Pedro Sanchez sin regjering som skulle dempe landets boligkrise.",
-        "utdypning": "Demonstranter reagerte med sinne etter at parlamentet avviste forslagene. Renter har doblet seg over det siste tiåret, og gjennomsnittsprisene tilsvarer nå en hel månedslønn for unge arbeidstakere.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261002-spanish-lawmakers-vote-down-affordable-housing-bills-in-blow-to-sanchez-s-government"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Flydubai-andrepilot siktet for terrorangrep i luften",
-        "tekst": "UAE opplyser at en andrepilot forsøkte å utføre et terrorangrep ved å knivstikke en kollega på en Israel-bundet Flydubai-flygning.",
-        "utdypning": "Kapteinen åpnet cockpiten for å slippe andre til for å avverge situasjonen. Den siktede mannen var tidligere utestengt fra å fly i sitt hjemland Oman på grunn av sikkerhetsbekymringer.",
+        "tittel": "Parlamentsvalg i Latvia",
+        "tekst": "Rundt 1,5 millioner velgere i Latvia stemmer i et valg preget av sikkerhetsbekymringer og økende levekostnader.",
+        "utdypning": "Rundt 1,5 millioner latviere har stemmerett i et parlamentsvalg som domineres av nasjonale sikkerhetsbekymringer og økende levekostnader. Fire Eurofighter-fly er satt inn på NATO-oppdrag over Latvia under avstemningen.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "USA og Australia stenger konsulattjenester i Brasil",
-        "tekst": "USA og Australia stanser sine konsulære tjenester i Brasil like før landets presidentvalg.",
-        "utdypning": "Nedstengningen trer i kraft fredag, bare to dager før velgerne i Brasil skal stemme i et svært jevnt og skjebnesvangert valg.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

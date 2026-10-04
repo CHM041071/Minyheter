@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Russiske luftangrep har truffet to store bruer over Dnipro-elven i Kyiv i løpet av få dager.",
+      "tekst": "Norske jagerfly har avskjært dobbelt så mange russiske fly hittil i år sammenlignet med hele fjoråret.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/nordland/qra-fra-evenes_-har-doblet-antall-avskjaeringer-av-russiske-fly-1.18039885"
         }
       ]
     },
     {
-      "tekst": "G7-landene frigiør 100 millioner fat diesel og råolje for å dempe prisveksten og avverge et amerikansk eksportforbud.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks"
-        }
-      ]
-    },
-    {
-      "tekst": "Kong Haakon har avlyst årets Sikt-konferanse som følge av tronskiftet i landet.",
+      "tekst": "Regjeringen vil frede og kutte prisene på FOT-rutene i Nord-Norge, men distriktene krever ytterligere tiltak.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/kong-haakon-avlyser-sikt-konferansen-1.18044202"
+          "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946"
+        }
+      ]
+    },
+    {
+      "tekst": "Tysklands statsminister Friedrich Merz besøker Kyiv og lover ny militær støtte og felles droneproduksjon til Ukraina.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
         }
       ]
     }
@@ -31,94 +31,206 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Kong Haakon avlyser Sikt-konferansen",
-        "tekst": "Kongehuset opplyser at årets Sikt-konferanse avlyses som følge av tronskiftet.",
-        "utdypning": "Kongehuset opplyste fredag kveld at Sikt-konferansen i sin nåværende form ikke vil bli videreført. Konferansen er en årlig møteplass for unge ledere mellom 20 og 40 år. Det var daværende kronprins Haakon som tok initiativ til arrangementet i 2013 som en del av sitt offisielle virke.",
+        "tittel": "Markant økning i russisk flyaktivitet",
+        "tekst": "Norske jagerfly har rykket ut betydelig oftere i år og har identifisert dobbelt så mange russiske fly som i fjor.",
+        "utdypning": "Allerede før inngangen til oktober passerte Forsvaret fjorårets samlede antall identifiseringer. I perioder har Luftforsvaret måttet rykke ut på daglig basis mot russiske flygninger. Aktiviteten har imidlertid avtatt noe utover høsten.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/nordland/qra-fra-evenes_-har-doblet-antall-avskjaeringer-av-russiske-fly-1.18039885"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Regjeringen vil frede FOT-ruter i nord",
+        "tekst": "Samferdselsministeren vil sikre kortbanenettet i Nord-Norge og kutte billettprisene på FOT-rutene.",
+        "utdypning": "Målet med tiltaket er å bevare flytilbudet og gjøre det billigere å reise i distriktene. Lokale stemmer uttrykker imidlertid misnøye med forslaget. De krever mer omfattende tiltak for å sikre et tilfredsstillende transporttilbud i landsdelen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/kong-haakon-avlyser-sikt-konferansen-1.18044202"
+            "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Sterk økning i subsidiert cruiseturisme",
+        "tekst": "Antallet cruiseturister til Norge har blitt tidoblet etter tunge statlige subsidier til næringen.",
+        "utdypning": "NRK har undersøkt cruiseanløp langs norskekysten for å kartlegge det økonomiske utbyttet. Spørsmålet er hvor store verdier turistene faktisk legger igjen lokalt. Den kraftige passasjerveksten har skapt debatt om effekten av statsstøtten.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/mr/xl/cruisebat-trafikken-er-dobla-pa-ti-ar-i-noreg_-slepp-ut-meir-co_-enn-innanlands-flytrafikk-1.17853772"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Skandinavia": [
+      {
+        "tittel": "Flere hundre skandinaver i IDF",
+        "tekst": "Nær 300 personer fra skandinaviske land er registrert i det israelske militæret.",
+        "utdypning": "Tall fra Israels militære viser at titusenvis av personer med flerdobbelt statsborgerskap inngår i rekkene. Rullene omfatter 150 svensker, 99 dansker, 62 finner og 35 nordmenn. John McEvoy i Declassified UK understreker overfor SVT betydningen av at offentligheten får innsyn i deltakelsen.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/nara-300-skandinaver-ar-med-i-den-israeliska-militaren-svt-har-traffat-en-av-dem"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Norden": [],
+    "Europa": [
+      {
+        "tittel": "Tysklands statsminister på uanmeldt Kyiv-besøk",
+        "tekst": "Kansler Friedrich Merz har ankommet Ukrainas hovedstad for å bekrefte tysk støtte og varsle nye militære bidrag.",
+        "utdypning": "Besøket skjer dagen etter at Russland advarte diplomater og utlendinger om forestående massive luftangrep mot hovedstaden. Kort tid etter Merz' ankomst ble en bro i Kyiv truffet av en russisk drone. Tysklands regjeringssjef skal under oppholdet legge frem planer om felles droneproduksjon.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
           },
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/norges-kong-haakon-har-aabnet-stortinget-foerste-gang-som-konge"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Valgseier for Latvias statsminister",
+        "tekst": "Statsminister Andris Kulbergs ligger an til å beholde makten etter en historisk sterk oppslutning for sentrumsalliansen.",
+        "utdypning": "Partiet De forente lister sikret den største valgseieren i Latvia siden uavhengigheten. Resultatet forventes å videreføre landets pro-europeiske og pro-ukrainske politiske linje. Samtidig opplevde populistiske partier betydelig fremgang i parlamentsvalget.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 3
-      }
-    ],
-    "Skandinavia": [],
-    "Norden": [],
-    "Europa": [
-      {
-        "tittel": "G7 frigiør 100 millioner fat olje og diesel",
-        "tekst": "G7-landene frigir 100 millioner fat olje og diesel over fire måneder for å avverge et amerikansk eksportforbud.",
-        "utdypning": "Gruppen av industrialiserte land ble enige om tiltaket fredag for å dempe prispresset på drivstoff og unngå at USA innførte et forbud mot dieseleksport. USAs president hadde bedt europeiske land om å frigi reserver for å lette situasjonen etter at høye priser har skadet hans popularitet. Den anmodningen ble først møtt med motstand fra EU, som tidligere avviste USAs krav.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/europe-to-release-diesel-reserves-after-trump-request/a-79522810?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 5
       },
       {
-        "tittel": "Nye russiske angrep mot bruer i Kyiv",
-        "tekst": "Ukrainske myndigheter opplyser at nok en stor bru i Kyiv har blitt rammet i russiske angrep.",
-        "utdypning": "Kyivs nordlige bru over Dnipro-elven ble treff av et russisk luftangrep lørdag, ifølge ordfører Vitaliy Klitschko. Angrepet skjer etter at også byens sørlige bru ble truffet av flere angrep i løpet av de siste dagene. Infrastrukturen i den ukrainske hovedstaden utsettes nå for en kraftig opptrapping av angrep.",
+        "tittel": "Valgdag i Bosnia-Hercegovina",
+        "tekst": "Innbyggerne i Bosnia-Hercegovina stemmer søndag i et valg preget av etniske motsetninger og kamp om ekstern innflytelse.",
+        "utdypning": "Valget favner både nasjonalt parlament, presidentskap og lokale nivåer under det komplekse styringssystemet fra 1995. Den separatistiske lederen Milorad Dodik har preget valgkampen til tross for at han er utestengt fra offentlige verv. Valget anses som avgjørende for hvor stor påvirkning Russland vil beholde i landet.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261003-russia-strikes-another-major-bridge-in-kyiv"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.france24.com/en/europe/20261004-polls-open-in-bosnia-and-herzegovina-as-pro-russian-politician-looms-large-over-race"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Store boligprotester i Spania etter avvist lovforslag",
-        "tekst": "Titusenvis av demonstranter marsjerte i Madrid og andre spanske byer for å kreve rimeligere boliger.",
-        "utdypning": "Protestene kommer etter at landets parlament snevert avviste to kriseforhåndsmidler fra statsminister Pedro Sanchez sin regjering. Forsøkene var ment å styrke leietakernes rettigheter og sikre rimeligere boliger. Organisasjonene anslo at rundt 500 000 mennesker deltok i Madrid, mens lignende markeringer fant sted i om lag 50 andre byer.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
+        "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Jevnt presidentvalg i Brasil",
+        "tekst": "Brasil velger ny president i et oppgjør mellom Lula da Silva og Flavio Bolsonaro.",
+        "utdypning": "Valgkampen har vært preget av harde konfrontasjoner om nasjonal sikkerhet, suverenitet og forholdet til USA. Flavio Bolsonaro utfordrer den sittende venstreorienterte presidenten på vegne av høyresiden. Meningsmålingene er så jevne at oppgjøret etter alt å dømme går til en andre valgomgang.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Krigshandlinger mellom Pakistan og Afghanistan",
+        "tekst": "Konflikten mellom Pakistan og nabolandets Taliban-styre har eskalert fra tidligere allianse til åpne krigshandlinger.",
+        "utdypning": "Pakistan har i en årrekke støttet afghanske Taliban, men har nå innledet bombing av mål i nabolandet. Forholdet mellom landene har brutt sammen etter at gjentatte diplomatiske forhandlinger har mislyktes.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ]
   },
-  "folg_med": [],
+  "folg_med": [
+    {
+      "tid": "",
+      "kategori": "Statsbesøk",
+      "hendelse": "Tysklands kansler Friedrich Merz besøker Kyiv og presenterer nye støttetiltak.",
+      "hvorfor": "Tyskland vil styrke støtten til Ukraina med blant annet droneproduksjon under økende russiske angrep.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
+        },
+        {
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Valg",
+      "hendelse": "Brasil avholder første runde i presidentvalget.",
+      "hvorfor": "Valget avgjør den politiske retningen og lederstriden mellom Lula da Silva og Flavio Bolsonaro.",
+      "kilder": [
+        {
+          "navn": "BBC World",
+          "lenke": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Valg",
+      "hendelse": "Bosnia-Hercegovina gjennomfører parlaments- og presidentvalg.",
+      "hvorfor": "Valgutfallet påvirker stabiliteten på Balkan og graden av russisk innflytelse i regionen.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261004-polls-open-in-bosnia-and-herzegovina-as-pro-russian-politician-looms-large-over-race"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Valg",
+      "hendelse": "Stemmer telles opp etter parlamentsvalget i Latvia.",
+      "hvorfor": "Resultatet avgjør sammensetningen av en ny pro-ukrainsk regjeringskoalisjon i Baltikum.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble"
+        },
+        {
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    }
+  ],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modell": "gemini-3.8-flash"
 }

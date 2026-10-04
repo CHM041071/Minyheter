@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Norske jagerfly har avskjært dobbelt så mange russiske fly hittil i år sammenlignet med hele fjoråret.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/nordland/qra-fra-evenes_-har-doblet-antall-avskjaeringer-av-russiske-fly-1.18039885"
-        }
-      ]
-    },
-    {
-      "tekst": "Regjeringen vil frede og kutte prisene på FOT-rutene i Nord-Norge, men distriktene krever ytterligere tiltak.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946"
-        }
-      ]
-    },
-    {
-      "tekst": "Tysklands statsminister Friedrich Merz besøker Kyiv og lover ny militær støtte og felles droneproduksjon til Ukraina.",
+      "tekst": "Tysklands sjølsler Friedrich Merz besøkte Kyiv og lovet ny støtte mens Russland trappet opp angrepene mot byen.",
       "kilder": [
         {
           "navn": "France 24",
           "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
+        }
+      ]
+    },
+    {
+      "tekst": "To personer ble drept og en skadd i en skyteepisode i Halden, og politiet etterforsker saken.",
+      "kilder": [
+        {
+          "navn": "SVT",
+          "lenke": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen"
+        }
+      ]
+    },
+    {
+      "tekst": "Meteorologene har sendt ut tre farevarsler på grunn av store mengder regn som er på vei i Norge.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/vestland/store-mengder-regn-pa-vei_-_-det-blir-veldig-vatt-1.18044793"
         }
       ]
     }
@@ -31,50 +31,93 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Markant økning i russisk flyaktivitet",
-        "tekst": "Norske jagerfly har rykket ut betydelig oftere i år og har identifisert dobbelt så mange russiske fly som i fjor.",
-        "utdypning": "Allerede før inngangen til oktober passerte Forsvaret fjorårets samlede antall identifiseringer. I perioder har Luftforsvaret måttet rykke ut på daglig basis mot russiske flygninger. Aktiviteten har imidlertid avtatt noe utover høsten.",
+        "tittel": "Dødelig skyting i Halden",
+        "tekst": "To personer er drept og en alvorlig skadd etter en skyting i Halden, og en mann i 20-årene er pågrepet.",
+        "utdypning": "To personer miste livet og en ble alvorlig skadd i en skyteepisode i Halden søndag. Politiet har pågrepet en mann i 20-årene som siktet for mord. Ifølge politiet var ofrene med i eit jagtselskab da skyderiet fant sted. Innsatsleder Wilhelm Bjölseth opplyser at politiet sin oppfatning så langt er at det ikkje er nokon kjennd koppling mellom den mistenkte gjerningsmannen og offrene.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/qra-fra-evenes_-har-doblet-antall-avskjaeringer-av-russiske-fly-1.18039885"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Regjeringen vil frede FOT-ruter i nord",
-        "tekst": "Samferdselsministeren vil sikre kortbanenettet i Nord-Norge og kutte billettprisene på FOT-rutene.",
-        "utdypning": "Målet med tiltaket er å bevare flytilbudet og gjøre det billigere å reise i distriktene. Lokale stemmer uttrykker imidlertid misnøye med forslaget. De krever mer omfattende tiltak for å sikre et tilfredsstillende transporttilbud i landsdelen.",
+        "tittel": "Trolig nei til loddefiske",
+        "tekst": "Ferske observasjoner fra forskere tyder på at det blir lite eller ingen loddefiske også neste år.",
+        "utdypning": "Loddefisket ser ut til å utebli også i 2027. Ferske observasjoner fra forskere viser at det ser dårlig ut for den lille fisken, som er en viktig næringskilde for torsken i Barentshavet.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/fot-rutene-i-nord-noreg_-treng-ikkje-billigare-billettar_-men-fleire-avgangar-1.18041946"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/det-blir-trolig-ikke-fiske-etter-lodde-neste-ar_-sier-forsker-i-havforskningsinstituttet-1.18044934"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Sterk økning i subsidiert cruiseturisme",
-        "tekst": "Antallet cruiseturister til Norge har blitt tidoblet etter tunge statlige subsidier til næringen.",
-        "utdypning": "NRK har undersøkt cruiseanløp langs norskekysten for å kartlegge det økonomiske utbyttet. Spørsmålet er hvor store verdier turistene faktisk legger igjen lokalt. Den kraftige passasjerveksten har skapt debatt om effekten av statsstøtten.",
+        "tittel": "Saksøker staten etter vaksine",
+        "tekst": "Sykepleieren «Jon» saksøker staten etter å ha fått ME, en sak som kan få betydning for over 2500 søkere.",
+        "utdypning": "Over 2500 personer har søkt om pasientskadeerstatning etter covid-vaksiner. Sykepleieren som kalles «Jon» har valgt å saksøke staten. Saken hans kan få stor betydning for mange andre i en liknende situasjon.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/mr/xl/cruisebat-trafikken-er-dobla-pa-ti-ar-i-noreg_-slepp-ut-meir-co_-enn-innanlands-flytrafikk-1.17853772"
+            "lenke": "https://www.nrk.no/trondelag/saksoker-staten_-_jon_-meiner-han-fekk-me-av-covid-vaksine-1.18039679"
           }
         ],
         "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Flere farevarsler om ekstrem nedbør",
+        "tekst": "Store mengder regn er på vei, og det er sendt ut tre ulike farevarsler for det neste døgnet.",
+        "utdypning": "Meteorologene melder om store mengder regn på vei i Norge. Det er utstedt tre ulike farevarsler for det neste døgnet, og det ventes svært våte forhold.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestland/store-mengder-regn-pa-vei_-_-det-blir-veldig-vatt-1.18044793"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Voldshendelse i Arendal",
+        "tekst": "To personer er pågrepet etter at en person ble funnet bevisstløs med ansiktsskader i et parkeringshus i Arendal.",
+        "utdypning": "Agder-politiet rykket ut etter en voldshendelse i et parkeringshus i Arendal natt til søndag. Fornærmede ble funnet bevisstløs på bakken med skader i ansiktet og ble fraktet til sykehus med ukjent skadeomfang. To personer ble raskt pågrepet av politiet, som fortsetter etterforskningen av saken.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/to-pagrepet-etter-voldsepisode-i-arendal-1.18044759"
+          },
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/person-funnet-bevisstlos-etter-vold-i-arendal-1.18044699"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Flere hundre skandinaver i IDF",
-        "tekst": "Nær 300 personer fra skandinaviske land er registrert i det israelske militæret.",
-        "utdypning": "Tall fra Israels militære viser at titusenvis av personer med flerdobbelt statsborgerskap inngår i rekkene. Rullene omfatter 150 svensker, 99 dansker, 62 finner og 35 nordmenn. John McEvoy i Declassified UK understreker overfor SVT betydningen av at offentligheten får innsyn i deltakelsen.",
+        "tittel": "Valgseier for Latvias regjeringsparti",
+        "tekst": "Latvias statsminister anfører en pro-ukrainsk koalisjon etter et historisk valgresultat.",
+        "utdypning": "Latvias statsminister Andris Kulbergs ligger an til å beholde makten og danne en ny koalisjon. Det skjer etter at sentrumspartiet United List sikret seg landets største valgseier i post-sovjetisk tid. Resultatet styrker landets pro-europeiske og pro-ukrainske linje, selv om også populistiske partier gikk fram.",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Skandinaviske medborgere i IDF",
+        "tekst": "Hundretalls skandinaver, deriblant 35 nordmenn, er registrert som tjenestegjørende i den israelske militæren.",
+        "utdypning": "Tall fra den israelske militæren (IDF) viser at hundretalls personer med skandinavisk bakgrunn og doble medborgerskap er registrert i styrkene. Oversikten viser 150 fra Sverige, 99 fra Danmark, 62 fra Finland og 35 fra Norge. John McEvoy fra britiske Declassified UK påpeker at det er viktig å få fram hva som foregår.",
         "kilder": [
           {
             "navn": "SVT",
@@ -85,12 +128,26 @@
         "vekt": 3
       }
     ],
-    "Norden": [],
+    "Norden": [
+      {
+        "tittel": "Alvorlig ulykke på Island",
+        "tekst": "To utenlandske turister omkom og to ble alvorlig skadd i en kollisjon på Rute 1 på Øst-Island.",
+        "utdypning": "Ulykken skjedde like før lunsjtid på Rute 1 ved Háreksstaðakvísl på Jökuldalsheiði. Fire kjøretøy og åtte personer var involvert i kollisjonen. De to omkomne var utenlandske turister i 60-årene. To andre turister påregnes alvorlige skader og ble fløyet til Reykjavík for behandling, mens de resterende fire ble fraktet til lokalsykehus.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-04-two-killed-in-serious-crash-on-route-1-in-east-iceland-488773/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
     "Europa": [
       {
-        "tittel": "Tysklands statsminister på uanmeldt Kyiv-besøk",
-        "tekst": "Kansler Friedrich Merz har ankommet Ukrainas hovedstad for å bekrefte tysk støtte og varsle nye militære bidrag.",
-        "utdypning": "Besøket skjer dagen etter at Russland advarte diplomater og utlendinger om forestående massive luftangrep mot hovedstaden. Kort tid etter Merz' ankomst ble en bro i Kyiv truffet av en russisk drone. Tysklands regjeringssjef skal under oppholdet legge frem planer om felles droneproduksjon.",
+        "tittel": "Tysk sjølsler i Kyiv under russiske angrep",
+        "tekst": "Tysklands sjølsler Friedrich Merz ankom Kyiv på overraskende besøk med en ny hjelpepakke på over 1,3 milliarder euro.",
+        "utdypning": "Tysklands sjølsler Friedrich Merz ankom Ukraina i sjokkbesøk for å vise støtte midt under krigen. Besøket kom samtidig som Russland advarte diplomater om massive luftangrep, og en bro i Kyiv ble truffet av en drone like etter ankomst. Merz kunngjorde en ny støttepakke verdt over 1,3 milliarder euro (1,5 milliarder dollar), inkludert planer for framtidig dronerproduksjon i Ukraina.",
         "kilder": [
           {
             "navn": "France 24",
@@ -102,65 +159,48 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "Valgseier for Latvias statsminister",
-        "tekst": "Statsminister Andris Kulbergs ligger an til å beholde makten etter en historisk sterk oppslutning for sentrumsalliansen.",
-        "utdypning": "Partiet De forente lister sikret den største valgseieren i Latvia siden uavhengigheten. Resultatet forventes å videreføre landets pro-europeiske og pro-ukrainske politiske linje. Samtidig opplevde populistiske partier betydelig fremgang i parlamentsvalget.",
+        "tittel": "Parlamentsvalg i Bosnia",
+        "tekst": "Bosnia avholder generalvalg preget av dype etniske skillelinjer fra krigen på 1990-tallet.",
+        "utdypning": "Velgerne i Bosnia-Herzegovina går til urnene i et komplekst valg som omfatter flere nivåer av regjeringen. Kampanjen har vært dominert av partier som identifiserer seg med etniske skillelinjer fra krigen på 1990-tallet. Valget kan få mye å si for framtidige EU-ambisjoner og for graden av russisk innflytelse i landet, hvor separatistleiren er ledet av den sanksjonerte politikeren Milorad Dodik.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Valgdag i Bosnia-Hercegovina",
-        "tekst": "Innbyggerne i Bosnia-Hercegovina stemmer søndag i et valg preget av etniske motsetninger og kamp om ekstern innflytelse.",
-        "utdypning": "Valget favner både nasjonalt parlament, presidentskap og lokale nivåer under det komplekse styringssystemet fra 1995. Den separatistiske lederen Milorad Dodik har preget valgkampen til tross for at han er utestengt fra offentlige verv. Valget anses som avgjørende for hvor stor påvirkning Russland vil beholde i landet.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261004-polls-open-in-bosnia-and-herzegovina-as-pro-russian-politician-looms-large-over-race"
+            "lenke": "https://www.france24.com/en/bosnia-votes-in-general-election-with-wartime-divisions-still-dominating"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Verden": [
       {
         "tittel": "Jevnt presidentvalg i Brasil",
-        "tekst": "Brasil velger ny president i et oppgjør mellom Lula da Silva og Flavio Bolsonaro.",
-        "utdypning": "Valgkampen har vært preget av harde konfrontasjoner om nasjonal sikkerhet, suverenitet og forholdet til USA. Flavio Bolsonaro utfordrer den sittende venstreorienterte presidenten på vegne av høyresiden. Meningsmålingene er så jevne at oppgjøret etter alt å dømme går til en andre valgomgang.",
+        "tekst": "Valget står mellom sittende venstrepresident Lula da Silva og utfordrer Flávio Bolsonaro.",
+        "utdypning": "Avstemningen i Brasil har startet, med målinger som viser en svært jevn kamp mellom venstreorienterte Lula da Silva og høyresidens Flávio Bolsonaro, sønn av den tidligere presidenten. Meningsmålingene indikerer at første runde trolig ikke gir en avgjørelse, men vil lede til en ny og avgjørende valgomgang.",
         "kilder": [
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
         "vekt": 3
       },
       {
-        "tittel": "Krigshandlinger mellom Pakistan og Afghanistan",
-        "tekst": "Konflikten mellom Pakistan og nabolandets Taliban-styre har eskalert fra tidligere allianse til åpne krigshandlinger.",
-        "utdypning": "Pakistan har i en årrekke støttet afghanske Taliban, men har nå innledet bombing av mål i nabolandet. Forholdet mellom landene har brutt sammen etter at gjentatte diplomatiske forhandlinger har mislyktes.",
+        "tittel": "Flomkaos i Spania",
+        "tekst": "Kraftig regn og flom har krevd to menneskeliv og ført til savnede i Catalonia-regionen.",
+        "utdypning": "Spanske myndigheter har utstedt farevarsler for ekstrem fare rundt Barcelona og Girona. Flere elver står i fare for å gå over sine bredder, og innbyggere har blitt oppfordret til å holde seg innendørs på grunn av det farlige uværet som så langt har etterlatt to døde og en savnet.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
@@ -168,69 +208,8 @@
       }
     ]
   },
-  "folg_med": [
-    {
-      "tid": "",
-      "kategori": "Statsbesøk",
-      "hendelse": "Tysklands kansler Friedrich Merz besøker Kyiv og presenterer nye støttetiltak.",
-      "hvorfor": "Tyskland vil styrke støtten til Ukraina med blant annet droneproduksjon under økende russiske angrep.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
-        },
-        {
-          "navn": "DW World",
-          "lenke": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "tid": "",
-      "kategori": "Valg",
-      "hendelse": "Brasil avholder første runde i presidentvalget.",
-      "hvorfor": "Valget avgjør den politiske retningen og lederstriden mellom Lula da Silva og Flavio Bolsonaro.",
-      "kilder": [
-        {
-          "navn": "BBC World",
-          "lenke": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "navn": "DW World",
-          "lenke": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    },
-    {
-      "tid": "",
-      "kategori": "Valg",
-      "hendelse": "Bosnia-Hercegovina gjennomfører parlaments- og presidentvalg.",
-      "hvorfor": "Valgutfallet påvirker stabiliteten på Balkan og graden av russisk innflytelse i regionen.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261004-polls-open-in-bosnia-and-herzegovina-as-pro-russian-politician-looms-large-over-race"
-        }
-      ]
-    },
-    {
-      "tid": "",
-      "kategori": "Valg",
-      "hendelse": "Stemmer telles opp etter parlamentsvalget i Latvia.",
-      "hvorfor": "Resultatet avgjør sammensetningen av en ny pro-ukrainsk regjeringskoalisjon i Baltikum.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261003-latvia-elections-pm-kulbergs-pro-ukraine-party-ahead-coalition-partners-stumble"
-        },
-        {
-          "navn": "DW World",
-          "lenke": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-rdf"
-        }
-      ]
-    }
-  ],
+  "folg_med": [],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.8-flash"
+  "modell": "gemini-3.5-flash-lite"
 }

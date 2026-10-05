@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Tysklands sjølsler Friedrich Merz besøkte Kyiv og lovet ny støtte mens Russland trappet opp angrepene mot byen.",
+      "tekst": "Spanias statsminister Pedro Sánchez utskriver nyvalg til 29. november etter et nederlag for landets boligreform.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
+          "lenke": "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29"
         }
       ]
     },
     {
-      "tekst": "To personer ble drept og en skadd i en skyteepisode i Halden, og politiet etterforsker saken.",
+      "tekst": "Tyske myndigheter bekrefter en ny krisepakke på over 1,3 milliarder euro i militær støtte til Ukraina.",
       "kilder": [
         {
-          "navn": "SVT",
-          "lenke": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit"
         }
       ]
     },
     {
-      "tekst": "Meteorologene har sendt ut tre farevarsler på grunn av store mengder regn som er på vei i Norge.",
+      "tekst": "USA trekker alle B-1-bombefly fra den britiske flybasen RAF Fairford som følge av sikkerhetsbekymringer.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/vestland/store-mengder-regn-pa-vei_-_-det-blir-veldig-vatt-1.18044793"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon"
         }
       ]
     }
@@ -31,179 +31,94 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Dødelig skyting i Halden",
-        "tekst": "To personer er drept og en alvorlig skadd etter en skyting i Halden, og en mann i 20-årene er pågrepet.",
-        "utdypning": "To personer miste livet og en ble alvorlig skadd i en skyteepisode i Halden søndag. Politiet har pågrepet en mann i 20-årene som siktet for mord. Ifølge politiet var ofrene med i eit jagtselskab da skyderiet fant sted. Innsatsleder Wilhelm Bjölseth opplyser at politiet sin oppfatning så langt er at det ikkje er nokon kjennd koppling mellom den mistenkte gjerningsmannen og offrene.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/skjutning-i-norska-halden-nara-svenska-gransen"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Trolig nei til loddefiske",
-        "tekst": "Ferske observasjoner fra forskere tyder på at det blir lite eller ingen loddefiske også neste år.",
-        "utdypning": "Loddefisket ser ut til å utebli også i 2027. Ferske observasjoner fra forskere viser at det ser dårlig ut for den lille fisken, som er en viktig næringskilde for torsken i Barentshavet.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/det-blir-trolig-ikke-fiske-etter-lodde-neste-ar_-sier-forsker-i-havforskningsinstituttet-1.18044934"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Saksøker staten etter vaksine",
-        "tekst": "Sykepleieren «Jon» saksøker staten etter å ha fått ME, en sak som kan få betydning for over 2500 søkere.",
-        "utdypning": "Over 2500 personer har søkt om pasientskadeerstatning etter covid-vaksiner. Sykepleieren som kalles «Jon» har valgt å saksøke staten. Saken hans kan få stor betydning for mange andre i en liknende situasjon.",
+        "tittel": "Sánchez utskriver nyvalg i Spania",
+        "tekst": "Spanias statsminister Pedro Sánchez utskriver nyvalg den 29. november etter den siste tids boligkriseprotester.",
+        "utdypning": "Spanias statsminister Pedro Sánchez sier at han vil utskrive nyvalg. Nyvalget vil bli gjennomført 29. november. Titusener av spanjoler har demonstrert mot landets boligkrise de siste ukene, og i forrige uke klarte ikke Sánchez' mindretallsregjering å få vedtatt en stor boligreform i nasjonalforsamlingen. – Vi trenger å fornye folkets støtte. Vi må mobilisere og vinne et mye større flertall i parlamentet, et flertall som vil gjøre det mulig for oss å overvinne særinteresser, sikre nye sosiale fremskritt og fortsette å transformere Spania, sa Sánchez i en TV-sendt tale.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/trondelag/saksoker-staten_-_jon_-meiner-han-fekk-me-av-covid-vaksine-1.18039679"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Flere farevarsler om ekstrem nedbør",
-        "tekst": "Store mengder regn er på vei, og det er sendt ut tre ulike farevarsler for det neste døgnet.",
-        "utdypning": "Meteorologene melder om store mengder regn på vei i Norge. Det er utstedt tre ulike farevarsler for det neste døgnet, og det ventes svært våte forhold.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestland/store-mengder-regn-pa-vei_-_-det-blir-veldig-vatt-1.18044793"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Voldshendelse i Arendal",
-        "tekst": "To personer er pågrepet etter at en person ble funnet bevisstløs med ansiktsskader i et parkeringshus i Arendal.",
-        "utdypning": "Agder-politiet rykket ut etter en voldshendelse i et parkeringshus i Arendal natt til søndag. Fornærmede ble funnet bevisstløs på bakken med skader i ansiktet og ble fraktet til sykehus med ukjent skadeomfang. To personer ble raskt pågrepet av politiet, som fortsetter etterforskningen av saken.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/to-pagrepet-etter-voldsepisode-i-arendal-1.18044759"
-          },
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/person-funnet-bevisstlos-etter-vold-i-arendal-1.18044699"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Valgseier for Latvias regjeringsparti",
-        "tekst": "Latvias statsminister anfører en pro-ukrainsk koalisjon etter et historisk valgresultat.",
-        "utdypning": "Latvias statsminister Andris Kulbergs ligger an til å beholde makten og danne en ny koalisjon. Det skjer etter at sentrumspartiet United List sikret seg landets største valgseier i post-sovjetisk tid. Resultatet styrker landets pro-europeiske og pro-ukrainske linje, selv om også populistiske partier gikk fram.",
-        "kilder": [
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/letlands-regeringsparti-vinder-valget"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Skandinaviske medborgere i IDF",
-        "tekst": "Hundretalls skandinaver, deriblant 35 nordmenn, er registrert som tjenestegjørende i den israelske militæren.",
-        "utdypning": "Tall fra den israelske militæren (IDF) viser at hundretalls personer med skandinavisk bakgrunn og doble medborgerskap er registrert i styrkene. Oversikten viser 150 fra Sverige, 99 fra Danmark, 62 fra Finland og 35 fra Norge. John McEvoy fra britiske Declassified UK påpeker at det er viktig å få fram hva som foregår.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/nara-300-skandinaver-ar-med-i-den-israeliska-militaren-svt-har-traffat-en-av-dem"
+            "lenke": "https://www.nrk.no/nyheter/sanchez-utskriver-nyvalg-i-spania-1.18045316"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Norden": [
-      {
-        "tittel": "Alvorlig ulykke på Island",
-        "tekst": "To utenlandske turister omkom og to ble alvorlig skadd i en kollisjon på Rute 1 på Øst-Island.",
-        "utdypning": "Ulykken skjedde like før lunsjtid på Rute 1 ved Háreksstaðakvísl på Jökuldalsheiði. Fire kjøretøy og åtte personer var involvert i kollisjonen. De to omkomne var utenlandske turister i 60-årene. To andre turister påregnes alvorlige skader og ble fløyet til Reykjavík for behandling, mens de resterende fire ble fraktet til lokalsykehus.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-04-two-killed-in-serious-crash-on-route-1-in-east-iceland-488773/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
+    "Skandinavia": [],
+    "Norden": [],
     "Europa": [
       {
-        "tittel": "Tysk sjølsler i Kyiv under russiske angrep",
-        "tekst": "Tysklands sjølsler Friedrich Merz ankom Kyiv på overraskende besøk med en ny hjelpepakke på over 1,3 milliarder euro.",
-        "utdypning": "Tysklands sjølsler Friedrich Merz ankom Ukraina i sjokkbesøk for å vise støtte midt under krigen. Besøket kom samtidig som Russland advarte diplomater om massive luftangrep, og en bro i Kyiv ble truffet av en drone like etter ankomst. Merz kunngjorde en ny støttepakke verdt over 1,3 milliarder euro (1,5 milliarder dollar), inkludert planer for framtidig dronerproduksjon i Ukraina.",
+        "tittel": "Spansk nyvalg i november",
+        "tekst": "Spanias statsminister Pedro Sanchez utskriver nyvalg til 29. november etter at regjeringens boligreformer led nederlag.",
+        "utdypning": "Spanish Prime Minister Pedro Sanchez on Monday called an early election for November 29. Facing the electorate now could be risky, as Sanchez's Socialist Party is trailing in opinion polls. Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis. The Spanish prime minister had repeatedly insisted he would serve out his four-year term, with elections scheduled for 2027. The move comes after a major defeat for his coalition's proposed housing reforms.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities"
+            "lenke": "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 5
+        "antall_kilder": 3,
+        "vekt": 4
       },
       {
-        "tittel": "Parlamentsvalg i Bosnia",
-        "tekst": "Bosnia avholder generalvalg preget av dype etniske skillelinjer fra krigen på 1990-tallet.",
-        "utdypning": "Velgerne i Bosnia-Herzegovina går til urnene i et komplekst valg som omfatter flere nivåer av regjeringen. Kampanjen har vært dominert av partier som identifiserer seg med etniske skillelinjer fra krigen på 1990-tallet. Valget kan få mye å si for framtidige EU-ambisjoner og for graden av russisk innflytelse i landet, hvor separatistleiren er ledet av den sanksjonerte politikeren Milorad Dodik.",
+        "tittel": "Tysk støttepakke til Ukraina",
+        "tekst": "Tysklands kansler Friedrich Merz avduket en ny hjelpepakke verdt over 1,3 milliarder euro under sitt besøk i Kyiv.",
+        "utdypning": "German Chancellor Friedrich Merz announced a new aid package for Ukraine worth more than 1.3 billion euros ($1.5 billion) during a visit to Kyiv on Sunday marked by renewed Russian attacks on the Ukrainian capital, including the latest drone attack on a bridge spanning the Dnipro River.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/bosnia-votes-in-general-election-with-wartime-divisions-still-dominating"
+            "lenke": "https://www.france24.com/en/europe/20261004-merz-unveils-new-aid-for-ukraine-as-russia-strikes-kyiv-during-german-leader-s-visit"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "USAs bombefly trekkes ut fra britisk base",
+        "tekst": "Pentagon har trukket alle amerikanske B-1-bombefly tilbake fra RAF Fairford i Storbritannia etter en sikkerhetshendelse.",
+        "utdypning": "The Pentagon confirmed on Sunday that all US B-1 bombers deployed to Britain’s RAF Fairford had returned home following a security incident that prompted nearby evacuations. Police found no explosives after reports of suspicious activity at the base last Sunday. Five London-based British men arrested were subsequently released on bail. No reason has been given for the withdrawal by the BBC, while DW notes it follows a suspected terrorist plot targeting the UK's Fairford airbase.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261004-us-bombers-raf-fairford-uk-pentagon"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Jevnt presidentvalg i Brasil",
-        "tekst": "Valget står mellom sittende venstrepresident Lula da Silva og utfordrer Flávio Bolsonaro.",
-        "utdypning": "Avstemningen i Brasil har startet, med målinger som viser en svært jevn kamp mellom venstreorienterte Lula da Silva og høyresidens Flávio Bolsonaro, sønn av den tidligere presidenten. Meningsmålingene indikerer at første runde trolig ikke gir en avgjørelse, men vil lede til en ny og avgjørende valgomgang.",
+        "tittel": "Omvalg i Brasil mellom Bolsonaro og Lula",
+        "tekst": "Det blir en ny valgomgang i det brasilianske presidentvalget mellom høyrepopulisten Flávio Bolsonaro og sittende president Luiz Inacio Lula da Silva.",
+        "utdypning": "Populist Flavio Bolsonaro har secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country’s electoral court. With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf"
           },
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Flomkaos i Spania",
-        "tekst": "Kraftig regn og flom har krevd to menneskeliv og ført til savnede i Catalonia-regionen.",
-        "utdypning": "Spanske myndigheter har utstedt farevarsler for ekstrem fare rundt Barcelona og Girona. Flere elver står i fare for å gå over sine bredder, og innbyggere har blitt oppfordret til å holde seg innendørs på grunn av det farlige uværet som så langt har etterlatt to døde og en savnet.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ]

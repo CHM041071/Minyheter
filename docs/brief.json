@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Spanias statsminister Pedro Sánchez har utskrevet nyvalg til 29. november etter at regjeringens boligreform ble avvist.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261005-spanish-pm-sanchez-calls-snap-election-for-november-29"
-        }
-      ]
-    },
-    {
-      "tekst": "En full storm skaper store problemer langs kysten i Midt-Norge med stengte veger og strømbrudd.",
+      "tekst": "Regjeringen foreslår å sette av 60 millioner kroner i statsbudsjettet for å gi studenter i studentboliger samme strømpris som husholdninger.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/trondelag/farevarsel-for-vindkast-i-trondelag-_-full-storm-pa-kysten-1.18046192"
+          "lenke": "https://www.nrk.no/vestfoldogtelemark/studenter-far-norgespris-_-slipper-husleieokning-1.18045382"
         }
       ]
     },
     {
-      "tekst": "En norsk journalist i The Barents Observer i Kirkenes er etterlyst av russiske myndigheter.",
+      "tekst": "En eksiljournalist i nettavisen The Barents Observer i Kirkenes er etterlyst av russiske myndigheter som ledd i hybrid krigføring.",
       "kilder": [
         {
           "navn": "NRK Norge",
           "lenke": "https://www.nrk.no/tromsogfinnmark/enda-en-journalist-i-the-barents-observer-er-etterlyst-i-russland-1.18040709"
+        }
+      ]
+    },
+    {
+      "tekst": "Statens Havarikommisjon vurdere å undersøke en dramatisk kollisjon mellom tre skip utenfor Ålesund natt til søndag.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/mr/her-kolliderer-tre-skip-med-kvarandre-i-valderhaugfjorden-utanfor-alesund-1.18045337"
         }
       ]
     }
@@ -31,22 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Full storm i Trøndelag og stengte veger",
-        "tekst": "Sterk vind skaper store utfordringer langs kysten med over 1500 strømløse og stengte vegestrekninger.",
-        "utdypning": "Mandag kveld var over 1500 personer uten strøm i Trøndelag som følge av en full storm langs kysten. Været skaper store utfordringer, særleg for ferjesambanda i Møre og Romsdal, Trøndelag og Nordland. Politiet oppfordrer folk til å holde seg unna stengte vegar.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/trondelag/farevarsel-for-vindkast-i-trondelag-_-full-storm-pa-kysten-1.18046192"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "The Barents Observer-journalist etterlyst av Russland",
-        "tekst": "Nok en journalist i nettavisen The Barents Observer i Kirkenes er satt på russiske myndigheters svarteliste.",
-        "utdypning": "Eksiljournalisten i Kirkenes er etterlyst av russiske myndigheter. Ifølge en ekspert er denne taktikken en del av landets hybride krigføring mot Norge og nabolandene.",
+        "tittel": "Eksiljournalist i Kirkenes etterlyst av Russland",
+        "tekst": "Nok en journalist i nettavisen The Barents Observer er etterlyst av russiske myndigheter.",
+        "utdypning": "Nok en journalist i nettavisen The Barents Observer i Kirkenes har blitt satt på Putins svarteliste og er etterlyst av russiske myndigheter. En ekspert peker på at denne taktikken er en del av landets hybride krigføring mot Norge og fri presse.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -57,22 +44,22 @@
         "vekt": 5
       },
       {
-        "tittel": "Tommy Olsen risikerer arrestasjon i Hellas",
-        "tekst": "Til tross for at Hålogaland lagmannsrett sa nei til utlevering, fører greske myndigheter rettssak mot Tommy Olsen.",
-        "utdypning": "Saken starter tirsdag på Rhodos. Olsen vil bli arrestert om han dukker opp i sin egen rettssak i Hellas, trass i den norske rettens avgjørelse.",
+        "tittel": "Vil gi studenter norgespris på strøm",
+        "tekst": "Regjeringa har satt av 60 millioner kroner i statsbudsjettet til å gi studenter i studentboliger samme strømpris som husholdninger.",
+        "utdypning": "Regjeringen foreslår i statsbudsjettet å bevilge 60 millioner kroner for å skjerme studenter fra høye strømkostnader ved å innføre en ordning som gir dem samme strømpris som vanlige husholdninger. Forslaget møter imidlertid kritikk fra hold som mener ordningen samtidig gjøres mindre gunstig på andre områder.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/greske-myndigheter-forer-rettssak-mot-tommy-olsen-i-hellas-1.18039169"
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/studenter-far-norgespris-_-slipper-husleieokning-1.18045382"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Voldsom skipskollisjon utenfor Ålesund",
-        "tekst": "Tre skip kolliderte i natt til søndag utenfor Ålesund, og Statens Havarikommisjon vurderer gransking.",
-        "utdypning": "Dramatikken var stor da de tre skipene kolliderte med hverandre. Et øyevitne beskrev situasjonen med ordene «eg trudde det var krig». Statens Havarikommisjon skal nå avgjøre om de vil undersøke kollisjonen nærmere.",
+        "tittel": "Undersøker skipskollisjon utenfor Ålesund",
+        "tekst": "Statens Havarikommisjon skal avgjøre om de vil undersøke en kollisjon mellom tre skip utenfor Ålesund.",
+        "utdypning": "Dramatikken var stor da tre skip kolliderte med hverandre utenfor Ålesund natt til søndag, og en vitnebeskrivelse lød på at det føltes som krig. Statens Havarikommisjon har ennå ikke avgjort om hendelsen vil bli underlagt en formell undersøkelse.",
         "kilder": [
           {
             "navn": "NRK",
@@ -80,55 +67,15 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Advarer om at mangel på kvenske lærere truer språkopplæringen",
-        "tekst": "Norske kveners forbund krever mer midler til lærerutdanning i statsbudsjettet på grunn av stor etterspørsel.",
-        "utdypning": "Det er stor interesse for å lære kvensk, men det er en markant mangel på lærere. Norske kveners forbund ønsker mer penger til utdanning av lærere i forslaget til statsbudsjett for å sikre at språkopplæringen ikke trues.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/kvensk/mener-mangel-pa-kvenske-laerere-truer-sprakopplaeringen-1.18041278"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Danmark: Uvedkommende har hatt tilgang til millioner av CPR-numre",
-        "tekst": "En dansk minister kaller hendelsen der uvedkommende har hatt adgang til 8,8 millioner personnumre for dypt alvorlig.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/uvedkommende-har-haft-adgang-til-8-8-millioner-cpr-numre"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Sverige: Ber Säpo om hjelp etter dødsulykke på Östermalm",
-        "tekst": "Etterforskerne har kontaktet Säkerhetspolisen for å forstå bakgrunnen for en dødsulykke der en kvinne omkom.",
-        "utdypning": "En kvinne i 55-årsåldern døde og hennes son skadades allvarligt i en krasch på Östermalm. Det er fortsatt uklart hvorfor 20-åringen kjørte slik han gjorde, og Säpo er koble inn for å avklare om det ligger sikkerhetsmessige årsaker bak.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/stockholm/dodskraschen-pa-ostermalm-ett-mysterium-ber-sapo-om-hjalp"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ],
+    "Skandinavia": [],
     "Norden": [
       {
         "tittel": "USAs utenriksminister besøker Island",
-        "tekst": "Marco Rubio har ankommet Island for å diskutere økonomisk samarbeid og sikkerhet.",
-        "utdypning": "USAs utenriksminister Marco Rubio omtalte før avreise Island som en god venn av USA. Besøket følger opp samtaler fra NATO-sommermøtet og utenriksministermøter tidligere i år. På agendaen står samtaler med islandske tjenestepersoner om økonomisk samarbeid og sikkerhet.",
+        "tekst": "USAs utenriksminister Marco Rubio har ankommet Island for å drøfte økonomisk og sikkerhetspolitisk samarbeid.",
+        "utdypning": "USAs utenriksminister Marco Rubio omtalte Island som en 'god venn' av USA før han la ut på reisen. Besøket følger opp tidligere samtaler med islandske ledere under Nato-summen tidligere i år, og står i tegn av styrket sikkerhets- og økonomisamarbeid i nordområdene.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -137,39 +84,13 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Island: Foreslår ny husleieregulering",
-        "tekst": "En ny lovproposisjon fra boligministeren legger opp til innføring av et såkalt leietakertak.",
-        "utdypning": "Lovforslaget fra sosial- og boligminister Ragnar Þór Ingólfsson endrer leieloven og regulerer hvordan husleie kan endres. Endringer må spesifiseres i kontrakten, og økninger utover endrede driftskostnader krever tre måneders varsel. Den islandske leietakerforeningen er positive til forslaget.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-05-minister-proposes-rent-brake-488824/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Island: Unge og utenlandske arbeidstakere rammes hardest av lønnstyveri",
-        "tekst": "Fagforeningene krevde inn milliarder i ubetalt lønn, der et flertall av sakene gjaldt unge og utlendinger.",
-        "utdypning": "Medlemsforbund i ASÍ fremmet krav på totalt 1,4 milliarder islandske kroner i ubetalt eller underbetalt lønn i fjor. 56 prosent av kravene gjaldt arbeidstakere under 35 år, og over halvparten gjaldt utenlandske statsborgere til tross for at disse utgjør under en fjerdedel av arbeidsstokken.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-05-most-unpaid-and-underpaid-wage-claims-from-youngest-workers-488862/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Spania utskriver nyvalg i november etter boligkriseprotester",
-        "tekst": "Statsminister Pedro Sánchez fremskynder valget til 29. november etter at boligreformer falt i nasjonalforsamlingen.",
-        "utdypning": "Spanias statsminister Pedro Sánchez kunngjorde at landet går til urnene 29. november. Flyttingen kommer etter omfattende protester mot boligkrisen og et større nederlag for koalisjonens foreslåtte boligreformer. Analytikere peker på at Sánchez håper å mobilisere venstreorienterte velgere i et forsøk på å øke sin parlamentariske støtte.",
+        "tittel": "Spansk statsminister utskriver nyvalg",
+        "tekst": "Spanias statsminister Pedro Sánchez har utskrevet nyvalg til 29. november etter politisk motgang i boligsaken.",
+        "utdypning": "Spanias statsminister Pedro Sánchez kunngjorde mandag at landet går til urnene 29. november. Beslutningen kommer etter at nasjonalforsamlingen nylig avviste regjeringens foreslåtte boligreformer, midt oppe i omfattende protester og en presset boligkrise. Sánchez håper å styrke sin parlamentariske støtte, til tross for at sosialistpartiet foreløpig henger etter på meningsmålingene.",
         "kilder": [
           {
             "navn": "France 24",
@@ -193,8 +114,8 @@
       },
       {
         "tittel": "Frankrike og Tyskland vil ha nytt EU-verktøy mot handelstrusler",
-        "tekst": "Emmanuel Macron og Friedrich Merz vil utvikle en rettslig mekanisme for rask respons mot dumping og handelskrig.",
-        "utdypning": "De to lederne kunngjorde planene om et nytt juridisk verktøy for å beskytte unionen mot handelstiltak. Utspillet kommer like før EU-sjef Ursula von der Leyen reiser til Kina for å håndtere handelsfriksjoner.",
+        "tekst": "Frankrike og Tyskland vil utvikle et nytt juridisk verktøy for at EU raskt kan svare på handelskriger og dumping.",
+        "utdypning": "Den franske presidenten Emmanuel Macron og den tyske kansleren Friedrich Merz kunngjorde mandag planene om et nytt EU-instrument. Målet er å sikre raske mottiltak mot eksterne handelstrusler og markedsforstyrrelser. Initiativet kommer like før EU-sjef Ursula von der Leyen reiser til Kina for å håndtere bilaterale handelsspenninger.",
         "kilder": [
           {
             "navn": "France 24",
@@ -205,9 +126,9 @@
         "vekt": 4
       },
       {
-        "tittel": "USA trekker ut bombefly fra britisk base etter sikkerhetshendelse",
-        "tekst": "Pentagon har flyttet B-1-bombefly fra RAF Fairford i Storbritannia tilbake til USA etter mistenkelig aktivitet.",
-        "utdypning": "Tilbaketrekkingen skjer i kjølvannet av en større sikkerhetshendelse der politiet rykket ut til mistenkelige kjøretøy ved basen. Britisk politi fant ingen eksplosiver, og fem menn som ble arrestert, er løslatt mot kausjon.",
+        "tittel": "USA fjerner bombefly fra britisk base",
+        "tekst": "USAs luftforsvar har trukket tilbake alle B-1-bombefly fra RAF Fairford i Storbritannia av sikkerhetshensyn.",
+        "utdypning": "Pentagon bekreftet søndag tilbaketrekningen etter en sikkerhetshendelse som førte til evakueringer i nærområdet. Politiet rykket ut etter meldinger om mistastenkelige kjøretøy og aktivitet ved basen, og fem britiske menn ble arrestert og senere kausjonert. Det ble ikke funnet eksplosiver under aksjonen.",
         "kilder": [
           {
             "navn": "France 24",
@@ -216,17 +137,38 @@
           {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 3,
         "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Brasil: Valget mellom Bolsonaro og Lula går til omkamp",
-        "tekst": "Flávio Bolsonaro fikk flest stemmer i første runde, men presidentvalget avgjøres i en ny runde 25. oktober.",
-        "utdypning": "Høyrefløjskandidaten Flavio Bolsonaro sikret seg en knapp ledelse over sittende president Luiz Inacio Lula da Silva. Siden ingen av kandidatene fikk mer enn 50 prosent av stemmerne i første runde, blir neste president avgjort i en valgomkamp den 25. oktober.",
+        "tittel": "Militærflystyrt i Nigeria krever 32 liv",
+        "tekst": "Alle ombord omkom da et militærfly styrtet ned i et sumpete område i det sørlege Nigeria.",
+        "utdypning": "Redningsmannskaper har gjennomført søk på krasjstedet etter at et militærfly med 32 personer ombord styrtet i sørlige Nigeria. President Bola Tinubu har beskrevet ulykken som et smertefuldt øyeblikk for landets militære og nasjonen for øvrig.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Jevnt valg i Brasil mot ny valgomgang",
+        "tekst": "Presidentvalget i Brasil går til en ny og avgjørende valgomgang etter en tett første runde.",
+        "utdypning": "Høyrepopulisten Flávio Bolsonaro oppnådde en hårfin ledelse over den sittende presidenten Luiz Inácio Lula da Silva i første valgomgang. Siden ingen av kandidatene oppnådde over 50 prosent av stemmene, vil valget avgjøres i en ny runde den 25. oktober.",
         "kilder": [
           {
             "navn": "DW World",
@@ -238,32 +180,6 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Zelenskyj advarer mot russisk angrep på kornskip i Svartehavet",
-        "tekst": "Ukrainas president kaller et russisk angrep på et tyrkisk-eiet skip med mais for forferdelig.",
-        "utdypning": "Skipets kaptein ble mistet livet og elleve 11 medarbeidere ble reddet ut etter angrepet mot det tyrkiske skipet i Svartehavet. Angrepet ble kraftig fordømt av ukrainske myndigheter.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Den internasjonale straffedomstolen utsteder arrestordrer mot Taliban-ledere",
-        "tekst": "ICC retter anklager om forbrytelser mot menneskeheten knyttet til forfølgelse av kvinner og LHBTQ+-personer.",
-        "utdypning": "Domstolen har offentliggjort flere detaljer om arrestordrene for fire Taliban-ledere som anklages for kjønnsmessig forfølgelse av kvinner, jenter og LHBTQ+-miljøet. Den islamistiske gruppen har avvist arrestordrene.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ]

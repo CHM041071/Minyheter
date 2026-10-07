@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen la fram statsbudsjettet for 2027 med økt pengebruk til både helse, forsvar og skattelettelser.",
+      "tekst": "Regjeringen foreslår i statsbudsjettet for 2027 å øke forsvarsbudsjettet med 6,5 milliarder kroner.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863"
+        }
+      ]
+    },
+    {
+      "tekst": "Støre-regjeringen legger opp til inntektsskattereduksjoner på 6,4 milliarder kroner, det største kuttet på 20 år.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/vg_-6_4-milliarder-i-skattelettelser-1.18047491"
+        }
+      ]
+    },
+    {
+      "tekst": "Helseføretakene tilføres 3,1 milliarder kroner ekstra, samtidig som det stilles krav om effektivisering og kutt.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/mr/statsbudsjett-2027_-dette-far-helseforetaka-a-rutte-med-neste-ar-1.18045427"
-        }
-      ]
-    },
-    {
-      "tekst": "Islands nasjonalforsamling debatterer EØS-avtalens protokoll 35 om at felles regelverk går foran nasjonale lover.",
-      "kilder": [
-        {
-          "navn": "RÚV English",
-          "lenke": "https://www.ruv.is/english/2026-10-06-protocol-35-on-althingi-agenda-today-488950/"
-        }
-      ]
-    },
-    {
-      "tekst": "Det svenske Statens seruminstitut vurderer at det ikke er grunn til pestbekymring i Skandinavia.",
-      "kilder": [
-        {
-          "navn": "DR",
-          "lenke": "https://www.dr.dk/nyheder/seneste/seruminstitut-ser-ingen-grund-til-pest-bekymring-i-danmark"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Foreslår milliarder i skattelettelser",
-        "tekst": "Regjeringen foreslår 6,4 milliarder kroner i skattelettelser i neste års statsbudsjett, det største kuttet i inntektsskatten på 20 år.",
-        "utdypning": "Statsminister Jonas Gahr Støre opplyser at kuttet blant annet skal øke personfradraget og redusere trygdeavgiften. Reformen finansieres ikke med oljepenger, men gjennom kutt i utgifter som fjerning av elbilfordeler.",
+        "tittel": "Foreslår historisk stort skattekutt",
+        "tekst": "Regjeringen foreslår 6,4 milliarder kroner i inntektsskattereduksjoner, det største kuttet på 20 år i et enkeltbudsjett.",
+        "utdypning": "Statsminister Jonas Gahr Støre opplyser til VG at pengene skal brukes til å øke personfradraget og redusere trygdeavgiften. Kuttet finansieres ved å fjerne elbilfordeler fremfor å bruke oljepenger.",
         "kilder": [
           {
             "navn": "NRK",
@@ -46,7 +46,7 @@
       {
         "tittel": "Styrker forsvarsbudsjettet",
         "tekst": "Regjeringen varsler en økning på 6,5 milliarder kroner i forsvarsbudsjettet for neste år.",
-        "utdypning": "Satsingen kommer frem i regjeringens framlagte forslag til statsbudsjett for 2027.",
+        "utdypning": "Satsingen kommer frem i regjeringens framlagte statsbudsjettforslag for 2027.",
         "kilder": [
           {
             "navn": "NRK",
@@ -58,8 +58,8 @@
       },
       {
         "tittel": "Øker bevilgningene til sykehusene",
-        "tekst": "Helsebudsjettet for 2027 økes med 3,1 milliarder kroner, samtidig som det stilles krav til effektivisering i helseforetakene.",
-        "utdypning": "Helseministeren varsler videre kutt i flere kriseramma helseforetak til tross for budsjettøkningen.",
+        "tekst": "Regjeringen øker sykehusbudsjettet med 3,1 milliarder kroner, men varsler samtidig krav om effektivisering.",
+        "utdypning": "Helseministeren krever videre kutt i flere kriseramma helseføretak til tross for bevilgningsøkningen.",
         "kilder": [
           {
             "navn": "NRK",
@@ -70,26 +70,26 @@
         "vekt": 5
       },
       {
-        "tittel": "Norgespris på strøm for studentboliger",
-        "tekst": "Regjeringen setter av 60 millioner kroner i statsbudsjettet for å sikre at studenter i studentboliger får samme strømpris som vanlige husholdninger.",
-        "utdypning": "Tiltaket skjermer studentene mot svingende og høye strømkostnader gjennom en egen tilskuddsordning.",
+        "tittel": "Ingen midler til nye politihelikoptre",
+        "tekst": "Regjeringens budsjettforslag setter ikke av penger til nye politihelikoptre, til tross for vedtak i Stortinget.",
+        "utdypning": "Opposisjonen kaller valget dramatisk og skuffande, og blant andre Erlend Svardal Bøe (H) retter sterk kritikk mot prioriteringen.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/studenter-far-norgespris-_-slipper-husleieokning-1.18045382"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestland/statsbudsjettet-2027_-ingen-pengar-til-nye-politihelikopter-1.18048202"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Starter kun to nye veiprosjekter i 2027",
-        "tekst": "Samferdselsdepartementet velger å prioritere vedlikehold av eksisterende vei- og jernbanenett fremfor nye anlegg.",
-        "utdypning": "Samferdselsministeren viser til at regjeringen må gjøre tøffe prioriteringer i statsbudsjettet, noe som resulterer i at bare to nye veiprosjekter igangsettes neste år.",
+        "tittel": "Vil føre videre normprisrådet",
+        "tekst": "Til tross for at Stortinget ba om avvikling, foreslår regjeringen å bevilge 20,1 millioner kroner til videre drift fra 2027.",
+        "utdypning": "Forslaget inngår i regjeringens budsjettopplegg som ble presentert onsdag.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestland/statsbudsjettet-2027_-desse-samferdselsprosjekta-vil-regjeringa-bruka-pengar-pa-1.18046538"
+            "lenke": "https://www.nrk.no/nordland/stortinget-ba-om-avvikling-_-regjeringen-foreslar-videre-drift-1.18048383"
           }
         ],
         "antall_kilder": 1,
@@ -98,26 +98,26 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Ingen lokal pestfare ifølge SSI",
-        "tekst": "Det danske Statens Seruminstitut ser ingen grunn til spesiell bekymring i Danmark som følge av et mistenkt dødsfall i Russland.",
-        "utdypning": "Svenske SVT og danske medier har omtalt dødsfallet til en kvinne i Sibir, men helsemyndighetene avviser at det foreligger en trussel for Skandinavia.",
+        "tittel": "EU-krismøte om mulig pestsmitte i Russland",
+        "tekst": "EU-kommisjonen og medlemslandene avholdt krismøte onsdag etter meldinger om mistenkt pestsmitta i Russland.",
+        "utdypning": "S-parlamentarikern Heléne Fritzon understreker viktigheten av å være forberedt og sikre tilstrekkelig beredskap mot smitte.",
         "kilder": [
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/seruminstitut-ser-ingen-grund-til-pest-bekymring-i-danmark"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/kallar-till-eu-mote-om-ryska-pestutbrottet"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Rettssak etter svensk politimann dødsfall",
-        "tekst": "Mannen som anklages for å ha forårsaket den svenske politimannen Christian Zedigs dødsfall stilles for retten i København.",
-        "utdypning": "Deler av avdødes familie er til stede i retten i København for å overvære rettssaken hvor hendelsesforløpet skal avklares.",
+        "tittel": "ISW: Russland presses tilbake i Donbas",
+        "tekst": "Den russiske militærenheten har mistet terreng i Donetskregionen og opplever mindre fremgang til tross for økte luftangrep.",
+        "utdypning": "Ifølge tankesmedjan ISW og Johan Huovinen ved Försvarshögskolan går det ikke særlig bra for de russiske styrkene for tiden.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/jonkoping/christian-zedigs-fru-infor-rattegangen-sorgen-praglar-var-vardag"
+            "lenke": "https://www.svt.se/nyheter/utrikes/ryssland-saktar-in-i-ukraina-pressats-tillbaka-i-donbas"
           }
         ],
         "antall_kilder": 1,
@@ -126,26 +126,26 @@
     ],
     "Norden": [
       {
-        "tittel": "Behandler EØS-protokoll i Alltinget",
-        "tekst": "Islands regjering fremmer i dag et lovforslag om å innlemme EØS-avtalens protokoll 35 i islandsk lov.",
-        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir presenterer saken på Alltingets dagsorden. Protokollen krever at gjennomførte EØS-regler har forrang ved konflikt med nasjonal lovgivning i EFTA-landene.",
+        "tittel": "Island holder styringsrenten uendret på 8,00 prosent",
+        "tekst": "Den islandske sentralbankens komité for pengepolitikk vedtok enstemmig å holde styringsrenten på 8,00 prosent.",
+        "utdypning": "Sentralbanksjef Ásgeir Jónsson peker på at inflasjonen riktignok er på det høyeste på to år, men at det er sterke tegn til at den vil falle raskt fremover. Han uttrykte også bekymring over utbredt indeksering.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-06-protocol-35-on-althingi-agenda-today-488950/"
+            "lenke": "https://www.ruv.is/english/2026-10-07-interest-rates-held-at-800-489121/"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "Kraftig prisøkning på drivstoff på Island",
-        "tekst": "Islandske bilister rammes av kraftige prishopp på drivstoff etter at en tidligere avgiftslettelse utløp.",
-        "utdypning": "Bensinprisene har steget med en fjerdedel siden september, og dieselprisen har passert nivået fra før nyttår etter at kilometeravgiften ble innført.",
+        "tittel": "Nokia planlegger kutt i Finland",
+        "tekst": "Telekomgiganten Nokia planlegger over 200 jobbkutt i Finland som ledd i arbeidet med å styrke konkurransekraften.",
+        "utdypning": "Ifølge Helsingin Sanomat skal kuttene muliggjøre investeringer som bidrar til framtidig vekst.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-06-diesel-price-now-higher-than-before-new-year-price-cut-488906/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20250343?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -154,17 +154,38 @@
     ],
     "Europa": [
       {
-        "tittel": "Frykt for skipsfarten i Svartehavet etter droneangrep",
-        "tekst": "Bulgarske myndigheter leter etter savnede sjøfolk etter at to handelsskip ble rammet av droner i Svartehavet.",
-        "utdypning": "Hendelsen førte til at en båt sank i Bulgarias økonomiske sone. Angrepene knyttes til økt russisk militær aktivitet i krigen mot Ukraina, noe som skaper økt risiko for internasjonal skipsfart i regionen.",
+        "tittel": "Spania: Utvist pensjonist og symbolfigur for boligkrisen er død",
+        "tekst": "Maricarmen Abascal (87), hvis tvangsutkastelse utløste store boligprotester og politisk krise i Spania, er død.",
+        "utdypning": "Madrid-leietakernes fagforening opplyser onsdag om dødsfallet til Abascal, som i september ble båret ut fra sin leilighet etter over 70 år. Protestene førte til at statsminister Pedro Sanchez utskrev nyvalg, og fagforeningene kaller nå inn til en nasjonal generalstrejk den 11. november.",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261007-evicted-pensioner-maricarmen-abascal-heart-of-spain-housing-protests-has-died"
           },
           {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "Tysk eks-etterretningssjef varetektsfengslet for spionasje",
+        "tekst": "En tysk domstol har beordret at Tysklands tidligere sjef for utenriksetterretningen, August Hanning, forblir i varetekt.",
+        "utdypning": "Hanning ble arrestert mistenkt for spionasje og landsforræderi sammen med en tidligere stedfortreder som angivelig forsynte ham med hemmelige filer. Saken regnes som et av de største sikkerhetsbruddene i landets historie.",
+        "kilder": [
+          {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261006-bulgaria-searches-for-missing-crew-as-drones-hit-two-more-black-sea-ships"
+            "lenke": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
@@ -172,8 +193,8 @@
       },
       {
         "tittel": "Nobelprisen i kjemi til franskmann og japaner",
-        "tekst": "Henri B. Kagan og Kenso Soai tildeles Nobelprisen i kjemi for å ha løst et hundreår gammelt kjemisk mysterium om livets asymmetri.",
-        "utdypning": "Kunngjøringen ble gjort av Det kongelige svenske vitenskapsakademiet. Prisen er på 12 millioner svenske kroner, tilsvarende om lag 1,2 millioner dollar.",
+        "tekst": "Henri Kagan og Kenso Soai er tildelt Nobelprisen i kjemi for å ha løst et 100 år gammelt kjemisk mysterium.",
+        "utdypning": "Det svenske vitenskapsakademiet opplyser at prisvinnerne løste mysteriet rundt livets asymmetri og kiralitetens opprinnelse. Prisen er på 12 millioner svenske kroner.",
         "kilder": [
           {
             "navn": "France 24",
@@ -190,34 +211,30 @@
         ],
         "antall_kilder": 3,
         "vekt": 3
-      },
-      {
-        "tittel": "Ytre høyre-partiet AfD får sin første delstatspresident",
-        "tekst": "Et medlem av det tyske partiet AfD er valgt til president i delstatsparlamentet i Sachsen-Anhalt med støtte fra partiet BSW.",
-        "utdypning": "Selv om rollen til Tobias Rausch er overveiende seremonielt preget, betegner politiske motstandere resultatet som et historisk tidsskille i tysk delstatspolitikk.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Separatistparti vant valg i Quebec",
-        "tekst": "Parti Québécois vant provinsvalget i Canada, men oppnådde ikke flertall alene.",
-        "utdypning": "Leder Paul St-Pierre Plamondon varsler at partiet vil arbeide for en ny folkeavstemning om uavhengighet, men presiserer at dette ikke vil skje så lenge USAs president Donald Trump sitter ved makten.",
+        "tittel": "Israel markerer treårsdagen for 7. oktober-angrepene",
+        "tekst": "Det er avholdt minnemarkeringer i Israel på treårsdagen for Hamas-ledede angrep som utløste Gaza-krigen.",
+        "utdypning": "Arrangementene fant sted mens konflikten i regionen fortsetter å prege den sikkerhetspolitiske situasjonen.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Pakistan og Tyrkia inngår avtale om saudiarabisk forsvar",
+        "tekst": "Pakistan og Tyrkia har avtalt å tilby praktiske tiltak for å forsvare Saudi-Arabia mot houthi-angrep.",
+        "utdypning": "Den nye alliansen kan potensielt endre dynamikken i krigen mot houthiene i Jemen.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

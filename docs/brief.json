@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringa har satt av 60 millioner kroner i statsbudsjettet for å gi studenter i studentboliger samme strømpris som husholdninger.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/vestfoldogtelemark/studenter-far-norgespris-_-slipper-husleieokning-1.18045382"
-        }
-      ]
-    },
-    {
-      "tekst": "Sametinget krever nesten en fordobling av sitt statsbudsjett og ber om 767 millioner kroner ekstra til nye formål.",
+      "tekst": "Regjeringen la fram statsbudsjettet for 2027 med økt pengebruk til både helse, forsvar og skattelettelser.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/sapmi/statsbudsjettet-2027_-sametinget-vil-ha-over-1_5-milliarder-kroner-fra-staten-1.18046686"
+          "lenke": "https://www.nrk.no/mr/statsbudsjett-2027_-dette-far-helseforetaka-a-rutte-med-neste-ar-1.18045427"
         }
       ]
     },
     {
-      "tekst": "En eksiljournalist i nettavisen The Barents Observer i Kirkenes er etterlyst av russiske myndigheter.",
+      "tekst": "Islands nasjonalforsamling debatterer EØS-avtalens protokoll 35 om at felles regelverk går foran nasjonale lover.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/enda-en-journalist-i-the-barents-observer-er-etterlyst-i-russland-1.18040709"
+          "navn": "RÚV English",
+          "lenke": "https://www.ruv.is/english/2026-10-06-protocol-35-on-althingi-agenda-today-488950/"
+        }
+      ]
+    },
+    {
+      "tekst": "Det svenske Statens seruminstitut vurderer at det ikke er grunn til pestbekymring i Skandinavia.",
+      "kilder": [
+        {
+          "navn": "DR",
+          "lenke": "https://www.dr.dk/nyheder/seneste/seruminstitut-ser-ingen-grund-til-pest-bekymring-i-danmark"
         }
       ]
     }
@@ -31,9 +31,48 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Studenter får norgespris på strøm",
-        "tekst": "Regjeringa setter av 60 millioner kroner i statsbudsjettet for å gi studenter i studentboliger samme strømpris som husholdninger.",
-        "utdypning": "Regjeringa har i statsbudsjettet bevilget 60 millioner kroner for å sikre at studenter i studentboliger får den samme strømprisen som vanlige husholdninger. Dette er en såkalt norgespris som skjermer studentene mot høye strømkostnader.",
+        "tittel": "Foreslår milliarder i skattelettelser",
+        "tekst": "Regjeringen foreslår 6,4 milliarder kroner i skattelettelser i neste års statsbudsjett, det største kuttet i inntektsskatten på 20 år.",
+        "utdypning": "Statsminister Jonas Gahr Støre opplyser at kuttet blant annet skal øke personfradraget og redusere trygdeavgiften. Reformen finansieres ikke med oljepenger, men gjennom kutt i utgifter som fjerning av elbilfordeler.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/vg_-6_4-milliarder-i-skattelettelser-1.18047491"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Styrker forsvarsbudsjettet",
+        "tekst": "Regjeringen varsler en økning på 6,5 milliarder kroner i forsvarsbudsjettet for neste år.",
+        "utdypning": "Satsingen kommer frem i regjeringens framlagte forslag til statsbudsjett for 2027.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Øker bevilgningene til sykehusene",
+        "tekst": "Helsebudsjettet for 2027 økes med 3,1 milliarder kroner, samtidig som det stilles krav til effektivisering i helseforetakene.",
+        "utdypning": "Helseministeren varsler videre kutt i flere kriseramma helseforetak til tross for budsjettøkningen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/mr/statsbudsjett-2027_-dette-far-helseforetaka-a-rutte-med-neste-ar-1.18045427"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Norgespris på strøm for studentboliger",
+        "tekst": "Regjeringen setter av 60 millioner kroner i statsbudsjettet for å sikre at studenter i studentboliger får samme strømpris som vanlige husholdninger.",
+        "utdypning": "Tiltaket skjermer studentene mot svingende og høye strømkostnader gjennom en egen tilskuddsordning.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -41,95 +80,44 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Sametinget krever 767 millioner ekstra",
-        "tekst": "Sametinget ber regjeringen om en nesten fordobling av sitt statsbudsjett med krav om 767 millioner kroner ekstra.",
-        "utdypning": "Kravene fra Sametinget omfatter blant annet midler til nye museumsbygg, opprettelse av et samisk språkombud og gjenreisning etter fornorskningen. Dette kommer fram i Sametingets budsjettkrav før det helhetlige statsbudsjettet legges fram.",
+        "tittel": "Starter kun to nye veiprosjekter i 2027",
+        "tekst": "Samferdselsdepartementet velger å prioritere vedlikehold av eksisterende vei- og jernbanenett fremfor nye anlegg.",
+        "utdypning": "Samferdselsministeren viser til at regjeringen må gjøre tøffe prioriteringer i statsbudsjettet, noe som resulterer i at bare to nye veiprosjekter igangsettes neste år.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sapmi/statsbudsjettet-2027_-sametinget-vil-ha-over-1_5-milliarder-kroner-fra-staten-1.18046686"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Eksiljournalist i Kirkenes etterlyst av Russland",
-        "tekst": "Nok en journalist i nettavisen The Barents Observer har blitt satt på Putins svarteliste og er etterlyst av russiske myndigheter.",
-        "utdypning": "Eksiljournalisten som oppholder seg i Kirkenes er nå etterlyst av Russland. Ifølge en ekspert er denne taktikken en bevisst del av landets hybride krigføring mot uavhengige medier og opposisjonelle.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/enda-en-journalist-i-the-barents-observer-er-etterlyst-i-russland-1.18040709"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Tviler på strømhjelp til næringslivet i statsbudsjettet",
-        "tekst": "Stortingspolitikarar frå Agder håpar på straumhjelp til bedrifter i statsbudsjettet, men tviler på at regjeringa vil prioritere det.",
-        "utdypning": "Politikere fra Agder uttrykker skepsis til om næringslivet vil få noen strømpakke i det kommende statsbudsjettet. De peker på at en slik prioritering virker lite sannsynlig fra regjeringens side, noe de mener er trist for bedriftene.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/tviler-pa-at-naeringslivet-far-straumhjelp-1.18046588"
+            "lenke": "https://www.nrk.no/vestland/statsbudsjettet-2027_-desse-samferdselsprosjekta-vil-regjeringa-bruka-pengar-pa-1.18046538"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Uenighet om covid-vaksine kan gi ME",
-        "tekst": "En sykepleier mener covid-vaksinen ga ham ME og krever pasientskadeerstatning, men staten avviser at det finnes vitenskapelig belegg for dette.",
-        "utdypning": "Saken gjelder en sykepleier som har fått diagnosen kronisk utmattelsessyndrom og som mener tilstanden skyldes covid-vaksinen. Medisinere er uenige om en slik sammenheng er mulig, og staten mener det ikke finnes forskning som støtter et slikt erstatningskrav.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/trondelag/lege-om-covid-vaksine_-sannsynlig-at-vaksinen-kan-gi-kronisk-utmattelse-i-sjeldne-tilfeller-1.18046485"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/trondelag/mener-covid-vaksinen-ga-me_-_-det-er-veldig-mye-forskning-1.18045302"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Kenya bekrefter sitt første ebola-dødsfall",
-        "tekst": "Helsemyndighetene i Kenya er i høyberedskap etter at en pasient som kom fra Den demokratiske republikken Kongo døde av ebola.",
-        "utdypning": "Pasienten ankom Kenya i helgen fra DR Kongo, hvor mer enn 4 000 mennesker har dødd av sykdommen i år. Det dreier seg om landets første ebola-tilfelle noensinne, og helsemyndighetene følger situasjonen svært nøye.",
-        "kilder": [
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/kenya-registrerer-det-foerste-ebola-tilfaelde"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Statens Serum Institut: Ingen grunn til pest-bekymring i Danmark",
-        "tekst": "Et dødsfall i Russland knyttet til mistanke om pest gir ikke grunn til bekymring i Danmark, ifølge SSI.",
-        "utdypning": "Etter meldinger om at en ung kvinne i Russland skal ha dødd av pest, har Statens Serum Institut vurdert situasjonen. Russiske myndigheter har gitt kvinnen en annen diagnose, og danske helsemyndigheter slår fast at det ikke er fare for befolkningen i Danmark.",
+        "tittel": "Ingen lokal pestfare ifølge SSI",
+        "tekst": "Det danske Statens Seruminstitut ser ingen grunn til spesiell bekymring i Danmark som følge av et mistenkt dødsfall i Russland.",
+        "utdypning": "Svenske SVT og danske medier har omtalt dødsfallet til en kvinne i Sibir, men helsemyndighetene avviser at det foreligger en trussel for Skandinavia.",
         "kilder": [
           {
             "navn": "DR",
             "lenke": "https://www.dr.dk/nyheder/seneste/seruminstitut-ser-ingen-grund-til-pest-bekymring-i-danmark"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Rettssak etter svensk politimann dødsfall",
+        "tekst": "Mannen som anklages for å ha forårsaket den svenske politimannen Christian Zedigs dødsfall stilles for retten i København.",
+        "utdypning": "Deler av avdødes familie er til stede i retten i København for å overvære rettssaken hvor hendelsesforløpet skal avklares.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/jonkoping/christian-zedigs-fru-infor-rattegangen-sorgen-praglar-var-vardag"
           }
         ],
         "antall_kilder": 1,
@@ -138,9 +126,9 @@
     ],
     "Norden": [
       {
-        "tittel": "Protokoll 35 på dagsorden i Alltinget",
-        "tekst": "Islands utenriksminister legger fram regjeringens lovforslag om å implementere EØS-avtalens protokoll 35 i islandsk lov.",
-        "utdypning": "Protokoll 35 gjelder konflikter mellom gjennomførte EØS-regler og annen nasjonal lovgivning, og krever at EØS-regler skal ha anseelse over nasjonale lover i Norge, Island og Liechtenstein. Utenriksminister Þorgerður Katrín Gunnarsdóttir presenterer lovforslaget som er det eneste ordinære sakspunktet på Alltingets agenda.",
+        "tittel": "Behandler EØS-protokoll i Alltinget",
+        "tekst": "Islands regjering fremmer i dag et lovforslag om å innlemme EØS-avtalens protokoll 35 i islandsk lov.",
+        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir presenterer saken på Alltingets dagsorden. Protokollen krever at gjennomførte EØS-regler har forrang ved konflikt med nasjonal lovgivning i EFTA-landene.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -151,22 +139,9 @@
         "vekt": 4
       },
       {
-        "tittel": "USAs utenriksminister besøker Island",
-        "tekst": "Marco Rubio har ankommet Island for å drøfte økonomisk samarbeid og sikkerhet med islandske ledere.",
-        "utdypning": "USAs utenriksminister Marco Rubio omtalte før avreise Island som en god venn av USA. Besøket følger opp tidligere samtaler under årets NATO-toppmøte, og dagsordenen omfatter tettere sikkerhets- og økonomisk samarbeid mellom de to landene.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-05-rubio-iceland-good-friend-of-usa-488860/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
         "tittel": "Kraftig prisøkning på drivstoff på Island",
-        "tekst": "Drivstoffprisene på Island har steget kraftig etter at statlige avgiftslettelser utløp, og diesel er nå dyrere enn før nyttår.",
-        "utdypning": "Bensinprisene har økt med en fjerdedel siden avgiftsreduksjonen utløp i september, og har steget med nesten 40 prosent hittil i år. Dieselprisen har passert nivået den lå på før nyttårsuttakene, og belastes i tillegg med en egen kilometeravgift.",
+        "tekst": "Islandske bilister rammes av kraftige prishopp på drivstoff etter at en tidligere avgiftslettelse utløp.",
+        "utdypning": "Bensinprisene har steget med en fjerdedel siden september, og dieselprisen har passert nivået fra før nyttår etter at kilometeravgiften ble innført.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -179,9 +154,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Sjøfolk savnet etter droneangrep mot skip i Svartehavet",
-        "tekst": "Bulgaria leter etter savnede sjøfolk etter at to handelsskip ble rammet av droner i landets økonomiske sone i Svartehavet.",
-        "utdypning": "Angrepene skjer mens Russland intensiverer sine krigshandlinger i Svartehavet som en del av krigen mot Ukraina. Det er fortsatt uklart hvem som står bak de spesifikke angrepene, som rammer sivil skipsfart hardt i regionen.",
+        "tittel": "Frykt for skipsfarten i Svartehavet etter droneangrep",
+        "tekst": "Bulgarske myndigheter leter etter savnede sjøfolk etter at to handelsskip ble rammet av droner i Svartehavet.",
+        "utdypning": "Hendelsen førte til at en båt sank i Bulgarias økonomiske sone. Angrepene knyttes til økt russisk militær aktivitet i krigen mot Ukraina, noe som skaper økt risiko for internasjonal skipsfart i regionen.",
         "kilder": [
           {
             "navn": "BBC",
@@ -193,69 +168,56 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Tidligere tysk sjefspion arrestert for spionasje og landssvik",
-        "tekst": "August Hanning, som ledet den tyske etterretningstjenesten BND fra 1998 til 2005, er siktet for å ha arbeidet for en fremmed makt.",
-        "utdypning": "Pågripelsen av den tidligere sjefspionen ryster Tyskland på et tidspunkt da landet forsøker å utvide etterretningsorganenes fullmakter. Føderale påtalemyndigheter anklager ham for å ha utlevert gradert informasjon til utlandet, noe som regnes som enestående i tysk historie.",
+        "tittel": "Nobelprisen i kjemi til franskmann og japaner",
+        "tekst": "Henri B. Kagan og Kenso Soai tildeles Nobelprisen i kjemi for å ha løst et hundreår gammelt kjemisk mysterium om livets asymmetri.",
+        "utdypning": "Kunngjøringen ble gjort av Det kongelige svenske vitenskapsakademiet. Prisen er på 12 millioner svenske kroner, tilsvarende om lag 1,2 millioner dollar.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/german-ex-spy-chief-arrested-for-suspected-espionage-treason"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 3,
-        "vekt": 5
+        "vekt": 3
       },
       {
-        "tittel": "Ukraina utførte storskala droneangrep mot Moskva",
-        "tekst": "Et av de største ukrainske droneangrepene mot den russiske hovedstaden på to år drepte to personer og skadet flere.",
-        "utdypning": "Angrepet rammet Moskva over natten og markerer en opptrapping av konflikten. Samtidig opplever ukrainske togpassasjerer økt fare og forstyrrelser på jernbanen som følge av russiske droneangrep.",
+        "tittel": "Ytre høyre-partiet AfD får sin første delstatspresident",
+        "tekst": "Et medlem av det tyske partiet AfD er valgt til president i delstatsparlamentet i Sachsen-Anhalt med støtte fra partiet BSW.",
+        "utdypning": "Selv om rollen til Tobias Rausch er overveiende seremonielt preget, betegner politiske motstandere resultatet som et historisk tidsskille i tysk delstatspolitikk.",
         "kilder": [
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261006-massive-ukrainian-drone-attack-targets-moscow-russian-officials-say"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 5
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Separatistparti vant provinsvalg i Quebec",
-        "tekst": "Parti Québécois vant provinsvalget i Canada uten flertall, og varsler en ny folkeavstemning om uavhengighet.",
-        "utdypning": "Partileder Paul St-Pierre Plamondon kunngjorde valgseieren, men uttalte at en eventuell folkeavstemning ikke vil bli holdt så lenge Donald Trump er USAs president. Valget skaper ny usikkerhet rundt landets politiske samling.",
+        "tittel": "Separatistparti vant valg i Quebec",
+        "tekst": "Parti Québécois vant provinsvalget i Canada, men oppnådde ikke flertall alene.",
+        "utdypning": "Leder Paul St-Pierre Plamondon varsler at partiet vil arbeide for en ny folkeavstemning om uavhengighet, men presiserer at dette ikke vil skje så lenge USAs president Donald Trump sitter ved makten.",
         "kilder": [
           {
             "navn": "DW World",
             "lenke": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Den internasjonale straffedomstolen offentliggjør arrestordrer mot Taliban",
-        "tekst": "ICC har oppgitt flere detaljer rundt arrestordrene på fire Taliban-ledere siktet for forbrytelser mot menneskeheten knyttet til forfølgelse av kvinner og LHBTQ+.",
-        "utdypning": "Siktelsen gjelder kjønnsforfølgelse av kvinner, jenter og seksuelle minoriteter i Afghanistan. Den islamistiske gruppen har avvist domstolens arrestordrer fullstendig.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

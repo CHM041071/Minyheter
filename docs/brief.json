@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen foreslår i statsbudsjettet for 2027 å øke forsvarsbudsjettet med 6,5 milliarder kroner.",
+      "tekst": "Regjeringens nye statsbudsjett møter hard kritikk for kutt i politihelikoptre og rovdyrtiltak.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863"
+          "lenke": "https://www.nrk.no/vestland/statsbudsjettet-2027_-ingen-pengar-til-nye-politihelikopter-1.18048202"
         }
       ]
     },
     {
-      "tekst": "Støre-regjeringen legger opp til inntektsskattereduksjoner på 6,4 milliarder kroner, det største kuttet på 20 år.",
+      "tekst": "Flere titalls mennesker ble drept i et russisk angrep mot busser i Ukraina.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/vg_-6_4-milliarder-i-skattelettelser-1.18047491"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "Helseføretakene tilføres 3,1 milliarder kroner ekstra, samtidig som det stilles krav om effektivisering og kutt.",
+      "tekst": "Tidligere tysk sjef for utenlandsetterretning er varetektsfengslet siktet for spionasje.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/mr/statsbudsjett-2027_-dette-far-helseforetaka-a-rutte-med-neste-ar-1.18045427"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief"
         }
       ]
     }
@@ -31,48 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Foreslår historisk stort skattekutt",
-        "tekst": "Regjeringen foreslår 6,4 milliarder kroner i inntektsskattereduksjoner, det største kuttet på 20 år i et enkeltbudsjett.",
-        "utdypning": "Statsminister Jonas Gahr Støre opplyser til VG at pengene skal brukes til å øke personfradraget og redusere trygdeavgiften. Kuttet finansieres ved å fjerne elbilfordeler fremfor å bruke oljepenger.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/vg_-6_4-milliarder-i-skattelettelser-1.18047491"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Styrker forsvarsbudsjettet",
-        "tekst": "Regjeringen varsler en økning på 6,5 milliarder kroner i forsvarsbudsjettet for neste år.",
-        "utdypning": "Satsingen kommer frem i regjeringens framlagte statsbudsjettforslag for 2027.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Øker bevilgningene til sykehusene",
-        "tekst": "Regjeringen øker sykehusbudsjettet med 3,1 milliarder kroner, men varsler samtidig krav om effektivisering.",
-        "utdypning": "Helseministeren krever videre kutt i flere kriseramma helseføretak til tross for bevilgningsøkningen.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/mr/statsbudsjett-2027_-dette-far-helseforetaka-a-rutte-med-neste-ar-1.18045427"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Ingen midler til nye politihelikoptre",
-        "tekst": "Regjeringens budsjettforslag setter ikke av penger til nye politihelikoptre, til tross for vedtak i Stortinget.",
-        "utdypning": "Opposisjonen kaller valget dramatisk og skuffande, og blant andre Erlend Svardal Bøe (H) retter sterk kritikk mot prioriteringen.",
+        "tittel": "Ingen penger til nye politihelikoptre",
+        "tekst": "Regjeringen vil ikke prioritere nye politihelikoptre i neste års statsbudsjett, til tross for vedtak i Stortinget.",
+        "utdypning": "Regjeringens manglende bevilgning til nye politihelikoptre i statsbudsjettet møter sterk kritikk fra opposisjonen, som kaller valget dramatisk og skuffende. Stortinget hadde tidligere bedt om en prioritering, men opposisjonspolitikere som Erlend Svardal Bøe (H) reagerer kraftig på at Troms og landet for øvrig blir stående uten denne kapasiteten.",
         "kilder": [
           {
             "navn": "NRK",
@@ -80,12 +41,38 @@
           }
         ],
         "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Bondelaget kritiserer kutt i rovdyrtiltak",
+        "tekst": "Norges Bondelag er skuffet over at regjeringen kuttar millioner i konfliktdempende tiltak mot rovdyr.",
+        "utdypning": "Til tross for tidligere løfter fra klima- og miljøministeren om å holde trykket oppe på konfliktdempende tiltak, kutter regjeringen millioner i disse midlene i det nye statsbudsjettet. Bondelaget reagerer kraftig og mener regjeringen kutter i blinde på et område som er viktig for distriktene.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/mr/more-og-romsdal-bondelag-rasar-mot-kuttforslag-i-konfliktdempande-tiltak-mot-rovdyr-1.18048088"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Vil føre videre normprisrådet",
-        "tekst": "Til tross for at Stortinget ba om avvikling, foreslår regjeringen å bevilge 20,1 millioner kroner til videre drift fra 2027.",
-        "utdypning": "Forslaget inngår i regjeringens budsjettopplegg som ble presentert onsdag.",
+        "tittel": "Hard kritikk mot sivil beredskap i nord",
+        "tekst": "Tidligere hærsjef mener regjeringen gir smuler til sivil beredskap langs russergrensen i statsbudsjettet.",
+        "utdypning": "Regjeringen beskyldes for å drive talltriksing for å blidgjøre USA, samtidig som det sivile samfunnet i Finnmark blir glemt i det nye statsbudsjettet. Tidligere hærsjef og FN-utsending Robert Mood er blant dem som refser satsingen på sivil beredskap, og får støtte fra blant andre MDGs Siren Julianne Jensen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/regjeringen-har-vedtatt-a-bruke-80-milliarder-pa-sivil-beredskap_-i-finnmark-ser-man-lite-til-dette-1.18045467"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Regjeringen foreslår videre drift for normprisrådet",
+        "tekst": "Stortinget ba om avvikling av normprisrådet, men regjeringen foreslår i stedet 20,1 millioner kroner til videre drift.",
+        "utdypning": "Stortinget har tidligere bedt om at normprisrådet skal avvikles fra 2027. I det nye statsbudsjettet går imidlertid regjeringen imot dette ved å bevilge 20,1 millioner kroner til å opprettholde driften.",
         "kilder": [
           {
             "navn": "NRK",
@@ -93,27 +80,27 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
+      },
+      {
+        "tittel": "Ingen strømstøtte til bedrifter",
+        "tekst": "Det foreslås ingen ny strømstøtte til bedrifter i det fremtidsrettede statsbudsjettet.",
+        "utdypning": "Statsbudsjettet inneholder ikke noen ordninger for strømstøtte rettet spesifikt mot næringslivet og bedrifter.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/video/DKSL98100726"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "EU-krismøte om mulig pestsmitte i Russland",
-        "tekst": "EU-kommisjonen og medlemslandene avholdt krismøte onsdag etter meldinger om mistenkt pestsmitta i Russland.",
-        "utdypning": "S-parlamentarikern Heléne Fritzon understreker viktigheten av å være forberedt og sikre tilstrekkelig beredskap mot smitte.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/kallar-till-eu-mote-om-ryska-pestutbrottet"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "ISW: Russland presses tilbake i Donbas",
-        "tekst": "Den russiske militærenheten har mistet terreng i Donetskregionen og opplever mindre fremgang til tross for økte luftangrep.",
-        "utdypning": "Ifølge tankesmedjan ISW og Johan Huovinen ved Försvarshögskolan går det ikke særlig bra for de russiske styrkene for tiden.",
+        "tittel": "ISW: Russisk fremrykking sakker akterut i Ukraina",
+        "tekst": "Den russiske militærmakt trykker på ved fronten, men har tapt mark i Donetskregionen ifølge tankesmedjan ISW.",
+        "utdypning": "Ifølge den svenske tankesmedjan ISW og eksperter ved Försvarshögskolan går det ikke spesielt bra for Russland i dagsläget, ettersom de mangler større framganger i år og har tapt terreng i Donetsk. Samtidig pekes det på at luftangrepene mot landet har intensivert.",
         "kilder": [
           {
             "navn": "SVT",
@@ -121,14 +108,27 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Norden": [
       {
-        "tittel": "Island holder styringsrenten uendret på 8,00 prosent",
-        "tekst": "Den islandske sentralbankens komité for pengepolitikk vedtok enstemmig å holde styringsrenten på 8,00 prosent.",
-        "utdypning": "Sentralbanksjef Ásgeir Jónsson peker på at inflasjonen riktignok er på det høyeste på to år, men at det er sterke tegn til at den vil falle raskt fremover. Han uttrykte også bekymring over utbredt indeksering.",
+        "tittel": "Planlegger kjempestort datasenter i Finland",
+        "tekst": "Franske Sesterce planlegger et datasenterprosjekt til 10 milliarder euro i det sentrale Finland.",
+        "utdypning": "Det franske AI-infrastrukturselskapet Sesterce har planer om et enormt datasenterprosjekt i Jämsä. Byens sjef har uttalt seg med forsiktig entusiasme om nyheten som kan få stor betydning for regionen.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20250471?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Islands sentralbank holder renten uendret på 8,00 prosent",
+        "tekst": "Den isländske sentralbankens komité for pengepolitikk holdt styringsrenten uendret på 8,00 prosent.",
+        "utdypning": "Beslutningen om å holde renten i ro ble tatt enstemmig av komiteen, etter at den hadde blitt hevet på de tre foregående rentemøtene. Sentralbanksjef Ásgeir Jónsson pekte på at selv om inflasjonen er på sitt høyeste nivå på to år, er det sterke indikasjoner på at den vil falle raskt fremover. Utbredt indeksregulering ble imidlertid trukket frem som en bekymring.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -136,16 +136,16 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 3
       },
       {
-        "tittel": "Nokia planlegger kutt i Finland",
-        "tekst": "Telekomgiganten Nokia planlegger over 200 jobbkutt i Finland som ledd i arbeidet med å styrke konkurransekraften.",
-        "utdypning": "Ifølge Helsingin Sanomat skal kuttene muliggjøre investeringer som bidrar til framtidig vekst.",
+        "tittel": "Island legger frem EØS-protokoll 35 på nytt",
+        "tekst": "Den islandske utenriksministeren har for fjerde gang presentert lovforslaget om EØS-protokoll 35 i Alltinget.",
+        "utdypning": "Utenriksministeren understreker at en stillingtagen til lovforslaget også er en stillingtagen til hele EØS-samarbeidet. Forslaget innebærer en endring i lovgivningen som regulerer Det europeiske økonomiske samarbeidsområdet, og har tidligere blitt fremmet av både den nåværende og den forrige regjeringen.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20250343?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-07-government-presents-protocol-35-bill-in-althingi-489066/"
           }
         ],
         "antall_kilder": 1,
@@ -154,9 +154,47 @@
     ],
     "Europa": [
       {
-        "tittel": "Spania: Utvist pensjonist og symbolfigur for boligkrisen er død",
-        "tekst": "Maricarmen Abascal (87), hvis tvangsutkastelse utløste store boligprotester og politisk krise i Spania, er død.",
-        "utdypning": "Madrid-leietakernes fagforening opplyser onsdag om dødsfallet til Abascal, som i september ble båret ut fra sin leilighet etter over 70 år. Protestene førte til at statsminister Pedro Sanchez utskrev nyvalg, og fagforeningene kaller nå inn til en nasjonal generalstrejk den 11. november.",
+        "tittel": "Dødelig angrep mot busser i Ukraina",
+        "tekst": "Minst 30 til 33 mennesker ble drept i et russisk angrep mot to busser i den ukrainske byen Kramatorsk.",
+        "utdypning": "Ukrainske myndigheter anklager Russland for å ha siktet seg inn på fulle busser i frontlinjebyen for å ramme flest mulig sivile. Flere personer ble i tillegg såret, og offentlig transport i området har blitt suspendert som følge av det dødelige angrepet. Angrepet skjedde samme dag som en drone også traff et datasenter tilhørende det russiske teknologiselskapet Yandex.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "Tysk ex-spionsjef varetektsfengslet for landssvik",
+        "tekst": "En domstol har beordret tidligere tysk etterretningssjef August Hanning i varetektsfengsling etter siktelse for spionasje.",
+        "utdypning": "August Hanning, tidligere leder for Tysklands føderale etterretningstjeneste, ble arrestert og varetektsfengslet sammen med en tidligere stedfortreder som angivelig skal ha forsynt ham med hemmelige dokumenter. Saken regnes som en av de største sikkerhetsbruddene i tysk historie og har utløst krav om full åpenhet rundt hva som skjer når etterretningssjefer forlater regjeringsapparatet.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Spansk boligprotest-symbol død",
+        "tekst": "87 år gamle Maricarmen Abascal, hvis tvangsutkastelse utløste politisk krise i Spania, er død.",
+        "utdypning": "Abascal ble båret ut på båre fra leiligheten sin etter å ha bodd der i over 70 år, noe som utløste massive boligprotester over hele landet. Sakens alvor førte til en politisk krise der statsminister Pedro Sanchez ble tvunget til å utlyse nyvalg. Fagforeninger krever nå en nasjonal generalstreik den 11. november.",
         "kilder": [
           {
             "navn": "France 24",
@@ -172,65 +210,48 @@
           }
         ],
         "antall_kilder": 3,
-        "vekt": 5
-      },
+        "vekt": 3
+      }
+    ],
+    "Verden": [
       {
-        "tittel": "Tysk eks-etterretningssjef varetektsfengslet for spionasje",
-        "tekst": "En tysk domstol har beordret at Tysklands tidligere sjef for utenriksetterretningen, August Hanning, forblir i varetekt.",
-        "utdypning": "Hanning ble arrestert mistenkt for spionasje og landsforræderi sammen med en tidligere stedfortreder som angivelig forsynte ham med hemmelige filer. Saken regnes som et av de største sikkerhetsbruddene i landets historie.",
+        "tittel": "Sør-Korea kaller hjem ambassadør fra Ukraina",
+        "tekst": "Sør-Korea kaller tilbake sin ambassadør i Ukraina etter en diplomatisk krangel om nordkoreanske krigsfanger.",
+        "utdypning": "Seoul er dypt opprørt over at opplysninger om en overføring av nordkoreanske krigsfanger ble offentliggjort i FN. Sør-Korea krevde en offisiell uoffisiell unnskyldning fra Kyiv, men har ikke mottatt den, noe som nå fører til at ambassadøren kalles hjem.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261007-what-we-know-about-espionage-treason-allegations-against-germany-s-ex-spy-chief"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-rdf"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
       },
       {
-        "tittel": "Nobelprisen i kjemi til franskmann og japaner",
-        "tekst": "Henri Kagan og Kenso Soai er tildelt Nobelprisen i kjemi for å ha løst et 100 år gammelt kjemisk mysterium.",
-        "utdypning": "Det svenske vitenskapsakademiet opplyser at prisvinnerne løste mysteriet rundt livets asymmetri og kiralitetens opprinnelse. Prisen er på 12 millioner svenske kroner.",
+        "tittel": "Storbritannia kutter ned på Jerusalem-konsulat etter Israel-krangel",
+        "tekst": "Storbritannia reduserer staben ved sitt historiske konsulat i Øst-Jerusalem etter et israelsk pålegg om nedstengning.",
+        "utdypning": "Israel kunngjorde i september at de ville reagere på britiske sanksjoner mot ulovlige israelske bosetninger på Vestbredden. Selv om den nesten 200 år gamle diplomatiske misjonen holdes åpen med redusert bemanning etter press, har situasjonen ført til økt diplomatisk spenning.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261007-nobel-prize-in-chemistry-jointly-awarded-to-france-s-henri-kagan-japan-s-kenso-soai"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.dw.com/en/uk-scales-back-jerusalem-consulate-after-israel-dispute/a-79590790?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 3
-      }
-    ],
-    "Verden": [
-      {
-        "tittel": "Israel markerer treårsdagen for 7. oktober-angrepene",
-        "tekst": "Det er avholdt minnemarkeringer i Israel på treårsdagen for Hamas-ledede angrep som utløste Gaza-krigen.",
-        "utdypning": "Arrangementene fant sted mens konflikten i regionen fortsetter å prege den sikkerhetspolitiske situasjonen.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 2,
+        "vekt": 4
       },
       {
-        "tittel": "Pakistan og Tyrkia inngår avtale om saudiarabisk forsvar",
-        "tekst": "Pakistan og Tyrkia har avtalt å tilby praktiske tiltak for å forsvare Saudi-Arabia mot houthi-angrep.",
-        "utdypning": "Den nye alliansen kan potensielt endre dynamikken i krigen mot houthiene i Jemen.",
+        "tittel": "Nytt forsvarssamarbeid mellom Saudi-Arabia, Pakistan og Tyrkia",
+        "tekst": "Pakistan og Tyrkia har avtalt praktiske tiltak for å forsvare Saudi-Arabia mot houthi-angrep.",
+        "utdypning": "Den nye alliansen, omtalt som Mekka-forsvarspakten, kan potensielt endre dynamikken i krigen mot houthiene i Yemen ved å tilby direkte militær støtte og mottiltak for å trygge Saudi-Arabias grenser og infrastruktur.",
         "kilder": [
           {
             "navn": "DW World",

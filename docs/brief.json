@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Svenske jagerfly og offiserer deltar i Natos årlige krevende atomvåpenøvelse Steadfast Noon denne måneden.",
-      "kilder": [
-        {
-          "navn": "SVT",
-          "lenke": "https://www.svt.se/nyheter/inrikes/sverige-deltar-i-natos-arliga-karnvapenovning-embargo-tills-pressmeddelande-gatt-ut"
-        }
-      ]
-    },
-    {
-      "tekst": "Flere øyordførere reagerer kraftig på at statsbudsjettet gir tall som ikke henger i hop for deres kommuner.",
+      "tekst": "USAs president Donald Trump har inngått en avtale med Russland om umiddelbar levering av diesel for å senke prisene.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nordland/statsbudsjettet_-ordforere-overrasket-over-lave-tall-1.18048562"
+          "lenke": "https://www.nrk.no/nyheter/trump-lover-russisk-dieselleveranse-1.18051145"
         }
       ]
     },
     {
-      "tekst": "Et omfattende problem hos Telenor lammet nylig all norsk togtrafikk og skapte problemer for nødnumrene.",
+      "tekst": "Ukrainas president Volodymyr Zelenskyj kritiserer avtalen og mener den forlenger krigen.",
       "kilder": [
         {
-          "navn": "SVT",
-          "lenke": "https://www.svt.se/nyheter/utrikes/alla-norska-tag-star-stilla"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/zelenskyj_-dieselsalg-forlenger-krigen-1.18051171"
+        }
+      ]
+    },
+    {
+      "tekst": "USA har innført omfattende sanksjoner mot Den internasjonale straffedomstolen (ICC), noe EU reagerer sterkt på.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions"
         }
       ]
     }
@@ -31,52 +31,39 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Telenor-feil stanset togtrafikk",
-        "tekst": "Alvorlige problemer hos Telenor lammet nylig all norsk togtrafikk og gjorde det vanskelig å nå nødnummer som 112.",
-        "utdypning": "Hele den norske tågtrafikken sto stille på grunn av nettverksfeilen hos Telenor. Størningen skapte også store vanskeligheter med å nå ut til flere nödnummer, deriblant 112. Feilen er nå løst, og enkelte tog begynte å rulle igjen på kvelden, men det er fortsatt uavklart hvordan den videre togtrafikken vil bli påvirket.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/alla-norska-tag-star-stilla"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Reagerer på statsbudsjettet",
-        "tekst": "Regjeringen deler ut milliarder til kommunene, men ordførere i flere øykommuner reagerer kraftig på tildelingen.",
-        "utdypning": "Regjeringen foreslår å gi 3,2 milliarder kroner ekstra til kommunene i det nye statsbudsjettet. Likevel opplever ordførere i flere øykommuner at tallene for akkurat deres kommuner ikke henger i hop, noe som har skapt stor sjokk og frustrasjon lokalt.",
+        "tittel": "Trump lover russisk dieselleveranse",
+        "tekst": "USAs president Donald Trump sier Russland vil levere over 300 000 tonn diesel til det globale markedet etter en samtale med Vladimir Putin.",
+        "utdypning": "USAs president Donald Trump kunngjorde fredag at Russland har gått med på å levere over 300 000 tonn diesel til det amerikanske og globale markedet. Ifølge Trump kan det bli snakk om opptil 3 millioner tonn på sikt. Det amerikanske finansdepartementet har midlertidig utstedt en lisens som tillater salg og import av den russiske dieselen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/statsbudsjettet_-ordforere-overrasket-over-lave-tall-1.18048562"
+            "lenke": "https://www.nrk.no/nyheter/trump-lover-russisk-dieselleveranse-1.18051145"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 5
       },
       {
-        "tittel": "Kutt i rovdyrtiltak",
-        "tekst": "Norges Bondelag er skuffet over at regjeringen nesten halverer midlene til konfliktdempende tiltak mot rovdyr.",
-        "utdypning": "Til tross for tidligere løfter om å holde trykket oppe på konfliktdempende tiltak mot rovdyr, kutter regjeringen millionbeløp på dette området i statsbudsjettet. Bondelaget reagerer sterkt og mener regjeringen kutter i blinde.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/mr/more-og-romsdal-bondelag-rasar-mot-kuttforslag-i-konfliktdempande-tiltak-mot-rovdyr-1.18048088"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Vil kutte i folkehøgskolestipend",
-        "tekst": "Regjeringen foreslår på nytt å senke stipendandelen for folkehøyskoler fra 40 til 15 prosent.",
-        "utdypning": "Forslaget om å redusere stipendandelen kraftig møter hard kritikk. Elever påpeker at de ville vurdert skolen annerledes med slike regler, da kuttet kan frata enkeltelever opptil 40 000 kroner.",
+        "tittel": "Zelenskyj advarer mot russisk dieselsalg",
+        "tekst": "Ukrainas president Volodymyr Zelenskyj kaller USAs tillatelse til russisk dieselsalg for en investering i en krig som må ta slutt.",
+        "utdypning": "Ukrainas president Volodymyr Zelenskyj reagerer kraftig på at Russland tillates å selge petroleumsprodukter igjen. Han uttaler at slike gaver til Vladimir Putin i form av sanksjonslettelser ikke vil få slutt på krigen, men tvert imot forlenge den.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/vil-kutte-i-stipend-til-folkehoyskoler---kan-miste-40.000-kroner-1.18048385"
+            "lenke": "https://www.nrk.no/nyheter/zelenskyj_-dieselsalg-forlenger-krigen-1.18051171"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Frykter for liv og helse under mottaksstreik",
+        "tekst": "Bemanningen på et asylmottak er kritisk lav som følge av en streik, noe som bekymrer både driftsselskap og fagforening.",
+        "utdypning": "Driftsselskapet Hero melder om en kritisk lav bemanning ved et asylmottak på grunn av en pågående streik. Situasjonen gjør at man frykter for liv og helse for både beboere og ansatte. Fagforeningen påpeker at det også må tas hensyn til de ansatte i konflikten.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/trondelag/slar-alarm-om-streik-ved-asylmottak_-__vi-frykter-for-liv-og-helse-1.18050699"
           }
         ],
         "antall_kilder": 1,
@@ -85,9 +72,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Sverige med i Nato-øvelse",
-        "tekst": "Svenske Gripen-fly og offiserer deltar i Natos årlige atomvåpenøvelse Steadfast Noon.",
-        "utdypning": "Sverige deltar nå i Natos årlige kjernefysiske øvelse Steadfast Noon som finner sted i oktober. Det svenske bidraget består av både Gripen-fly og personell. Det vil ikke bli benyttet faktiske atomvåpen under øvelsen.",
+        "tittel": "Sverige deltar i Natos kärnvapenövning",
+        "tekst": "Svenske Gripen-fly og offiserer skal delta i Natos årlige kjernevåpenøvelse Steadfast Noon.",
+        "utdypning": "Sverige stiller med personell og fly fra flyvåpenet i Natos årlige øvelse Steadfast Noon, som finner sted i oktober. Ifølge opplysningene vil det ikke bli brukt faktiske kjernevåpen under øvelsen.",
         "kilder": [
           {
             "navn": "SVT",
@@ -96,55 +83,43 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "ICC-medlemslande bekymrede over USA's sanktioner",
+        "tekst": "Medlemsland av Den internasjonale straffedomstolen uttrykker bekymring etter at USA har innført harde sanksjoner mot domstolen.",
+        "utdypning": "Flere av ICCs medlemsland har uttrykt dyp bekymring etter at den amerikanske regjeringen har iverksatt omfattende sanksjoner mot domstolen. Sanksjonene har som mål å svekke eller demontere institusjonens arbeid, noe som møter motstand i Europa.",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/icc-medlemslande-bekymrede-over-usa-s-sanktioner"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Norden": [
       {
-        "tittel": "Nobelpris til Anne Carson",
-        "tekst": "Den kanadisk-islandske forfatteren Anne Carson er tildelt 2026-nobelprisen i litteratur.",
-        "utdypning": "Den svenske akkompagnerte utdelingen fremhevet Carsons dype ærbødighet for klassikerne og nyskapende samtidslitteratur. Prisen er på 12 millioner svenske kroner. Ingrid Carlberg bekjentgjorde juryens beslutning under en pressekonferanse.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-08-canadian-icelandic-anne-carson-wins-2026-nobel-prize-in-literature-489245/"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261008-nobel-prize-in-literature-awarded-to-canada-anne-carson"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 4,
-        "vekt": 3
-      },
-      {
-        "tittel": "Økonomisk stabilitet på Island",
-        "tekst": "Islands statsminister gleder seg over en ny felleserklæring som sikrer tariffavtaler og økonomisk stabilitet.",
-        "utdypning": "Arbeidsmarkedets parter og regjering på Island har signert en felleserklæring som sikrer at tariffavtalene forblir i kraft. Statsminister Kristrún Frostadóttir fremhever at dette gir såkalt kjærkommen stabilitet for landets økonomi og arbeidsmarked gjennom hele neste år, og at det er tatt viktige grep for å håndtere inflasjonen.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-09-pm-important-to-have-secured-stability-for-next-year-489334/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Første vestnordiske toppmøte",
-        "tekst": "Statsministrene fra Færøyene og Grønland har besøkt Island for det aller første toppmøtet mellom de vestnordiske lederne.",
-        "utdypning": "Færøyenes statsminister Beinir Johannesen og Grønlands statsminister Jens-Frederik Nielsen møtte Islands statsminister Kristrún Frostadóttir. Lederne diskuterte regionale muligheter med investorer. Nielsen trakk fram at Grønlands nylige forsvarsavtale med USA er positiv for både Grønland og Nato.",
+        "tittel": "Vestnorske ledere i første fellesmøte på Island",
+        "tekst": "Statsministrene fra Færøyene og Grønland har møtt Islands statsminister til det første offisielle toppmøtet for regionen.",
+        "utdypning": "Islands statsminister Kristrún Frostadóttir tok imot Færøyenes regjeringssjef Beinir Johannesen og Grønlands landsstyreformann Jens-Frederik Nielsen til det første fellesmøtet for vestnordiske ledere. Under besøket møtte de også investorer for å diskutere næringsmuligheter. Grønlands leder fremhevet også landets nylige avtale med USA om forsvar og NATO-samarbeid.",
         "kilder": [
           {
             "navn": "RÚV English",
             "lenke": "https://www.ruv.is/english/2026-10-08-west-nordic-leaders-hold-first-meeting-489186/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Finland sender nytt forsvarsvederlag til Ukraina",
+        "tekst": "Finland sender en hastelig sammenstilt forsvarsforsyning til Ukraina etter opptrappede russiske angrep.",
+        "utdypning": "Den finske regjeringen sender en ny pakke med militær støtte til Ukraina som reaksjon på at Russland har trappet opp sine angrep den siste tiden. Blant annet viser rapporter til et nylig missilangrep i Kramatorsk som krevde mange menneskeliv.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20250723?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -153,111 +128,56 @@
     ],
     "Europa": [
       {
-        "tittel": "Dødelig angrep i Ukraina",
-        "tekst": "Minst 30 mennesker ble drept og en rekke såret i et russisk angrep mot to busser i frontbyen Kramatorsk.",
-        "utdypning": "De ukrainske myndighetene opplyser at de sivile bussene i den østlige Donetsk-regionen ble målrettet for å ramme flest mulig sivile. Lokale myndigheter har stanset all kollektivtransport i området etter angrepet. Samtidig ble det meldt om en ukrainsk drone som traff et datasenter tilhørende det russiske teknologiselskapet Yandex.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261008-russian-strike-buses-kills-at-least-12-ukraine-kramatorsk-kyiv-targets-data-centre"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 5
-      },
-      {
-        "tittel": "Sjøkrig truer skipsfarten",
-        "tekst": "Flere tyrkisk-eide lasteskip har blitt truffet av mistenkte russiske droner i EU-farvann i Svartehavet.",
-        "utdypning": "Blant skipene som er rammet er det Togo-flaggede skipet Alfa Watan som sank utenfor Bulgaria, og ti egyptiske og syriske sjøfolk er savnet. Samtidig angriper Ukraina russiske tankskip i Svartehavet. Utviklingen skjer uten utsikter til en gjenåpning av en FN-meglet korn- og oljekorridor.",
+        "tittel": "EU lover støtte til ICC etter amerikanske sanksjoner",
+        "tekst": "EU erklærer seg rede til å iverksette mottiltak for å verne Den internasjonale straffedomstolen etter at USA innførte sanksjoner.",
+        "utdypning": "Trump-administrasjonen har innført omfattende sanksjoner mot Den internasjonale straffedomstolen (ICC) i et forsøk på å lamme driften. Som svar uttaler EU at unionen er klar til å ta i bruk alle nødvendige midler for å sikre at domstolen kan fortsette sitt arbeid.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/the-debate/20261008-black-sea-and-black-ops-how-exposed-is-europe-to-ukraine-war-spillover"
+            "lenke": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
       },
       {
-        "tittel": "Nobelpris til Navi Pillay",
-        "tekst": "Den sørafrikanske juristen Navi Pillay tildeles 2026-nobelprisen for sitt arbeid med internasjonal rett.",
-        "utdypning": "Den tidligere FN-sjefen for menneskerettigheter og dommer i Den internasjonale domstolen fikk prisen kunngjort i Oslo. Nobelkomiteen hedrer hennes innsats for å fremme fred og internasjonal lov.",
+        "tittel": "Trump og Putin enige om dieselavtale",
+        "tekst": "Russland har gått med på å forsyne USA og verdensmarkedet med diesel for å dempe prispresset før høstens midtveiervalg.",
+        "utdypning": "USAs president Donald Trump kunngjorde at Russland skal levere over 300 000 tonn diesel umiddelbart. Avtalen markerer en uventet kursendring etter årevis med strenge vestlige sanksjoner mot russisk økonomi som følge av krigen i Ukraina.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize"
+            "lenke": "https://www.france24.com/en/europe/20261009-trump-strikes-diesel-deal-with-putin-reversing-years-of-pressure-on-russia-over-ukraine-war"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/trump-putin-agree-on-deal-to-release-russian-diesel-to-us-world-markets/a-79623364?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "antall_kilder": 3,
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Angrep mot flyplass i Riyadh",
-        "tekst": "Tre saudiarabiske statsborgere ble dreget i et houthi-angrep mot King Khalid internasjonale lufthavn i Riyadh.",
-        "utdypning": "Houthi-opprørernes missilangrep førte til forstyrrelser i flyplassens operasjoner. Angrepet markerer en opptrapping av konflikten mellom den Iran-støttede gruppen og Saudi-Arabia, som støtter regjeringen i Jemen.",
+        "tittel": "Etiopia advarer Eritrea etter grensepassering",
+        "tekst": "Etiopiske myndigheter varsler at de vil forsvare seg etter at eritreiske soldater krysset grensen.",
+        "utdypning": "Lastebiler med eritreiske soldater har tatt seg inn i etiopisk territorium, noe som har utløst militære reaksjoner. Etiopia har svart med droneangrep og gitt en formell advarsel om at landet vil beskytte sine grenser.",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/yemen-s-houthis-claim-strike-on-riyadh-airport-three-killed/a-79587815?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Diplomatisk klammeri om fanger",
-        "tekst": "Sør-Korea kaller tilbake sin ambassadør til Ukraina etter en krangel om nordkoreanske krigsfanger.",
-        "utdypning": "Seoul er opprørt over at en overføring av nordkoreanske krigsfanger ble offentliggjort i FN. Sør-Korea krevde en uforbeholden unnskyldning fra Kyiv, noe de ikke har mottatt, og velger derfor å kalle hjem sin utsending.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Vil strømme militær henrettelse",
-        "tekst": "Pentagon opplyser at henrettelsen av Fort Hood-skytteren Nidal Hasan skal gjennomføres offentlig og strømmes.",
-        "utdypning": "Forsvarsminister Pete Hegseth uttaler at dødsstraffen ved skytepelotong vil bli utført i offentlighetens søkelys. Dette blir den første militære henrettelsen i USA siden 1961. Juridiske eksperter påpeker imidlertid at beslutningen befinner seg i et uavklart rettslig terreng.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-to-livestream-fort-hood-shooter-s-execution-pentagon/a-79606395?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 3
       }
     ]

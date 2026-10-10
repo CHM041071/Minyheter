@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USAs president Donald Trump har inngått en avtale med Russland om umiddelbar levering av diesel for å senke prisene.",
+      "tekst": "USA og Russland er enige om en avtale om levering av russisk diesel for å dempe prisene.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Ukrainas president Volodymyr Zelenskyj kritiserer avtalen og mener den forlenger krigen.",
+      "tekst": "Donald Trump retter hard kritikk mot Norge etter at Nobels fredspris ble tildelt Navi Pillay.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/zelenskyj_-dieselsalg-forlenger-krigen-1.18051171"
+          "lenke": "https://www.nrk.no/nyheter/trump-med-krass-kritikk-av-norge-i-tale-1.18051239"
         }
       ]
     },
     {
-      "tekst": "USA har innført omfattende sanksjoner mot Den internasjonale straffedomstolen (ICC), noe EU reagerer sterkt på.",
+      "tekst": "Oslo S er helt stengt lørdag samtidig som lokførerne streiker og togtrafikken rammes.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/stor-oslo/oslo-s-helt-stengt-lordag-1.18050432"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Trump lover russisk dieselleveranse",
-        "tekst": "USAs president Donald Trump sier Russland vil levere over 300 000 tonn diesel til det globale markedet etter en samtale med Vladimir Putin.",
-        "utdypning": "USAs president Donald Trump kunngjorde fredag at Russland har gått med på å levere over 300 000 tonn diesel til det amerikanske og globale markedet. Ifølge Trump kan det bli snakk om opptil 3 millioner tonn på sikt. Det amerikanske finansdepartementet har midlertidig utstedt en lisens som tillater salg og import av den russiske dieselen.",
+        "tittel": "Trump melder om russisk dieselleveranse",
+        "tekst": "USAs president Donald Trump sier Russland har gått med på å levere over 300 000 tonn diesel til markedet.",
+        "utdypning": "USAs president Donald Trump sier at Russland har gått med på umiddelbart å levere over 300.000 tonn diesel til det amerikanske og globale markedet. Dette skjer etter en samtale med Russlands president Vladimir Putin som Trump beskrev som svært vellykket, ifølge Reuters. Trump sier at Russland deretter vil levere 3 millioner tonn diesel innen kort tid, avhengig av tilstanden på landets raffinerier. Det amerikanske finansdepartement har midlertidig utstedt en lisens som tillater russisk diesel på markedet.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,22 +44,35 @@
         "vekt": 5
       },
       {
-        "tittel": "Zelenskyj advarer mot russisk dieselsalg",
-        "tekst": "Ukrainas president Volodymyr Zelenskyj kaller USAs tillatelse til russisk dieselsalg for en investering i en krig som må ta slutt.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyj reagerer kraftig på at Russland tillates å selge petroleumsprodukter igjen. Han uttaler at slike gaver til Vladimir Putin i form av sanksjonslettelser ikke vil få slutt på krigen, men tvert imot forlenge den.",
+        "tittel": "Krass kritik mot Norge fra Trump",
+        "tekst": "Donald Trump går hardt ut mot Norge i en tale og kaller tildelingen av Nobels fredspris til Navi Pillay for en skamplett.",
+        "utdypning": "Donald Trump går hardt ut mot Norge i en tale på et valgkampmøte i USA. Han reagerer på beslutningen om å gi Nobels fredspris til Navi Pillay. Dette er en uutslettelig skamplett på Norge og på personene som tok denne skammelige og pinlige beslutningen, sa Trump i talen. Trump kom med kritikken under en lang tale på et valgkampmøte i Syracuse i delstaten New York, til støtte for den republikanske politikeren Bruce Blakeman.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/zelenskyj_-dieselsalg-forlenger-krigen-1.18051171"
+            "lenke": "https://www.nrk.no/nyheter/trump-med-krass-kritikk-av-norge-i-tale-1.18051239"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Frykter for liv og helse under mottaksstreik",
-        "tekst": "Bemanningen på et asylmottak er kritisk lav som følge av en streik, noe som bekymrer både driftsselskap og fagforening.",
-        "utdypning": "Driftsselskapet Hero melder om en kritisk lav bemanning ved et asylmottak på grunn av en pågående streik. Situasjonen gjør at man frykter for liv og helse for både beboere og ansatte. Fagforeningen påpeker at det også må tas hensyn til de ansatte i konflikten.",
+        "tittel": "Oslo S stengt og lokførerstreik",
+        "tekst": "Lørdag er Oslo S helt stengt samtidig som lokførerne streiker, etter at alle norske tog sto stille i fire timer torsdag.",
+        "utdypning": "Torsdag sto alle norske tog stille i fire timer. Lørdag er Oslo S helt stengt. Samtidig streiker lokførerne.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/stor-oslo/oslo-s-helt-stengt-lordag-1.18050432"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Slår alarm om streik ved asylmottak",
+        "tekst": "Hero frykter for liv og helse på grunn av kritisk lav bemanning som følge av streik ved asylmottak.",
+        "utdypning": "Streik gjør at bemanning på mottaket er kritisk lav, mener Hero. Fagforeninga påpeker at man også burde tenke på de ansatte.",
         "kilder": [
           {
             "navn": "NRK",
@@ -67,27 +80,27 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Skandinavia": [
+        "vekt": 4
+      },
       {
-        "tittel": "Sverige deltar i Natos kärnvapenövning",
-        "tekst": "Svenske Gripen-fly og offiserer skal delta i Natos årlige kjernevåpenøvelse Steadfast Noon.",
-        "utdypning": "Sverige stiller med personell og fly fra flyvåpenet i Natos årlige øvelse Steadfast Noon, som finner sted i oktober. Ifølge opplysningene vil det ikke bli brukt faktiske kjernevåpen under øvelsen.",
+        "tittel": "Zelenskyj advarer mot dieselsalg",
+        "tekst": "Ukrainas president Volodymyr Zelenskyj sier tillatelse til å selge russisk petroleum forlenger krigen.",
+        "utdypning": "Å tillate Russland å selge petroleumsprodukter er en investering i en krig som må ta slutt, ikke fortsette, sier Ukrainas president Volodymyr Zelenskyj. Uttalelsen kommer etter at Trump meldte at Russland har gått med på å forsyne USA og resten av verden med millioner tonn diesel. Zelenskyj sier videre at slike gaver til Putin i form av lettelser i sanksjonene ikke vil få slutt på krigen.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/sverige-deltar-i-natos-arliga-karnvapenovning-embargo-tills-pressmeddelande-gatt-ut"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/zelenskyj_-dieselsalg-forlenger-krigen-1.18051171"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
+      }
+    ],
+    "Skandinavia": [
       {
-        "tittel": "ICC-medlemslande bekymrede over USA's sanktioner",
-        "tekst": "Medlemsland av Den internasjonale straffedomstolen uttrykker bekymring etter at USA har innført harde sanksjoner mot domstolen.",
-        "utdypning": "Flere av ICCs medlemsland har uttrykt dyp bekymring etter at den amerikanske regjeringen har iverksatt omfattende sanksjoner mot domstolen. Sanksjonene har som mål å svekke eller demontere institusjonens arbeid, noe som møter motstand i Europa.",
+        "tittel": "ICC-medlemsland bekymret over USAs sanksjoner",
+        "tekst": "Medlemsland av Den internasjonale straffedomstolen uttrykker bekymring etter at USA har innført nye sanksjoner.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "DR",
@@ -100,26 +113,51 @@
     ],
     "Norden": [
       {
-        "tittel": "Vestnorske ledere i første fellesmøte på Island",
-        "tekst": "Statsministrene fra Færøyene og Grønland har møtt Islands statsminister til det første offisielle toppmøtet for regionen.",
-        "utdypning": "Islands statsminister Kristrún Frostadóttir tok imot Færøyenes regjeringssjef Beinir Johannesen og Grønlands landsstyreformann Jens-Frederik Nielsen til det første fellesmøtet for vestnordiske ledere. Under besøket møtte de også investorer for å diskutere næringsmuligheter. Grønlands leder fremhevet også landets nylige avtale med USA om forsvar og NATO-samarbeid.",
+        "tittel": "Nobelpriser tildelt i litteratur og fred",
+        "tekst": "Anne Carson har vunnet litteraturprisen, mens Navi Pillay er tildelt fredsprisen.",
+        "utdypning": "Canadian-islandske Anne Carson har vunnet årets Nobelpris i litteratur for dristigheten og nyskapningen i forfatterskapet. Samtidig ble den tidligere FN-sjefen for menneskerettigheter og ICJ-dommeren Navanethem Navi Pillay tildelt 2026 Nobel Peace Prize for sine bidrag til internasjonal rett, kunngjort av Nobelkomiteen i Oslo.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-08-canadian-icelandic-anne-carson-wins-2026-nobel-prize-in-literature-489245/"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261009-south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/nobel-peace-prize-2026-goes-to-navanethem-navi-pillay-for-her-efforts-to-promote-peace-and-international-law/live-79598020?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 4,
+        "vekt": 3
+      },
+      {
+        "tittel": "Stabilitet sikret for islandsk arbeidsmarked",
+        "tekst": "Statsministeren i Island gleder seg over at tariffavtalene er videreført for det neste året.",
+        "utdypning": "Statsminister Kristrún Frostadóttir sier det er gode nyheter at kollektive avtaler forblir i kraft og at det er signert en felles erklæring mellom ASÍ, SA, SÍS og regjeringen. Hun mener dette sikrer stabilitet i Islands økonomi og arbeidsmarked gjennom hele neste år. Det er tatt viktige skritt for å håndtere inflasjonen med forpliktelser fra flere sektorer.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-09-pm-important-to-have-secured-stability-for-next-year-489334/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Vestnordiske ledere møttes på Island",
+        "tekst": "Statsministrene fra Færøyene og Grønland har deltatt på det første toppmøtet for vestnordiske ledere på Island.",
+        "utdypning": "Statsminister Kristrún Frostadóttir møtte lederne for Færøyene og Grønland som besøkte Island for det første møtet mellom vestnordiske ledere. Færøyenes statsminister Beinir Johannesen og Grønlands statsminister Jens-Frederik Nielsen møtte også investorer for å diskutere muligheter i regionen. Nielsen uttalte at en nylig avtale med USA om Grønlands forsvar er god for Grønland og NATO.",
         "kilder": [
           {
             "navn": "RÚV English",
             "lenke": "https://www.ruv.is/english/2026-10-08-west-nordic-leaders-hold-first-meeting-489186/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Finland sender nytt forsvarsvederlag til Ukraina",
-        "tekst": "Finland sender en hastelig sammenstilt forsvarsforsyning til Ukraina etter opptrappede russiske angrep.",
-        "utdypning": "Den finske regjeringen sender en ny pakke med militær støtte til Ukraina som reaksjon på at Russland har trappet opp sine angrep den siste tiden. Blant annet viser rapporter til et nylig missilangrep i Kramatorsk som krevde mange menneskeliv.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20250723?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -128,26 +166,9 @@
     ],
     "Europa": [
       {
-        "tittel": "EU lover støtte til ICC etter amerikanske sanksjoner",
-        "tekst": "EU erklærer seg rede til å iverksette mottiltak for å verne Den internasjonale straffedomstolen etter at USA innførte sanksjoner.",
-        "utdypning": "Trump-administrasjonen har innført omfattende sanksjoner mot Den internasjonale straffedomstolen (ICC) i et forsøk på å lamme driften. Som svar uttaler EU at unionen er klar til å ta i bruk alle nødvendige midler for å sikre at domstolen kan fortsette sitt arbeid.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Trump og Putin enige om dieselavtale",
-        "tekst": "Russland har gått med på å forsyne USA og verdensmarkedet med diesel for å dempe prispresset før høstens midtveiervalg.",
-        "utdypning": "USAs president Donald Trump kunngjorde at Russland skal levere over 300 000 tonn diesel umiddelbart. Avtalen markerer en uventet kursendring etter årevis med strenge vestlige sanksjoner mot russisk økonomi som følge av krigen i Ukraina.",
+        "tittel": "USA og Russland inngår dieselavtale",
+        "tekst": "USA og Russland er enige om at Russland skal levere diesel til globale markeder for å presse ned prisene.",
+        "utdypning": "USAs president Donald Trump kunngjorde fredag at Russland har godtatt å levere over 300.000 tonn diesel umiddelbart til amerikanske og globale markeder. Formålet er å senke drivstoffprisene før høstens mellomvalg. Dette innebærer en markant endring i politikken etter årevis med sanksjoner mot Russland som følge av invasjonen av Ukraina. Ukraina har kritisert avtalen og kaller den en gave til Putin som forlenger krigen.",
         "kilder": [
           {
             "navn": "France 24",
@@ -163,21 +184,68 @@
           }
         ],
         "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "USA innfører sanksjoner mot ICC",
+        "tekst": "Trump-administrasjonen har innført omfattende sanksjoner mot Den internasjonale straffedomstolen for å ramme driften.",
+        "utdypning": "USA har innført nye og omfattende sanksjoner mot Den internasjonale straffedomstolen som ledd i arbeidet med å avvikle domstolen. EU har som svar uttrykt at de er klare til å treffe nødvendige tiltak for å sikre at domstolen kan opprettholde sitt arbeid.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261009-international-criminal-court-faces-test-of-resilience-as-us-imposes-sweeping-sanctions"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Angrep i Zaporizhzhia og fredssamtaler i Miami",
+        "tekst": "Russiske angrep mot ukrainske Zaporizhzhia har krevd minst sju menneskeliv samtidig som det holdes nye samtale i Miami.",
+        "utdypning": "Russiske angrep på den sørøstlige ukrainske byen Zaporizhzhia drepte minst åtte mennesker, deriblant tre barn, ifølge lokale myndigheter. Angrepene skjedde mens tjenestepersoner fra USA, Ukraina og Europa møttes i Miami for nye samtaler om å få en slutt på krigen.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Etiopia advarer Eritrea etter grensepassering",
-        "tekst": "Etiopiske myndigheter varsler at de vil forsvare seg etter at eritreiske soldater krysset grensen.",
-        "utdypning": "Lastebiler med eritreiske soldater har tatt seg inn i etiopisk territorium, noe som har utløst militære reaksjoner. Etiopia har svart med droneangrep og gitt en formell advarsel om at landet vil beskytte sine grenser.",
+        "tittel": "Taiwan øker militærbudsjettet",
+        "tekst": "Taiwan hever sine forsvarssuksesser for å avskrekke en eventuell krig med Kina.",
+        "utdypning": "President Lai Ching-te uttalte i en tale på nasjonaldagen at landet styrker forsvarsutgiftene for å avskrekke en krig med Kina. Dette skjer i kjølvannet av at USAs president Donald Trump har bedt Taiwan om å betale for amerikansk beskyttelse.",
         "kilder": [
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Orkanen Isaias rammer Florida",
+        "tekst": "Orkanen Isaias har truffet land i Florida med fare for livstruende stormflo og flom.",
+        "utdypning": "Amerikanske værvemyndigheter advarte om livstruende stormflo langs gulfkysten da Kategori 2-orkkanen traff land. Hundretusenvis av husstander i Florida og Alabama har mistet strømmen mens uværet beveger seg over sørøst-USA.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]

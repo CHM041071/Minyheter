@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Nord-Korea har avfyrt flere ballistiske missiler mot Japanhavet natt til mandag, ifølge det sørkoreanske militæret.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092"
-        }
-      ]
-    },
-    {
-      "tekst": "USAs president Donald Trump hevder at Ukraina og Russland er enige om en våpenhvile for energisektoren.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/trump_-hevdar-energi-vapenkvile-mellom-russland-og-ukraina-1.18051868"
-        }
-      ]
-    },
-    {
-      "tekst": "Viking-kaptein Zlatko Tripic er offensiv før møtet med Bayern München i Mesterligaen på heimebane.",
+      "tekst": "En ny vei mellom Norge og Finland har åpnet for å styrke Nato-samarbeidet og militær mobilitet i nord.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/video/9bfc9b8e-29f4-4dbf-a93d-a435d75f294f"
+          "lenke": "https://www.nrk.no/tromsogfinnmark/samferdselsministeren-apnet-ny-vei-mellom-norge-og-finland-1.18052799"
+        }
+      ]
+    },
+    {
+      "tekst": "USAs påståtte energivåpenhvile mellom Russland og Ukraina møter skepsis og blir avvisende omtalt som et luftslott.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/ytring/trumps-energivapenhvile_-luftslott-som-tjener-putin-1.18052304"
+        }
+      ]
+    },
+    {
+      "tekst": "Skatteetaten har begjært Stavernfestivalen konkurs etter økonomiske problemer.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/vestfoldogtelemark/skatteetaten-har-begjaert-stavernfestivalen-konkurs-1.18052286"
         }
       ]
     }
@@ -31,41 +31,50 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Trump hevder det er enighet om energivåpenhvile",
-        "tekst": "USAs president Donald Trump hevder at Russland og Ukraina er enige om en våpenhvile for energisektoren.",
-        "utdypning": "USAs president Donald Trump hevder at Russland og Ukraina er enige om en våpenhvile for energisektoren. Det kjem etter at Trump har sagt at Ukraina må stoppe angrepa på russiske oljeinstallasjonar og bedt Ukrainas president Volodymyr Zelenskyj om å gå av. – Ukraina er klar til å slutte å angripe russiske oljeraffineri om Russland sluttar å angripe infrastrukturen vår, sa Zelenskyj tidlegare søndag. Trump har nyleg inngått ein avtale om å kjøpe diesel frå Russland. Trump har tidlegare gjort det tydeleg at han misliker at Ukraina ikkje har gått med på å stanse angrepa mot russisk ...",
+        "tittel": "Ny vei åpnet for militær mobilitet",
+        "tekst": "En ny vei mellom Norge og Finland har åpnet for å forbedre Nato-samarbeidet i nordområdene.",
+        "utdypning": "Samferdselsministeren påpeker at militære råd er viktige når penger skal fordeles til nye veiprosjekter. Den nye forbindelsen skal styrke den militære mobiliteten og beredskapen i regionen.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/trump_-hevdar-energi-vapenkvile-mellom-russland-og-ukraina-1.18051868"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/samferdselsministeren-apnet-ny-vei-mellom-norge-og-finland-1.18052799"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Nord-Korea skjøt opp ballistiske missiler",
-        "tekst": "Nord-Korea har avfyrt flere ballistiske missiler mot Japanhavet, opplyser det sørkoreanske militæret.",
-        "utdypning": "Nord-Korea har avfyrt flere ballistiske missiler mot Japanhavet, sier det sørkoreanske militæret. Det melder Reuters. Missilene skal ha blitt skutt opp rundt 2.20 norsk tid natt til mandag. Oppskytingen skjedde i nærheten av den nordkoreanske hovedstaden Pyongyang. Missilene skal ha falt ned i havet utenfor det som defineres som Japans økonomiske sone. Også den japanske kystvakten bekrefter at de har registrert det som beskrives som to uidentifiserte prosjektiler.",
+        "tittel": "Skepsis til Trumps energivåpenhvile",
+        "tekst": "USAs president har lagt fram en påstått avtale om energivåpenhvile, noe som møter sterk kritikk i Norge.",
+        "utdypning": "Avtalen mellom Ukraina og Russland beskrives av eksperter som et luftslott som mest av alt tjener Vladimir Putin. Ukrainas president kjenner ikke til avtalen og har varslet at landet vil svare på russiske angrep.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092"
-          },
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan"
+            "lenke": "https://www.nrk.no/ytring/trumps-energivapenhvile_-luftslott-som-tjener-putin-1.18052304"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 5
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Stavernfestivalen begjært konkurs",
+        "tekst": "Skatteetaten har tatt rettslige skritt mot en av Norges kjente sommerfestivaler.",
+        "utdypning": "Skatteetaten har formelt begjært Stavernfestivalen konkurs. Det foreligger foreløpig ikke detaljer om nøyaktig gjeldsbeløp eller hva dette betyr for fremtidige arrangementer.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/skatteetaten-har-begjaert-stavernfestivalen-konkurs-1.18052286"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Nobelpris i økonomi tildelt amerikanere",
-        "tekst": "Robert E. Hall og Michael Woodford får Sveriges Riksbanks pris i økonomisk vitenskap til Alfred Nobels minne 2026.",
-        "utdypning": "Robert E. Hall og Michael Woodford får økonomipriset till Alfred Nobels minne 2026. Det meddelades på måndagen. – Pristagarnas arbete har gett oss en stabil teoretisk grund för modeller som i dag används av centralbanker och regeringar världen över, säger Ekonomipriskommitténs ordförande John Hassler.",
+        "tittel": "Amerikanere tildeles økonomiprisen",
+        "tekst": "Robert E. Hall og Michael Woodford tildeles økonomiprisen til Alfred Nobels minne for 2026.",
+        "utdypning": "Det svenske vitenskapsakademiet bekjentgjorde tildelingen på mandag. Ifølge komitéleder John Hassler har prisvinnernes arbeid gitt en stabil teoretisk grunn for modeller som i dag brukes av sentralbanker og regjeringer verden over.",
         "kilder": [
           {
             "navn": "SVT",
@@ -78,56 +87,109 @@
         ],
         "antall_kilder": 2,
         "vekt": 3
+      },
+      {
+        "tittel": "Skogkjøp godkjent i Sverige",
+        "tekst": "Inspektionen för strategiska produkter slår fast at Palantir-sjefens skogkjøp ikke truer svensk sikkerhet.",
+        "utdypning": "Alex Karps kjøp av 15 000 hektar skog i Härjedalen vurderes ikke som en skadelig utenlandsk direktinvestering. Vurderingen var opprinnelig underlagt full sekretess, men ble offentliggjort etter at SVT klaget på avgjørelsen.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/jamtland/isp-om-palantir-vdns-kop-i-harjedalen-inte-skadligt-for-sveriges-sakerhet"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Svensk minister krever hardere linje mot Russland",
+        "tekst": "Sveriges utrikesminister advarer om en verden som i praksis brenner, og støtter nye EU-sanksjoner.",
+        "utdypning": "EU innfører 1 600 nye navn på sanksjonslisten og sikter mot å fase ut handelen med rysk energi. Utrikesminister Maria Malmer Stenergard påpeker at det er vanskelig å få Putin til forhandlingsbordet uten økt press og sterkere støtte til Ukraina.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/stenergard-m-befinner-oss-i-en-varld-som-i-praktiken-brinner"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
-    "Norden": [],
+    "Norden": [
+      {
+        "tittel": "Færre skader etter innføring av el-pistoler på Island",
+        "tekst": "Islandske politifolk har rapportert en markant nedgang i yrkesskader etter at de tok i bruk el-pistoler.",
+        "utdypning": "Statistikken viser at arbeidsrelaterte skader har falt med rundt 70 prosent siden ordningen ble innført i september 2024. Mellom 2022 og 2024 ble det registrert 221 skader, mens tallet falt til 67 i perioden frem til august 2026.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-12-police-workplace-injuries-fall-following-introduction-of-tasers-489557/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Kritikk av finsk kreftomsorg",
+        "tekst": "En ny undersøkelse viser at forsinkelser i finsk kreftbehandling gir dårligere resultater enn i resten av Norden.",
+        "utdypning": "Undersøkelsen avdekker at Finland mangler et nasjonalt register for å spore behandlingsresultater. Dette gjør det vanskeligere å oppdage forsinkelser og forskjeller i helsetilbudet sammenlignet med nabolandene.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251023?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
     "Europa": [
       {
-        "tittel": "NATO-sjef advarer Russland",
-        "tekst": "NATO s øverste militære kommandør vil advare Russland om at alliansen kan slå tilbake et angrep.",
-        "utdypning": "NATO’s top military commander is expected to warn Russia on Monday that the alliance can counter any attack, officials said. US General Alexus Grynkewich will outline his “theory of victory” at a Warsaw security conference amid Western concerns over Moscow’s alleged campaign of sabotage and interference against Ukraine’s wartime backers.",
+        "tittel": "Russiske angrep mot ukrainsk energi fortsetter",
+        "tekst": "Ukraina melder om nye russiske angrep få timer etter at USA kunngjorde en påstått energivåpenhvile.",
+        "utdypning": "Ukrainas president Volodymyr Zelensky sier det er åpenbart at Russland ikke vil akseptere en stans i angrepene mot energimål. Seks ukrainske energianlegg skal ha blitt rammet etter at den amerikanske presidenten unilateral kunngjorde avtalen, mens Kreml opplyser at de kun vurderer en ettidagers pause i forbindelse med valg.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack"
+            "lenke": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "Nato advarer Russland mot sabotasje",
+        "tekst": "Natos øverste militære sjef advarer Moskva mot alliansens evne til å slå tilbake.",
+        "utdypning": "USA-general Alexus Grynkewich holdt en pressekonferanse i Warszawa for å adressere vestlig bekymring for Russlands påståtte sabotasjekampanje mot Ukrainas støttespillere. Generalen la frem sin såkalte teori for seier på en sikkerhetskonferanse i Polen.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/replay-nato-s-top-military-commander-warns-russia-over-alleged-sabotage"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Zelenskyj overrasket over energivåpenhvile",
-        "tekst": "Ukrainske kraftverk ble rammet av russiske angrep søndag, samtidig som Trump hevder en energivåpenhvile er inngått.",
-        "utdypning": "Ukrainian power plants were hit by Russian strikes on Sunday, leading to power outages. President Volodymyr Zelensky announced the attacks and expressed his surprise at the US President's post that stated that an “energy ceasefire” had been agreed upon between Ukraine and Russia. While Zelensky said he was not aware of any deal he said he would welcome one. Moscow has yet to confirm any accord.",
+        "tittel": "Supermarked-kjøleanlegg rammet av dataangrep",
+        "tekst": "Hundrevis av franske supermarkeder ble rammet av et omfattende dataangrep som ødela kjølevarer.",
+        "utdypning": "Innbruddet i systemene førte til at kjøle- og fryseanlegg ble slått av i løpet av natten, noe som ødela fersk- og frossenmat for millioner av euro. Hendelsen reiser alvorlige spørsmål rundt mattryggheten og digital sårbarhet i europeisk infrastruktur.",
         "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/zelensky-says-surprised-to-hear-about-trump-s-energy-ceasefire-between-ukraine-and-russia"
-          },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-eu-2092-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Britisk statsminister advarer mot russisk påvirkning",
-        "tekst": "Storbritannias statsminister Andy Burnham advarer franske og tyske velgere mot potensiell russisk innblanding i valg.",
-        "utdypning": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the Brexit vote, while former British leader Boris Johnson 2020 also said there was no evidence of interference. Burnham made the comments in an interview with The Rest is Politics podcast, released on Sunday.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote"
+            "lenke": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
@@ -136,17 +198,47 @@
     ],
     "Verden": [
       {
-        "tittel": "Nye angrep mot flyplasser i Saudi-Arabia",
-        "tekst": "Kong Khalid internasjonale lufthavn ble rammet av et nytt angrep søndag, etter at houthi-opprørere advarte om mer.",
-        "utdypning": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\" Dammam airport was also hit. The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+        "tittel": "EUs historiske sanksjonspakke mot Russland",
+        "tekst": "EU har godkjent sin hittil største sanksjonspakke rettet mot Russlands militærindustrielle kompleks.",
+        "utdypning": "Pakken retter seg mot over 1 000 enheter og ble vedtatt under et møte mellom EUs utenriksministre. Tysklands representant kaller tiltakene et enestående slag mot russisk økonomi.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Føderale agenter ransaket boligen til Ilhan Omar",
+        "tekst": "Justisdepartementet i USA har gjennomført en husundersøkelse hos den Demokratiske kongresskvinnen.",
+        "utdypning": "Ransakelsen i Washington skjedde som ledd i en pågående føderal etterforskning. Omar, som er en uttalt kritiker av president Trump, betegner aksjonen som et politisk angrep mot sine motstandere.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-federal-agents-search-home-of-trump-critic-ilhan-omar/a-79643360?maca=en-rss-en-all-1573-rdf"
           },
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Nord-Korea avfyrte ballistiske missiler",
+        "tekst": "Nord-Korea har skutt opp flere ballistiske missiler mot Japanhavet, ifølge det sørkoreanske militæret.",
+        "utdypning": "Oppskytingen skjedde fra området rundt hovedstaden Pyongyang tidlig mandag morgen norsk tid. Missilene falt ned i havet utenfor Japans økonomiske sone, og den japanske kystvakten bekrefter å ha registrert to uidentifiserte prosjektiler.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092"
+          },
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan"
           }
         ],
         "antall_kilder": 2,

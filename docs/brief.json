@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "New Russian strikes follow Trump's announcement of Russia-Ukraine energy ceasefire",
+      "tekst": "Nord-Korea har avfyrt flere ballistiske missiler mot Japanhavet natt til mandag, ifølge det sørkoreanske militæret.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092"
         }
       ]
     },
     {
-      "tekst": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
+      "tekst": "USAs president Donald Trump hevder at Ukraina og Russland er enige om en våpenhvile for energisektoren.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/trump_-hevdar-energi-vapenkvile-mellom-russland-og-ukraina-1.18051868"
         }
       ]
     },
     {
-      "tekst": "Saudi Arabia: Second strike hits Riyadh airport",
+      "tekst": "Viking-kaptein Zlatko Tripic er offensiv før møtet med Bayern München i Mesterligaen på heimebane.",
       "kilder": [
         {
-          "navn": "DW World",
-          "lenke": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/video/9bfc9b8e-29f4-4dbf-a93d-a435d75f294f"
         }
       ]
     }
@@ -31,114 +31,78 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Trump: Hevdar energi-våpenkvile mellom Russland og Ukraina",
-        "tekst": "USAs president Donald Trump hevdar at Russland og Ukraina er einige om våpenkvile for energisektoren. Det kjem etter at Trump har sagt at Ukraina må stoppe angrepa på russiske oljeinstallasjonar og bedt Ukrainas president Volodymyr Zelenskyj om å gå …",
-        "utdypning": "",
+        "tittel": "Trump hevder det er enighet om energivåpenhvile",
+        "tekst": "USAs president Donald Trump hevder at Russland og Ukraina er enige om en våpenhvile for energisektoren.",
+        "utdypning": "USAs president Donald Trump hevder at Russland og Ukraina er enige om en våpenhvile for energisektoren. Det kjem etter at Trump har sagt at Ukraina må stoppe angrepa på russiske oljeinstallasjonar og bedt Ukrainas president Volodymyr Zelenskyj om å gå av. – Ukraina er klar til å slutte å angripe russiske oljeraffineri om Russland sluttar å angripe infrastrukturen vår, sa Zelenskyj tidlegare søndag. Trump har nyleg inngått ein avtale om å kjøpe diesel frå Russland. Trump har tidlegare gjort det tydeleg at han misliker at Ukraina ikkje har gått med på å stanse angrepa mot russisk ...",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/nyheter/trump_-hevdar-energi-vapenkvile-mellom-russland-og-ukraina-1.18051868"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 5
       },
       {
-        "tittel": "Sjømatnæringen må få kraft-prioritet",
-        "tekst": "Sjømat Norge mener at kritiske samfunnsfunksjoner, som matproduksjon, må få prioritert på tilgang til strøm.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/video/2f8eded7-bea6-456f-bcfe-7a30df7f1315"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Nå vakler Trumps skanse i Iowa",
-        "tekst": "To bønder merker president Trumps politikk på hver sin måte, men de har én felles bekymring.",
-        "utdypning": "",
+        "tittel": "Nord-Korea skjøt opp ballistiske missiler",
+        "tekst": "Nord-Korea har avfyrt flere ballistiske missiler mot Japanhavet, opplyser det sørkoreanske militæret.",
+        "utdypning": "Nord-Korea har avfyrt flere ballistiske missiler mot Japanhavet, sier det sørkoreanske militæret. Det melder Reuters. Missilene skal ha blitt skutt opp rundt 2.20 norsk tid natt til mandag. Oppskytingen skjedde i nærheten av den nordkoreanske hovedstaden Pyongyang. Missilene skal ha falt ned i havet utenfor det som defineres som Japans økonomiske sone. Også den japanske kystvakten bekrefter at de har registrert det som beskrives som to uidentifiserte prosjektiler.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/urix/na-vakler-donald-trumps-skanse-i-iowa-1.18050801"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "– Vi dro hit, og så sto bare bilen der",
-        "tekst": "Etter nyttår blir nye elbiler igjen dyrere. Bilbransjen forventer både salgsrush og salgsrekorder i siste kvartal.",
-        "utdypning": "",
-        "kilder": [
+            "lenke": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092"
+          },
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/bilmesse-i-sorlandshallen_-_-vi-dro-hit_-og-sa-sto-bare-bilen-der-1.18051407"
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan"
           }
         ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Vil ikke ha elektriske mopedbiler: – Bensin og diesel til jeg dør",
-        "tekst": "Bilene blir stadig mer populære, men unge velger bort den elektriske varianten. 87 prosent av mopedbilene går på bensin eller diesel.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/vil-ikke-ha-elektriske-mopedbiler_-nesten-9-av-10-gar-pa-bensin-og-diesel-1.18032499"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 2,
+        "vekt": 5
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "”Zelenskyj beskrivs som en bråkmakare som förvärrar energikrisen”",
-        "tekst": "Trump verkar ha tröttnat på Zelenskyj – igen. Nu riskerar USA att slå undan Ukrainas viktigaste påtryckningsmedel mot Ryssland. Donald Trump är personligt investerad i rysk oljeproduktion. Oavsett om hans påstående om energivapenvila på söndagen …",
-        "utdypning": "",
+        "tittel": "Nobelpris i økonomi tildelt amerikanere",
+        "tekst": "Robert E. Hall og Michael Woodford får Sveriges Riksbanks pris i økonomisk vitenskap til Alfred Nobels minne 2026.",
+        "utdypning": "Robert E. Hall og Michael Woodford får økonomipriset till Alfred Nobels minne 2026. Det meddelades på måndagen. – Pristagarnas arbete har gett oss en stabil teoretisk grund för modeller som i dag används av centralbanker och regeringar världen över, säger Ekonomipriskommitténs ordförande John Hassler.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/zelenskyj-beskrivs-som-en-brakmakare-som-forvarrar-energikrisen"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Egypten anklagas för dödlig attack mot guldgruva",
-        "tekst": "Minst 72 personer dödades i ett luftangrepp mot en guldgruva vid gränsen mellan Sudan och Egypten, uppger en människorättsorganisation.",
-        "utdypning": "",
-        "kilder": [
+            "lenke": "https://www.svt.se/nyheter/inrikes/vem-far-ekonomipriset-2026"
+          },
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/egypten-anklagas-for-dodlig-attack-mot-guldgruva"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261012-americans-robert-e-hall-and-michael-woodford-win-nobel-prize-in-economics"
           }
         ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Houthierne tager ansvar for lufthavnsangreb med 12 dræbte i går",
-        "tekst": "",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/houthierne-tager-ansvar-lufthavnsangreb-med-12-draebte-i-gaar"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "New Russian strikes follow Trump's announcement of Russia-Ukraine energy ceasefire",
-        "tekst": "US President Trump said Sunday via social media platform Truth Social that Russia and Ukraine had agreed to an energy ceasefire. Neither Kyiv nor Moscow confirmed the agreement, but Zelensky later confirmed new Russian strikes to a Ukrainian …",
-        "utdypning": "",
+        "tittel": "NATO-sjef advarer Russland",
+        "tekst": "NATO s øverste militære kommandør vil advare Russland om at alliansen kan slå tilbake et angrep.",
+        "utdypning": "NATO’s top military commander is expected to warn Russia on Monday that the alliance can counter any attack, officials said. US General Alexus Grynkewich will outline his “theory of victory” at a Warsaw security conference amid Western concerns over Moscow’s alleged campaign of sabotage and interference against Ukraine’s wartime backers.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire"
+            "lenke": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Zelenskyj overrasket over energivåpenhvile",
+        "tekst": "Ukrainske kraftverk ble rammet av russiske angrep søndag, samtidig som Trump hevder en energivåpenhvile er inngått.",
+        "utdypning": "Ukrainian power plants were hit by Russian strikes on Sunday, leading to power outages. President Volodymyr Zelensky announced the attacks and expressed his surprise at the US President's post that stated that an “energy ceasefire” had been agreed upon between Ukraine and Russia. While Zelensky said he was not aware of any deal he said he would welcome one. Moscow has yet to confirm any accord.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/zelensky-says-surprised-to-hear-about-trump-s-energy-ceasefire-between-ukraine-and-russia"
           },
           {
             "navn": "BBC",
@@ -147,44 +111,34 @@
           {
             "navn": "DW",
             "lenke": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 4
+        "antall_kilder": 3,
+        "vekt": 4
       },
       {
-        "tittel": "UK PM Burnham warns French voters of Russian political influence on back of Brexit vote",
-        "tekst": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has …",
-        "utdypning": "",
+        "tittel": "Britisk statsminister advarer mot russisk påvirkning",
+        "tekst": "Storbritannias statsminister Andy Burnham advarer franske og tyske velgere mot potensiell russisk innblanding i valg.",
+        "utdypning": "British Prime Minister Andy Burnham on Sunday warned French and German voters of potential for Russian influence in upcoming elections, on the back of \"clear\" interference in Britain's referendum on European Union membership in 2016. Russia has previously denied meddling in the Brexit vote, while former British leader Boris Johnson 2020 also said there was no evidence of interference. Burnham made the comments in an interview with The Rest is Politics podcast, released on Sunday.",
         "kilder": [
           {
             "navn": "France 24",
             "lenke": "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
-        "tekst": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
-        "utdypning": "",
-        "kilder": [
+          },
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-eu-2092-rdf"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Saudi Arabia: Second strike hits Riyadh airport",
-        "tekst": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\" Dammam airport was also hit.",
-        "utdypning": "",
+        "tittel": "Nye angrep mot flyplasser i Saudi-Arabia",
+        "tekst": "Kong Khalid internasjonale lufthavn ble rammet av et nytt angrep søndag, etter at houthi-opprørere advarte om mer.",
+        "utdypning": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\" Dammam airport was also hit. The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
         "kilder": [
           {
             "navn": "DW World",
@@ -195,36 +149,13 @@
             "lenke": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2
-      },
-      {
-        "tittel": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
-        "tekst": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "German 'lawfare': When lawsuits become a political weapon",
-        "tekst": "The Left Party is suing two government ministers for accusing them of antisemitism, while Chancellor Friedrich Merz has been sued several times by various parties. Is German politics descending into \"lawfare?\"",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ]
   },
   "folg_med": [],
   "senere": [],
-  "modus": "regler",
-  "modell": ""
+  "modus": "ai",
+  "modell": "gemini-3.5-flash-lite"
 }

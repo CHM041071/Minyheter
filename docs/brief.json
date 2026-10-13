@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "En ny vei mellom Norge og Finland har åpnet for å styrke Nato-samarbeidet og militær mobilitet i nord.",
+      "tekst": "En ny vei mellom Norge og Finland ble åpnet for å styrke Nato-samarbeidet og militær mobilitet i nord.",
       "kilder": [
         {
           "navn": "NRK Norge",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "USAs påståtte energivåpenhvile mellom Russland og Ukraina møter skepsis og blir avvisende omtalt som et luftslott.",
+      "tekst": "Ukraina melder om russiske angrep til tross for at USAs president kunngjorde en energivåpenhvile mellom nasjonene.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/ytring/trumps-energivapenhvile_-luftslott-som-tjener-putin-1.18052304"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky"
         }
       ]
     },
     {
-      "tekst": "Skatteetaten har begjært Stavernfestivalen konkurs etter økonomiske problemer.",
+      "tekst": "Svenske Riksdagen holder statsministeravstemning om Magdalena Andersson på torsdag etter 30 dager uten regjering.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/vestfoldogtelemark/skatteetaten-har-begjaert-stavernfestivalen-konkurs-1.18052286"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/statsministeravstemming-i-sverige-torsdag-1.18053484"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Ny vei åpnet for militær mobilitet",
-        "tekst": "En ny vei mellom Norge og Finland har åpnet for å forbedre Nato-samarbeidet i nordområdene.",
-        "utdypning": "Samferdselsministeren påpeker at militære råd er viktige når penger skal fordeles til nye veiprosjekter. Den nye forbindelsen skal styrke den militære mobiliteten og beredskapen i regionen.",
+        "tittel": "Ny vei åpnet mellom Norge og Finland",
+        "tekst": "En ny veiforbindelse mellom Norge og Finland har åpnet for å forbedre Nato-samarbeidet og den militære mobiliteten i nord.",
+        "utdypning": "Samferdselsministeren uttaler at militære råd er viktige når midler fordeles til nye veiprosjekter. Den nye veien skal direkte bidra til å styrke den militære mobiliteten og beredskapen i grenseområdet mellom de to nordiske landene i tråd med Nato-samarbeidet.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -41,12 +41,12 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "Skepsis til Trumps energivåpenhvile",
-        "tekst": "USAs president har lagt fram en påstått avtale om energivåpenhvile, noe som møter sterk kritikk i Norge.",
-        "utdypning": "Avtalen mellom Ukraina og Russland beskrives av eksperter som et luftslott som mest av alt tjener Vladimir Putin. Ukrainas president kjenner ikke til avtalen og har varslet at landet vil svare på russiske angrep.",
+        "tittel": "Utsagn om energivåpenhvile",
+        "tekst": "USAs president har kunngjort en avtale om energivåpenhvile, men Ukraina kjenner ikke til avtalen og vil svare på angrep.",
+        "utdypning": "USAs president hevdet at det er inngått en avtale om energivåpenhvile mellom Ukraina og Russland. Ukrainas president Volodymyr Zelenskyj avviser imidlertid kjennskap til avtalen og varsler at de vil svare på russiske angrep mot landets infrastruktur.",
         "kilder": [
           {
             "navn": "NRK",
@@ -54,16 +54,29 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 5
       },
       {
-        "tittel": "Stavernfestivalen begjært konkurs",
-        "tekst": "Skatteetaten har tatt rettslige skritt mot en av Norges kjente sommerfestivaler.",
-        "utdypning": "Skatteetaten har formelt begjært Stavernfestivalen konkurs. Det foreligger foreløpig ikke detaljer om nøyaktig gjeldsbeløp eller hva dette betyr for fremtidige arrangementer.",
+        "tittel": "Statsministeravstemning i Sverige",
+        "tekst": "Svenske Riksdagen skal avholde statsministeravstemning om Magdalena Andersson torsdag etter 30 dager uten regjering.",
+        "utdypning": "Talmann Andreas Norlén har kunngjort at det blir avstemning i Riksdagen om Magdalena Andersson. Politikerne skal stemme over om de ønsker en sosialdemokratisk ettpartiregjering etter at Sverige har vært 30 dager uten regjering.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/statsministeravstemming-i-sverige-torsdag-1.18053484"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Svalbard-turisme og russiske bosettinger",
+        "tekst": "Reiselivet i Longyearbyen har unngått de russiske bosettingene på Svalbard i fire år, men avviser boikott.",
+        "utdypning": "Aktører i reiselivet på Svalbard uttaler at selv om man har holdt avstand til de russiske bosettingene i fire år, dreier det seg ikke om en offisiell boikott. Det understrekes samtidig at dialog er nødvendig uavhengig av hva man mener om Russlands handlinger i Ukraina.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/skatteetaten-har-begjaert-stavernfestivalen-konkurs-1.18052286"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/visit-svalbard-og-longyearbyen-lokalstyre-avviser-at-de-boikotter-pyramiden-og-barentsburg-1.18049111"
           }
         ],
         "antall_kilder": 1,
@@ -72,9 +85,22 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Amerikanere tildeles økonomiprisen",
-        "tekst": "Robert E. Hall og Michael Woodford tildeles økonomiprisen til Alfred Nobels minne for 2026.",
-        "utdypning": "Det svenske vitenskapsakademiet bekjentgjorde tildelingen på mandag. Ifølge komitéleder John Hassler har prisvinnernes arbeid gitt en stabil teoretisk grunn for modeller som i dag brukes av sentralbanker og regjeringer verden over.",
+        "tittel": "Svensk minister om nye EU-sanksjoner",
+        "tekst": "Sveriges utrikesminister slår fast at verden brenner og at det kreves tøffere press mot Russland.",
+        "utdypning": "EU har godkjent sin hittil største sanksjonspakke mot Moskva med over 1 000 nye navn og en målrettet innsats mot fryst russisk eiendom og energiimport. Sveriges utrikesminister Maria Malmer Stenergard påpeker at det er vanskelig å få Russlands president Vladimir Putin til forhandlingsbordet uten økt press og støtte til Ukraina.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/stenergard-m-befinner-oss-i-en-varld-som-i-praktiken-brinner"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Nobelprisen i økonomi til amerikanere",
+        "tekst": "Robert E. Hall og Michael Woodford er tildelt Sveriges Riksbanks pris i økonomisk vitenskap til Alfred Nobels minne 2026.",
+        "utdypning": "Prisen ble delt ut av Kongelig Svenska Vetenskapsakademien på mandag. Ifølge komitéleder John Hassler har prisvinnernes arbeid gitt en stabil teoretisk grunnvoll for modeller som i dag benyttes av sentralbanker og regjeringer over hele verden.",
         "kilder": [
           {
             "navn": "SVT",
@@ -89,26 +115,13 @@
         "vekt": 3
       },
       {
-        "tittel": "Skogkjøp godkjent i Sverige",
-        "tekst": "Inspektionen för strategiska produkter slår fast at Palantir-sjefens skogkjøp ikke truer svensk sikkerhet.",
-        "utdypning": "Alex Karps kjøp av 15 000 hektar skog i Härjedalen vurderes ikke som en skadelig utenlandsk direktinvestering. Vurderingen var opprinnelig underlagt full sekretess, men ble offentliggjort etter at SVT klaget på avgjørelsen.",
+        "tittel": "Polen etterforsker Starlink-brann",
+        "tekst": "Polske myndigheter mistenker Russland for å stå bak en brann i tilknytning til Starlink-infrastruktur.",
+        "utdypning": "Hendelsen knytter seg til økt spenning i regionen rundt sabotasje og hybrid krigføring mot land som støtter Ukraina. Polske myndigheter undersøker nå om russiske aktører har stått bak brannen.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/jamtland/isp-om-palantir-vdns-kop-i-harjedalen-inte-skadligt-for-sveriges-sakerhet"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Svensk minister krever hardere linje mot Russland",
-        "tekst": "Sveriges utrikesminister advarer om en verden som i praksis brenner, og støtter nye EU-sanksjoner.",
-        "utdypning": "EU innfører 1 600 nye navn på sanksjonslisten og sikter mot å fase ut handelen med rysk energi. Utrikesminister Maria Malmer Stenergard påpeker at det er vanskelig å få Putin til forhandlingsbordet uten økt press og sterkere støtte til Ukraina.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/stenergard-m-befinner-oss-i-en-varld-som-i-praktiken-brinner"
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/polen-mistaenker-rusland-staa-bag-starlink-brand"
           }
         ],
         "antall_kilder": 1,
@@ -117,26 +130,43 @@
     ],
     "Norden": [
       {
-        "tittel": "Færre skader etter innføring av el-pistoler på Island",
-        "tekst": "Islandske politifolk har rapportert en markant nedgang i yrkesskader etter at de tok i bruk el-pistoler.",
-        "utdypning": "Statistikken viser at arbeidsrelaterte skader har falt med rundt 70 prosent siden ordningen ble innført i september 2024. Mellom 2022 og 2024 ble det registrert 221 skader, mens tallet falt til 67 i perioden frem til august 2026.",
+        "tittel": "Finsk krav om EU-forbud mot russiske turistvisum",
+        "tekst": "Finlands utenriksminister krever at EU innfører et totalforbud mot russiske turistvisum.",
+        "utdypning": "Finland har hatt nasjonale restriksjoner på visum for ikke-essensielle reiser siden 2022, men utenriksminister Elina Valtonen mener tiltaket nå må innføres på felles EU-nivå. Samtidig reagerer landet kritisk på at USA har lettet på sanksjoner knyttet til russisk diesel.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251219?origin=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "FN-advarsel om atomtrussel på Island",
+        "tekst": "FNs representant for nedrustning advarer om at atomtrusselen er på sitt høyeste siden den kalde krigen.",
+        "utdypning": "Izumi Nakamitsu, FNs høye representant for nedrustningssaker, deltok på en fredskonferanse i Reykjavík. Hun advarer om at verden er på vei inn i et nytt våpenkappløp og at mangelen på dialog mellom stormaktene kan få alvorlige konsekvenser.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-12-police-workplace-injuries-fall-following-introduction-of-tasers-489557/"
+            "lenke": "https://www.ruv.is/english/2026-10-13-un-chief-in-iceland-nuclear-weapon-threat-greatest-since-cold-war-489643/"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Kritikk av finsk kreftomsorg",
-        "tekst": "En ny undersøkelse viser at forsinkelser i finsk kreftbehandling gir dårligere resultater enn i resten av Norden.",
-        "utdypning": "Undersøkelsen avdekker at Finland mangler et nasjonalt register for å spore behandlingsresultater. Dette gjør det vanskeligere å oppdage forsinkelser og forskjeller i helsetilbudet sammenlignet med nabolandene.",
+        "tittel": "Islands statsminister om inflasjonen",
+        "tekst": "Islands statsminister Kristrún Frostadóttir melder om et mulig vendepunkt i landets inflasjon.",
+        "utdypning": "Under en tale til regjeringspartiets styre fremhevet statsministeren at regjeringen håndterer økonomisk turbulens og internasjonal uro. Hun uttalte at landet nå ser et vendepunkt for inflasjonen.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20251023?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-12-pm-we-are-seeing-turning-point-in-inflation-489564/"
           }
         ],
         "antall_kilder": 1,
@@ -145,9 +175,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Russiske angrep mot ukrainsk energi fortsetter",
-        "tekst": "Ukraina melder om nye russiske angrep få timer etter at USA kunngjorde en påstått energivåpenhvile.",
-        "utdypning": "Ukrainas president Volodymyr Zelensky sier det er åpenbart at Russland ikke vil akseptere en stans i angrepene mot energimål. Seks ukrainske energianlegg skal ha blitt rammet etter at den amerikanske presidenten unilateral kunngjorde avtalen, mens Kreml opplyser at de kun vurderer en ettidagers pause i forbindelse med valg.",
+        "tittel": "Russiske angrep mot ukrainsk energi",
+        "tekst": "Ukraina rapporterer om nye russiske angrep mot energianlegg kort tid etter USAs kunngjøring om energivåpenhvile.",
+        "utdypning": "Til tross for at USAs president Donald Trump kunngjorde at energistrukturer ikke lenger skulle være mål, rammet russiske angrep ukrainske byer som Kyiv, Kharkiv og Donetsk. Ukrainske myndigheter opplyser at seks energianlegg er truffet, og president Volodymyr Zelenskyj slår fast at Russland ikke er villig til å akseptere en slik avtale.",
         "kilder": [
           {
             "navn": "France 24",
@@ -166,54 +196,67 @@
         "vekt": 5
       },
       {
-        "tittel": "Nato advarer Russland mot sabotasje",
-        "tekst": "Natos øverste militære sjef advarer Moskva mot alliansens evne til å slå tilbake.",
-        "utdypning": "USA-general Alexus Grynkewich holdt en pressekonferanse i Warszawa for å adressere vestlig bekymring for Russlands påståtte sabotasjekampanje mot Ukrainas støttespillere. Generalen la frem sin såkalte teori for seier på en sikkerhetskonferanse i Polen.",
+        "tittel": "Nato-sjef advarer Russland mot sabotasje",
+        "tekst": "Natos øverste militære kommandør advarer Russland mot alliansens evne til å slå tilbake.",
+        "utdypning": "USAs general Alexus Grynkewich la fram sin såkalte seiersteori på en sikkerhetskonferanse i Warszawa. Advarselen kommer som følge av økende vestlig bekymring for Moskvas påståtte kampanje med sabotasje og innblanding mot Ukrainas støttespillere.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/replay-nato-s-top-military-commander-warns-russia-over-alleged-sabotage"
+            "lenke": "https://www.france24.com/en/europe/20261012-nato-top-commander-warn-russia-alliance-counter-attack"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Supermarked-kjøleanlegg rammet av dataangrep",
-        "tekst": "Hundrevis av franske supermarkeder ble rammet av et omfattende dataangrep som ødela kjølevarer.",
-        "utdypning": "Innbruddet i systemene førte til at kjøle- og fryseanlegg ble slått av i løpet av natten, noe som ødela fersk- og frossenmat for millioner av euro. Hendelsen reiser alvorlige spørsmål rundt mattryggheten og digital sårbarhet i europeisk infrastruktur.",
+        "tittel": "Avverget attentatplan mot polske ministre",
+        "tekst": "Polsk politi har arrestert en mann mistenkt for å planlegge et angrep mot statsministeren og forsvarsministeren.",
+        "utdypning": "Innenriksdepartementet i Polen opplyser at en mann i 60-årene ble pågrepet i Nedre Schlesien-regionen. Mistenkte ble identifisert gjennom analyser av innhold publisert på internett, og det er gjennomført ransaking i mannens hjem i forbindelse med etterforskningen av det planlagte angrepet mot statsminister Donald Tusk og forsvarsminister Wladyslaw Kosiniak-Kamysz.",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/poland-police-foils-alleged-assassination-attempt-against-pm"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "EUs historiske sanksjonspakke mot Russland",
-        "tekst": "EU har godkjent sin hittil største sanksjonspakke rettet mot Russlands militærindustrielle kompleks.",
-        "utdypning": "Pakken retter seg mot over 1 000 enheter og ble vedtatt under et møte mellom EUs utenriksministre. Tysklands representant kaller tiltakene et enestående slag mot russisk økonomi.",
+        "tittel": "Kritikk mot amerikansk dieselavtale med Russland",
+        "tekst": "Både republikanske og demokratiske politikere i USA retter hard kritikk mot planer om å importere russisk diesel.",
+        "utdypning": "Planen, som ble presentert av USAs president som et forsøk på å trekke Russland til forhandlingsbordet, har møtt sterk motstand i Kongressen. Kritikerne reagerer på at avtalen inngås få uker før de amerikanske midtveisvalgene.",
         "kilder": [
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-s-wadephul-calls-new-eu-sanctions-unprecedented-blow-to-russia/a-79638017?maca=en-rss-en-all-1573-rdf"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
+      },
+      {
+        "tittel": "Indisk opposisjon demonstrerer mot valgkommisjon",
+        "tekst": "Indiske opposisjonspartier har marsjert til landets høyesterett for å kreve avgang fra sjefen for valgkommisjonen.",
+        "utdypning": "Demonstrasjonene kommer etter en kaotisk helg i New Delhi der tusenvis av demonstranter ble pågrepet av politiet. Opposisjonen krever at sjefforsvareren og sjefsvalgkommissær Gyanesh Kumar trekker seg som følge av reviderte velgerlister.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
       },
       {
         "tittel": "Føderale agenter ransaket boligen til Ilhan Omar",
-        "tekst": "Justisdepartementet i USA har gjennomført en husundersøkelse hos den Demokratiske kongresskvinnen.",
-        "utdypning": "Ransakelsen i Washington skjedde som ledd i en pågående føderal etterforskning. Omar, som er en uttalt kritiker av president Trump, betegner aksjonen som et politisk angrep mot sine motstandere.",
+        "tekst": "Justisdepartementet i USA har gjennomført ransaking i hjemmet til den demokratiske kongressrepresentanten Ilhan Omar.",
+        "utdypning": "Ransakingen av Washington-boligen til den kjente Trump-kritikeren skjedde som ledd i en pågående føderal etterforskning. Omar selv betegner aksjonen som et forsøk på å ramme politiske motstandere og uttaler at hun ikke vil bli brakt til taushet.",
         "kilder": [
           {
             "navn": "DW World",
@@ -222,23 +265,6 @@
           {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Nord-Korea avfyrte ballistiske missiler",
-        "tekst": "Nord-Korea har skutt opp flere ballistiske missiler mot Japanhavet, ifølge det sørkoreanske militæret.",
-        "utdypning": "Oppskytingen skjedde fra området rundt hovedstaden Pyongyang tidlig mandag morgen norsk tid. Missilene falt ned i havet utenfor Japans økonomiske sone, og den japanske kystvakten bekrefter å ha registrert to uidentifiserte prosjektiler.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/sor-korea_-flere-ballistiske-missiler-skutt-opp-i-nord-korea-1.18052092"
-          },
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/nordkorea-sender-flere-ballistiske-missiler-mod-hav-naer-japan"
           }
         ],
         "antall_kilder": 2,

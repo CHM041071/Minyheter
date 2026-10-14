@@ -1,7 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Russiske missilangrep rammet et kraftverk og en boligblokk i Kyiv uten forvarsel fra vestlige allierte.",
+      "tekst": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres"
+        }
+      ]
+    },
+    {
+      "tekst": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "kilder": [
         {
           "navn": "BBC",
@@ -10,20 +19,11 @@
       ]
     },
     {
-      "tekst": "Vestre Viken helseforetak melder om et ventet underskudd som nærmer seg én milliard kroner.",
+      "tekst": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/buskerud/underskuddet-i-vestre-viken-naermer-seg-en-milliard-1.18054437"
-        }
-      ]
-    },
-    {
-      "tekst": "Forsvaret investerer 2,4 milliarder kroner på Terningmoen, noe som gir et løft for bygg- og anleggsbransjen.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/innlandet/forsvaret-bruker-2_4-milliarder-kroner-pa-terningmoen_-na-blir-det-bygget-messe-for-400-millioner-1.18054574"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing"
         }
       ]
     }
@@ -31,52 +31,167 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Helseforetak mot gigantunderskudd",
-        "tekst": "Underskuddet i Vestre Viken helseforetak ventes å nærme seg én milliard kroner i år, mot budsjetterte 600 millioner.",
-        "utdypning": "Tillitsvalgte frykter at det økende underskuddet vil føre til et høyere arbeidspress for de ansatte. Vestre Viken helseforetak opplever en situasjon hvor de økonomiske avvikene har økt betydelig utover det som opprinnelig var lagt inn i budsjettene for året.",
+        "tittel": "Trumps nye Grønland-utspill overrasker ikke grønlenderne",
+        "tekst": "Kort tid etter at USA inngikk en ny sikkerhetsavtale med Danmark og Grønland, skriver Donald Trump at massiv leting etter olje og mineraler er i gang.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sapmi/donald-trumps-nye-gronland-utspill-overrasker-ikke-gronlenderne-1.18054456"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Tillitsvalgt frykter høyere arbeidspress",
+        "tekst": "Underskuddet i Vestre Viken helseforetak ventes å nærme seg én milliard kroner i år, langt over de budsjetterte 600 millionene.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/buskerud/underskuddet-i-vestre-viken-naermer-seg-en-milliard-1.18054437"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 1
       },
       {
-        "tittel": "Milliardinvesteringer på Terningmoen",
-        "tekst": "Forsvaret satser 2,4 milliarder kroner på Terningmoen i Innlandet, noe som girrt etterlengtet aktivitet for byggebransjen.",
-        "utdypning": "Satsingen omfatter blant annet bygging av en ny messe med en kostnad på 400 millioner kroner. Dette er en del av de større militære investeringene som nå skjer i landet.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/innlandet/forsvaret-bruker-2_4-milliarder-kroner-pa-terningmoen_-na-blir-det-bygget-messe-for-400-millioner-1.18054574"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Krev milliarder til fylkesveier",
-        "tekst": "Fylkespolitikerne i Møre og Romsdal krever et kraftig løft for fylkesveiene under forhandlingene om statsbudsjettet.",
-        "utdypning": "Politikerne krever at en milliard kroner skal inn igjen i potten til fylkesveiene. De daglige brukerne av veiene uttrykker sterk misnøye med dagens standard.",
+        "tittel": "Unisont krav frå politikarane: – Denne milliarden skal inn igjen",
+        "tekst": "Fylkespolitikarane i Møre og Romsdal krev eit løft for fylkesvegane i forhandlingane om statsbudsjettet. Dei som bruker vegane til dagleg, er svært misfornøgde.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK Norge",
             "lenke": "https://www.nrk.no/mr/fylkespolitikarane-i-more-og-romsdal-krev-meir-pengar-til-fylkesvegane-1.18052270"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Utskjelte stjerner stilnet kritikerne: – Trenger alle gode bekreftelser",
+        "tekst": "Flere av Liverpools største profiler har fått gjennomgå den siste tiden. Det de trengte var et middels lag fra Østerrike.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sport/utskjelte-liverpool-stjerner-stilnet-kritikerne-etter-nimalskamp-mot-lask-1.18055095"
+          },
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/video/DKIN98101426"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Tetiana (34) frykter hun tjener for lite for å få bli i Norge",
+        "tekst": "Mange ukrainere sliter med å oppfylle inntektskravet regjeringen vil innføre for å gi dem permanent opphold.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/innlandet/tetiana-shevchenko-jobber-30-prosent_-men-tjener-ikke-nok-for-regjeringens-nye-ordning-1.18049465"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
-    "Skandinavia": [],
-    "Norden": [],
+    "Skandinavia": [
+      {
+        "tittel": "Magdalena Andersson (S) om statsministeromröstningen",
+        "tekst": "Under torsdagen kommer riksdagen hålla en statsministeromröstning – för Magdalena Andersson (S). Med största sannolikhet kommer hon inte samla tillräckligt med ledamöter. – Nej, jag kommer inte ha stöd nog, säger Andersson i SVT:s Morgonstudion.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-om-statsministeromrostningen"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Japansk journalist gripen i Ryssland för spioneri",
+        "tekst": "En japansk journalist greps under dagen av den ryska säkerhetstjänsten FSB, anklagad för att ha spionerat för den japanska statens räkning. – Tokyos försök att använda sina korrespondenter för att samla information med målet att underminera …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/japansk-journalist-gripen-i-ryssland-for-spioneri"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Lammkött styckades – i skolans slöjdsal i Uddevalla",
+        "tekst": "Personen ska ha tagit med sig lammkött och styckat det i skolans träslöjdssal i Uddevalla. Händelsen har väckt oro och föräldrar som SVT varit i kontakt med har krävt svar från skolan på frågor om hygien och säkerhet. – Min första känsla var …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/vast/lammkott-styckades-i-skolans-slojdsal-i-uddevalla"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
+    "Norden": [
+      {
+        "tittel": "Plans to cut maximum term of inflation-indexed mortgages to 25 years",
+        "tekst": "The maximum term of new inflation-indexed mortgages would be reduced from 40 years to 25 under proposals from Fjármála- og efnahagsráðuneytið (the Ministry of Finance and Economic Affairs), published on the government's consultation portal. The …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-14-plans-to-cut-maximum-term-of-inflation-indexed-mortgages-to-25-years-489782/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "ASÍ chief 'speechless' over deputy central bank governor unemployment comments",
+        "tekst": "The president of ASÍ says he is speechless over comments by the Deputy Governor for Monetary Policy that the Central Bank had created slack in the economy, with the resulting unemployment, to ensure that collective agreements remained in force. …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-13-asi-chief-speechless-over-deputy-central-bank-governor-unemployment-comments-489698/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "'Opportunities' in proposed tourism infrastructure fee",
+        "tekst": "The Prime Minister says she sees enormous opportunities for Iceland as a tourist destination in the proposed infrastructure and nature fee. She says other locations beyond the Golden Circle could also be considered, although it is too early to …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-14-opportunities-in-proposed-tourism-infrastructure-fee-489779/"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
     "Europa": [
       {
-        "tittel": "Russiske angrep mot infrastruktur i Kyiv",
-        "tekst": "Russiske ballistiske missiler rammet et kraftverk og en boligblokk i Kyiv uten forvarsel fra vestlige allierte.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyj opplyste at angrepet krevde minst to menneskeliv og såret rundt 20 personer, mens redningstjenesten meldte om minst tre drepte og 600 000 uten strøm. Angrepet skjedde få dager etter at USAs president Donald Trump annonserte en energivåpenhvile mellom Moskva og Kyiv, noe som reiser spørsmål om innsatsen for å stanse angrep på kritisk infrastruktur.",
+        "tittel": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+        "tekst": "Restrictions reported by Ukraine on its use of the US satellite internet system Starlink have exposed Kyiv's reliance on the technology for both offensive and defensive operations in its fight against Russia'a invasion, analysts and observers say. …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+        "tekst": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "BBC",
@@ -91,52 +206,70 @@
             "lenke": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 5
+        "antall_kilder": 3
       },
       {
-        "tittel": "Trumps planer om oljeleting på Grønland",
-        "tekst": "USA planlegger massive olje-, gass- og mineralundersøkelser på Grønland, ifølge USAs president Donald Trump.",
-        "utdypning": "Trump hevder at Grønland holder enorme og lett tilgjengelige oljereserver, men la ikke fram beviser eller detaljer. Utspillet kommer i kjølvannet av en ny sikkerhetsavtale mellom USA, Danmark og Grønland som utvider den amerikanske militære tilstedeværelsen på øya.",
+        "tittel": "Nord Stream may have been lawful target, argue lawyers for Ukrainian accused of bombing",
+        "tekst": "Lawyers for a Ukrainian ex-military officer accused of leading the bombing of Russia's Nord Stream ​pipeline in September 2022 argued at the start of his trial in Germany on Wednesday that \"an aggressor's infrastructure\" may have been a lawful …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Pave Leo operert for lungekreft",
-        "tekst": "Pave Leo har gjennomgått en vellykket operasjon for å fjerne en svulst fra sin høyre lunge.",
-        "utdypning": "Vatikanet opplyste at den 71 år gamle paven fikk fjernet en svulst i et tidlig stadium ved en operasjon tirsdag. Paven vil gjennomgå ytterligere testing i forbindelse med rekonvalesensen.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261014-what-we-know-about-pope-leo-xiv-s-lung-cancer-operation"
+            "lenke": "https://www.france24.com/en/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing"
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 3
+        "antall_kilder": 3
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Iran: Political infighting deepens as economic woes mount during war",
+        "tekst": "Hardliners are stepping up pressure on Iran's government and calling for Foreign Minister Abbas Araghchi's removal. The oil minister resigned, but that's doing little to ease the pressure on President Masoud Pezeshkian.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Nord Stream trial opens in Germany, defense seeks dismissal",
+        "tekst": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
+        "tekst": "Aid groups warn of an imminent collapse of the health system as fighting continues to displace civilians amid the planting season. The UN has extended an arms embargo, but only for Darfur.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ]
   },
   "folg_med": [],
   "senere": [],
-  "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modus": "regler",
+  "modell": ""
 }

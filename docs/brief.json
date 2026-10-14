@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Russland fortsetter angrepene mot ukrainsk energiinfrastruktur, til tross for Donald Trumps kunngjøring om en energivåpenhvile.",
+      "tekst": "Russiske missilangrep mot ukrainsk energiinfrastruktur har mørklagt hundretusener og skaper ny usikkerhet om europeisk sikkerhet.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "Norge og Finland har åpnet en ny vei som skal styrke militær mobilitet og Nato-samarbeidet i nord.",
+      "tekst": "Donald Trump erklærer at USA er klar til å lete etter olje og mineraler på Grønland.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/samferdselsministeren-apnet-ny-vei-mellom-norge-og-finland-1.18052799"
+          "navn": "SVT",
+          "lenke": "https://www.svt.se/nyheter/utrikes/trump-redo-att-soka-efter-olja-pa-gronland"
         }
       ]
     },
     {
-      "tekst": "Europeiske ledere avviser Trumps foreslåtte dieselavtale med Russland og advarer mot økende russiske sabotasjeaksjoner.",
+      "tekst": "I Tyskland stilles en ukrainsk mann for retten tiltalt for sabotasjen mot gassrørledningen Nord Stream.",
       "kilder": [
         {
-          "navn": "DW",
-          "lenke": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-eu-2092-rdf"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
@@ -31,39 +31,13 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Ny vei mellom Norge og Finland åpnet for militær mobilitet",
-        "tekst": "En ny vegforbindelse mellom Norge og Finland er åpnet for å styrke Nato-samarbeidet og forsvarets forflytningsevne i nord.",
-        "utdypning": "Ifølge samferdselsministeren er militære råd blitt en viktig faktor ved tildeling av midler til nye samferdselsprosjekter. Veien skal bidra til å effektivisere alliansens forflytning og samhandling i de nordlige områdene.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/samferdselsministeren-apnet-ny-vei-mellom-norge-og-finland-1.18052799"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Kongen besøkte gressevaktene i Finnmark",
-        "tekst": "Kong Haakon har under sin første offisielle reise som monark besøkt Forsvarets avdelinger langs den norsk-russiske grensen.",
-        "utdypning": "Monarken møtte mannskapene som patruljerer tett opp mot grensen til Russland i Finnmark under sitt besøk i nord.",
+        "tittel": "Skolefraværet faller for første gang siden pandemien",
+        "tekst": "Fraværet i skolen har gått ned for første gang siden koronapandemien. Regjeringen peker på nye fraværsregler som årsak, mens Elevorganisasjonen uttrykker skepsis.",
+        "utdypning": "Regjeringen gir innstrammingene i fraværsreglene æren for nedgangen. Elevorganisasjonen er imidlertid kritisk og hevder at endringene først og fremst gagner resurssterke elever, mens de som sliter fra før ikke får tilstrekkelig støtte.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/kong-haakon-besoker-finnmarksbrigaden-1.18053682"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Reiselivet i Longyearbyen avviser boikott av russiske bosetninger",
-        "tekst": "Reiselivsaktører på Svalbard understreker behovet for kontakt, selv om de i fire år har unngått de russiske bosetningene.",
-        "utdypning": "Aktørene avviser at fraværet av besøk til bosetningene utgjør en formell boikott, og fremhever at dialog er nødvendig uavhengig av synet på Russlands handlinger i Ukraina.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/visit-svalbard-og-longyearbyen-lokalstyre-avviser-at-de-boikotter-pyramiden-og-barentsburg-1.18049111"
+            "lenke": "https://www.nrk.no/trondelag/lagare-fravaerstal-for-forste-gong-sidan-pandemien_-_-pusher-deg-jo-til-a-mote-opp-1.18053997"
           }
         ],
         "antall_kilder": 1,
@@ -72,22 +46,22 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "EU skjerper sanksjoner og vil fase ut all russisk energi",
-        "tekst": "EU fører opp 1 600 nye navn på sin sanksjonsliste og planlegger full utfasing av russisk energi.",
-        "utdypning": "Ifølge Sveriges utenriksminister Maria Malmer Stenergard sikter EU også mot å ta i bruk fryste russiske midler. Hun understreker at det er nødvendig å øke presset på Russland og styrke støtten til Ukraina for å tvinge frem forhandlinger.",
+        "tittel": "Trump vil lete etter olje og mineraler på Grønland",
+        "tekst": "Donald Trump skriver at USA er forberedt på å lete etter olje, gass og mineraler på Grønland.",
+        "utdypning": "På Truth Social omtaler Trump territoriet som «vårt nye og vakre Grønland». USA-forsker Jan Hallenberg påpeker at uttalelsene trolig vekker sterk misnøye hos både danske og grønlandske myndigheter.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/stenergard-m-befinner-oss-i-en-varld-som-i-praktiken-brinner"
+            "lenke": "https://www.svt.se/nyheter/utrikes/trump-redo-att-soka-efter-olja-pa-gronland"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Sverige skal stemme over Andersson som statsminister",
-        "tekst": "Riksdagen gjennomfører torsdag avstemning om Magdalena Andersson skal lede en sosialdemokratisk ettpartiregjering etter en måned uten avklaring.",
-        "utdypning": "Beslutningen ble kunngjort av talmann Andreas Norlén etter at Sverige har stått 30 dager uten regjering. Andersson opplyste etter samtaler med talmannen at det har vært fremgang, men at det fortsatt mangler et sikkert grunnlag for en levedyktig regjering i nasjonalforsamlingen.",
+        "tittel": "Riksdagen holder statsministeravstemning for Andersson",
+        "tekst": "Sverige skal torsdag stemme over en sosialdemokratisk ettpartiregjering ledet av Magdalena Andersson. Landet har nå vært 30 dager uten regjering.",
+        "utdypning": "Riksdagens talmann Andreas Norlén kunngjorde at avstemningen finner sted torsdag formiddag. Andersson har selv uttalt til SVT at hun mest sannsynlig ikke vil oppnå tilstrekkelig støtte i forsamlingen for å danne regjering.",
         "kilder": [
           {
             "navn": "NRK",
@@ -100,22 +74,9 @@
     ],
     "Norden": [
       {
-        "tittel": "Finland krever EU-visumforbud for russiske turister",
-        "tekst": "Finlands utenriksminister Elina Valtonen ber EU stanse utstedelse av turistvisum til russiske borgere og kritiserer oppheving av dieselsanksjoner.",
-        "utdypning": "Valtonen viser til at Finland stanset ikke-nødvendige reiser for russere allerede i 2022, og mener hele unionen nå må følge etter. Hun rettet samtidig skarp kritikk mot at USAs president opphever sanksjoner mot russisk diesel.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20251219?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "FN advarer om historisk høy atomtrussel",
-        "tekst": "FNs representant for nedrustning advarer om at risikoen for bruk av atomvåpen er på sitt høyeste nivå siden den kalde krigen.",
-        "utdypning": "Izumi Nakamitsu uttalte under fredskonferansen Imagine Forum i Reykjavík at verden er på vei inn i et nytt våpenkappløp. Hun advarte om at mangelen på dialog mellom stormaktene kan få alvorlige konsekvenser for internasjonal sikkerhet.",
+        "tittel": "FN advarer om atomvåpentrussel på nivå med den kalde krigen",
+        "tekst": "Trusselen om bruk av atomvåpen er på sitt høyeste nivå siden den kalde krigen, advarer FNs nedrustningssjef Izumi Nakamitsu under en fredskonferanse på Island.",
+        "utdypning": "Under Imagine Forum-konferansen i Reykjavík advarte Nakamitsu om at verden nå trer inn i et nytt våpenkappløp. Hun la spesiell vekt på at mangelen på dialog mellom stormaktene skaper stor fare for alvorlige misforståelser og eskalering.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -124,108 +85,81 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
-      },
-      {
-        "tittel": "Islandsk debatt om EØS-reglers forrang",
-        "tekst": "Alltinget diskuterer innføringen av protokoll 35, som gir EØS-retten forrang foran eldre nasjonal lovgivning.",
-        "utdypning": "Debatten kretser rundt hvorvidt prinsippet om forrang er en ren teknisk tilpasning eller om det griper inn i Islands grunnlov. Professor emeritus Davíð Þór Björgvinsson omtaler saken som et juridisk snarere enn et politisk spørsmål.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-13-experts-debate-if-protocol-35-has-constitutional-implications-489637/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Ukraina rammet av nye energiangrep tross Trump-utsagn",
-        "tekst": "Russland har angrepet ukrainske energianlegg kort tid etter at Donald Trump erklærte en avtale om våpenhvile mot energiinfrastruktur.",
-        "utdypning": "Minst seks ukrainske energianlegg ble rammet i Kyiv, Kharkiv og Donetsk under et døgn etter Trumps kunngjøring. President Volodymyr Zelenskyj fastslår at Russland ikke har til hensikt å godta et slikt forslag, mens Kreml signaliserer at de kun vurderer en éndags våpenhvile ved eventuelle valg.",
+        "tittel": "Rettssak om Nord Stream-sabotasjen starter i Tyskland",
+        "tekst": "En ukrainsk statsborger må møte i retten i Hamburg, anklaget for sabotasjeangrepet mot gassrørledningene i Østersjøen.",
+        "utdypning": "Fire år etter eksplosjonene som rammet Nord Stream-rørledningene mellom Russland og Tyskland, er ukraineren Serhii K tiltalt for medvirkning. Samtidig med rettssakens åpning er det ventet at forbundskansler Friedrich Merz holder en større politisk redegjørelse.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/increasingly-evident-russia-won-t-accept-energy-ceasefire-zelensky"
-          },
-          {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Russiske missilangrep rammer ukrainsk energiinfrastruktur",
+        "tekst": "Minst 600 000 mennesker har mistet strømmen etter at russiske ballistiske missiler rammet et sentralt kraftverk og boligområder i Kyiv.",
+        "utdypning": "Ifølge president Volodymyr Zelenskyj og nødetatene er minst to til tre personer drept og rundt 20 skadet. Zelenskyj uttaler at Ukraina ikke fikk forhåndsvarsel fra vestlige partnere, og angrepet skjer kort tid etter at Donald Trump varslet en avtale om energivåpenhvile.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 3,
         "vekt": 4
       },
       {
-        "tittel": "Europeiske allierte avviser Trumps russiske dieselavtale",
-        "tekst": "Tysklands statsminister Friedrich Merz og britiske myndigheter avviser Donald Trumps forslag om å gjenoppta handel med russisk diesel.",
-        "utdypning": "Merz understreket at en slik dieselavtale er helt utelukket for Tyskland og EU. Samtidig advarte Tysklands Johann Wadephul om at sabotasjeaksjoner, som brannen mot Starlink-infrastruktur, viser at europeiske land nå er i Russlands siktefelt.",
+        "tittel": "Slovakia gjenoppretter militære bånd med Russland",
+        "tekst": "Slovakia gjenoppretter militær-diplomatiske relasjoner med Russland for første gang siden fullskalainvasjonen i 2022.",
+        "utdypning": "Den slovakiske regjeringen forsvarer beslutningen som et diplomatisk skritt. Kritikere og allierte advarer imidlertid mot økt spionasjerisiko og svekket tillit innad i NATO-alliansen.",
         "kilder": [
           {
             "navn": "DW",
-            "lenke": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-news-merz-says-trump-s-russia-diesel-deal-out-of-question-for-europe/live-79636427?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-eu-2092-rdf"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Nato og britisk etterretning advarer mot sabotasje",
-        "tekst": "Natos militære ledelse og britiske MI5 advarer Russland mot tiltakende sabotasjeaksjoner og statstrusler rettet mot vestlige land.",
-        "utdypning": "USAs general Alexus Grynkewich advarte fra Warszawa om Natos evne til å svare på angrep, midt i økende frykt for sabotasje mot Ukrainas støttespillere. Samtidig opplyser lederen for britiske MI5, Ken McCallum, at statlige trusler fra Russland og Iran nå krever like store ressurser som antiterrorarbeidet.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/replay-nato-s-top-military-commander-warns-russia-over-alleged-sabotage"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
-    "Verden": [
-      {
-        "tittel": "Bulgaria fordømmer droneangrep på handelsskip",
-        "tekst": "Bulgaria reagerer sterkt på gjentatte droneangrep mot sivile lasteskip i Svartehavet like utenfor kysten sin.",
-        "utdypning": "Dette er den andre bølgen med droneangrep mot handelsskip i området på en uke. Russland anklages for bevisst å ramme sivil sjøfart i det krigshandlingene sprer seg i Svartehavsregionen.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Storbritannia advarer mot iranske angrepsplaner",
-        "tekst": "Britiske myndigheter opplyser at Iran forsøker å ramme mer krevende mål i utlandet, inkludert militære installasjoner.",
-        "utdypning": "Advarselen fra etterretningssjefen i MI5 følger etter at statsminister Burnham uttalte at et forsøk på anslag mot en britisk flybase med amerikanske bombefly nesten sikkert ble koordinert fra Teheran.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ]
+    "Verden": []
   },
-  "folg_med": [],
+  "folg_med": [
+    {
+      "tid": "",
+      "kategori": "Rettssak",
+      "hendelse": "Rettssaken mot en ukrainsk mann tiltalt for Nord Stream-sabotasjen åpner i Hamburg.",
+      "hvorfor": "Avgjørelsen og bevisførselen belyser ansvaret for sabotasjen mot europeisk gassinfrastruktur.",
+      "kilder": [
+        {
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    }
+  ],
   "senere": [],
   "modus": "ai",
   "modell": "gemini-3.8-flash"

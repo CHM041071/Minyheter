@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen foreslår å redusere postleveringen til én dag i uken i statsbudsjettet.",
+      "tekst": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/rogaland/regjeringen-skrotet-forslaget-i-mars-_-na-rammes-postbudene-likevel-i-statsbudsjettet-1.18050387"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres"
         }
       ]
     },
     {
-      "tekst": "Borgarting lagmannsrett slår fast at vedtaket om elektrifisering av Melkøya er gyldig.",
+      "tekst": "Magdalena Andersson stemt ned i Riksdagen",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489"
+          "lenke": "https://www.nrk.no/nyheter/magdalena-andersson-stemt-ned-i-riksdagen-1.18055807"
         }
       ]
     },
     {
-      "tekst": "En svensk statsborger er pågrepet av russiske FSB etter å ha krysset grensen.",
+      "tekst": "EU summit to focus on China, Ukraine and bloc budget",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518"
+          "navn": "DW",
+          "lenke": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-eu-2092-rdf"
         }
       ]
     }
@@ -31,228 +31,245 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Sametinget tapte ankesak om Melkøya",
-        "tekst": "Borgarting lagmannsrett har slått fast at regjeringens vedtak om elektrifisering av Melkøya er gyldig.",
-        "utdypning": "Sametinget tapte ankesaken på alle punkter og må i tillegg betale statens saksomkostninger. Lagmannsretten konkluderte i likhet med tingretten med at vedtaket om å elektrifisere Hammerfest LNG på Melkøya er gyldig.",
+        "tittel": "Magdalena Andersson stemt ned i Riksdagen",
+        "tekst": "Socialdemokraternas leder Magdalena Andersson tapte som ventet den første statsministeravstemningen i nasjonalforsamlingen. Resultatet ble 99 stemmer for og 248 imot. Foruten de borgerlige partiene, stemte også Centern, Miljöpartiet og …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489"
+            "lenke": "https://www.nrk.no/nyheter/magdalena-andersson-stemt-ned-i-riksdagen-1.18055807"
+          },
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/riksdagen-stemmer-nej-til-andersson-som-statsminister"
+          },
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-behover-en-plan-b"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 3
       },
       {
-        "tittel": "Forslag om postlevering én dag i uken",
-        "tekst": "Regjeringen foreslår i statsbudsjettet å redusere postleveringen til kun én dag i uken.",
-        "utdypning": "Planen ble først skrotet i mars, men dukket likevel opp i statsbudsjettet. Fagforbundet føler seg dolket i ryggen og frykter at forslaget kan føre til 2000 oppsigelser.",
+        "tittel": "Regjeringen skrotet Posten-kutt i mars – så dukket forslaget opp i statsbudsjettet",
+        "tekst": "Etter å ha skrotet planen i mars, foreslår regjeringen likevel postlevering kun én dag i uken. Fagforbundet føler seg dolket i ryggen og frykter 2000 oppsigelser.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK Norge",
             "lenke": "https://www.nrk.no/rogaland/regjeringen-skrotet-forslaget-i-mars-_-na-rammes-postbudene-likevel-i-statsbudsjettet-1.18050387"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 1
       },
       {
-        "tittel": "Svensk borger pågrepet i Russland",
-        "tekst": "En svensk statsborger er pågrepet av den russiske sikkerhetstjenesten FSB for ulovlig grensekryssing.",
-        "utdypning": "Ifølge det russiske nyhetsbyrået Tass skal mannen ha krysset grensen til Russland ulovlig og planlagt angrep på militære mål. Aftonbladet melder at den svenske mannen i 35-årsålderen har tjenestegjort i Ukraina som leder for en droneenhet.",
+        "tittel": "Russland har pågrepet svensk borger",
+        "tekst": "Den svenske statsborgeren skal ha krysset grensen til Russland ulovlig, ifølge det russiske nyhetsbyrået Tass. Nyhetsbyrået oppgir den russiske sikkerhetstjenesten FSB som kilde for opplysningene. Den svenske avisen Aftonbladet skriver at den …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 1
       },
       {
-        "tittel": "Finnmarkssykehuset ruster opp til krise uten ekstra midler",
-        "tekst": "Finnmarkssykehuset forbereder seg på krig og krise uten å få tilført ekstra midler fra staten.",
-        "utdypning": "Lederen i Finnmark legeforening advarer om at regnestykket ikke går opp når sykehusene bes om å ruste opp uten økte bevilgninger. Samtidig meldes det om store underskudd i helseforetakene.",
+        "tittel": "Trumps nye Grønland-utspill overrasker ikke grønlenderne",
+        "tekst": "Kort tid etter at USA inngikk en ny sikkerhetsavtale med Danmark og Grønland, skriver Donald Trump at massiv leting etter olje og mineraler er i gang.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-ruster-opp-krigsberedskap-uten-ekstra-penger-1.18052719"
+            "lenke": "https://www.nrk.no/sapmi/donald-trumps-nye-gronland-utspill-overrasker-ikke-gronlenderne-1.18054456"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       },
       {
-        "tittel": "Ukrainske flyktninger bekymret for inntektskrav",
-        "tekst": "Flere ukrainere i Norge frykter at de vil tjene for lite til å oppfylle det foreslåtte inntektskravet for permanent opphold.",
-        "utdypning": "Regjeringen ønsker å innføre et strengere inntektskrav for å gi ukrainske flyktninger permanent oppholdstillatelse. Dette skaper usikkerhet for personer som 34 år gamle Tetiana, som er usikre på om de vil klare å oppfylle kravene.",
+        "tittel": "Norsk 19-åring får dom på fredag – forsvareren frykter livstid",
+        "tekst": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London: – Vi har hatt ett mål, og det er å få han tilbake til Norge, sier hans norske forsvarer.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/innlandet/tetiana-shevchenko-jobber-30-prosent_-men-tjener-ikke-nok-for-regjeringens-nye-ordning-1.18049465"
+            "lenke": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Sverige: Ny statsministeravstemning i riksdagen",
-        "tekst": "Riksdagen holder torsdag en statsministeravstemning der sosialdemokratenes leder Magdalena Andersson stiller som kandidat.",
-        "utdypning": "Andersson erkjenner selv overfor SVT at hun trolig ikke vil samle tilstrekkelig med støtte blant ledamöterna for å bli valgt. Situasjonen oppstår en måned etter valget, i et politisk landskap preget av usikkerhet og diskusjoner om risikoen for et eventuelt nyvalg.",
+        "tittel": "Chatta med SVT:s reportrar om EU-toppmötet i Bryssel",
+        "tekst": "EU-länderna möts nu för ett två dagars toppmöte i Bryssel. Under mötet avhandlas unionens långtidsbudget – en fråga som splittrar medlemsländerna. Högt upp på agendan står även EU:s stöd till Ukraina. Vad undrar du om budgetbråket? Chatta med SVT:s …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-om-statsministeromrostningen"
+            "lenke": "https://www.svt.se/nyheter/utrikes/chatta-med-svts-reportrar-om-eu-toppmotet-i-bryssel"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       },
       {
-        "tittel": "Miljardordre til svenske Saab",
-        "tekst": "Forsvarskonsern Saab har sikret seg en ny storordre fra Försvarets materielverk.",
-        "utdypning": "Bestillingen gjelder utvikling av en ny generasjon styrautomat til jagerflyet Gripen. Avtalen styrker den svenske forsvarsindustriens kapasitet ytterligere.",
+        "tittel": "Ruslands energi er Europas! Den må Trump ikke tage",
+        "tekst": "",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/politik/reels/ruslands-energi-er-europaeisk-energi"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "De rödgröna: Därför ska Kristersson få uppdraget",
+        "tekst": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/ost/ny-miljardorder-for-saab"
+            "lenke": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       }
     ],
     "Norden": [
       {
-        "tittel": "Island foreslår kortere løpetid for boliglån",
-        "tekst": "Islands finansdepartement foreslår å redusere maksimal løpetid på nye prisindekserte boliglån fra 40 til 25 år.",
-        "utdypning": "Forslaget er i tråd med anbefalinger fra en ekspertgruppe som ser på avvikling av prisindeksering på forbrukslån. Den kortere låneperioden er ment å sikre at hovedstolen ikke stiger ukontrollert over tid.",
+        "tittel": "\"Six hours is absurd\" — Patients describe long night-time waits on Finland's A&E wards",
+        "tekst": "A patient visiting an emergency room between 10pm and 7am in many parts of Finland can expect to wait for an average of between five and six hours.",
+        "utdypning": "",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-14-plans-to-cut-maximum-term-of-inflation-indexed-mortgages-to-25-years-489782/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251623?origin=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       },
       {
-        "tittel": "Kritikk mot Islands sentralbank for arbeidsledighet",
-        "tekst": "Lederen for det islandske lønnstakerforbundet ASÍ reagerer kraftig på uttalelser fra sentralbanktopp.",
-        "utdypning": "Varaはずfor pengepolitikk, Þórarinn G. Pétursson, uttalte at sentralbanken bevisst har skapt slakk i økonomien og økt arbeidsledighet for å sikre at kollektive avtaler ble opprettholdt. ASÍ-sjefen uttrykte sjokk over uttalelsene.",
+        "tittel": "Slightly warmer temperatures expected towards the end of the week",
+        "tekst": "Parts of Finland may even see some sunshine on Thursday, before the weather turns slightly wetter on Friday.",
+        "utdypning": "",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-13-asi-chief-speechless-over-deputy-central-bank-governor-unemployment-comments-489698/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251560?origin=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Finland's appeal court cuts Simon Ekpa's terrorism sentence to four years",
+        "tekst": "Ekpa was convicted last year of participating in a terrorist organisation and publicly inciting crimes for terrorist purposes.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251630?origin=rss"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
     "Europa": [
       {
-        "tittel": "Russisk missilangrep mot kraftverk i Kyiv",
-        "tekst": "Et russisk ballistisk missil traff et kraftverk i Kyiv uten forvarsel fra vestlige allierte, ifølge Volodymyr Zelenskyj.",
-        "utdypning": "Angrepet krevde minst to menneskeliv og skadet rundt 20 personer, samtidig som om lag 600 000 husstander mistet strømmen. Hendelsen skaper dyp internasjonal bekymring og reiser spørsmål om effektiviteten av nylige avtaler og varslingsrutiner.",
+        "tittel": "Starlink restriction 'no surprise' after Musk condemned Ukraine strikes on Russian data centres",
+        "tekst": "Restrictions reported by Ukraine on its use of the US satellite internet system Starlink have exposed Kyiv's reliance on the technology for both offensive and defensive operations in its fight against Russia'a invasion, analysts and observers say. …",
+        "utdypning": "",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/starlink-restriction-no-surprise-after-musk-condemned-ukraine-strikes-on-russian-data-centres"
           },
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 5
+        "antall_kilder": 3
       },
       {
-        "tittel": "Nord Stream-rettssak startet i Tyskland",
-        "tekst": "En ukrainsk mann har stilt for domstol i Tyskland, tiltalt for sabotasjen mot Nord Stream-gassrørledningene i 2022.",
-        "utdypning": "Tiltalte, identifisert som Serhii K. eller Sergei Kuznetsov, anklages for å ha ledet planleggingen av ødeleggelsene av sivil infrastruktur. Forsvarerne argumenterer for at rørledningene fungerte som et politisk og økonomisk våpen for Russland og ber om at saken avvises.",
+        "tittel": "EU summit to focus on China, Ukraine and bloc budget",
+        "tekst": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
+        "utdypning": "",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
-          },
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Live: Russia strikes several regions in Ukraine, hits two cargo ships in Black Sea",
+        "tekst": "Russia struck Ukraine's Izmail port and two cargo ships en route to Odesa, the Russian Defence Ministry said Thursday. A day earlier, Moscow launched more missiles and drones at Ukrainian cities, knocking out power to hundreds of thousands. Follow …",
+        "utdypning": "",
+        "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261014-defence-of-ukrainian-accused-of-sabotage-says-russia-used-nord-stream-pipelines-as-weapon"
+            "lenke": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "EU-toppmøte om gigantbudsjett og handel",
-        "tekst": "EU-ledere samles i Brussel for å diskutere unionens budsjett for 2028–2034 og tiltak mot handelsunderskuddet med Kina.",
-        "utdypning": "Møtet har høye innsatser ettersom lederne søker enighet om et budsjett på nær to billioner euro innen jul. Dype splittelser internt og frykt for at kommende valg skal styrke euroskeptiske krefter preger forhandlingene.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261015-eu-leaders-head-for-showdown-over-bloc-budget"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 2
       }
     ],
     "Verden": [
       {
-        "tittel": "Utsikter til konsekvenser av USAs dieselavtale med Russland",
-        "tekst": "USAs president Donald Trumps dieselandel med Russland har vakt sterke reaksjoner og alarm i Ukraina og blant allierte.",
-        "utdypning": "Avtalen har utløst bekymring for hva den betyr for dynamikken i krigen og sanksjonsregimet mot Moskva. Observatører analyserer nå hva USAs administrasjon forsøker å oppnå nasjonalt og internasjonalt.",
+        "tittel": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
+        "tekst": "A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India's sweeping voter deletions. DW has more.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       },
       {
-        "tittel": "Kinesiske teknologimerker utfordrer vestlige rivaler",
-        "tekst": "Kinesiske merkevarer innen alt fra elbiler til robotstøvsugere vinner terreng på verdensbasis tross sikkerhetsbekymringer.",
-        "utdypning": "Til tross for økende fokus på personvern og sikkerhetsrisikoer, opplever kinesisk teknologi sterk vekst globalt. Utviklingen presser europeiske konkurrenter til å svare på den økende konkurransekraften.",
+        "tittel": "North Korea, China open border bridge after 12-year delay",
+        "tekst": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 2
       },
       {
-        "tittel": "Tyrkiske myndigheter tok over stor nyhetskanal",
-        "tekst": "Tyrkiske myndigheter har gjennomført ransaking av Halk TVs kontorer i Istanbul og stanset kanalens sendinger.",
-        "utdypning": "Det er innsatt en offentlig oppnevnt forvalter og åpnet etterforskning mot kanalen. Dette beskrives som et nytt ledd i en langvarig prosess med kontroll over media under president Recep Tayyip Erdogan.",
+        "tittel": "Starlink: How Elon Musk's company influences geopolitics",
+        "tekst": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
       }
     ]
   },
   "folg_med": [],
   "senere": [],
-  "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modus": "regler",
+  "modell": ""
 }

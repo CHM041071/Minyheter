@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringens forslag om å kutte postleveringen til én dag i uken vekker sterke reaksjoner og frykt for 2000 oppsigelser.",
+      "tekst": "Regjeringen foreslår i statsbudsjettet å redusere postleveringen til én dag i uken, noe som vekker sterke reaksjoner.",
       "kilder": [
         {
           "navn": "NRK Norge",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "tekst": "Folkehelseinstituttet må kutte 100 millioner kroner i budsjettet for 2027, noe som kan føre til nedbemanning.",
+      "tekst": "FHI må kutte 100 millioner kroner i budsjettet for 2027, og tillitsvalgte frykter at det kan føre til nedbemanning.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "Sametinget tapte ankesaken mot staten om elektrifisering av Melkøya, og lagmannsretten slår fast at vedtaket er gyldig.",
+      "tekst": "En norsk 19-åring får fredag sin straffeutmåling i London etter å ha blitt dømt for drapsplanlegging.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489"
+          "lenke": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Regjeringen foreslår kutt i postlevering",
-        "tekst": "Etter å ha skrotet planen i mars, foreslår regjeringen likevel postlevering kun én dag i uken i det nye statsbudsjettet.",
-        "utdypning": "Fagforbundet føler seg dolket i ryggen og frykter opptil 2000 oppsigelser som følge av endringen. Forslaget kommer til tross for at en lignende plan ble skrotet av regjeringen så sent som i mars.",
+        "tittel": "Regjeringen foreslår kutt i postleveringen",
+        "tekst": "Regjeringen foreslår postlevering kun én dag i uken i det nye statsbudsjettet, etter å ha skrotet lignende planer i mars.",
+        "utdypning": "Forsvinningsforslaget har vakt kraftige reaksjoner. Fagforbundet føler seg dolket i ryggen og frykter at omleggingen kan føre til opptil 2000 oppsigelser.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -44,9 +44,9 @@
         "vekt": 5
       },
       {
-        "tittel": "FHI må kutte 100 millioner",
-        "tekst": "Folkehelseinstituttet (FHI) bekrefter at de må gjennomføre kutt på 100 millioner kroner i budsjettet for 2027.",
-        "utdypning": "Konstituert direktør Elisabet E. Storvoll bekrefter kuttet overfor TV 2. Ifølge Legeforeningens tillitsvalgte er det usikkert hvor kuttene vil ramme, men det advares om at det blir utfordrende å dekke beløpet kun gjennom driften, og at nedbemanning kan bli nødvendig.",
+        "tittel": "FHI må kutte 100 millioner kroner",
+        "tekst": "Folkehelseinstituttet (FHI) bekrefter at de står overfor et budsjettkutt på 100 millioner kroner i 2027.",
+        "utdypning": "Ifølge hovedtillitsvalgte for Legeforeningen i FHI har instituttet fått beskjed om at det vil bli svært krevende å dekke kuttet gjennom ordinær drift alene. Det betyr at nedbemanning kan bli nødvendig, selv om detaljene om hvor kuttene skal tas ennå ikke er klare.",
         "kilder": [
           {
             "navn": "NRK",
@@ -57,35 +57,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Sametinget tapte ankesak om Melkøya",
-        "tekst": "Borgarting lagmannsrett har slått fast at regjeringens vedtak om å elektrifisere Hammerfest LNG på Melkøya er gyldig.",
-        "utdypning": "Sametinget tapte ankesaken på alle punkter i lagmannsretten, i likhet med det tidligere utfallet i tingretten. Dommen innebærer også at Sametinget må dekke statens saksomkostninger.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Svensk borger pågrepet av Russland",
-        "tekst": "En svensk statsborger er pågrepet av den russiske sikkerhetstjenesten FSB, siktet for å ha ledet en ukrainsk droneenhet.",
-        "utdypning": "Ifølge det russiske nyhetsbyrået Tass skal mannen ha krysset grensen til Russland ulovlig og planlagt terrorhandlinger samt sabotasje mot militære mål. Aftonbladet melder at mannen har tjenestegjort i Ukraina.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Norsk tenåring dømmes i London",
-        "tekst": "Fredag faller straffeutmålingen mot den norske 19-åringen som er dømt for drapsplanlegging i London.",
-        "utdypning": "Forsvareren uttrykker bekymring for at klienten kan risikere livstid, og opplyser at det primære målet har vært å få ham tilbake til Norge for soning.",
+        "tittel": "Norsk 19-åring dømmes i London",
+        "tekst": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London.",
+        "utdypning": "Den norske forsvareren opplyser at det primære målet har vært å få 19-åringen tilbake til Norge. Forsvareren uttrykker bekymring for at dommen kan bli svært streng, med frykt for livstid.",
         "kilder": [
           {
             "navn": "NRK",
@@ -94,13 +68,39 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Kvæfjord mister 120 millioner",
+        "tekst": "Regjeringens forslag om å fjerne vertskommuneordningen rammer Kvæfjord hardt, som mister 120 millioner kroner.",
+        "utdypning": "Ordføreren uttrykker sterk misnøye med kuttet. Konsekvensen er at kommunen blir sittende igjen med regningen etter HVPU-reformen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/kvaefjord-mister-120-millioner-kroner-_-ordforeren-er-forbannet-1.18054429"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Svenske pågrepet av Russland",
+        "tekst": "En svensk statsborger er pågrepet av russiske FSB, siktet for ulovlig grensekryssing og planlegging av militære angrep.",
+        "utdypning": "Ifølge russiske nyhetsbyråer skal mannen ha krysset grensen ulovlig. Svenske medier melder at den pågrepne tidligere har tjenestegjort i Ukraina som leder for en droneenhet.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Magdalena Andersson stemt ned i Riksdagen",
-        "tekst": "Socialdemokraternas leder Magdalena Andersson tapte den første statsministeravstemningen i Sverige med 99 mot 248 stemmer.",
-        "utdypning": "Både de borgerlige partiene, Centern, Miljöpartiet og Vänsterpartiet stemte imot. Riksforamlingens talsmann Anders Norlén vil nå avklare hvem som får oppdraget med å danne regjering etter nye runder med partilederne.",
+        "tittel": "Magdalena Andersson nedstemt i Riksdagen",
+        "tekst": "Socialdemokraternas leder Magdalena Andersson tapte som ventet den første statsministeravstemningen i Sverige.",
+        "utdypning": "Resultatet ble 99 stemmer for og 248 imot. De borgerlige partiene, samt Centern, Miljöpartiet og Vänsterpartiet, stemte imot fordi de ikke er enige om regjeringskonstellasjonen. Riksdagssjef Anders Norlén vil nå vurdere hvem som skal få det neste sonderingsoppdraget.",
         "kilder": [
           {
             "navn": "NRK",
@@ -117,30 +117,30 @@
         ],
         "antall_kilder": 3,
         "vekt": 4
-      },
-      {
-        "tittel": "Miljardordre til svenske Saab",
-        "tekst": "Försvarskoncernen Saab har mottatt en bestilling fra Försvarets materielverk på en ny generasjon styrautomat til Gripen.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/ost/ny-miljardorder-for-saab"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Islandske inflasjonsprognoser",
-        "tekst": "Landsbankinn spår at den årlige inflasjonen på Island vil ligge på 5,9 prosent i oktober.",
-        "utdypning": "Oppjusterte priser på drivstoff og nye egenandeler for fysioterapi trekker opp, mens lavere internasjonale flypriser demper presset. De offisielle tallene fra Statistisk sentralbyrå på Island legges frem 29. oktober.",
+        "tittel": "Nytt nødvarslingssystem på mobil i Finland",
+        "tekst": "Finland innfører et system som sender nødvarsler direkte til mobiltelefoner i berørte områder fra november.",
+        "utdypning": "Den nye teknologien krever verken at brukerne installerer en spesiell app, eller at de deler personlige opplysninger for å motta varslene.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-15-inflation-is-forecast-to-remain-at-59-490009/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251682?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Finsk drivstoffpakke vedtatt",
+        "tekst": "Den finske regjeringen er enige om en redningspakke for drivstoffpriser verdt 60 millioner euro.",
+        "utdypning": "Pakken inneholder lavere bilavgift, økt tak for reisefradrag samt tilskudd til næringer innen transport, jordbruk og skogbruk. Sjølve forslaget fra Sannfinlandne ble avvist.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251790?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -149,9 +149,9 @@
     ],
     "Europa": [
       {
-        "tittel": "NATO tar opp Svartehavs-angrep",
-        "tekst": "NATO setter droneangrep og hendelser med sivile skip i Svartehavet på agendaen til neste ukes møte.",
-        "utdypning": "Dette kommer etter at to kjemikalietankere tok fyr i rumensk farvann etter observasjoner av russiske droner i rumensk luftrom. Sju til åtte sjøfolk er meldt savnet etter hendelsene utenfor kysten av Bulgaria og Romania, noe som knyttes til krigen i Ukraina.",
+        "tittel": "NATO tar opp droneangrep i Svartehavet",
+        "tekst": "NATO setter droneangrep og hendelser med sivile skip i Svartehavet på dagsordenen etter at syv personer er savnet.",
+        "utdypning": "To kjemikalietankere tok fyr i rumensk farvann etter at russiske droner ble observert i rumensk luftrom. Åtte av tolv sjøfolk er savnet fra den ene hendelsen, og situasjonen sees i sammenheng med krigen i Ukraina.",
         "kilder": [
           {
             "navn": "France 24",
@@ -170,9 +170,26 @@
         "vekt": 5
       },
       {
-        "tittel": "Ukraina gjenopptar angrep på russiske oljeraffinerier",
-        "tekst": "Ukraina gjenopptar angrepene mot russiske energianlegg etter at Moskva ignorerte USAs påstand om en våpenhvile.",
-        "utdypning": "Ukraines president Volodymyr Zelenskyj erklærte at landet er ferdig med det påståtte energistoppet, som USAs president Donald Trump tidligere hevdet var avtalt. Eksperter peker på at en slik avtale forutsetter en gjensidig vilje som Russland ikke har vist.",
+        "tittel": "EU-toppmøte om Ukraina og budsjett",
+        "tekst": "EU-ledere samles i Brussel til toppmøte der støtten til Ukraina og unionens langtidsbudsjett står sentralt.",
+        "utdypning": "EU-rådets president Antonio Costa advarer mot å trekke tilbake støtten til Ukraina, og krever økt press på Russland. Ukrainas president Volodymyr Zelenskyy deltar på møtet, samtidig som USAs president Donald Trump retter ny kritikk mot den ukrainske lederen.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Ukraina gjenopptar angrep på russiske raffinerier",
+        "tekst": "Ukraina melder at de er ferdige med USAs foreslåtte energivåpenhvile og gjenopptar angrep på russiske oljeraffinerier.",
+        "utdypning": "Beslutningen kommer etter at Moskva ignorerte Donald Trumps kunngjøring om en uformell energivåpenhvile, ettersom Russland fortsetter sine angrep på ukrainsk energiinfrastruktur. Eksperter peker på at raffineriangrepene er Ukrainas viktigste gjenværende pressmiddel.",
         "kilder": [
           {
             "navn": "France 24",
@@ -185,38 +202,21 @@
         ],
         "antall_kilder": 2,
         "vekt": 4
-      },
-      {
-        "tittel": "Voldelige studentprotester i Albania",
-        "tekst": "Tusenvis av studenter demonstrerte i Tirana mot korrupsjon og salg av kystlinje til et luksusresort-prosjekt.",
-        "utdypning": "Statsminister Edi Rama avviser krav om å gå av til tross for at demonstranter knuste vinduer og kamper med opprørspoliti som brukte tåregass og vannkanoner. Prosjektet som vekker sinne er knyttet til USAs president Donald Trumps svigersønn, Jared Kushner.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Maduro nektet straffskyld for tortur i New York",
-        "tekst": "Venezuelas tidligere president Nicolás Maduro og hans kone har erklært seg ikke skyldige i nye torturrelaterte anklager.",
-        "utdypning": "Anklagene gjelder en påstått statssponset kampanje og omfattende overgrep under hans presidentperiode mellom 2013 og 2026. Maduro avviste dokumentet fullstendig i en rettssal i New York.",
+        "tittel": "Skoleskyting i USA",
+        "tekst": "Tre barn og en lærer ble drept i en skoleskyting ved en barneskole i Oregon.",
+        "utdypning": "Gjerningspersonen var en 16-åring som åpnet ild på Silver Rail Elementary School i Bend. To andre personer ble skadd før en lokal innbygger stanset og drepte gjerningspersonen.",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,

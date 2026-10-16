@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Regjeringen foreslår i statsbudsjettet å redusere postleveringen til én dag i uken, noe som vekker sterke reaksjoner.",
+      "tekst": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/rogaland/regjeringen-skrotet-forslaget-i-mars-_-na-rammes-postbudene-likevel-i-statsbudsjettet-1.18050387"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks"
         }
       ]
     },
     {
-      "tekst": "FHI må kutte 100 millioner kroner i budsjettet for 2027, og tillitsvalgte frykter at det kan føre til nedbemanning.",
+      "tekst": "Live: ‘This is no time to withdraw’ support for Ukraine, EU’s Costa says",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
         }
       ]
     },
     {
-      "tekst": "En norsk 19-åring får fredag sin straffeutmåling i London etter å ha blitt dømt for drapsplanlegging.",
+      "tekst": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1"
         }
       ]
     }
@@ -31,76 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Regjeringen foreslår kutt i postleveringen",
-        "tekst": "Regjeringen foreslår postlevering kun én dag i uken i det nye statsbudsjettet, etter å ha skrotet lignende planer i mars.",
-        "utdypning": "Forsvinningsforslaget har vakt kraftige reaksjoner. Fagforbundet føler seg dolket i ryggen og frykter at omleggingen kan føre til opptil 2000 oppsigelser.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/rogaland/regjeringen-skrotet-forslaget-i-mars-_-na-rammes-postbudene-likevel-i-statsbudsjettet-1.18050387"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "FHI må kutte 100 millioner kroner",
-        "tekst": "Folkehelseinstituttet (FHI) bekrefter at de står overfor et budsjettkutt på 100 millioner kroner i 2027.",
-        "utdypning": "Ifølge hovedtillitsvalgte for Legeforeningen i FHI har instituttet fått beskjed om at det vil bli svært krevende å dekke kuttet gjennom ordinær drift alene. Det betyr at nedbemanning kan bli nødvendig, selv om detaljene om hvor kuttene skal tas ennå ikke er klare.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Norsk 19-åring dømmes i London",
-        "tekst": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London.",
-        "utdypning": "Den norske forsvareren opplyser at det primære målet har vært å få 19-åringen tilbake til Norge. Forsvareren uttrykker bekymring for at dommen kan bli svært streng, med frykt for livstid.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Kvæfjord mister 120 millioner",
-        "tekst": "Regjeringens forslag om å fjerne vertskommuneordningen rammer Kvæfjord hardt, som mister 120 millioner kroner.",
-        "utdypning": "Ordføreren uttrykker sterk misnøye med kuttet. Konsekvensen er at kommunen blir sittende igjen med regningen etter HVPU-reformen.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/kvaefjord-mister-120-millioner-kroner-_-ordforeren-er-forbannet-1.18054429"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Svenske pågrepet av Russland",
-        "tekst": "En svensk statsborger er pågrepet av russiske FSB, siktet for ulovlig grensekryssing og planlegging av militære angrep.",
-        "utdypning": "Ifølge russiske nyhetsbyråer skal mannen ha krysset grensen ulovlig. Svenske medier melder at den pågrepne tidligere har tjenestegjort i Ukraina som leder for en droneenhet.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/russland-har-pagrepet-svensk-borger-1.18055518"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Magdalena Andersson nedstemt i Riksdagen",
-        "tekst": "Socialdemokraternas leder Magdalena Andersson tapte som ventet den første statsministeravstemningen i Sverige.",
-        "utdypning": "Resultatet ble 99 stemmer for og 248 imot. De borgerlige partiene, samt Centern, Miljöpartiet og Vänsterpartiet, stemte imot fordi de ikke er enige om regjeringskonstellasjonen. Riksdagssjef Anders Norlén vil nå vurdere hvem som skal få det neste sonderingsoppdraget.",
+        "tittel": "Magdalena Andersson stemt ned i Riksdagen",
+        "tekst": "Socialdemokraternas leder Magdalena Andersson tapte som ventet den første statsministeravstemningen i nasjonalforsamlingen. Resultatet ble 99 stemmer for og 248 imot. Foruten de borgerlige partiene, stemte også Centern, Miljöpartiet og …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
@@ -109,49 +42,144 @@
           {
             "navn": "DR",
             "lenke": "https://www.dr.dk/nyheder/seneste/riksdagen-stemmer-nej-til-andersson-som-statsminister"
-          },
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-behover-en-plan-b"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 4
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Protesterer mot nye kongekrabbekrav",
+        "tekst": "Fiskarar fryktar nye krav for å få krabbekvote vil tømme dei minste lokalsamfunna for folk. Ministeren lovar grundig gjennomgang.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/protesterer-mot-nye-kongekrabbekrav-1.18056307"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Norsk 19-åring får dom på fredag – forsvareren frykter livstid",
+        "tekst": "Fredag faller straffeutmålingen mot den norske tenåringen som er dømt for drapsplanlegging i London: – Vi har hatt ett mål, og det er å få han tilbake til Norge, sier hans norske forsvarer.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/norsk-19-aring-venter-pa-straffen-for-drapsplanlegging-_-forsvareren-frykter-livstid-1.18053572"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Store mengder skum stenger vei: – Kan ta dager å rydde opp",
+        "tekst": "Et brannvarslingssystem i Stjørdal skaper uventa trafikale problemer fredag morgen.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/trondelag/brannvarslingssystem-pa-vianor-stjordal-utlost-_-store-mengder-skum-1.18056610"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "To 18-åringer siktet for drapsforsøk etter knivstikking i Bodø",
+        "tekst": "Politiet skjerper siktelsene fra grov kroppsskade til drapsforsøk etter at en kvinne i 20-årene ble knivstukket i september.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/nordland/politiet-skjerper-siktelsen_-to-18-aringer-siktet-for-drapsforsok-i-bodo-1.18056982"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
+    "Skandinavia": [
+      {
+        "tittel": "Fire varetægtsfængsles i Norge for Nato-fusk",
+        "tekst": "",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/fire-varetaegtsfaengsles-i-norge-nato-fusk"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Så kan Ryssland utnyttja gripna svensken: ”Sätta press på regeringen”",
+        "tekst": "SVT kan koppla den svenska medborgare som gripits av rysk underrättelsetjänst till ett ukrainskt militärförband. Enligt flera underrättelseexperter riskerar mannen, som är i 35-årsåldern och hemmahörande i Stockholmsområdet, att bli en bricka i ett …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/sa-kan-ryssland-utnyttja-gripna-svensken-satta-press-pa-regeringen"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Chatta med SVT:s reportrar om EU-toppmötet i Bryssel",
+        "tekst": "EU-länderna möts nu för ett två dagars toppmöte i Bryssel. Under mötet avhandlas unionens långtidsbudget – en fråga som splittrar medlemsländerna. Högt upp på agendan står även EU:s stöd till Ukraina. Vad undrar du om budgetbråket? Chatta med SVT:s …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/chatta-med-svts-reportrar-om-eu-toppmotet-i-bryssel"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
     "Norden": [
       {
-        "tittel": "Nytt nødvarslingssystem på mobil i Finland",
-        "tekst": "Finland innfører et system som sender nødvarsler direkte til mobiltelefoner i berørte områder fra november.",
-        "utdypning": "Den nye teknologien krever verken at brukerne installerer en spesiell app, eller at de deler personlige opplysninger for å motta varslene.",
+        "tittel": "NCP parliamentary group proposes tightening Finland's asylum rules",
+        "tekst": "The government party has outlined plans for a more selective immigration policy, including stricter asylum procedures and tighter access to social security.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251807?origin=rss"
+          },
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-15-jon-gnarr-leaves-vidreisn-parliamentary-group-490028/"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Storms across Iceland this weekend",
+        "tekst": "After a brief respite, the Icelandic Met Office has issued new warnings of strong winds, storms and violent storm-force winds, for this weekend. SEE ALL OF THE WARNINGS HERE . Yellow weather warnings have been issued for the capital region, West …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-16-storms-across-iceland-this-weekend-490157/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Finland to introduce mobile phone emergency alert system in November",
+        "tekst": "A new system will send emergency warnings directly to mobile phones in affected areas, without requiring users to install an app or share personal information.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "Yle News",
             "lenke": "https://yle.fi/a/74-20251682?origin=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Finsk drivstoffpakke vedtatt",
-        "tekst": "Den finske regjeringen er enige om en redningspakke for drivstoffpriser verdt 60 millioner euro.",
-        "utdypning": "Pakken inneholder lavere bilavgift, økt tak for reisefradrag samt tilskudd til næringer innen transport, jordbruk og skogbruk. Sjølve forslaget fra Sannfinlandne ble avvist.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20251790?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
       }
     ],
     "Europa": [
       {
-        "tittel": "NATO tar opp droneangrep i Svartehavet",
-        "tekst": "NATO setter droneangrep og hendelser med sivile skip i Svartehavet på dagsordenen etter at syv personer er savnet.",
-        "utdypning": "To kjemikalietankere tok fyr i rumensk farvann etter at russiske droner ble observert i rumensk luftrom. Åtte av tolv sjøfolk er savnet fra den ene hendelsen, og situasjonen sees i sammenheng med krigen i Ukraina.",
+        "tittel": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
+        "tekst": "NATO will put drone strikes in the Black Sea on its agenda at a meeting next week, officials said Thursday, following two new attacks and the disappearance of seven people. Incidents involving civilian vessels in the Black Sea have been on the rise …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
@@ -160,19 +188,14 @@
           {
             "navn": "DW",
             "lenke": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 5
+        "antall_kilder": 2
       },
       {
-        "tittel": "EU-toppmøte om Ukraina og budsjett",
-        "tekst": "EU-ledere samles i Brussel til toppmøte der støtten til Ukraina og unionens langtidsbudsjett står sentralt.",
-        "utdypning": "EU-rådets president Antonio Costa advarer mot å trekke tilbake støtten til Ukraina, og krever økt press på Russland. Ukrainas president Volodymyr Zelenskyy deltar på møtet, samtidig som USAs president Donald Trump retter ny kritikk mot den ukrainske lederen.",
+        "tittel": "Live: ‘This is no time to withdraw’ support for Ukraine, EU’s Costa says",
+        "tekst": "EU Council President Antonio Costa on Friday warned against withdrawing support from Ukraine, maintaining that it was time instead to step up the pressure on Russia. His remarks came ahead of a summit of EU leaders in Brussels joined by Ukrainian …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
@@ -183,13 +206,12 @@
             "lenke": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 5
+        "antall_kilder": 2
       },
       {
-        "tittel": "Ukraina gjenopptar angrep på russiske raffinerier",
-        "tekst": "Ukraina melder at de er ferdige med USAs foreslåtte energivåpenhvile og gjenopptar angrep på russiske oljeraffinerier.",
-        "utdypning": "Beslutningen kommer etter at Moskva ignorerte Donald Trumps kunngjøring om en uformell energivåpenhvile, ettersom Russland fortsetter sine angrep på ukrainsk energiinfrastruktur. Eksperter peker på at raffineriangrepene er Ukrainas viktigste gjenværende pressmiddel.",
+        "tittel": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
+        "tekst": "Delano D'Souza is pleased to welcome Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiative, LIVE from Kyiv. As Zelensky declares Ukraine \"done\" with Trump's self-declared energy ceasefire and resumes strikes on Russian oil …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
@@ -200,32 +222,50 @@
             "lenke": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 2
       }
     ],
     "Verden": [
       {
-        "tittel": "Skoleskyting i USA",
-        "tekst": "Tre barn og en lærer ble drept i en skoleskyting ved en barneskole i Oregon.",
-        "utdypning": "Gjerningspersonen var en 16-åring som åpnet ild på Silver Rail Elementary School i Bend. To andre personer ble skadd før en lokal innbygger stanset og drepte gjerningspersonen.",
+        "tittel": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+        "tekst": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
+        "tekst": "President Zelenskyy has received words of encouragement from EU leaders, who pledged support for Ukraine's self-defense against Russia. This comes as winter approaches and the US seems to be withdrawing support.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+        "tekst": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "antall_kilder": 1
       }
     ]
   },
   "folg_med": [],
   "senere": [],
-  "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modus": "regler",
+  "modell": ""
 }

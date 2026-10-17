@@ -1,16 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USAs president Donald Trump har midlertidig fjernet flere nylig vedtatte sanksjoner mot Russland, noe som har vakt reaksjoner i Europa.",
-      "kilder": [
-        {
-          "navn": "BBC",
-          "lenke": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "tekst": "Equinor fraråder å forlenge gassdriften på Melkøya etter 2030 med mindre staten tar regningen.",
+      "tekst": "Equinor fraråder forlenget gassdrift på Melkøya etter 2030 og mener staten må ta regningen ved videre drift.",
       "kilder": [
         {
           "navn": "NRK Norge",
@@ -19,11 +10,20 @@
       ]
     },
     {
-      "tekst": "En russisk oligark har saksøkt en liten norsk nettavis for ærekrenkelse med innkallelse til domstol i London.",
+      "tekst": "Norge og Russland møtes i Tyrkia til fysiske fiskeriforhandlinger for første gang på seks år.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/moter-russland-fysisk-til-fiskeriforhandlingar_-_-krevjande-1.18057388"
+        }
+      ]
+    },
+    {
+      "tekst": "Donald Trump setter nye amerikanske Russland-sanksjoner på vent, noe som vekker sterk bekymring i Europa.",
+      "kilder": [
+        {
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
@@ -31,9 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Equinor fraråder gassdrift på Melkøya",
-        "tekst": "Equinor advarer mot å forlenge levetiden på gasskraftverket på Melkøya etter 2030 og krever at staten tar regningen.",
-        "utdypning": "Senterpartiets forslag om å forlenge levetiden på gasskraftverket på Melkøya møter motstand fra industrimiljøene i Norge. Equinor slår fast at staten må ta regninga ved fortsatt drift etter 2030.",
+        "tittel": "Fysiske fiskeriforhandlinger med Russland",
+        "tekst": "Norge og Russland møtes til fiskeriforhandlinger i Tyrkia. Dette er det første fysiske møtet mellom partene på seks år.",
+        "utdypning": "Forhandlingene beskrives som krevende. Partene har ikke møttes ansikt til ansikt på seks år.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/moter-russland-fysisk-til-fiskeriforhandlingar_-_-krevjande-1.18057388"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Equinor fraråder forlenget gassdrift på Melkøya",
+        "tekst": "Equinor fraråder å forlenge levetiden til gasskraftverket på Melkøya etter 2030. Selskapet varsler at staten må ta regningen dersom driften skal fortsette.",
+        "utdypning": "Senterpartiets forslag om å forlenge levetiden på gasskraftverket møter motstand i norske industrimiljøer. Equinor slår fast at staten må dekke kostnadene dersom det blir aktuelt med fortsatt drift etter 2030.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -41,42 +54,16 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Russisk oligark saksøker norsk nettavis",
-        "tekst": "Den russiske fiskerimilliardæren Vitalij Orlov har saksøkt en norsk nettavis for ærekrenkelse.",
-        "utdypning": "Saken har blitt brakt inn for en domstol i London etter påstander om ærekrenkelser mot den russiske fiskerimilliardæren Vitalij Orlov.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Trump fjerner sanksjoner mot Russland",
-        "tekst": "USAs president Donald Trump gjør unntak fra flere sanksjoner og tollavgifter mot Russland.",
-        "utdypning": "Straffetiltakene er en del av den nye amerikanske loven «Graham Act». Trump bekreftet i en presidentordre at han likevel fjerner flere av disse begrensningene for Russland.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Regjeringen tillater sykling i nasjonalpark",
-        "tekst": "Regjeringen åpner for sykling i nasjonalpark i høysesongen til tross for faglige råd.",
-        "utdypning": "Forskriften ble innført fredag og har ført til sterke reaksjoner. En lokal ordfører kaller det hele en overkjøring av kommunestyret.",
+        "tittel": "Norsk protest mot Russland i IMF",
+        "tekst": "Norske representanter forlot salen i protest da Russlands finansminister talte i styringskomiteen til Det internasjonale pengefondet.",
+        "utdypning": "Delegater fra Norge, Sverige, Danmark og Finland forlot salen sammen med utsendinger fra et dusin land. Den britiske sentralbanksjefen Andrew Bailey sluttet seg også til markeringen. Flere land protesterte mot at Russland var invitert til årsmøtene i IMF og Verdensbanken, og viste til krigføringen i Ukraina og sanksjonene mot landet. USA ga på sin side støtte til den russiske deltakelsen.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/innlandet/regjeringen-trosser-faglige-rad_-tillater-sykling-i-rondane-midt-i-hoysesongen-1.18057139"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401"
           }
         ],
         "antall_kilder": 1,
@@ -85,26 +72,13 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Advarer om at gripet svensk i Russland kan bli brukt politisk",
-        "tekst": "Underrøttelseseksperter frykter at en svensk statsborger grepet i Russland vil bli brukt for å presse Sverige.",
-        "utdypning": "SVT kan koble den svenske mannen i 35-årsåldern, som er hjemmehørende i Stockholmsområdet, til et ukrainsk militärförband. Ifølge underrättelseexperter riskerar mannen att bli en bricka i ett politiskt spel. – Ryssland kan utnyttja honom för att sätta press på Sverige på olika sätt, säger underrättelseexperten Tony Ingesson.",
+        "tittel": "Pågrepet svenske kan bli russisk pressmiddel",
+        "tekst": "En svensk statsborger med kobling til et ukrainsk forband er pågrepet av russisk etterretning. Eksperter frykter mannen kan utnyttes politisk.",
+        "utdypning": "Mannen i 35-årsalderen er hjemmehørende i Stockholmsområdet og knyttes til et ukrainsk militærforband. Ifølge etterretningsekspert Tony Ingesson risikerer han å bli en brikke i et spill der Russland forsøker å legge press på svenske myndigheter.",
         "kilder": [
           {
             "navn": "SVT",
             "lenke": "https://www.svt.se/nyheter/inrikes/sa-kan-ryssland-utnyttja-gripna-svensken-satta-press-pa-regeringen"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "SVT om Nord-Koreas bånd til Russland",
-        "tekst": "Samarbeidet med Russland har styrket Nord-Korea økonomisk, militært og strategisk.",
-        "utdypning": "Nordkoreas samarbete med Ryssland har stärkt landet ekonomiskt, militärt och strategiskt. – Nordkorea behöver inte resten av världen på samma sätt nu när man har Ryssland, säger Ulrika Bergsten, SVT:s utrikesreporter och tidigare Asienkorrespondent.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/samarbetet-med-ryssland-har-gjort-nordkorea-mycket-starkare"
           }
         ],
         "antall_kilder": 1,
@@ -113,26 +87,13 @@
     ],
     "Norden": [
       {
-        "tittel": "Vil stramme inn asylreglene i Finland",
-        "tekst": "Det finske regjeringspartiet NCP foreslår strengere asylprosedyrer og strammere tilgang til sosial trygd.",
-        "utdypning": "Regjeringspartiet har skissert planer for en mer selektiv innvandringspolitikk. Forslaget innebærer strengere asylprosedyrer og begrenset tilgang til sosiale stønader.",
+        "tittel": "Finsk regjeringsparti vil stramme inn asylregler",
+        "tekst": "Det finske Samlingspartiet foreslår strengere asylprosedyrer og innstramminger i innvandreres tilgang til velferdsordninger.",
+        "utdypning": "Parlamentsgruppen til det finske regjeringspartiet har lagt fram planer for en mer selektiv innvandringspolitikk. Forslagene innebærer strengere behandling av asylsaker og trangere adgang til sosiale ytelser.",
         "kilder": [
           {
             "navn": "Yle News",
             "lenke": "https://yle.fi/a/74-20251807?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Nytt mobilvarslingssystem i Finland",
-        "tekst": "Finland innfører et system for å sende nødalarmer direkte til mobiltelefoner i november.",
-        "utdypning": "Det nye systemet vil sende nødadvarsler direkte til mobiltelefoner i berørte områder. Brukerne trenger verken å installere en app eller dele personlig informasjon.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20251682?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -141,9 +102,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Trump setter Russland-sanksjoner på vent",
-        "tekst": "USAs president midlertidig fjerner en rekke restriksjoner mot Moskva på grunn av nasjonale sikkerhetsinteresser.",
-        "utdypning": "US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns. The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia.",
+        "tittel": "Trump setter nye Russland-sanksjoner på pause",
+        "tekst": "USAs president Donald Trump har midlertidig stanset nye sanksjoner mot Russland som Kongressen nylig vedtok.",
+        "utdypning": "Trump viste til hensynet til nasjonal sikkerhet og nasjonale interesser da han undertegnet et unntak fra straffetiltakene. Beslutningen kommer samtidig som ordskiftet og konflikten mellom den amerikanske presidenten og Ukrainas president Volodymyr Zelenskyj tiltar i styrke.",
         "kilder": [
           {
             "navn": "BBC",
@@ -155,12 +116,12 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Zelenskyj taler på EU-toppmøte",
-        "tekst": "Ukrainas president møter europeiske ledere i Brussel mens forholdet til USA er anstrengt.",
-        "utdypning": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
+        "tittel": "EU bekrefter støtte til Ukraina tross uro",
+        "tekst": "EUs ledere bekreftet sin støtte til Ukraina under toppmøtet i Brussel, til tross for budsjettproblemer og et mer anstrengt forhold til USA.",
+        "utdypning": "Ukrainas president Volodymyr Zelenskyj talte til toppmøtet i Brussel. Samtidig preges situasjonen av et kjøligere forhold til USA over Russland og Starlink. Kombinasjonen av et stort hull i budsjettet og usikkerhet om amerikansk støtte gjør at Ukraina går en vanskelig vinter i møte.",
         "kilder": [
           {
             "navn": "DW",
@@ -171,28 +132,24 @@
         "vekt": 4
       },
       {
-        "tittel": "Zelenskyj søker europeisk støtte",
-        "tekst": "Ukrainas president samler europeiske allierte etter spenninger med USA om oljeraffineri-angrep.",
-        "utdypning": "Ukrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump’s demands to stop. Tensions between Kyiv and Washington have escalated in recent days over sanctions, energy infrastructure attacks and restrictions on satellite communications, while Trump called the Ukrainian leader more difficult to deal with than Putin.",
+        "tittel": "Zelenskyj advarer mot russiske strømkutt foran vinteren",
+        "tekst": "Ukrainas president Volodymyr Zelenskyj advarer om at Russland forsøker å kutte strøm og varme til sivile før vinteren setter inn.",
+        "utdypning": "Zelenskyj hevder Russland bevisst sikter på å mørklegge landet og ramme sivilbefolkningen i forkant av kuldeperioden. Han kritiserte samtidig USAs president for å suspendere nye sanksjoner mot Moskva, og kalte avgjørelsen en drahjelp til Vladimir Putin.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-eu-2092-rdf"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Rekordnedgang i avskoging i Amazonas",
-        "tekst": "Brasils tall viser at avskogingen i Amazonas har falt til det laveste nivået på nesten 40 år.",
-        "utdypning": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro. The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988, a drop described as an historic achievement.",
+        "tittel": "Historisk fall i avskogingen i Amazonas",
+        "tekst": "Avskogingen i den brasilianske regnskogen har falt til sitt laveste nivå siden 1988, ifølge ferske tall.",
+        "utdypning": "Nye målinger viser at 3335 kvadratkilometer regnskog forsvant i tolvmånedersperioden som ble avsluttet i juli, noe som beskrives som en historisk bragd. Amazonas regnes som en kritisk buffer mot globale klimaendringer. Nedgangen skjer i forkant av et viktig valg i Brasil, etter at avskogingen tidligere tiltok under ekspresident Jair Bolsonaro.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -211,5 +168,5 @@
   "folg_med": [],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modell": "gemini-3.8-flash"
 }

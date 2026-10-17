@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Folkehelseinstituttet må kutte 100 millioner kroner i budsjettet for 2027, og nedbemanning kan bli nødvendig.",
+      "tekst": "USAs president Donald Trump har midlertidig fjernet flere nylig vedtatte sanksjoner mot Russland, noe som har vakt reaksjoner i Europa.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "Regjeringen trosser faglige råd og tillater sykling i nasjonalpark midt i høysesongen, noe lokale ordførere reagerer på.",
+      "tekst": "Equinor fraråder å forlenge gassdriften på Melkøya etter 2030 med mindre staten tar regningen.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/innlandet/regjeringen-trosser-faglige-rad_-tillater-sykling-i-rondane-midt-i-hoysesongen-1.18057139"
+          "lenke": "https://www.nrk.no/tromsogfinnmark/equinor-frarader-forlenget-gassdrift-pa-melkoya-etter-2030-1.18056783"
         }
       ]
     },
     {
-      "tekst": "EU-ledere samles i Brussel for å diskutere videre støtte til Ukraina i lys av endret amerikansk politikk.",
+      "tekst": "En russisk oligark har saksøkt en liten norsk nettavis for ærekrenkelse med innkallelse til domstol i London.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461"
         }
       ]
     }
@@ -31,52 +31,52 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "FHI må kutte 100 millioner",
-        "tekst": "Folkehelseinstituttet må kutte 100 millioner kroner i 2027, noe som kan føre til nedbemanning.",
-        "utdypning": "Folkehelseinstituttet (FHI) må kutte 100 millioner kroner i budsjettet for 2027, bekrefter konstituert direktør Elisabet E. Storvoll. Hovedtillitsvalgt for Legeforeningen i FHI, Fredrik Skår, opplyser at det blir utfordrende å dekke kuttet kun gjennom driften. Derfor kan nedbemanning bli nødvendig, selv om de foreløpig ikke har fått detaljert informasjon om hvor kuttene vil ramme.",
+        "tittel": "Equinor fraråder gassdrift på Melkøya",
+        "tekst": "Equinor advarer mot å forlenge levetiden på gasskraftverket på Melkøya etter 2030 og krever at staten tar regningen.",
+        "utdypning": "Senterpartiets forslag om å forlenge levetiden på gasskraftverket på Melkøya møter motstand fra industrimiljøene i Norge. Equinor slår fast at staten må ta regninga ved fortsatt drift etter 2030.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/tv2_-fhi-ma-kutte-100-millioner-i-2027--1.18056154"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/equinor-frarader-forlenget-gassdrift-pa-melkoya-etter-2030-1.18056783"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Tillater sykling i nasjonalpark",
-        "tekst": "Regjeringen tillater sykling i nasjonalpark midt i høysesongen til tross for faglige råd.",
-        "utdypning": "Regjeringen innførte fredag en forskrift som tillater sykling i nasjonalpark midt i høysesongen. En lokal ordfører reagerer sterkt på beslutningen og kaller det en overkjøring av kommunestyret, ettersom regjeringen har trosset faglige råd i saken.",
+        "tittel": "Russisk oligark saksøker norsk nettavis",
+        "tekst": "Den russiske fiskerimilliardæren Vitalij Orlov har saksøkt en norsk nettavis for ærekrenkelse.",
+        "utdypning": "Saken har blitt brakt inn for en domstol i London etter påstander om ærekrenkelser mot den russiske fiskerimilliardæren Vitalij Orlov.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Trump fjerner sanksjoner mot Russland",
+        "tekst": "USAs president Donald Trump gjør unntak fra flere sanksjoner og tollavgifter mot Russland.",
+        "utdypning": "Straffetiltakene er en del av den nye amerikanske loven «Graham Act». Trump bekreftet i en presidentordre at han likevel fjerner flere av disse begrensningene for Russland.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Regjeringen tillater sykling i nasjonalpark",
+        "tekst": "Regjeringen åpner for sykling i nasjonalpark i høysesongen til tross for faglige råd.",
+        "utdypning": "Forskriften ble innført fredag og har ført til sterke reaksjoner. En lokal ordfører kaller det hele en overkjøring av kommunestyret.",
         "kilder": [
           {
             "navn": "NRK Norge",
             "lenke": "https://www.nrk.no/innlandet/regjeringen-trosser-faglige-rad_-tillater-sykling-i-rondane-midt-i-hoysesongen-1.18057139"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Protester mot kongekrabbekrav",
-        "tekst": "Fiskere frykter at nye krav for kongekrabbekvote vil tømme små lokalsamfunn for folk.",
-        "utdypning": "Nye krav for å få kongekrabbekvote møter kraftige protester fra fiskere som frykter at lokalsamfunnene vil tømmes for folk. Fiskeriministeren har lovet å foreta en grundig gjennomgang av saken.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/protesterer-mot-nye-kongekrabbekrav-1.18056307"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Krev svar om datasenter",
-        "tekst": "Lokale politikere krever svar om kundene når et datasenter planlegger kraftig utvidelsene.",
-        "utdypning": "Et datasenter planlegger kraftig utvidelse av kraftbruken, noe som har fått lokale politikere til å reagere. Politikerne krever å få vite mer om hvem kundene er, og kritiserer samtidig selskapet for å ha sagt nei til vindkraft like ved.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/datasenter-utvidar-kraftig---politikarar-vil-vite-meir-om-kven-som-er-kundane-1.18055539"
           }
         ],
         "antall_kilder": 1,
@@ -85,9 +85,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Svenske arrestert av Russland",
-        "tekst": "Svensk mann i 35-årsalderen er grepet av russisk etterretning og knyttet til en ukrainsk enhet.",
-        "utdypning": "SVT kan koble den svenske mannen, som er i 35-årsalderen og fra Stockholmsområdet, til et ukrainsk militærforband. Underrøttelseseksperter advarer om at mannen risikerer å bli en brikke i et politisk spill. Ifølge ekspert Tony Ingesson kan Russland utnytte situasjonen til å sette press på den svenske regjeringen.",
+        "tittel": "Advarer om at gripet svensk i Russland kan bli brukt politisk",
+        "tekst": "Underrøttelseseksperter frykter at en svensk statsborger grepet i Russland vil bli brukt for å presse Sverige.",
+        "utdypning": "SVT kan koble den svenske mannen i 35-årsåldern, som er hjemmehørende i Stockholmsområdet, til et ukrainsk militärförband. Ifølge underrättelseexperter riskerar mannen att bli en bricka i ett politiskt spel. – Ryssland kan utnyttja honom för att sätta press på Sverige på olika sätt, säger underrättelseexperten Tony Ingesson.",
         "kilder": [
           {
             "navn": "SVT",
@@ -98,13 +98,13 @@
         "vekt": 4
       },
       {
-        "tittel": "Saab viser frem nytt fly",
-        "tekst": "Försvarsmaktens første spanings- og ledningsflygplan S 106 GlobalEye har premiärvisats hos Saab.",
-        "utdypning": "Saab har rullet ut Sveriges første S 106 GlobalEye i Linköping. Koncernsjef Micael Johansson omtaler leveransen av den nye militære kapasiteten til Sverige som en svært stor hendelse for selskapet og Forsvaret.",
+        "tittel": "SVT om Nord-Koreas bånd til Russland",
+        "tekst": "Samarbeidet med Russland har styrket Nord-Korea økonomisk, militært og strategisk.",
+        "utdypning": "Nordkoreas samarbete med Ryssland har stärkt landet ekonomiskt, militärt och strategiskt. – Nordkorea behöver inte resten av världen på samma sätt nu när man har Ryssland, säger Ulrika Bergsten, SVT:s utrikesreporter och tidigare Asienkorrespondent.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/ost/saab-har-rullat-ut-sveriges-forsta-s-106-globaleye"
+            "lenke": "https://www.svt.se/nyheter/utrikes/samarbetet-med-ryssland-har-gjort-nordkorea-mycket-starkare"
           }
         ],
         "antall_kilder": 1,
@@ -113,26 +113,26 @@
     ],
     "Norden": [
       {
-        "tittel": "Værvarsler om uvær på Island",
-        "tekst": "Meteorologene har utstedt gule og oransje farevarsler for sterk storm på Island i helgen.",
-        "utdypning": "Islands meteorologiske institutt har sendt ut nye advarsler om sterk vind, storm og voldsom storm for helgen. Gule varsler gjelder for hovedstadsregionen, Vest-Island, Vestfjorden og høylandet på lørdag, mens det er sendt ut et sjeldent oransje varsel for Breiðafjörður hvor det ventes ekstremt kraftige vindstyrker.",
+        "tittel": "Vil stramme inn asylreglene i Finland",
+        "tekst": "Det finske regjeringspartiet NCP foreslår strengere asylprosedyrer og strammere tilgang til sosial trygd.",
+        "utdypning": "Regjeringspartiet har skissert planer for en mer selektiv innvandringspolitikk. Forslaget innebærer strengere asylprosedyrer og begrenset tilgang til sosiale stønader.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-16-storms-across-iceland-this-weekend-490157/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20251807?origin=rss"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Finsk drivstoffpakke",
-        "tekst": "Den finske regjeringen er blitt enige om en krisepakke mot høye drivstoffpriser.",
-        "utdypning": "Regjeringens nye tiltakspakke på 60 millioner euro inneholder lavere bilavgift, høyere tak for reisefradrag samt subsidier til næringer innen transport, jordbruk og skogbruk. Pakken ble vedtatt til tross for at et regjeringsparti fikk avvist sine egne forslag.",
+        "tittel": "Nytt mobilvarslingssystem i Finland",
+        "tekst": "Finland innfører et system for å sende nødalarmer direkte til mobiltelefoner i november.",
+        "utdypning": "Det nye systemet vil sende nødadvarsler direkte til mobiltelefoner i berørte områder. Brukerne trenger verken å installere en app eller dele personlig informasjon.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20251790?origin=rss"
+            "lenke": "https://yle.fi/a/74-20251682?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -141,13 +141,43 @@
     ],
     "Europa": [
       {
-        "tittel": "EU-toppmøte om Ukraina",
-        "tekst": "EU advarer mot å trekke støtten til Ukraina, samtidig som USAs president kritiserer Zelenskyj.",
-        "utdypning": "EU-rådets president Antonio Costa advarte fredag mot å svekke støtten til Ukraina, og tok til ordet for å øke presset mot Russland foran et toppmøte med Ukrainas president Volodymyr Zelenskyj i Brussel. Samtidig rettet USAs president Donald Trump hard kritikk mot den ukrainske lederen og omtalte ham som vanskeligere å forholde seg til enn Vladimir Putin.",
+        "tittel": "Trump setter Russland-sanksjoner på vent",
+        "tekst": "USAs president midlertidig fjerner en rekke restriksjoner mot Moskva på grunn av nasjonale sikkerhetsinteresser.",
+        "utdypning": "US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns. The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Zelenskyj taler på EU-toppmøte",
+        "tekst": "Ukrainas president møter europeiske ledere i Brussel mens forholdet til USA er anstrengt.",
+        "utdypning": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
+        "kilder": [
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Zelenskyj søker europeisk støtte",
+        "tekst": "Ukrainas president samler europeiske allierte etter spenninger med USA om oljeraffineri-angrep.",
+        "utdypning": "Ukrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump’s demands to stop. Tensions between Kyiv and Washington have escalated in recent days over sanctions, energy infrastructure attacks and restrictions on satellite communications, while Trump called the Ukrainian leader more difficult to deal with than Putin.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace"
+            "lenke": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes"
           },
           {
             "navn": "BBC World",
@@ -155,52 +185,22 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "NATO tar opp Svartehavet-droneangrep",
-        "tekst": "NATO vil diskutere droneangrep og sivile hendelser i Svartehavet etter at syv personer har forsvunnet.",
-        "utdypning": "NATO setter droneangrep i Svartehavet på dagsordenen under et møte neste uke. Bakgrunnen er to nye angrep og at syv personer har forsvunnet utenfor kysten av Romania. Hendelsene knyttes til en økning i uhell med sivile fartøyer i området som følge av krigen i Ukraina.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Skoleskyting i USA",
-        "tekst": "Fire personer, inkludert tre barn, ble drept i en skoleskyting ved en barneskole i Oregon.",
-        "utdypning": "En 16 år gammel gjerningsperson åpnet ild ved Silver Rail Elementary School i Bend i Oregon, og drepte tre barn i alderen 5, 8 og 11 år samt en lærer. To andre personer ble såret i angrepet før en forbipasserende sivil person skjøt og drepte mistenkte på stedet.",
+        "tittel": "Rekordnedgang i avskoging i Amazonas",
+        "tekst": "Brasils tall viser at avskogingen i Amazonas har falt til det laveste nivået på nesten 40 år.",
+        "utdypning": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro. The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988, a drop described as an historic achievement.",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Maduro til retten i New York",
-        "tekst": "Nicolas Maduro erklærte seg ikke skyldig i nye tortursiktelser i en domstol i New York.",
-        "utdypning": "Venezuelas tidligere president Nicolas Maduro og hans kone stilte i retten for å svare på nye siktelser knyttet til tortur og statlig sponset undertrykkelse i perioden 2013 til 2026. Maduro avviste dokumentet fullstendig og erklærte seg ikke skyldig etter tiltalen.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,

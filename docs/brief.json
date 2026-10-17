@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Equinor fraråder forlenget gassdrift på Melkøya etter 2030 og mener staten må ta regningen ved videre drift.",
+      "tekst": "Norske og nordiske delegater forlot salen da Russlands finansminister talte under IMF-møtet i protest mot krigføringen i Ukraina.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/equinor-frarader-forlenget-gassdrift-pa-melkoya-etter-2030-1.18056783"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401"
         }
       ]
     },
     {
-      "tekst": "Norge og Russland møtes i Tyrkia til fysiske fiskeriforhandlinger for første gang på seks år.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/moter-russland-fysisk-til-fiskeriforhandlingar_-_-krevjande-1.18057388"
-        }
-      ]
-    },
-    {
-      "tekst": "Donald Trump setter nye amerikanske Russland-sanksjoner på vent, noe som vekker sterk bekymring i Europa.",
+      "tekst": "USAs president Donald Trump har midlertidig fjernet flere sanksjoner mot Russland av nasjonale sikkerhetsgrunner, noe som vekker sterke internasjonale reaksjoner.",
       "kilder": [
         {
           "navn": "BBC",
           "lenke": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "tekst": "Equinor fraråder å forlenge gassdriften på Melkøya etter 2030 med mindre staten tar regningen, i oppstrid om Senterpartiets forslag.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/equinor-frarader-forlenget-gassdrift-pa-melkoya-etter-2030-1.18056783"
         }
       ]
     }
@@ -31,9 +31,48 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Fysiske fiskeriforhandlinger med Russland",
-        "tekst": "Norge og Russland møtes til fiskeriforhandlinger i Tyrkia. Dette er det første fysiske møtet mellom partene på seks år.",
-        "utdypning": "Forhandlingene beskrives som krevende. Partene har ikke møttes ansikt til ansikt på seks år.",
+        "tittel": "Norge forlot IMF-salen under russisk innlegg",
+        "tekst": "Norske delegater forlot salen i protest da Russlands finansminister talte i IMF-styringskomiteen.",
+        "utdypning": "Delegater fra Norge, Sverige, Danmark og Finland var blant en gruppe land som utvandret fra salen i protest da den russiske finansministeren Anton Siluanov holdt innlegg under Det internasjonale pengefondets styringskomité. Blant andre som sluttet seg til markeringen var den britiske sentralbanksjefen Andrew Bailey. Auksjonen skjedde for å protestere mot at Russland var invitert til møtene, med henvisning til landets krigføring i Ukraina og de ilagte sanksjonene.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Trump fjerner flere sanksjoner mot Russland",
+        "tekst": "USAs president Donald Trump gjør unntak fra flere sanksjoner og tollavgifter mot Russland.",
+        "utdypning": "Tiltakene som nå fjernes midlertidig var en del av den nye amerikanske loven kalt «Graham Act». Trump bekreftet i en presidentordre at han opphever flere av disse begrensningene overfor Russland, til tross for tidligere vedtatte straffetiltak fra Kongressen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/trump-fjerner-flere-sanksjoner-mot-russland-1.18057320"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Equinor advarer mot gassdrift på Melkøya etter 2030",
+        "tekst": "Equinor mener staten må ta regningen dersom gasskraftverket på Melkøya skal driftes videre etter 2030.",
+        "utdypning": "Senterpartiets forslag om å forlenge levetiden på gasskraftverket møter kraftig motstand fra det norske industrimiljøet. Equinor slår fast at staten må dekke kostnadene hvis en slik forlengelse skal gjennomføres.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/equinor-frarader-forlenget-gassdrift-pa-melkoya-etter-2030-1.18056783"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Norge og Russland i fysiske fiskeriforhandlinger",
+        "tekst": "Norge møter for første gang på seks år Russland til fysiske fiskeriforhandlinger i Tyrkia.",
+        "utdypning": "Partene møtes ansikt til ansikt for å diskutere fiskerisamarbeidet. Situasjonen beskrives som svært krevende gitt det spente geopolitiske klimaet.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -44,67 +83,26 @@
         "vekt": 4
       },
       {
-        "tittel": "Equinor fraråder forlenget gassdrift på Melkøya",
-        "tekst": "Equinor fraråder å forlenge levetiden til gasskraftverket på Melkøya etter 2030. Selskapet varsler at staten må ta regningen dersom driften skal fortsette.",
-        "utdypning": "Senterpartiets forslag om å forlenge levetiden på gasskraftverket møter motstand i norske industrimiljøer. Equinor slår fast at staten må dekke kostnadene dersom det blir aktuelt med fortsatt drift etter 2030.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/equinor-frarader-forlenget-gassdrift-pa-melkoya-etter-2030-1.18056783"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Norsk protest mot Russland i IMF",
-        "tekst": "Norske representanter forlot salen i protest da Russlands finansminister talte i styringskomiteen til Det internasjonale pengefondet.",
-        "utdypning": "Delegater fra Norge, Sverige, Danmark og Finland forlot salen sammen med utsendinger fra et dusin land. Den britiske sentralbanksjefen Andrew Bailey sluttet seg også til markeringen. Flere land protesterte mot at Russland var invitert til årsmøtene i IMF og Verdensbanken, og viste til krigføringen i Ukraina og sanksjonene mot landet. USA ga på sin side støtte til den russiske deltakelsen.",
+        "tittel": "Norsk nettavis saksøkt av russisk oligark i London",
+        "tekst": "En liten norsk nettavis er saksøkt for ærekrenkelser av den russiske fiskerimilliardæren Vitalij Orlov.",
+        "utdypning": "Saken har blitt brakt inn for en domstol i London, hvor de norske journalistene er innkalt. Saken setter søkedyktighet og juridiske rammer for norsk journalistikk opp mot internasjonale aktører i spill.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Skandinavia": [
-      {
-        "tittel": "Pågrepet svenske kan bli russisk pressmiddel",
-        "tekst": "En svensk statsborger med kobling til et ukrainsk forband er pågrepet av russisk etterretning. Eksperter frykter mannen kan utnyttes politisk.",
-        "utdypning": "Mannen i 35-årsalderen er hjemmehørende i Stockholmsområdet og knyttes til et ukrainsk militærforband. Ifølge etterretningsekspert Tony Ingesson risikerer han å bli en brikke i et spill der Russland forsøker å legge press på svenske myndigheter.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/sa-kan-ryssland-utnyttja-gripna-svensken-satta-press-pa-regeringen"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Norden": [
-      {
-        "tittel": "Finsk regjeringsparti vil stramme inn asylregler",
-        "tekst": "Det finske Samlingspartiet foreslår strengere asylprosedyrer og innstramminger i innvandreres tilgang til velferdsordninger.",
-        "utdypning": "Parlamentsgruppen til det finske regjeringspartiet har lagt fram planer for en mer selektiv innvandringspolitikk. Forslagene innebærer strengere behandling av asylsaker og trangere adgang til sosiale ytelser.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20251807?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
+    "Skandinavia": [],
+    "Norden": [],
     "Europa": [
       {
-        "tittel": "Trump setter nye Russland-sanksjoner på pause",
-        "tekst": "USAs president Donald Trump har midlertidig stanset nye sanksjoner mot Russland som Kongressen nylig vedtok.",
-        "utdypning": "Trump viste til hensynet til nasjonal sikkerhet og nasjonale interesser da han undertegnet et unntak fra straffetiltakene. Beslutningen kommer samtidig som ordskiftet og konflikten mellom den amerikanske presidenten og Ukrainas president Volodymyr Zelenskyj tiltar i styrke.",
+        "tittel": "Trump setter Russland-sanksjoner på vent",
+        "tekst": "USAs president midlertidig opphever en rekke sanksjoner mot Moskva vedtatt av Kongressen.",
+        "utdypning": "Avgjørelsen ble tatt med henvisning til nasjonale sikkerhetsinteresser og har skapt økte spenninger. Sanksjonspausen kommer samtidig som forholdet til Ukraina og president Volodymyr Zelenskyy er under sterkt press.",
         "kilder": [
           {
             "navn": "BBC",
@@ -116,12 +114,12 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "EU bekrefter støtte til Ukraina tross uro",
-        "tekst": "EUs ledere bekreftet sin støtte til Ukraina under toppmøtet i Brussel, til tross for budsjettproblemer og et mer anstrengt forhold til USA.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyj talte til toppmøtet i Brussel. Samtidig preges situasjonen av et kjøligere forhold til USA over Russland og Starlink. Kombinasjonen av et stort hull i budsjettet og usikkerhet om amerikansk støtte gjør at Ukraina går en vanskelig vinter i møte.",
+        "tittel": "EU-toppmøte bekrefter støtte til Ukraina",
+        "tekst": "EU-lederne bekrefter sin støtte til Ukraina under et toppmøte i Brussel midt i krevende tider.",
+        "utdypning": "Ukrainas president Volodymyr Zelenskyy deltok på møtet. Samtidig skaper kjølne relasjoner til USA og et stort budsjetthull utfordringer for Ukraina før den kommende vinteren.",
         "kilder": [
           {
             "navn": "DW",
@@ -132,24 +130,32 @@
         "vekt": 4
       },
       {
-        "tittel": "Zelenskyj advarer mot russiske strømkutt foran vinteren",
-        "tekst": "Ukrainas president Volodymyr Zelenskyj advarer om at Russland forsøker å kutte strøm og varme til sivile før vinteren setter inn.",
-        "utdypning": "Zelenskyj hevder Russland bevisst sikter på å mørklegge landet og ramme sivilbefolkningen i forkant av kuldeperioden. Han kritiserte samtidig USAs president for å suspendere nye sanksjoner mot Moskva, og kalte avgjørelsen en drahjelp til Vladimir Putin.",
+        "tittel": "Frankrike rykker ut mot landdekkende demonstrasjoner",
+        "tekst": "Frankrike forbereder seg på omfattende demonstrasjoner med studenter og gule westere.",
+        "utdypning": "Protestene retter seg mot høye levekostnader, økende ulikheter og drivstoffpriser. Sammenstøt har allerede funnet sted mellom politi og demonstranter i Paris og Marseille, og myndighetene frykter at situasjonen vil tilspisse seg ytterligere.",
         "kilder": [
           {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests"
+          },
+          {
             "navn": "DW",
-            "lenke": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-eu-2092-rdf"
+            "lenke": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-eu-2092-rdf"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 3,
         "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Historisk fall i avskogingen i Amazonas",
-        "tekst": "Avskogingen i den brasilianske regnskogen har falt til sitt laveste nivå siden 1988, ifølge ferske tall.",
-        "utdypning": "Nye målinger viser at 3335 kvadratkilometer regnskog forsvant i tolvmånedersperioden som ble avsluttet i juli, noe som beskrives som en historisk bragd. Amazonas regnes som en kritisk buffer mot globale klimaendringer. Nedgangen skjer i forkant av et viktig valg i Brasil, etter at avskogingen tidligere tiltok under ekspresident Jair Bolsonaro.",
+        "tittel": "Historisk fall i avskogingen av Amazonas",
+        "tekst": "Avskogingen i Amazonas har falt til sitt laveste nivå på nesten 40 år.",
+        "utdypning": "Nye tall viser at 3 335 kvadratkilometer regnskog ble hogget ned i året frem til juli. Nedgangen blir av eksperter betegnet som en historisk prestasjon, da regnskogen er en avgjørende buffersone mot klimaendringer.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -168,5 +174,5 @@
   "folg_med": [],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.8-flash"
+  "modell": "gemini-3.5-flash-lite"
 }

@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Norge møter Russland til krevende og sjeldne fysiske forhandlinger om fiskerikvoter i Tyrkia.",
+      "tekst": "Fire personer ble reddet over i en flåte etter at det brøt ut brann i en fiskebåt i Skagerrak.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/moter-russland-fysisk-til-fiskeriforhandlingar_-_-krevjande-1.18057388"
+          "lenke": "https://www.nrk.no/sorlandet/brann-pa-fiskebat_-fire-personer-funnet-pa-flate-1.18057957"
         }
       ]
     },
     {
-      "tekst": "Norge og de nordiske landene forlot IMF-møtet i protest da Russlands finansminister holdt innlegg.",
+      "tekst": "En omfattende ukrainsk droneattakk mot St. Petersburg krevde minst ett liv og satte fyr på et oljeraffineri.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack"
         }
       ]
     },
     {
-      "tekst": "Telenor har anket kjennelsen som åpner for søksmål fra tidligere kunder i Myanmar.",
+      "tekst": "Politiet i Bergen har pågrepet og siktet fire personer for medvirkning til frihetsberøvelse.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/dokumentar/telenor-kjemper-for-a-unnga-soksmalet-fra-kundene-i-myanmar-1.18057745"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/vestland/fire-personar-pagripne-etter-politiaksjon-i-bergen_-sikta-for-medverknad-til-fridomsberoving-1.18057668"
         }
       ]
     }
@@ -31,39 +31,60 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Fysiske fiskeriforhandlinger med Russland",
-        "tekst": "Norge og Russland møtes i Tyrkia til forhandlinger om fiskerikvoter. Det er det første fysiske møtet mellom partene på seks år.",
-        "utdypning": "Partene møtes fysisk for første gang på seks år for å forhandle om fiskeri. Forhandlingene beskrives på forhånd som krevende.",
+        "tittel": "Brand på fiskebåt i Skagerrak",
+        "tekst": "Fire personer ble funnet på en redningsflåte etter brann i en fiskebåt midt mellom Norge og Danmark.",
+        "utdypning": "Hovedredningssentralen mottok søndag ettermiddag et nødsignal fra fiskebåten i Skagerrak. Det ble observert flammer og røyk fra fartøyet, og båter i nærheten ble dirigert til området. Fire personer ble funnet på en redningsflåte, mens det foreløpig er uvisst om det var flere om bord. Både norske og danske redningshelikoptre samt Danskebåten deltok i aksjonen for å bistå.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/moter-russland-fysisk-til-fiskeriforhandlingar_-_-krevjande-1.18057388"
+            "lenke": "https://www.nrk.no/sorlandet/brann-pa-fiskebat_-fire-personer-funnet-pa-flate-1.18057957"
+          },
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sorlandet/nodsignal-fra-fiskebat_-_-fire-personer-funnet-pa-redningsflate-1.18057946"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 5
       },
       {
-        "tittel": "Norsk protestaksjon mot Russland i IMF",
-        "tekst": "Norge og flere andre land forlot salen i protest da Russlands finansminister holdt innlegg i Det internasjonale pengefondet.",
-        "utdypning": "Utsendinger fra Norge, Sverige, Danmark og Finland forlot styringskomiteens møte sammen med rundt ti andre land da Anton Siluanov talte. Også den britiske sentralbanksjefen Andrew Bailey deltok i protesten. Markeringen rettet seg mot at Russland ble invitert til årsmøtene i IMF og Verdensbanken, under henvisning til krigføringen i Ukraina og sanksjonene. USA støttet på sin side den russiske deltakelsen.",
+        "tittel": "Fire siktet for frihetsberøvelse i Bergen",
+        "tekst": "Politiet har aksjonert mot et husvære i Solheimsviken og pågrepet fire personer siktet for medvirkning til frihetsberøvelse.",
+        "utdypning": "Politiet i Bergen har gjennomført en aksjon og siktet fire personer for medvirkning til frihetsberøvelse. Ifølge politiadvokat Elise Kleiven er saken så alvorlig at det settes inn store ressurser i etterforskningen. Politiet har kontroll på stedet og vurderer fortløpende avhør og mulig varetektsfengsling. Politiet utelukker ikke flere arrestasjoner, men understreker at allmennheten ikke er i fare.",
         "kilder": [
           {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/vestland/fire-personar-pagripne-etter-politiaksjon-i-bergen_-sikta-for-medverknad-til-fridomsberoving-1.18057668"
+          },
+          {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401"
+            "lenke": "https://www.nrk.no/nyheter/fire-personer-siktet-for-medvirkning-til-frihetsberovelse-i-bergen-1.18057582"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Oransje farevarsel for store nedbørsmengder",
+        "tekst": "Meteorologene har sendt ut oransje farevarsel om svært mye regn i nordlige deler av Nordland og Troms.",
+        "utdypning": "Det er ventet store nedbørsmengder mandag og tirsdag som kan føre til overvann, flom og krevende kjøreforhold i de berørte områdene.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/nordland/oransje-farevarsel-om-store-nedborsmengder-_-venter-overvann_-flom-og-krevende-forhold-1.18057824"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Telenor anker massesøksmål i Myanmar-saken",
-        "tekst": "Telenor har anket tingrettens kjennelse som ga grønt lys til et erstatningssøksmål fra tidligere kunder i Myanmar.",
-        "utdypning": "Saksøkerne karakteriserer teleselskapets anke som hyklersk. Saken gjelder et søksmål fra tidligere kunder i Myanmar, etter at tingretten i første omgang tillot saken fremmet.",
+        "tittel": "Fawzi Warsame ny leder i AUF",
+        "tekst": "Fawzi Warsame (28) er valgt til ny leder i AUF etter Gaute Børstad Skjervø.",
+        "utdypning": "Warsame har tidligere vært internasjonal leder i AUFs sentralstyre, er medlem av Oslo bystyre og vararepresentant til Stortinget for Oslo Ap. Han er utdannet jurist og jobber som advokatfullmektig. Hans foreldre kom fra Somalia som flyktninger.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/dokumentar/telenor-kjemper-for-a-unnga-soksmalet-fra-kundene-i-myanmar-1.18057745"
+            "lenke": "https://www.nrk.no/nyheter/auf-har-valgt-ny-leder-1.18057853"
           }
         ],
         "antall_kilder": 1,
@@ -74,37 +95,66 @@
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Ukraina frykter russisk vinterkollaps i strømnettet",
-        "tekst": "Ukrainas president Volodymyr Zelenskyj advarer om at Russland forsøker å slå ut landets strøm- og varmeforsyning før vinteren setter inn.",
-        "utdypning": "Zelenskyj uttaler at Russland forsøker å ramme sivilbefolkningen foran vinterkulden. Samtidig kaller han den amerikanske presidentens fritak fra nye sanksjoner mot Moskva for en drahjelp til Vladimir Putin.",
+        "tittel": "Dronetreff mot St. Petersburg",
+        "tekst": "En stor ukrainsk droneaksjon mot St. Petersburg krevde minst ett liv og rammet et oljeraffineri og et oljelager.",
+        "utdypning": "Angrepet på Russlands nest største by medførte også at fem personer ble hospitalisert, og et datasenter brukt av russiske tjenester ble truffet. Angrepet skjer samtidig som Kyiv anklager Russland for å ha brutt USAs energivåpenhvile et tjuetalls ganger. Saken har stor betydning for sikkerhetssituasjonen og energimarkedene i nærområdene.",
         "kilder": [
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-eu-2092-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 2,
+        "vekt": 5
       },
       {
-        "tittel": "Voldsomme levekostnadsprotester ryster Frankrike",
-        "tekst": "Mer enn 1200 personer er pågrepet etter landsomfattende opptøyer, branner og plyndring utløst av levekostnadskrisen i Frankrike.",
-        "utdypning": "Over en halv million mennesker deltok i demonstrasjoner mot levekostnadene på tvers av landet. I Paris opplyser politiet om en rekordhøy arrestasjonsbølge med 855 pågrepne personer. En demonstrant i hovedstaden døde av hjertestans, noe politiet opplyser ikke hadde sammenheng med politiets maktbruk. Flere historiske bygg ble satt i brann under urolighetene, deriblant rådhusspiret i byen Limoges.",
+        "tittel": "Over 1 800 arrestert under opptøyer i Frankrike",
+        "tekst": "Landets omstridte levekostnadsprotester utviklet seg til voldelige opptøyer, brannstiftelser og plyndring.",
+        "utdypning": "Over en halv million mennesker deltok i protestene mot levekostnadene, noe som førte til omfattende uroligheter i flere byer. Blant annet ble Limoges' historiske rådhus ødelagt av brann. Politiet gjennomførte om lag 1 800 arrestasjoner etter at situasjonen eskalerte med knuste ruter og utbrente biler i Paris.",
         "kilder": [
           {
             "navn": "BBC",
             "lenke": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Pave Leo utskrevet fra sykehus etter lungekreftoperasjon",
+        "tekst": "Pave Leo XIV forlot sykehuset i Roma fire dager etter at leger fjernet deler av hans høyre lunge.",
+        "utdypning": "Kirurgene fjernet en k cancerous svulst under inngrepet forrige uke. Paven har siden holdt sin første offentlige opptreden og resitert Angelus-bønnen fra balkongen på Det apostoliske palass etter å ha blitt erklært frisk nok til å reise hjem.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 3,
         "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Europeiske diplomater angrepet på Vestbredden",
-        "tekst": "En gruppe israelske bosettere har angrepet biler med europeiske diplomater på Vestbredden.",
-        "utdypning": "Angrepet rammet kjøretøy med europeiske diplomater og en fransk ordfører. Det israelske militæret har fordømt voldsbruken, mens statsministerens kontor kaller hendelsen en svertekampanje. Belgiske myndigheter har fordømt angrepet.",
+        "tittel": "Europeiske diplomater angrepet av israelske bosettere",
+        "tekst": "Kjøretøy tilhørende europeiske diplomater ble angrepet av en gruppe israelske bosettere på Vestbredden.",
+        "utdypning": "Hendelsen har utløst fordømmelse fra blant annet Belgia, og det israelske militæret har tatt avstand fra volden. Statsministerens kontor hevder imidlertid at kritikken inngår i en svertekampanje.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -116,19 +166,23 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
+        "vekt": 4
       },
       {
-        "tittel": "Mobiliserer for tidligstemming før USA-valget",
-        "tekst": "Demonstranter over hele USA oppfordres til å forhåndsstemme ved det kommende mellomvalget for å utfordre Republikanernes maktposisjon.",
-        "utdypning": "Arrangørene bak «No Kings»-demonstrasjonene maner til tidlig stemmegivning i forkant av valget 3. november. Bevegelsen er preget av sterk motstand mot Donald Trump, samtidig som Det republikanske partiet står overfor harde kamper for å beholde kontrollen i Kongressen.",
+        "tittel": "Storbrann på canadisk militærbase",
+        "tekst": "Flere personer er omkommet eller skadet i en alvorlig brann på militærbasen Wainwright i Alberta.",
+        "utdypning": "Canadas statsminister Mark Carney har bekreftet at en alvorlig hendelse utløste brannen, men har ikke oppgitt årsaken. Forsvarsminister David McGuinty bekreftet at det er både døde og skadde på basen, og situasjonen beskrives som svært aktiv og delikat.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]
@@ -136,5 +190,5 @@
   "folg_med": [],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.8-flash"
+  "modell": "gemini-3.5-flash-lite"
 }

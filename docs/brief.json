@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Ukrainske droneangrep rammet oljeanlegg i St. Petersburg etter anklager om brudd på en energivåpenhvile.",
+      "tekst": "TV-aksjonen samlet inn 251 millioner kroner til Flyktninghjelpen og arbeidet med å hjelpe mennesker på flukt.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/sorlandet/14_5-millioner-kroner-til-tv-aksjonen-1.18058251"
         }
       ]
     },
     {
-      "tekst": "Fawzi Warsame er valgt til ny leder i Arbeiderpartiets ungdomsorganisasjon AUF.",
+      "tekst": "EU myker opp sin motstand mot olje og gass fra Arktis i et nytt utkast til strategi.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/eu-demper-motstanden-mot-olje-og-gass-fra-arktis-1.18058153"
+        }
+      ]
+    },
+    {
+      "tekst": "Fawzi Warsame er valgt til ny leder for AUF etter Gaute Børstad Skjervø.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/nyheter/auf-har-valgt-ny-leder-1.18057853"
-        }
-      ]
-    },
-    {
-      "tekst": "Regjeringens varslede gjennomgang av distriktsruter vekker frykt for kutt ved norske småflyplasser.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/nordland/stoler-ikke-pa-loftet-om-a-beholde-smaflyplassene-1.18056574"
         }
       ]
     }
@@ -31,9 +31,39 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Fawzi Warsame valgt til ny AUF-leder",
-        "tekst": "Fawzi Warsame (28) er valgt til ny leder i AUF og overtar etter Gaute Børstad Skjervø. Warsame er utdannet jurist og jobber som advokatfullmektig.",
-        "utdypning": "Den nye AUF-lederen er medlem av Oslo bystyre og vararepresentant til Stortinget for Oslo Arbeiderparti. Han har i den foregående perioden hatt rollen som internasjonal leder i AUFs sentralstyre. Warsames foreldre kom opprinnelig til Norge som flyktninger fra Somalia. Forgjengeren Skjervø har ledet ungdomspartiet siden 2024.",
+        "tittel": "EU demper motstanden mot Arktis-olje",
+        "tekst": "EU vil ikke lenger kjempe for et globalt, midlertidig forbud mot olje- og gassutvinning i Arktis.",
+        "utdypning": "Det går fram av eit utkast til EUs nye Arktis-strategi, som NTB har fått innsyn i. Strategien skal legges fram tirsdag. I strategien fra 2021 gikk EU inn for et internasjonalt forbud mot både utvinning og kjøp av olje og gass fra Arktis. I den nye strategien heter det at «EU vil prioritere fornybare energikilder og hydrokarboner som ikke er produsert i Arktis».",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/eu-demper-motstanden-mot-olje-og-gass-fra-arktis-1.18058153"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "251 millioner til TV-aksjonen",
+        "tekst": "Årets TV-aksjon har samlet inn 251 millioner kroner til Flyktninghjelpen.",
+        "utdypning": "– Vi er overveldet og dypt takknemlige for givergleden, sier generalsekretær i NRC Flyktninghjelpen, Jan Egeland. 400.000 mennesker på flukt fra krig skal få hjelp til å få en trygg heim.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/14_5-millioner-kroner-til-tv-aksjonen-1.18058251"
+          },
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tvaksjonen/over-250-millioner-kroner-kom-inn-til-tv-aksjonen-2026-1.18047087"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Fawzi Warsame ny leder i AUF",
+        "tekst": "Fawzi Warsame er valgt til ny leder i AUF etter Gaute Børstad Skjervø.",
+        "utdypning": "Warsame (28) har vært internasjonal leder i AUFs sentralstyre den siste perioden. Han er medlem av Oslo bystyre og vararepresentant til Stortinget for Oslo Ap. Den nye AUF-lederen er utdannet jurist og jobber som advokatfullmektig. Hans foreldre kom fra Somalia som flyktninger.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,26 +74,93 @@
         "vekt": 3
       },
       {
-        "tittel": "Frykter ny kamp om småflyplassene",
-        "tekst": "Regjeringen vil vurdere kravene til flyrutene i lys av nye veier og ny flyplass i Mo i Rana. Bent-Joacim Bentzen (Sp) uttrykker bekymring for distriktsflyplassene.",
-        "utdypning": "Bentzen uttaler at han ikke stoler på løftene om å bevare småflyplassene når rutekravene nå skal vurderes på nytt. Han frykter at endringene vil føre til en ny politisk kamp om distriktenes flyplasstilbud.",
+        "tittel": "Vil ha ny norsk EU-debat",
+        "tekst": "Spørsmålet om norsk EU-medlemskap splitter nordmenn, men flere er åpne for en ny diskusjon.",
+        "utdypning": "Mye har skjedd siden folkeavstemningen i 1994, og debatten om tilknytning og medlemskap løftes igjen.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/stoler-ikke-pa-loftet-om-a-beholde-smaflyplassene-1.18056574"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/stor-oslo/vil-ha-ny-norsk-eu-debatt_-_-mye-har-skjedd-siden-1994-1.17994600"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Ingen barnehagigaranti for desemberbarn",
+        "tekst": "Regjeringen kan ikke love barnehageplass innen fylte ett år for barn født i år.",
+        "utdypning": "Selv om det er flertall på Stortinget for å gi desemberbarna barnehageplass innen de er fylt ett år, kan ikke regjeringen love at det gjelder barn som blir født i år.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/stortinget-vil-gi-desemberbarna-barnehageplass-fra-fylte-ett-ar-1.18049141"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Skandinavia": [],
-    "Norden": [],
+    "Skandinavia": [
+      {
+        "tittel": "Henrik Landerholm fälls i hovrätten",
+        "tekst": "Svea hovrätt fäller tidligere svenske sikkerhetsrådgiver Henrik Landerholm for vårdslöshet med hemlig uppgift.",
+        "utdypning": "Den tidigare nationella säkerhetsrådgivaren friades i Attunda tingsrätt, men dømmes nå i hovrätten til bøter. Landerholm kaller dommen en besvikelse, mens senior åklagare Mats Ljungqvist er fornøyd med at retten fulgte anken.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/i-dag-faller-hovrattsdomen-mot-henrik-landerholm"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Norden": [
+      {
+        "tittel": "Finsk nettverk leverte missilkomponenter",
+        "tekst": "Et finsk-tilknyttet nettverk har levert militært utstyr til Russland verdt millioner av euro.",
+        "utdypning": "Komponentene har blitt brukt i russiske missiler rettet mot Ukraina, ifølge Yle News.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20250514?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "EU-medlemskapets kostnad for Finland",
+        "tekst": "Yle ser på hva EU-medlemskapet kostet per innbygger for Finland i 2025.",
+        "utdypning": "Finland har vært medlem av EU siden 1995, og oppslutningen om unionen har tradisjonelt vært sterk blant finnene.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252096?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
     "Europa": [
       {
-        "tittel": "Dødelig droneangrep mot St. Petersburg",
-        "tekst": "Minst én person er drept og fem innlagt på sykehus etter et ukrainsk droneangrep mot St. Petersburg. Angrepet utløste branner ved et oljeraffineri og et oljedepot.",
-        "utdypning": "Angrepet mot Russlands nest største by rammet også et datasenter tilknyttet en russisk versjon av Facebook. Kyiv anklager samtidig russiske styrker for å ha brutt en energivåpenhvile fremforhandlet av Washington flere titalls ganger.",
+        "tittel": "Russiske angrep mot Kyiv og økt press fra USA",
+        "tekst": "Russland melder om massive angrep mot Kyiv samtidig som USAs utenriksminister oppfordrer Ukraina til fred.",
+        "utdypning": "USA avviser at etterretningsdelingen med Ukraina er pauset. USAs president Donald Trump har nylig anklaget Volodymyr Zelenskyj for å motarbeide fredsprosessen og forlenge krigen, mens Ukraina fortsetter å svare med egne droneangrep mot russisk infrastruktur.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Ukrainsk droneangrep mot St. Petersburg",
+        "tekst": "Et omfattende ukrainsk droneangrep mot St. Petersburg førte til dødsfall og brann i et oljeraffineri.",
+        "utdypning": "Angrepet på Russlands nest største by krevde minst ett liv og såret fem andre, samtidig som oljelagre og datasentre ble truffet. Angrepet skjer i en periode med harde kamper og gjensidige anklager om brudd på uoffisielle energistanser.",
         "kilder": [
           {
             "navn": "France 24",
@@ -78,52 +175,61 @@
         "vekt": 4
       },
       {
-        "tittel": "Massepågripelser etter opptøyer i Frankrike",
-        "tekst": "Mer enn 1800 personer er arrestert i Frankrike etter at landsomfattende protester mot økende levekostnader eskalerte til voldelige opptøyer, plyndring og brannstiftelser.",
-        "utdypning": "Over en halv million mennesker deltok i demonstrasjonene over hele landet før det brøt ut omfattende uroligheter i flere byer. Demonstranter satte fyr på offentlige bygninger og plyndret butikker. Blant de hardest rammede bygningene var det historiske rådhuset i Limoges, som ble ødelagt i flammene.",
+        "tittel": "Macron avviser avskjedssøknad",
+        "tekst": "Frankrikes president Emmanuel Macron nekter innenriksministeren å gå av etter voldsomme opptøyer.",
+        "utdypning": "Innenriksminister Laurent Nunez ba om å få trekke seg etter omfattende demonstrasjoner med brente rådhus og plyndring, men presidenten avslo avskjedssøknaden med henvisning til behovet for stabilt lederskap for ordensmakten.",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/macron-nekter-innenriksministeren-a-ga-av-1.18058212"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Ukrainsk drone krasjet i Litauen",
-        "tekst": "Ukraina beklager etter at en mistenkt drone krasjet i Litauen og skadet en bil i fart. NATO sendte opp jagerfly i forbindelse med hendelsen.",
-        "utdypning": "Vrakrester fra dronen påførte skader på en bil i fart på litauisk territorium. Myndighetene i Kyiv opplyser at russisk jamming kan ha forstyrret droner som opprinnelig var rettet mot mål i Russland.",
+        "tittel": "Storbrann på canadisk militærbase",
+        "tekst": "Fire personer har omkommet og flere tiere er skadet etter en dramatisk brann på en militærbase i Canada.",
+        "utdypning": "Statsminister Mark Carney opplyser at mannskaper kjempet mot flammene under svært krevende forhold. 39 personer er innlagt på sykehus, hvorav minst 19 er i kritisk tilstand etter hendelsen i Alberta.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Trump støtter Netanyahu",
+        "tekst": "USAs president gir sin støtte til Benjamin Netanyahu før det kommende valget i Israel.",
+        "utdypning": "Til tross for støtten viser meningsmålinger at Netanyahu og hans høyreorienterte partnere foreløpig mangler flertall til å sikre en ny periode i valget som holdes 27. oktober.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Flere døde i brann på militærbase i Canada",
-        "tekst": "En stor brann har brutt ut på militærbasen Wainwright i den canadiske provinsen Alberta. Flere personer er bekreftet døde eller skadet.",
-        "utdypning": "Canadas statsminister Mark Carney opplyser at en alvorlig hendelse utløste brannen, men har foreløpig ikke oppgitt detaljer om årsaken. Myndighetene har ikke gått ut med nøyaktige tall på omkomne eller skadde, og viser til at situasjonen på basen er svært aktiv og krevende.",
+        "tittel": "Lula og Bolsonaro i opphetet debatt",
+        "tekst": "De brasilianske presidentkandidatene tørglet sammen i en intens debatt foran valgomkampens sluttspurt.",
+        "utdypning": "Kandidatene barket sammen om politikk og tidligere bånd til USA, få dager før valgomkampens avgjørende runde den 25. oktober.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 3
       }
     ]
@@ -131,5 +237,5 @@
   "folg_med": [],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.8-flash"
+  "modell": "gemini-3.5-flash-lite"
 }

@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Ukrainas president Volodymyr Zelenskyj er i Oslo og opplyser at amerikanske og ukrainske forhandlere kan møtes i Norge.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-kan-motes-i-norge-1.18059063"
-        }
-      ]
-    },
-    {
-      "tekst": "Zelenskyj anklager USA for å forsinke leveranser av luftvernraketter, samtidig som USAs president Donald Trump avviser kritikken.",
+      "tekst": "Ukrainas president Volodymyr Zelenskyj er i Oslo for å møte amerikanske spesialutsendinger for diplomatiske samtalepartnere.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
+          "lenke": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup"
         }
       ]
     },
     {
-      "tekst": "Riksdagens talmann har gitt Centerpartiet i oppdrag å danne ny regjering i Sverige etter at Magdalena Andersson ikke fikk flertall.",
+      "tekst": "EU-kommisjonens president Ursula von der Leyen legger frem EUs nye Arktis-strategi og slår fast at olje skal ligge i bakken.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/centerparti-leder-far-prove-a-danne-regjering-i-sverige-1.18058702"
+          "lenke": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832"
+        }
+      ]
+    },
+    {
+      "tekst": "Norsk sokkel markerer for første gang 100 felt i drift under et toppmøte i Sandnessjøen.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nordland/feirer-100-felt-i-norge_-men-advarer-om-dramatisk-stup-i-oljeproduksjonen-1.18055623"
         }
       ]
     }
@@ -31,65 +31,69 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Zelenskyj: Forhandlere kan møtes i Norge",
-        "tekst": "Ukrainas president Volodymyr Zelenskyj sier at forhandlere fra Ukraina og USA kan møtes i Norge i løpet av de nærmeste dagene.",
-        "utdypning": "Zelenskyj uttaler dette i forbindelse med sitt besøk i Oslo tirsdag og onsdag, hvor han skal ha samtaler med flere statsleiarar. Reuters har kildeopplysninger om at Trumps forhandlere Steve Witkoff og Jared Kushner vil delta. Ukrainas president hadde mandag møte med de amerikanske senatorene Richard Blumenthal og Thom Tillis. Utenriksdepartementet har foreløpig ikke gitt noen kommentar til opplysningene om forhandlingsmøtet i Norge.",
+        "tittel": "Zelenskyj og USA-utsendinger møtes i Oslo",
+        "tekst": "Ukrainas president Volodymyr Zelenskyj ankom Norge tirsdag for å møte amerikanske utsendinger og gjenoppta diplomatiske samtale.",
+        "utdypning": "Zelenskyj ankom Oslo tirsdag for å møte amerikanske utsendinger for å bringe diplomatiet inn på en mer konstruktiv vei, ifølge Oslo-offiserer. Forholdet mellom Kyiv og Washington har kjølnet etter at president Donald Trump inngikk en avtale med Moskva om å kjøpe russisk diesel, og Zelenskyj har anklaget USA for å forsinke leveransen av Patriot-luftvernsmissiler betalt av europeiske allierte. Zelenskyj opplyser at han også har snakket med USAs utenriksminister Marco Rubio om ballistiske missiler, tidlig varsling og Starlink-satellittjenestene.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "EU vil ha oljefri framtid i Arktis",
+        "tekst": "EU-kommisjonens president Ursula von der Leyen legger fram EUs nye Arktis-strategi som slår fast at olje og gass må bli i bakken.",
+        "utdypning": "EU-kommisjonens president Ursula von der Leyen legger i dag fram EUs nye Arktis-strategi. Strategien slår fast at EUs posisjon er å sikre at olje, kull og gass blir værende i bakken i arktiske regioner. Von der Leyen begrunner endringen med at EU må endre sin strategiske holdning ettersom Russland gjenoppbygger sin militære tilstedeværelse i nord, og understreker at tidligere sikkerhetsverdier ikke lenger kan tas for gitt.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/zelenskyj_-forhandlere-kan-motes-i-norge-1.18059063"
+            "lenke": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Zelenskyj i Oslo for samtaler om luftvern og Starlink",
-        "tekst": "Ukrainas president Volodymyr Zelenskyj er ankommet Oslo for å møte statsleiere og amerikanske spesialutsendinger.",
-        "utdypning": "Zelenskyj opplyser på X at han har snakket med USAs utenriksminister Marco Rubio om blant annet raketter mot ballistiske missiler, tidlig varsling av russiske luftangrep og situasjonen rundt satellittjenestene Starlink og Starshield. Han uttrykker takknemlighet for Rubios posisjon. I Oslo skal Zelenskyj ha samtaler med flere statsleiarar og de amerikanske spesialutsendingene Steve Witkoff og Jared Kushner under sitt besøk tirsdag og onsdag.",
+        "tittel": "Feirer 100 felt på norsk sokkel",
+        "tekst": "Oljetopper og statsråder samles i Sandnessjøen for å markere at norsk sokkel for første gang har 100 felt i drift.",
+        "utdypning": "Oljetopper og olje- og energiministeren er tirsdag samlet i Sandnessjøen for å feire en historisk milepæl for norsk oljevirksomhet. Markeringen feirer at det for første gang er 100 felt i drift på norsk sokkel. Samtidig advarer aktører i bransjen om et fremtidig dramatisk stup i oljeproduksjonen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/zelenskyj_-har-snakka-med-rubio-om-starlink-1.18059370"
+            "lenke": "https://www.nrk.no/nordland/feirer-100-felt-i-norge_-men-advarer-om-dramatisk-stup-i-oljeproduksjonen-1.18055623"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Trump: – Zelenskyj ønsker ikke å avslutte krigen",
-        "tekst": "USAs president Donald Trump anklager den ukrainske presidenten for å trenere fredsforhandlinger og ikke ønske å avslutte krigen.",
-        "utdypning": "Uttalelsene kommer på Truth Social etter at Zelenskyj anklaget USA for å presse Ukraina til å kapitulere. Trump hevder at avgjørelsene hans overfor Russland handler om å skape fred. Han uttaler at Zelenskyj ikke bryr seg om å få slutt på konflikten, og viser til midler gitt av Europa og tidligere administrasjoner.",
+        "tittel": "Full strid om jordmorvakta i Telemark",
+        "tekst": "Sju jordmødre har ansvar for et stort geografisk område i Telemark, noe som skaper uro for pasientsikkerheten.",
+        "utdypning": "Sju jordmødre har i dag ansvaret for å dekke et stort geografisk område i Telemark. Mens sykehuset vurderer ordningen som forsvarlig, slår lokalpolitikerne alarm på vegne av gravide og fødende i distriktet. Flere ansatte frykter for sine jobber og situasjonens konsekvenser for fødetilbudet.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/trump_-_-zelenskyj-onsker-ikke-a-avslutte-krigen-1.18058111"
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/strid-om-fodetilbodet_-skrotar-avtale-etter-utviding-_-no-fryktar-jordmodrene-for-jobben-1.18055000"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Vil ha ny norsk EU-debatt",
-        "tekst": "Spørsmålet om norsk EU-medlemskap splitter nordmenn, men stadig flere er åpne for å ta diskusjonen opp igjen.",
-        "utdypning": "Debatten blusser opp med argumentet om at mye har skjedd siden folkeavstemningen i 1994. Diskusjonen berører Norges tilknytning til og samarbeid med de europeiske partnerne i en tid med store sikkerhetspolitiske endringer på kontinentet.",
+        "tittel": "Gruvedemonstranter i Finnmark nekter bøter",
+        "tekst": "Demonstranter som hindret drift ved Nussir, nekter å vedta bøter og må møte i retten.",
+        "utdypning": "De 27 demonstrantene som forsøkte å hindre driften ved kobbergruven Nussir i Hammerfest i august i fjor, har nektet å betale utstedte bøter. Sakene må dermed opp til rettslig behandling. Demonstrantene viser til at Førdefjord-dommen i Høyesterett skal ha gitt dem utvidet rett til å protestere mot gruvedrift.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/stor-oslo/vil-ha-ny-norsk-eu-debatt_-_-mye-har-skjedd-siden-1994-1.17994600"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Regjeringen nekter å love desemberbarna barnehageplass",
-        "tekst": "Regjeringen kan ikke love barnehageplass innen fylte ett år til barn født i desember i år, tross flertall på Stortinget.",
-        "utdypning": "Flertallet på Stortinget ønsker å gi desemberbarna barnehageplass før de fyller ett år, men regjeringen avviser å love at dette gjelder kullet som fødes inneværende år.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/stortinget-vil-gi-desemberbarna-barnehageplass-fra-fylte-ett-ar-1.18049141"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/gruvedemonstranter-i-finnmark-nekter-boter-_-ma-mote-i-retten-1.18059296"
           }
         ],
         "antall_kilder": 1,
@@ -98,63 +102,24 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Centerpartiet får i oppdrag å danne svensk regjering",
-        "tekst": "Riksdagens talmann gir Centerpartiet i oppdrag å danne ny regjering i Sverige etter at de rødgrønne og borgerlige blokkene er jevnstore.",
-        "utdypning": "Talmann Andreas Norlén ga oppdraget til Centerpartiets leder Elisabeth Thand Ringqvist én måned etter valget. Dette skjer etter at Socialdemokraternas leder Magdalena Andersson ikke klarte å samle flertall for en regjering bestående utelukkende av eget parti. Etter valget 13. september har den rødgrønne siden 176 representanter, mens den borgerlige siden har 173.",
+        "tittel": "Svenske og internasjonale toppmøter i Oslo",
+        "tekst": "Svenske medier følger toppmøtet i Oslo der USAs sändebud og Ukrainas president møtes.",
+        "utdypning": "SVT melder at USA og Ukraina møtes i Oslo for å få diplomatiske samtaler på en mer konstruktiv vei. Møtet skjer med kort varsel etter flere uker med økte spenninger mellom USA og Ukraina, der blant annet svenske medier påpeker at relasjonen til USA har direkte konsekvenser for ukrainske liv.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/centerparti-leder-far-prove-a-danne-regjering-i-sverige-1.18058702"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/ukraina-och-usa-mots-i-oslo-europa-forsoker-radda-situationen"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Tidligere svensk sikkerhetsrådgiver felles i hovrätten",
-        "tekst": "Svea hovrätt dømmer Sveriges tidligere nasjonale sikkerhetsrådgiver Henrik Landerholm for vårdslöshet med hemlig uppgift.",
-        "utdypning": "Landerholm ble tidligere frikjent i Attunda tingsrätt, men hovrätten velger altså å felle ham. Påföljden blir dagsbøter. Landerholm kaller dommen en skuffelse på X, mens senior åklagare Mats Ljungqvist uttaler til SVT at hovrättens dom er riktig.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/i-dag-faller-hovrattsdomen-mot-henrik-landerholm"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "To tenåringer begjært häktade etter drap i Älvsjö",
-        "tekst": "To unge gutter på 16 og 17 år er begjært fengslet siktet for drapet på en kvinne i 25-årsålderen.",
-        "utdypning": "Ifølge opplysninger i saken har de siktede ikke noen kjent gängkoppling, men har tidligere opptrådt sammen i en mindre sak om skadegörelse. En person med innsyn beskriver dem som vanlige skolegutter.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/tonarspojkarna-anmaldes-forsvunna-samma-dag-som-mordet-i-alvsjo"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Finsk nettverk knyttet til leveranser av missilkomponenter til Russland",
-        "tekst": "Et finskbasert nettverk skal ha forsynt Russland med militærteknologi og missilkomponenter verdt millioner av euro.",
-        "utdypning": "Komponentene har blitt brukt i russiske våpensystemer rettet mot Ukraina. Saken avdekker at selskaper med tilknytning til Finland har vært brukt som ledd i omgåelsen av sanksjoner.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20250514?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
         "tittel": "Arbeidsledigheten stiger i Finland",
-        "tekst": "Antallet arbeidsledige i Finland økte med mer enn 10 prosent sammenlignet med samme periode i fjor.",
-        "utdypning": "Statistikken viser at det var totalt 298.000 arbeidsledige personer i Finland forrige måned. Den svake utviklingen skyldes at den bredere økonomiske innhentingen i landet ennå ikke har gitt positive utslag i det inhemske arbeidsmarkedet.",
+        "tekst": "Antallet arbeidsledige i Finland har økt med over 10 prosent det siste året.",
+        "utdypning": "Tallet på arbeidsledige personer i Finland nådde 298 000 i forrige måned. Det tilsvarer en økning på over 10 prosent sammenlignet med samme periode året før. Utviklingen viser at den bredere økonomiske gjeninnhentingen i landet ennå ikke har gitt positive utslag på det nasjonale arbeidsmarkedet.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -163,43 +128,30 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
+      },
+      {
+        "tittel": "Finske barnefamilier søker matvarehjelp",
+        "tekst": "Flere barnefamilier i Finland oppsøker matvarehjelp etter statlige kutt i stønader.",
+        "utdypning": "Finlands regjering har gjennomført kraftige kutt i sosiale stønader de siste årene til tross for advarsler om konsekvensene for lavinntektsfamilier. Dette har ført til at barnefamilier i økende grad oppsøker matvarehjelp for å klare det daglige levebrødet.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252347?origin=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Zelenskyj anklager USA for forsinkede Patriot-leveranser",
-        "tekst": "Ukrainas president anklager USA for å holde tilbake luftvernsmissiler som allerede er betalt av europeiske allierte.",
-        "utdypning": "Anklagene kommer i en tid med økt diplomatisk friksjon mellom Kyiv og administrasjonene til Donald Trump i Washington. Ukrainske myndigheter melder at leveranser av nødvendig materiell forsinkes mens presset mot landet øker. Samtidig melder Russland om massive angrep mot Kyiv.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Massive russiske angrep mot Kyiv mens USA ber om fokus på fred",
-        "tekst": "Russland har gjennomført omfattende luftangrep mot den ukrainske hovedstaden, samtidig som USA oppfordrer til å avslutte krigen.",
-        "utdypning": "USAs utenriksminister Marco Rubio avviser at Washington har satt etterretningsdelingen med Ukraina på pause, men oppfordrer president Volodymyr Zelenskyj til å rette innsatsen mot fredsforhandlinger. Angrepene mot Kyiv rammet både infrastruktur og bebyggelse med tap av menneskeliv og strømbrudd som konsekvens.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261019-live-russian-strikes-pound-kyiv-as-rubio-denies-us-paused-intel-sharing-with-ukraine"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Bulgaria utsteder arrestordre for tyskere etter Starlink-sabotasje",
-        "tekst": "En bulgarsk domstol krever to unge tyske statsborgere arrestert mistenkt for å ha satt fyr på Starlink-antenner.",
-        "utdypning": "Hendelsen knyttet til sabotasjen mot satellittutstyret vekker bekymring for sikkerheten rundt kritisk infrastruktur. Saken trekkes i polske medier parallelt med lignende sabotasjeaksjoner som polske myndigheter mener er orkestrert av russisk etterretning.",
+        "tittel": "Bulgaria utsteder arrestordre etter Starlink-sabotasje i Tyskland",
+        "tekst": "En bulgarsk domstol har siktet to unge tyskere etter brannstiftelse mot Starlink-antenner.",
+        "utdypning": "Saken har likhetstrekk med en lignende hendelse i Polen, som polske myndigheter mener var orkestrert av Russland. De mistenkte er to unge tyske statsborgere, og arrestordren gjelder ildspåsettelse på kritisk satellittinfrastruktur.",
         "kilder": [
           {
             "navn": "DW",
@@ -208,13 +160,39 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Frankrike innfører nye portforbud",
+        "tekst": "Franske myndigheter innfører ytterligere portforbud i deler av Paris og andre byer etter uro.",
+        "utdypning": "Statsminister Sébastien Lecornu varslet at portforbud vil bli iverksatt der det er nødvendig tirsdag kveld. Tiltaket kommer etter en helg preget av opptøyer og plundring, og politiet opplyser at de foregående nettene har hjulpet med å holde roen i store byer.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Spania opphever arrestordre på Puigdemont",
+        "tekst": "En spansk domstol opprettholder beslutningen om å oppheve arrestordren mot Carles Puigdemont.",
+        "utdypning": "Katalonias tidligere opprørspresident kan returnere til Spania etter at retten har stilt seg bak opphevingen av arrestordren. Saken er knyttet til uavhengighetsforsøket som ble ledet i regionen i 2017.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Houthi-angrep mot militærleir i Jemen krever mange menneskeliv",
-        "tekst": "Minst 50 sikkerhetsrekrutter ble killt i et missilangrep mot en treningsleir i den regjeringskontrollerte Shabwa-provinsen i Jemen.",
-        "utdypning": "Det Iran-støttede Houthi-bevegelsen har tatt på seg ansvaret for angrepet som traff treningssenteret. Angrepet kommer i kjølvannet av flere dødelige sammenstøt over helgen, hvor Saudi-ledede styrker har blitt tillagt ansvaret for andre operasjoner i området.",
+        "tittel": "Minst 50 drept i rakettangrep i Jemen",
+        "tekst": "Houtie-militsen sto bak et missilangrep mot en militærleir i provinsen Shabwa i Jemen.",
+        "utdypning": "Tre missiler traff en leir i den regjeringskontrollerte provinsen Shabwa, som lokale myndigheter opplyser ble brukt som treningssenter for nye rekrutter. Den Iran-støttede Houthi-bevegelsen har tatt på seg skylden for angrepet, som kommer i kjølvannet av flere dødelige angrep over helgen tilskrevet saudi-ledede styrker.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -226,32 +204,6 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Lula og Bolsonaro i hard ordskifte foran brasiliansk valg",
-        "tekst": "De to presidentkandidatene i Brasil barket sammen i en opphetet debatt få dager før valgomkampens avgjørende runde den 25. oktober.",
-        "utdypning": "Debatten bar preg av harde personangrep, der blant annet Jair Bolsonaros nære relasjoner til USAs president Donald Trump ble brukt som et sentralt tema av motstanderne. Målingene viser stram kamp i innspurten mot søndagens valg.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "AI-trusler og dypfalsk innhold preger israelsk valgkamp",
-        "tekst": "For første gang spiller kunstig intelligens, bots og påvirkningskampanjer en sentral og urovekkende rolle i et israelsk valg.",
-        "utdypning": "Valgobservatører advarer om at omfattende bruk av dypfalske videoer og falske profiler kan forvrenge velgernes oppfatning og undergrave tilliten til valgresultatet.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ]

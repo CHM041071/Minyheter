@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "EU legger fram en arktisk strategi som krever at all olje og gass forblir i bakken.",
+      "tekst": "USAs spesialutsending Steve Witkoff har møtt Vladimir Putin i St. Petersburg med nye fredsforslag etter samtaler i Oslo.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399"
+        }
+      ]
+    },
+    {
+      "tekst": "Statsminister Jonas Gahr Støre tar imot Witkoff for nye samtalear i Oslo etter Russlands-besøket.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399"
+        }
+      ]
+    },
+    {
+      "tekst": "EU legger frem en ny Arktis-strategi som slår fast at olje, kull og gass skal bli værende i bakken.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832"
-        }
-      ]
-    },
-    {
-      "tekst": "Ukrainas president Volodymyr Zelenskyj er i Oslo for samtaler med utsendinger fra Det hvite hus.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/zelenskyj_-har-snakka-med-rubio-om-starlink-1.18059370"
-        }
-      ]
-    },
-    {
-      "tekst": "Oljenæringen feirer hundre felt på norsk sokkel, men varsler et kraftig fall i framtidig produksjon.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nordland/feirer-100-felt-i-norge_-men-advarer-om-dramatisk-stup-i-oljeproduksjonen-1.18055623"
         }
       ]
     }
@@ -31,9 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "EU vil la arktisk olje ligge",
-        "tekst": "EU-kommisjonens president Ursula von der Leyen legger fram en ny strategi som krever stans i arktisk olje- og gassutvinning.",
-        "utdypning": "Strategien slår fast at EUs posisjon er å sikre at olje, kull og gass blir liggende i bakken. Von der Leyen understreker at EU må endre sin strategiske holdning ettersom Russland gjenoppbygger sitt militære nærvær i regionen. Hun påpeker at verdier som tidligere underbygget sikkerheten i Arktis ikke lenger kan tas for gitt, og viser til den sikkerhetspolitiske og klimamessige utviklingen i nord.",
+        "tittel": "Witkoff til Oslo med nye fredsforslag",
+        "tekst": "USAs spesialutsending Steve Witkoff reiser tilbake til Oslo for å møte statsminister Jonas Gahr Støre etter samtaler med Vladimir Putin i Russland.",
+        "utdypning": "USAs spesialutsending Steve Witkoff kommer tilbake til Oslo etter at han har hatt møter i Russland med president Vladimir Putin. Witkoff vil da ha nye samtaler med statsminister Jonas Gahr Støre (Ap). Witkoff deltok tidligere i samtaler med Ukrainas president Volodymyr Zelenskyj, Støre og Finlands president Alexander Stubb, og tok med seg nye forslag til Putin om å få til en fredavtale.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "EU vil la oljen i Arktis ligge",
+        "tekst": "EU-kommisjonens president Ursula von der Leyen legger fram en ny Arktis-strategi som krever at olje, kull og gass blir i bakken.",
+        "utdypning": "Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner. Det sier EU-kommisjonens president Ursula von der Leyen. Hun understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord gjør at den europeiske unionen må endre sin strategiske holdning ettersom Russland gjenoppbygger sitt militære nærvær.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,37 +57,24 @@
         "vekt": 5
       },
       {
-        "tittel": "Zelenskyj i Oslo for samtaler med Trumps utsendinger",
-        "tekst": "Ukrainas president Volodymyr Zelenskyj har ankommet Oslo for møter med statsledere og de amerikanske spesialutsendingene Steve Witkoff og Jared Kushner.",
-        "utdypning": "Møtene i Oslo skal foregå tirsdag og onsdag. Zelenskyj opplyser at han har snakket med USAs utenriksminister Marco Rubio om luftvern mot ballistiske missiler, tidlig varsling av luftangrep og situasjonen rundt Starlink og Starshield. Den ukrainske presidenten takker Rubio for hans vilje til å hjelpe og for en tydelig posisjon.",
+        "tittel": "Kaller Oslo-møtet positivt",
+        "tekst": "USAs utenriksminister Marco Rubio betegner samtalene mellom Zelenskyj og Witkoff i Oslo som positive.",
+        "utdypning": "USAs utenriksminister Marco Rubio sier at han har et positivt inntrykk av møtet mellom Ukrainas president Volodymyr Zelenskyj og USA-utsending Steve Witkoff i Oslo. Rubio sier også at det ikke kom noe overraskende eller uventet ut av samtalene. – La oss se om vi kan gjøre noen framskritt, sa den amerikanske utenriksministeren.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/zelenskyj_-har-snakka-med-rubio-om-starlink-1.18059370"
+            "lenke": "https://www.nrk.no/nyheter/rubio-kaller-motet-mellom-zelenskyj-og-witkoff-i-oslo-_positivt_-1.18060335"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Feirer 100 felt i drift på norsk sokkel",
-        "tekst": "Statsråden og oljetopper samles i Sandnessjøen for å markere at 100 oljefelt er i drift i Norge.",
-        "utdypning": "Dette er første gang det er 100 aktive felt på norsk sokkel samtidig. Samtidig som milepælen feires, advares det om et dramatisk fall i den norske oljeproduksjonen i tiden fremover.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/feirer-100-felt-i-norge_-men-advarer-om-dramatisk-stup-i-oljeproduksjonen-1.18055623"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Ukraina og USA møtes til samtaler i Oslo",
-        "tekst": "Ukrainas president og amerikanske utsendinger møtes i Oslo tirsdag for å bringe de diplomatiske samtalene om krigen inn på et mer konstruktivt spor.",
-        "utdypning": "Møtet ble varslet på kort varsel etter flere uker med økende spenninger mellom Washington og Kyiv. Europeiske aktører forsøker å legge til rette for dialog for å dempe konflikten mellom partene.",
+        "tittel": "USA og Ukraina møttes i Oslo",
+        "tekst": "USAs utsendinger og Ukrainas president møttes i Oslo for å forsøke å få de diplomatiske samtalene inn på en mer konstruktiv vei.",
+        "utdypning": "USA:s sändebud och Ukrainas president möttes i Oslo för att försöka få in de diplomatiska samtalen om kriget på en mer konstruktiv väg. Mötet aviserades med kort varsel, efter veckor av ökade spänningar mellan USA och Ukraina.",
         "kilder": [
           {
             "navn": "SVT",
@@ -82,60 +82,38 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Zelenskyj anklager USA for missilforsinkelse",
-        "tekst": "Ukrainas president anklager USA for å forsinke leveranser av Patriot-luftvern som allerede er betalt av europeiske allierte.",
-        "utdypning": "Anklagene kommer samtidig som forholdet mellom Kyiv og president Donald Trumps administrasjon forverres over militærhjelp og deling av etterretning. Forsinkelsene rammer ifølge ukrainske myndigheter landets forsvarsevne.",
+        "tittel": "USAs utsending møter Putin",
+        "tekst": "USAs spesialutsending Steve Witkoff har landet i St. Petersburg for å møte Vladimir Putin etter samtaler med Volodymyr Zelenskyj i Oslo.",
+        "utdypning": "Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway. US news outlet Axios reported that Witkoff would be presenting Putin with an updated peace proposal on ending the war in Ukraine.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-eu-2092-rdf"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Ukraina advarer mot stormaktstoppmøte",
-        "tekst": "Ukrainas utenriksminister advarer om at et toppmøte mellom USA, Kina og Russland kan oppmuntre Vladimir Putin til å forlenge krigen.",
-        "utdypning": "The Wall Street Journal har rapportert at Vladimir Putin har foreslått et toppmøte neste måned med Donald Trump og Xi Jinping for å forhandle om en krigsavslutning på vilkår som tjener Moskva. Ukrainas utenriksminister Andrij Sybiha avviser et slikt initiativ.",
-        "kilder": [
-          {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Frankrike innfører nye portforbud etter uro",
-        "tekst": "Frankrikes statsminister Sébastien Lecornu varsler ytterligere portforbud etter opptøyer og plyndring i franske byer.",
-        "utdypning": "Tiltakene settes inn etter en helg preget av uro i Paris og andre byer. Fransk politi opplyser at mandagens portforbud bidro til å bevare roen over natten uten store hendelser, men regjeringen innfører nye restriksjoner tirsdag kveld der det anses nødvendig.",
-        "kilder": [
+            "lenke": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky"
+          },
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 3,
+        "vekt": 5
       }
     ],
     "Verden": [
       {
-        "tittel": "EU skjerper arktisk strategi",
-        "tekst": "EU har lagt fram nye prioriteringer for Arktis i møte med økt konkurranse fra Russland, Kina og USA.",
-        "utdypning": "EUs utenrikssjef Kaja Kallas uttaler at dronekrenkelser, GPS-forstyrrelser og sabotasje mot undersjøiske kabler undergraver sikkerheten i nordområdene. Unionen trapper opp sitt strategiske fokus i regionen som følge av stormaktsrivaliseringen.",
+        "tittel": "Ny EU-plan for Arktis",
+        "tekst": "EU har lagt fram sine prioriteringer for Arktis i konkurranse med Russland, Kina og USA om innflytelse i regionen.",
+        "utdypning": "The EU unveiled its priorities in the Arctic as it vies with Russia, China and the US for influence. EU foreign affairs chief Kaja Kallas said drone incursions, GPS jamming and cable sabotage undermine Arctic security.",
         "kilder": [
           {
             "navn": "DW World",
@@ -143,66 +121,12 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Alberta avviser forslag om løsrivelse",
-        "tekst": "Velgerne i den canadiske provinsen Alberta har stemt nei til å starte en formell løsrivelsesprosess fra Canada.",
-        "utdypning": "Resultatet er et klart nederlag for uavhengighetsbevegelsen, som hovedsakelig har vært motivert av økonomiske krav. Selv om velgerne stemte for å forbli en del av Canada, vedvarer dype politiske skillelinjer i provinsen.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
         "vekt": 3
       }
     ]
   },
-  "folg_med": [
-    {
-      "tid": "",
-      "kategori": "EU",
-      "hendelse": "EU-kommisjonens president Ursula von der Leyen legger fram EUs nye Arktis-strategi.",
-      "hvorfor": "Strategien fastsetter EUs linje om at olje- og gassressurser i Arktis skal bli liggende i bakken.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832"
-        }
-      ]
-    },
-    {
-      "tid": "",
-      "kategori": "Utenriks",
-      "hendelse": "Ukrainas president Volodymyr Zelenskyj holder samtaler med amerikanske utsendinger og statsledere i Oslo.",
-      "hvorfor": "Møtet skal forsøke å bringe diplomatiet mellom Washington og Kyiv inn på et mer konstruktivt spor.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/zelenskyj_-har-snakka-med-rubio-om-starlink-1.18059370"
-        }
-      ]
-    },
-    {
-      "tid": "",
-      "kategori": "Energi",
-      "hendelse": "Oljetopper og statsråden møtes i Sandnessjøen for å markere at 100 felt er i drift på norsk sokkel.",
-      "hvorfor": "Markeringen skjer samtidig med advarsler om et kraftig fall i norsk oljeproduksjon framover.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nordland/feirer-100-felt-i-norge_-men-advarer-om-dramatisk-stup-i-oljeproduksjonen-1.18055623"
-        }
-      ]
-    }
-  ],
+  "folg_med": [],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.8-flash"
+  "modell": "gemini-3.5-flash-lite"
 }

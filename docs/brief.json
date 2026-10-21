@@ -4,13 +4,13 @@
       "tekst": "USAs spesialutsending Steve Witkoff har møtt Vladimir Putin i St. Petersburg med nye fredsforslag etter samtaler i Oslo.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399"
+          "navn": "DW",
+          "lenke": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-eu-2092-rdf"
         }
       ]
     },
     {
-      "tekst": "Statsminister Jonas Gahr Støre tar imot Witkoff for nye samtalear i Oslo etter Russlands-besøket.",
+      "tekst": "Statsminister Jonas Gahr Støre bekrefter at Witkoff vil returnere til Oslo for nye samtaler om Ukraina-krigen.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "EU legger frem en ny Arktis-strategi som slår fast at olje, kull og gass skal bli værende i bakken.",
+      "tekst": "Norge og Sverige gjennomfører sin første store felles totalforsvarsøvelse langs grensen etter Nato-utvidelsen.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/innlandet/granskraft-2026-er-den-forste-store-norsk-svenske-ovelsen-etter-at-sverige-ble-nato-medlem-1.18056689"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Witkoff til Oslo med nye fredsforslag",
-        "tekst": "USAs spesialutsending Steve Witkoff reiser tilbake til Oslo for å møte statsminister Jonas Gahr Støre etter samtaler med Vladimir Putin i Russland.",
-        "utdypning": "USAs spesialutsending Steve Witkoff kommer tilbake til Oslo etter at han har hatt møter i Russland med president Vladimir Putin. Witkoff vil da ha nye samtaler med statsminister Jonas Gahr Støre (Ap). Witkoff deltok tidligere i samtaler med Ukrainas president Volodymyr Zelenskyj, Støre og Finlands president Alexander Stubb, og tok med seg nye forslag til Putin om å få til en fredavtale.",
+        "tittel": "Witkoff returnerer til Oslo etter Putin-møte",
+        "tekst": "USAs spesialutsending Steve Witkoff vender tilbake til Oslo for nye samtaler med statsminister Jonas Gahr Støre etter et møte med Vladimir Putin.",
+        "utdypning": "USAs spesialutsending Steve Witkoff reiste onsdag morgen til St. Petersburg for å møte Russlands president Vladimir Putin. Dette skjer etter at Witkoff tirsdag deltok i samtaler i Oslo med Ukrainas president Volodymyr Zelenskyj, statsminister Jonas Gahr Støre og Finlands president Alexander Stubb. Med seg tok han nye forslag om å få til en fredavtale. Ifølge Støre vil Witkoff komme tilbake til Oslo etter samtalene i Russland for å ha nye møter med den norske statsministeren.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,22 +44,22 @@
         "vekt": 5
       },
       {
-        "tittel": "EU vil la oljen i Arktis ligge",
-        "tekst": "EU-kommisjonens president Ursula von der Leyen legger fram en ny Arktis-strategi som krever at olje, kull og gass blir i bakken.",
-        "utdypning": "Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner. Det sier EU-kommisjonens president Ursula von der Leyen. Hun understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord gjør at den europeiske unionen må endre sin strategiske holdning ettersom Russland gjenoppbygger sitt militære nærvær.",
+        "tittel": "Norsk-svensk totalforsvarsøvelse ved grensen",
+        "tekst": "Norge og Sverige øver sammen for første gang etter Nato-utvidelsen i en stor totalforsvarsøvelse langs grensen.",
+        "utdypning": "Totalt 2000 nordmenn og svensker deltar i totalforsvarsøvelsen Grensekraft 2026. Øvelsen simulerer fire ulike situasjoner, der både soldater og sivile har blitt alvorlig skadet. Deltakerne må ta hand om skadede og sikre opp området i de dype skogene langs grensen mellom Norge og Sverige.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/innlandet/granskraft-2026-er-den-forste-store-norsk-svenske-ovelsen-etter-at-sverige-ble-nato-medlem-1.18056689"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Kaller Oslo-møtet positivt",
-        "tekst": "USAs utenriksminister Marco Rubio betegner samtalene mellom Zelenskyj og Witkoff i Oslo som positive.",
-        "utdypning": "USAs utenriksminister Marco Rubio sier at han har et positivt inntrykk av møtet mellom Ukrainas president Volodymyr Zelenskyj og USA-utsending Steve Witkoff i Oslo. Rubio sier også at det ikke kom noe overraskende eller uventet ut av samtalene. – La oss se om vi kan gjøre noen framskritt, sa den amerikanske utenriksministeren.",
+        "tittel": "Positivt syn på Oslo-møte",
+        "tekst": "USAs utenriksminister Marco Rubio omtaler møtet mellom Zelenskyj og Witkoff i Oslo som positivt.",
+        "utdypning": "USAs utenriksminister Marco Rubio uttalte at han har et positivt inntrykk av samtalene som fant sted mellom Ukrainas president Volodymyr Zelenskyj og USA-utsending Steve Witkoff i Oslo. Han la til at det ikke kom noe overraskende eller uventet ut av møtet, og uttrykte håp om å gjøre fremgang i fredsbestrebelsene.",
         "kilder": [
           {
             "navn": "NRK",
@@ -68,29 +68,103 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Vil undersøke eldre gassfunn i Barentshavet",
+        "tekst": "Sokkeldirektoratet opplyser at et lite kjent gassfunn fra 1998 i Barentshavet kan inneholde store utvinnbare ressurser.",
+        "utdypning": "Sokkeldirektoratet melder om et tidligere ukjent gassfunn i Barentshavet som ble gjort i 1998. Ifølge direktoratet kan dette funnet vise seg å inneholde betydelige mengder utvinnbare ressurser, noe som kan ha stor betydning for norsk energiproduksjon.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/vil-undersoke-gassfunn-fra-1998-nord-for-hammerfest-1.18060565"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "SV krever penger til desemberbarn",
+        "tekst": "SV krever at regjeringen bevilger penger slik at også barn født i år får barnehageplass.",
+        "utdypning": "Selv om Stortinget har stilt seg positive til å gi desemberbarna barnehageplass, nekter regjeringa å love at ordningen gjelder barn som blir fødde i år. SV slår nå i bordet og krever at detbevilges midler for å sikre dette i statsbudsjettet.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/nordland/sv-vil-kjempe-for-desemberbarna-i-budsjettforhandlingane-1.18058459"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "USA og Ukraina møttes i Oslo",
-        "tekst": "USAs utsendinger og Ukrainas president møttes i Oslo for å forsøke å få de diplomatiske samtalene inn på en mer konstruktiv vei.",
-        "utdypning": "USA:s sändebud och Ukrainas president möttes i Oslo för att försöka få in de diplomatiska samtalen om kriget på en mer konstruktiv väg. Mötet aviserades med kort varsel, efter veckor av ökade spänningar mellan USA och Ukraina.",
+        "tittel": "Svensk motstand mot EU-kompromiss om forbrenningsmotorer",
+        "tekst": "Svenske Socialdemokraterna er sterkt kritiske til et EU-kompromiss som kan tillate salg av nye bensin- og dieselbilar etter 2035.",
+        "utdypning": "En oppgjørelse i EU-parlamentet mellom blant annet sosialdemokrater og moderater åpner for at nye bensin- og dieselbilar kan få fortsätta säljas etter 2035. Forslaget møter imidlertid kraftig motstand hos svenske S. – Vi svenska socialdemokrater är ju starkt kritiska till det här, sier Åsa Westlund.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/ukraina-och-usa-mots-i-oslo-europa-forsoker-radda-situationen"
+            "lenke": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       }
     ],
-    "Norden": [],
+    "Norden": [
+      {
+        "tittel": "Stubb: En god dag for fred etter Oslo-toppmøte",
+        "tekst": "Finlands president Alexander Stubb betegner situasjonen som en god dag for fred etter toppmøtet i Oslo.",
+        "utdypning": "Etter samtaler med ukrainske og amerikanske representanter i Oslo, uttalte Finlands president Alexander Stubb at dagen var god for fredsarbeidet. Ukrainas president Volodymyr Zelenskyj fulgte opp med å erklære seg rede for forhandlinger og tok til orde for trilateral dialog med USA og Russland.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252481?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Høye kostnader etter Rubio-besøk i Island",
+        "tekst": "Besøket til USAs utenriksminister Marco Rubio på Island tidligere denne måneden kostet det islandske politivesenet 25 millionerisklandske kroner.",
+        "utdypning": "Kostnadene knyttet til USAs utenriksminister Marco Rubios besøk på Island 5. oktober ble bekreftet av politiet. Capital area-politiet brukte 15,5 millioner ISK, mens Kontoret til den nasjonale politikommissæren brukte ytterligere 10 millioner ISK. Utgiftene var nesten utelukkende knyttet til politiets arbeidstimer og bruk av kjøretøy under besøket, som omhandlet økonomisk og sikkerhetspolitisk samarbeid.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-21-rubio-visit-cost-police-isk-25-million-490494/"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261021-portugal-police-clear-demonstrators-from-protest-camps-against-cost-of-housing"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 3
+      },
+      {
+        "tittel": "Finland legger vekk planer om turistskatt",
+        "tekst": "Den finske regjeringen har skrinlagt planene om å innføre en turistskatt på grunn av manglende konsensus.",
+        "utdypning": "Ifølge finansminister Riikka Purra fra Sannfinlendene klarte ikke regjeringen å oppnå enighet om saken. Dermed er planene om å innføre en nasjonal turistskatt i Finland lagt på hyllen.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252492?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
     "Europa": [
       {
-        "tittel": "USAs utsending møter Putin",
-        "tekst": "USAs spesialutsending Steve Witkoff har landet i St. Petersburg for å møte Vladimir Putin etter samtaler med Volodymyr Zelenskyj i Oslo.",
-        "utdypning": "Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway. US news outlet Axios reported that Witkoff would be presenting Putin with an updated peace proposal on ending the war in Ukraine.",
+        "tittel": "USAs utsending møter Putin i Russland",
+        "tekst": "USAs spesialutsending Steve Witkoff har ankommet St. Petersburg for å diskutere en slutt på krigen med Vladimir Putin.",
+        "utdypning": "Steve Witkoff landet i St. Petersburg for samtaler med Russlands president Vladimir Putin om å avslutte krigen i Ukraina. Besøket skjer bare en dag etter at Witkoff møtte Ukrainas president Volodymyr Zelenskyj i Oslo. Washington forsøker å blåse nytt liv i USAs ledede innsats for å få til en fredsløsning, og Witkoff returnerer til den norske hovedstaden etter møtet i Russland.",
         "kilder": [
           {
             "navn": "DW",
@@ -98,7 +172,7 @@
           },
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261021-us-envoy-witkoff-to-meet-putin-in-russia-after-positive-talks-with-zelensky"
+            "lenke": "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia"
           },
           {
             "navn": "BBC",
@@ -107,13 +181,39 @@
         ],
         "antall_kilder": 3,
         "vekt": 5
+      },
+      {
+        "tittel": "Zelenskyj foreslår å fryse frontlinjen",
+        "tekst": "Ukrainas president Volodymyr Zelenskyj ber om at frontlinjen mot Russland fryses som første skritt mot fredssamtaler.",
+        "utdypning": "Under samtaler som sammenfalt med US-utsending Steve Witkoffs besøk i St. Petersburg, foreslo Ukrainas president Volodymyr Zelenskyj at krigføringen stanses og at frontlinjen i Ukraina blir frosset langs dagens posisjoner. Forslaget fremstilles som en innledende fase for å muliggjøre reelle fredsforhandlinger.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261021-zelensky-proposes-freezing-front-with-russia-first-step-peace-talks"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Italia setter inn soldater etter opptøyer i Milano",
+        "tekst": "Den italienske regjeringen setter inn 500 ekstra soldater og skjerper straffene etter helgens opptøyer i Milano.",
+        "utdypning": "Etter voldsomme opptøyer i Milano som resulterte i over 100 skadde politibetjenter og utstrakt plyndring, innfører Italia nye og strengere sikkerhetstiltak. Regjeringen sender ut 500 ekstra soldater, skjerper straffene for voldelige demonstranter og gjør foreldre økonomisk ansvarlige for skader forårsaket av mindreårige.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Ny EU-plan for Arktis",
-        "tekst": "EU har lagt fram sine prioriteringer for Arktis i konkurranse med Russland, Kina og USA om innflytelse i regionen.",
-        "utdypning": "The EU unveiled its priorities in the Arctic as it vies with Russia, China and the US for influence. EU foreign affairs chief Kaja Kallas said drone incursions, GPS jamming and cable sabotage undermine Arctic security.",
+        "tittel": "EUs nye arktiske strategi moter rivalisering",
+        "tekst": "EU har lagt fram sine prioriteringer for Arktis i møte med økende innflytelse og sikkerhetstrusler fra Russland, Kina og USA.",
+        "utdypning": "EU-sjef for utenrikssaker Kaja Kallas la frem unionens nye prioriteringer for polområdet. Bakgrunnen er økt konkurranse om innflytelse med stormaktene. Kallas pekte på at droneinnsyn, GPS-jamming og kabelsabotasje undergraver den generelle sikkerheten i Arktis.",
         "kilder": [
           {
             "navn": "DW World",
@@ -121,6 +221,36 @@
           }
         ],
         "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Storbritannia godkjenner Jackdaw-gassfeltet",
+        "tekst": "Britiske myndigheter gir grønt lys for utvinning på det omstridte Jackdaw-feltet i Nordsjøen for å dempe energikostnadene.",
+        "utdypning": "Boringen i det kontroversielle Nordsjø-feltet er ventet å starte opp ettersom regjeringens øverste mål er å håndtere høye energiprosesser for forbrukerne. Beslutningen har høstet kraftig kritikk fra miljøorganisasjoner som i stedet krever en raskere overgang til ren energi.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Nigeria bekrefter sitt første ebolatilfelle",
+        "tekst": "En kvinne som ankom Abuja med fly fra Uganda, er bekreftet smittet av ebola i Nigerias hovedstad.",
+        "utdypning": "Helseminister Muhammad Ali Pate bekrefter at landet har registrert sitt første ebolatilfelle i den nyeste afrikanske utbruddsbølgen med opprinnelse i Den demokratiske republikken Kongo. Den smittede kvinnen, som ikke er nigeriansk statsborger, er isolert og mottar behandling på sykehus i Abuja.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]

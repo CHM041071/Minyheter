@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USAs spesialutsending Steve Witkoff har møtt Russlands president Vladimir Putin i St. Petersburg etter samtaler med ukrainske ognordiske ledere i Oslo.",
+      "tekst": "Oljefondet fikk en negativ avkastning på 0,5 prosent i tredje kvartal, noe som tilsvarer et verdifall på 670 milliarder kroner.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399"
+          "lenke": "https://www.nrk.no/nyheter/negativ-avkastning-for-oljefondet-i-tredje-kvartal-1.18061503"
         }
       ]
     },
     {
-      "tekst": "Amerikanske myndigheter beordrer ansatte og familier til å forlate Saudi-Arabia etter houthi-angrep, samtidig som britiske jagerfly sendes for å beskytte landet.",
+      "tekst": "Kirkenes sykehus har hevet beredselen til rød nivå etter et omfattende vannledningsbrudd i Sør-Varanger som rammer driften.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/sorlandet/sokte-med-hund-og-drone-etter-flere-personer-etter-trafikkulykke-1.18061533"
+        }
+      ]
+    },
+    {
+      "tekst": "USA har beordret diplomater og familier til å forlate Saudi-Arabia som følge av økte trusler om houthi-angrep.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250"
-        }
-      ]
-    },
-    {
-      "tekst": "Norge og Sverige gjennomfører sin første store grenseoverskridende totalforsvarsøvelse med 2 000 deltakere etter Nato-utvidelsen.",
-      "kilder": [
-        {
-          "navn": "SVT",
-          "lenke": "https://www.svt.se/nyheter/lokalt/varmland/2-000-deltar-i-gransoverskridande-ovning-med-norge"
         }
       ]
     }
@@ -31,80 +31,75 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Witkoff tilbake til Oslo etter Putin-møte",
-        "tekst": "USAs spesialutsending Steve Witkoff reiser tilbake til Oslo for nye samtaler med statsminister Jonas Gahr Støre etter møter med Vladimir Putin.",
-        "utdypning": "USAs spesialutsending Steve Witkoff kommer tilbake til Oslo for å ha nye samtaler med statsminister Jonas Gahr Støre (Ap). Witkoff deltok tidligere i samtaler med Ukrainas president Volodymyr Zelenskyj, Støre og Finlands president Alexander Stubb, hvor han tok med seg nye forslag til Putin om å få til en fredsavtale. Statsministeren bekrefter opplysningene overfor NRK etter at Witkoff reiste til St. Petersburg onsdag morgen.",
+        "tittel": "Oljefondet med minusavkastning i tredje kvartal",
+        "tekst": "Oljefondet fikk en avkastning på minus 0,5 prosent og verdien falt med 670 milliarder kroner i tredje kvartal.",
+        "utdypning": "Fondets verdi falt med 670 milliarder kroner, mens den regnskapsmessige avkastningen endte på minus 278 milliarder kroner. Ifølge nestleder Trond Grande i Norges Bank Investment Management var avkastningen nær null, men endte i minus fordi stigende renter ga svakere resultat på renteinvesteringene. Aksjeinvesteringene var tilnærmet flate, med store forskjeller mellom sektorer der energiselskapene steg mest og forsyning og eiendom falt.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/witkoff-kommer-tilbake-til-oslo-etter-at-han-har-hatt-samtaler-med-putin-1.18060399"
+            "lenke": "https://www.nrk.no/nyheter/negativ-avkastning-for-oljefondet-i-tredje-kvartal-1.18061503"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Ber amerikanere forlate Saudi-Arabia",
-        "tekst": "USA beordrer ambassadeansatte og familier til å forlate Saudi-Arabia som følge av houthi-angrep, og Storbritannia sender militær støtte.",
-        "utdypning": "Amerikanske myndigheter har beordret alle ansatte ved den amerikanske ambassaden og deres familier til å forlate Saudi-Arabia. Landet har den siste tiden blitt utsatt for flere angrep fra Houthi-militsen i Jemen, og energidepartementet opplyser at to er drept etter at en drone ble avskåret. Samtidig sender Storbritannia militær støtte i form av jagerfly for å beskytte landet mot angrepene.",
+        "tittel": "Rød beredskap ved Kirkenes sykehus etter vannlekkasje",
+        "tekst": "Kirkenes sykehus har innført rød beredskap og kan ikke utføre operasjoner etter et brudd på en vannledning.",
+        "utdypning": "Brudd på en vannledning i Sør-Varanger har etterlatt rundt 6000 abonnenter uten vann. Mangelen på vann rammer store deler av driften ved Kirkenes sykehus, som ikke lenger kan utføre operasjoner. Akuttpasienter kan dermed bli bragt til Hammerfest eller andre sykehus. Kommunen arbeider med å utbedre lekkasjen.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/sokte-med-hund-og-drone-etter-flere-personer-etter-trafikkulykke-1.18061533"
           },
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-eu-2092-rdf"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/rod-beredskap-ved-kirkenes-sykehus-etter-vannlekkasje-1.18061316"
           }
         ],
         "antall_kilder": 2,
         "vekt": 5
       },
       {
-        "tittel": "Norsk-svensk militærøvelse langs grensen",
-        "tekst": "Norge og Sverige øver sammen for første gang etter Nato-utvidelsen med 2 000 soldater i grenseskogen.",
-        "utdypning": "Norge og Sverige gjennomfører sin første felles militærøvelse etter Nato-utvidelsen. Omkring 2 000 nordmenn og svensker deltar i øvelsen i de dype skogene langs grensen, hvor de blant annet trener på å håndtere alvorlige skader på både soldater og sivile.",
+        "tittel": "USA beordrer diplomater ut av Saudi-Arabia",
+        "tekst": "Amerikanske myndigheter beordrer ansatte og familier ved ambassaden i Saudi-Arabia til å forlade landet.",
+        "utdypning": "Ordren kommer i forbindelse med at Saudi-Arabia angripes av houthiene fra Jemen. Samtidig opplyser det saudiarabiske energidepartementet at to personer er drepte etter at en drone ble avskåret i et angrep. USA har tidligere vurdert situasjonen i flere gulfland, men beordringen gjelder foreløpig Saudi-Arabia.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/innlandet/granskraft-2026-er-den-forste-store-norsk-svenske-ovelsen-etter-at-sverige-ble-nato-medlem-1.18056689"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 3,
         "vekt": 4
-      },
-      {
-        "tittel": "Vil undersøke gassfunn i Barentshavet",
-        "tekst": "Sokkeldirektoratet opplyser at et lite kjent gassfunn i Barentshavet fra 1998 kan inneholde store utvinnbare ressurser.",
-        "utdypning": "Et lite kjent gassfunn i Barentshavet kan vise seg å inneholde betydelige utvinnbare ressurser. Det opplyser Sokkeldirektoratet i en ny vurdering av feltet som ble funnet i 1998.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/vil-undersoke-gassfunn-fra-1998-nord-for-hammerfest-1.18060565"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "SV krever penger til desemberbarna",
-        "tekst": "SV anklager regjeringa for rein uvilje og krever egne midler i statsbudsjettet for barnehageplass til desemberbarna.",
-        "utdypning": "Selv om Stortinget ønsker å gi desemberbarna barnehageplass, nekter regjeringa å love at ordningen gjelder barn som blir født i inneværende år. SV reagerer kraftig på dette og slår i bordet med krav om egne bevilgninger for å sikre disse barna barnehageplass.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/sv-vil-kjempe-for-desemberbarna-i-budsjettforhandlingane-1.18058459"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Svensk motstand mot oppmykning av EU-forbud",
-        "tekst": "Svenske sosialdemokrater advarer mot en ny oppgjørelse i EU-parlamentet som kan åpne for salg av nye bensin- og dieselbiler etter 2035.",
-        "utdypning": "Nye bensin- og dieselbilar kan få fortsette å selges etter 2035 etter en oppgjørelse i EU-parlamentet mellom blant annet sosialdemokrater og moderater. Forslaget møter imidlertid sterk motstand fra svenske Socialdemokraterna. – Vi svenska socialdemokrater är ju starkt kritiska till det här, sier Åsa Westlund.",
+        "tittel": "Norsk-svensk totalforsvarsøvelse i gang",
+        "tekst": "2000 nordmenn og svensker deltar i den grensekryssende totalforsvarsøvelsen Grensekraft 2026.",
+        "utdypning": "Øvelsen startet torsdag morgen da det kom larm om alvorlig skadede soldater og sivile ved grensen mellom Norge og Sverige. Scenarioet innebærer at personell må ta hånd om skadede og sikre opp området i de dype skogene langs grensen. Dette er første gang Norge og Sverige øver sammen på denne måten etter Nato-utvidelsen.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/varmland/2-000-deltar-i-gransoverskridande-ovning-med-norge"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Motstand mot oppheving av fossilbilforbud i Sverige",
+        "tekst": "Svenske Socialdemokraterna er sterkt kritiske til en oppgørelse som kan tillate salg av nye bensin- og dieselbilar etter 2035.",
+        "utdypning": "En ny oppgørelse i EU-parlamentet mellom blant annet sosialdemokrater og moderater åpner for at forbudet mot bensin- og dieselbilar kan rives opp. S i Sverige er sterkt kritiske til denne utviklingen og vil ikke se at oppgørelsen gjennomføres.",
         "kilder": [
           {
             "navn": "SVT",
@@ -113,64 +108,43 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Skandale med flyreiser i Region Skåne",
-        "tekst": "Ektefellen til en tidligere vårdirektør i Skåne fløy 83 ganger i dyreste prisklasse mellom København og Stockholm.",
-        "utdypning": "SVT avslører at ektemannen til den tidligere sjefen for cancervården i Skåne reiste i flyselskapets dyreste billettkatgori mellom København og Stockholm i perioden 2016–2023. Mannen, som jobbet for Region Skåne, gjennomførte 83 enkelreiser i høyeste prisgruppe og bare 8 reiser på vanlig økonomiklasse.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/skane/vardchefens-make-flog-83-ganger-i-hogsta-prisklass-mellan-kopenhamn-och-stockholm"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Kostnader etter Rubio-besøk på Island",
-        "tekst": "Besøket til USAs utenriksminister Marco Rubio på Island kostet politiet totalt 25 millioner islandske kroner.",
-        "utdypning": "Kostnadene i forbindelse med USAs utenriksminister Marco Rubios besøk til Island tidligere i måneden beløpte seg til 15,5 millioner ISK for politiet i hovedstadsområdet og ytterligere 10 millioner ISK for Rikspolitiet. Utgiftene knytter seg nesten utelukkende til politiarbeid og kjøretøybruk under besøket, som omhandlet økonomisk og sikkerhetspolitisk samarbeid.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-21-rubio-visit-cost-police-isk-25-million-490494/"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261021-portugal-police-clear-demonstrators-from-protest-camps-against-cost-of-housing"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-eu-2092-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Finland skrinlegger planer om turistskatt",
-        "tekst": "Den finske regjeringen har lagt vekk planene om å innføre en turistskatt fordi partene ikke nådde en konsensus.",
-        "utdypning": "Finlands regjering har besluttet å skrinlegge planene om å innføre en turistskatt. Ifølge finansminister Riikka Purra fra Sannfinlandsemisjonene var det ikke mulig å oppnå en bred enighet om saken i regjeringstoppen.",
+        "tittel": "Finlands statsminister besøker Ukraina",
+        "tekst": "Finlands statsminister Petteri Orpo har reist til Kyiv for å vise landets sterke støtte til Ukraina.",
+        "utdypning": "Under besøket møter Orpo Ukrainas politiske ledelse for å drøfte situasjonen og demonstrere Finlands oppslutning. Besøket skjer i en periode med intensiv diplomatisk og militær aktivitet i regionen.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20252492?origin=rss"
+            "lenke": "https://yle.fi/a/74-20252732?origin=rss"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       },
       {
-        "tittel": "Vil kutte i antall bystyremedlemmer i Reykjavik",
-        "tekst": "Reykjaviks ordførere og flertall vil ha færre politikere i bystyret for å spare penger og øke effektiviteten.",
-        "utdypning": "Flertallet på Reykjaviks bystyre har bedt Alltinget om å la kommunene selv bestemme størrelsen på sine folkevalgte organer. Antallet bystyrerepresentanter ble økt fra 15 til 23 i 2018, en ordning ordfører Hildur Björnsdóttir og andre kritikere mener medfører store og unødvendige lønnskostnader uten å bedre innbyggernes tjenester.",
+        "tittel": "Finland stenger regjeringsnettsider etter sårbarheter",
+        "tekst": "Finland stenger midlertidig ned regjeringsnettsider som en føre-var-regel på grunn av kritiske programvarefeil.",
+        "utdypning": "Nedstengningen skjer som en forsiktighetsåtgjerde etter at det ble funnet alvorlige sårbarheter i den mye brukte PHP-programvaren. Programvaren fungerer som den primære ryggraden for nettløsninger i baksoffen.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-21-i-cant-see-that-residents-are-any-better-served-since-the-number-of-councillors-increased-490495/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252600?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "AI-etterspørsel løftet Nokia i tredje kvartal",
+        "tekst": "Nokia melder om oppgang i resultatene for tredje kvartal drevet av økt etterspørsel etter kunstig intelligens.",
+        "utdypning": "Selskapets sjef trekker fram at Nokias styrker passer godt for å møte den voksende etterspørselen etter større og mer distribuerte AI-infrastrukturer. Dette har bidratt positivt til selskapets profitt i kvartalet.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252707?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -179,14 +153,10 @@
     ],
     "Europa": [
       {
-        "tittel": "US-utsending møter Putin om Ukraina",
-        "tekst": "USAs spesialutsending Steve Witkoff har møtt Vladimir Putin i St. Petersburg for å drøfte en slutt på krigen i Ukraina.",
-        "utdypning": "USAs spesialutsending Steve Witkoff har landet i St. Petersburg og holdt samtale med Russlands president Vladimir Putin om en avslutning på krigen i Ukraina. Møtet fant sted etter at Witkoff møtte Ukrainas president Volodymyr Zelenskyj og europeiske ledere i Oslo. Washington søker dermed å blåse nytt liv i den amerikanskledede fredsinnsatsen.",
+        "tittel": "USAs spesialemning møtte Putin og kunngjorde fangeutveksling",
+        "tekst": "USAs spesialemning Steve Witkoff har møtt Vladimir Putin i St. Petersburg og forhandlet om Ukraina-krigen.",
+        "utdypning": "Under møtet takket Witkoff Putin for en dieselavtale og kunngjorde at den fengslede amerikaneren Stephen Hubbard er blitt frigitt. Kreml opplyste samtidig at Russland er klare til å gjenoppta trilaterale samtalene neste måned. Besøket skjer etter at Witkoff først hadde møtt Ukrainas president og europeiske ledere i Oslo.",
         "kilder": [
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-eu-2092-rdf"
-          },
           {
             "navn": "France 24",
             "lenke": "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia"
@@ -194,15 +164,23 @@
           {
             "navn": "BBC",
             "lenke": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-eu-2092-rdf"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
+        "antall_kilder": 4,
         "vekt": 5
       },
       {
         "tittel": "Zelenskyj foreslår å fryse frontlinjen",
-        "tekst": "Ukrainas president ber om at frontlinjen mot Russland fryses som første skritt mot reelle fredsforhandlinger.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyj har foreslått å fryse frontlinjen i krigen mot Russland langs dagens posisjoner som et første skritt mot fredsforhandlinger. Utspillet kom samtidig med at USAs spesialutsending Steve Witkoff møtte Russlands president Vladimir Putin i St. Petersburg for å overbringe nye diplomatiske forslag.",
+        "tekst": "Ukrainas president Volodymyr Zelenskyj foreslår å fryse frontlinjen langs dagens linjer som første skritt mot fred.",
+        "utdypning": "Forslaget ble fremmet samtidig som USAs spesialutsending Steve Witkoff holdt samtale med Russlands president Vladimir Putin i St. Petersburg. Zelenskyj ser på en fastlåsing av dagens posisjoner som en nødvendig innledning til faktiske fredsforhandlinger.",
         "kilder": [
           {
             "navn": "France 24",
@@ -213,9 +191,9 @@
         "vekt": 5
       },
       {
-        "tittel": "EU-prokuratorer ransaket ytre høyre-kontorer",
-        "tekst": "Europeiske påtalemyndigheter har ransaket kontorene til EU-parlamentets ytre høyre-gruppe Patriots i en korrupsjonsetterforskning.",
-        "utdypning": "EU-påtalemyndigheter har utført ransakinger mot kontorene til den innflytelsesrike ytre høyre-gruppen Patriots for Europe i EU-parlamentet. Aksjonen er et ledd i en langvarig etterforskning av økonomiske uregelmessigheter knyttet til gruppens forgjenger, Identity and Democracy. Den nye gruppen hevder det ikke er noen rettslig kontinuitet mellom organisasjonene.",
+        "tittel": "EU-påtalemyndigheten ransaket ytre høyre-kontorer",
+        "tekst": "Europeiske påtalemyndigheter har ransaket kontorene til den innvandringskritiske gruppen Patriots i EU-parlamentet.",
+        "utdypning": "Aksjonen inngår i en etterforskning knyttet til pengebruk i den oppløste forgjengergruppen Identity and Democracy, som blant annet inkluderte Marine Le Pens National Rally. Partigruppen hevder det ikke er noen juridisk kontinuitet mellom de to organene.",
         "kilder": [
           {
             "navn": "France 24",
@@ -232,43 +210,13 @@
     ],
     "Verden": [
       {
-        "tittel": "Musk bekrefter Tesla- og SpaceX-vurdering",
-        "tekst": "Elon Musk bekrefter at det vurderes en sammenslåing av Tesla og SpaceX, men advarer om at det er tidlig i prosessen.",
-        "utdypning": "Elon Musk har bekreftet ryktene om en mulig gigamर्जर mellom elbilprodusenten Tesla og romfartsselskapet SpaceX. Musk opplyser at det er opprettet egne spesialkomiteer i begge selskaper for å vurdere en eventuell sammenslåing, men understreker at det fremdeles er for tidlig å konkludere.",
+        "tittel": "Britisk godkjenning av omstridt gassfelt",
+        "tekst": "Storbritannia har godkjent Jackdaw-gassfeltet i Nordsjøen for å dempe høye energikostnader.",
+        "utdypning": "Drillingen på det omstridte feltet settes i gang etter flere år i limbo, ettersom regjeringen forsøker å håndtere det høye energipresset. Miljøorganisasjoner har kritisert beslutningen og krever i stedet en raskere satsing på ren energi.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Nye amerikanske sanksjoner mot Irans jernbane",
-        "tekst": "USA utvider sanksjonene mot Irans jernbanesektor mens landet flytter godstransport fra maritime ruter til landbaserte korridorer.",
-        "utdypning": "USA retter nye sanksjoner mot Irans jernbanesektor i et forsøk på å begrense landets økonomi. Sanksjonene kommer samtidig som Teheran forsøker å kompensere for tapt sjøhandel ved å flytte mer gods over på landbaserte transportkorridorer mot Kina og Sentral-Asia, selv om kapasiteten på jernbanen er begrenset.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Meta dømt til å betale 25 milliarder dollar",
-        "tekst": "En dommer i New Mexico pålegger Metas eierselskap å betale en kjempebot i forbindelse med Cambridge Analytica-skandalen.",
-        "utdypning": "En dommer i New Mexico har ilagt Facebooks morselskap Meta en bot på 25 milliarder dollar. Saken gjelder villedende markedsføring og håndtering av brukerdata i forbindelse med Cambridge Analytica-lekkasjen under USAs presidentvalgkamp i 2016.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

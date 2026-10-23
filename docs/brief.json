@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Russland og Ukraina har gjennomført omfattende drone- og missilangrep mot hverandre etter meldinger om mulige fredssamtaler.",
+      "tekst": "Russland og Ukraina utvekslet omfattende drone- og missilangrep etter at Moskva signaliserte vilje til fredssamtaler.",
       "kilder": [
         {
-          "navn": "DW",
-          "lenke": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-eu-2092-rdf"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks"
         }
       ]
     },
     {
-      "tekst": "Norske styrker øver på å forsvare Svalbard i en tid med økt militær spenning i Arktis.",
+      "tekst": "Amerikanske medier melder at Donald Trump ba Elon Musk om å oppheve begrensningene på Starlink i Ukraina.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240"
+        }
+      ]
+    },
+    {
+      "tekst": "Norske styrker deltar på øvelser til havs for å forsvare Svalbard i en stadig mer spent sikkerhetssituasjon i Arktis.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/tromsogfinnmark/pa-fregatt-tokt-til-svalbard-for-a-hevde-norsk-suverenitet-1.18052283"
-        }
-      ]
-    },
-    {
-      "tekst": "Den internasjonale straffedomstolen (ICC) tildeles EU-parlamentets Sakharov-pris midt i press fra USA.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize"
         }
       ]
     }
@@ -32,8 +32,8 @@
     "Norge": [
       {
         "tittel": "Øver på å forsvare Svalbard",
-        "tekst": "Norske styrker trener på havet ved Svalbard, som trekkes fram som et sentralt knutepunkt i Arktis.",
-        "utdypning": "Halvor og Anine deltar på øvelse til havs ved Norge og Natos «hotspot» i Arktis. Forskere påpeker at krigsskipenes rolle vil få langt større betydning rundt øygruppa framover. Øvelsen skjer i en tid med økt geopolitisk fokus på de nordlige havområdene.",
+        "tekst": "Norske styrker øver på havet ved Svalbard i en tid hvor krigsskipenes rolle rundt øygruppa spås å få større betydning.",
+        "utdypning": "Halvor og Anine deltar på en militær øvelse til havs ved Norge og Natos hotspot i Arktis. En forsker påpeker at krigsskipenes rolle vil få større betydning rundt øygruppa i nord. Øvelsen fokuserer på å vise tilstedeværelse og forsvarsevne i et strategisk viktig område.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,9 +44,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Trump skal ha grepet inn i Starlink-sak med Musk",
-        "tekst": "Donald Trump skal ha bedt Elon Musk om å oppheve begrensninger på Ukrainas tilgang til Starlink.",
-        "utdypning": "Ifølge ikke oppgitte kilder til The Wall Street Journal skjedde samtalen torsdag, og systemet skal ha fungert mer normalt kort tid etter. Musk eier Tesla og SpaceX, som driver nettverket. Ukrainas president Volodymyr Zelenskyj har tidligere uttalt at amerikanske myndigheter stod bak en midlertidig blokkering.",
+        "tittel": "Trump skal ha bedt Musk oppheve Starlink-begrensning",
+        "tekst": "Donald Trump skal ha ringt Elon Musk og bedt ham gjenopprette internettforbindelsen Starlink for Ukraina.",
+        "utdypning": "Ifølge ikke navngitte kilder som har uttalt seg til The Wall Street Journal, fungerer systemet igjen mer som normalt kort tid etter samtalen mellom Trump og Musk. Flere kilder har tidligere oppgitt at Musk selv beordret begrensningen av Ukrainas tilgang til nettverket, mens president Volodymyr Zelenskyj har pekt på at amerikanske myndigheter ga blokkeringsordren.",
         "kilder": [
           {
             "navn": "NRK",
@@ -54,14 +54,27 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
+      },
+      {
+        "tittel": "Tine sender første brunostlass til Kina",
+        "tekst": "Tine har produsert den første leveransen av brunost som skal eksporteres til det kinesiske markedet.",
+        "utdypning": "Fredag startet produksjonen av brunosten som skal sendes til Kina. Eksporten markerer en ny satsing på det asiatiske markedet, og produsenten uttrykker tro på at kinesiske forbrukarar vil like produktet.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestland/no-startar-eksporten-av-brunost-til-kina-1.18062974"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Advarer om russiske hybridangrep",
-        "tekst": "En ny europeisk kartlegging viser over 50 fysiske hybridattacker mot Europa knyttet til Russland det siste halvåret.",
-        "utdypning": "Forsvarsstabschef Carl-Johan Edström advarer om at situasjonen vil vare i kanskje 10 til 15 år. SVT har publisert rapporten som er utarbeidet av europeiske allmennkringkastere. Myndighetene peker på at trusselbildet har endret seg fundamentalt.",
+        "tittel": "SVT: Advarer om økende russiske hybridangrep i Europa",
+        "tekst": "En ny europeisk samling viser over 50 fysisk voldelige hybridangrep knyttet til Russland det siste halvåret.",
+        "utdypning": "Forsvarsstabschef Carl-Johan Edström uttaler til SVT at Europa har gått inn i en periode med trusler som kan vare i 10 til 15 år. Kartleggingen er gjort av europeiske public service-bolag og viser at sabotasje og hybridoperasjoner har nådd et nytt og farligere nivå.",
         "kilder": [
           {
             "navn": "SVT",
@@ -72,9 +85,9 @@
         "vekt": 4
       },
       {
-        "tittel": "Dødsulykke på stålverksbygge i Sverige",
-        "tekst": "En arbeider har omkommet i en fallulykke på Stegras stålverksbygge i Boden etter tidligere varsler om sikkerhetsbrister.",
-        "utdypning": "En tidligere sikkerhetsansvarlig forteller at han ved flere anledninger har larmet ledningen om alvorlige mangler ved arbeid på høyt nivå. Ivan Osipov uttrykker sterk misnøye med at situasjonen fikk ende med tap av liv, og kaller det en tidsspørsmål. Arbeidsplassen har vært gjenstand for storstilt industriutbygging.",
+        "tittel": "Dødsulykke på svensk stålverksbygge",
+        "tekst": "En mann har mistet livet i en fallulykke på Stegras stålverksbygge i Boden etter tidligere varsler om sikkerhetsbrister.",
+        "utdypning": "En tidligere sikkerhetsansvarlig på arbeidsplassen opplyser at han ved flere tilfeller har larmet ledningen om alvorlige sikkerhetsbrister, spesielt ved arbeid på høy høyd. Han uttaler at ulykken var en tidsspørsmål, og uttrykker sterk uro over at en arbeider har mistet livet.",
         "kilder": [
           {
             "navn": "SVT",
@@ -85,20 +98,34 @@
         "vekt": 3
       }
     ],
-    "Norden": [],
-    "Europa": [
+    "Norden": [
       {
-        "tittel": "Nye drone- og missilangrep mellom Russland og Ukraina",
-        "tekst": "Moskva og Kyiv rammet hverandre med omfattende angrep timer etter signaler om nye fredssamtaler.",
-        "utdypning": "Gjentatte ukrainske droneangrep forsøker å ramme flyplasser i Moskva for å stenge russisk luftrom. Samtidig svarte Russland med tre bølger av missiler etter å ha uttalt seg positive til å gjenoppta USAs medierte fredssamtaler. President Donald Trump hevdet at forhandlingene er nærmere en slutt enn noen gang, selv om Kreml uttrykker tvil om ukrainske og europeiske forslag.",
+        "tittel": "Klokkene stilles i helgen trass i finsk motstand",
+        "tekst": "Sommertid- og vintertidsordningen fortsetter i Europa selv om EU-parlamentet stemte for å avslutte den i 2019.",
+        "utdypning": "Til tross for Finlands tidligere offisielle motstand mot de sesongbaserte tidsendringene, må innbyggerne stille klokkene tilbake denne helgen. Praksisen med å skru klokken frem og tilbake fortsetter dermed på tvers av medlemslandene i påvente av en felles europeisk implementering.",
         "kilder": [
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-eu-2092-rdf"
-          },
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20252957?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Europa": [
+      {
+        "tittel": "Intense drone- og missilangrep mellom Russland og Ukraina",
+        "tekst": "Russland og Ukraina gjennomførte omfattende gjensidige angrep bare timer etter at Moskva signaliserte vilje til fredssamtaler.",
+        "utdypning": "De tre bølgene med russiske missiler og ukrainske droneangrep rammet blant annet Moskva og forsøkte å stenge ned flyplassene der. President Donald Trump uttalte at forhandlingene var nærmere en slutt på krigen enn noen gang, men Kreml har uttrykt tvil om ukrainske og europeiske forslag. Samtidig melder Ukraina om et av krigens blodigste år for hovedstaden Kyiv.",
+        "kilder": [
           {
             "navn": "France 24",
             "lenke": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-eu-2092-rdf"
           },
           {
             "navn": "BBC",
@@ -109,9 +136,22 @@
         "vekt": 5
       },
       {
-        "tittel": "EU gir Sakharov-prisen til ICC",
-        "tekst": "Den internasjonale straffedomstolen (ICC) tildeles EUs Sakharov-pris som en støtteerklæring midt i amerikanske sanksjoner.",
-        "utdypning": "EU-parlamentets sjef Roberta Metsola kunngjorde prisutdelingen torsdag for å hedre domstolens arbeid med folkerett og multilaterale institusjoner. ICC takket for prisen i en tid preget av enestående utfordringer for domstolens embetsfolk. Utmerkelsen risikerer å skape uro i forholdet til USAs president Donald Trump.",
+        "tittel": "Estonisk minister advarer om organiserte sabotasjeaksjoner",
+        "tekst": "Etslands utenriksminister Margus Tsahkna advarer om at russiske spesialtjenester utfører farlige sabotasjeangrep i Europa.",
+        "utdypning": "I et intervju med Talking Europe påpeker Tsahkna at russisk-orkestrerte sabotasjeoperasjoner i EU har nådd et nytt nivå der målene ikke lenger er rent symbolsk preget. Estlands etterretning har nylig kommet med lignende advarsler om trusselen fra slike operasjoner.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/tv-shows/talking-europe/20261023-europe-faces-threat-of-organised-sabotage-terrorist-attacks-estonian-fm-tsahkna"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "EU tildeler Sakharov-prisen til Den internasjonale straffedomstolen",
+        "tekst": "ICC tildeles EUs fremste rettighetspris i en beslutning som kan provosere fram reaksjoner fra USA.",
+        "utdypning": "Den internasjonale straffedomstolen (ICC) mottar EUs Sakharov-pris midt under amerikanske sanksjoner mot domstolen. EU-parlamentets sjef Roberta Metsola begrunner tildelingen med at EU bygger på multilateralisme og at prisen anerkjenner domstolens arbeid med å opprettholde internasjonal lov. ICC takker for støtten i en tid med enestående utfordringer for domstolens embetsfolk.",
         "kilder": [
           {
             "navn": "France 24",
@@ -119,39 +159,26 @@
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/eu-s-sakharov-prize-won-by-the-international-criminal-court/a-79730914?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Fastlåst budsjettstrid i EU",
-        "tekst": "EU-lederne sliter med å bli enige om unionens neste langtidsbudsjett fra 2028 til 2034.",
-        "utdypning": "Et toppmøte 15.–16. oktober klarte ikke å levere et gjennombrudd for finansieringen av unionens strategiske prioriteringer. Hovedkonflikten står mellom de såkalte sparsommelige landene som krever dype kutt, og samholdets venner som avviser kutt. EU-hovedstedene fremstår foreløpig i dyp uenighet om veien videre.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Store folkemøter foran valg i Serbia",
-        "tekst": "Titusenvis samles til demonstrasjoner i Serbia i innspurten til et skjebnevalg.",
-        "utdypning": "Etter to år med studentledede protester går landet til et tidlig valg som beskrives som en folkeavstemning. Valget står mellom president Aleksandar Vucic og den voksende studentbevegelsen. Observatører følger situasjonen tett.",
+        "tittel": "Inngår lokal våpenhvile i omstridt ukrainsk by",
+        "tekst": "Russland og Ukraina har avtalt en amerikansk-meglet våpenhvile i den frontnære byen Oleshky.",
+        "utdypning": "Den okkuperte ukrainske byen Oleshky har vært preget av en alvorlig humanitær krise der innbyggere har måttet spise hageugress for å overleve. Den lokale avtalen kommer i stand for å lette situasjonen, samtidig som Ukrainas president Volodymyr Zelenskyj opplyser at forhandlere vil møtes til bredere samtaler neste måned.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ]
   },

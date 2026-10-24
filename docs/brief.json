@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Russland og Ukraina utvekslet omfattende drone- og missilangrep etter at Moskva signaliserte vilje til fredssamtaler.",
+      "tekst": "Ukraina har igjen en stabil forbindelse til Starlink etter dager med spenninger rundt nettet.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596"
         }
       ]
     },
     {
-      "tekst": "Amerikanske medier melder at Donald Trump ba Elon Musk om å oppheve begrensningene på Starlink i Ukraina.",
+      "tekst": "En norsk offiserskips-kaptein ledet redningsaksjonen i Svartehavet der ni sjøfolk ble berget.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/tromsomann-var-kaptein-under-redningsaksjonen-i-svartehavet-1.18063587"
         }
       ]
     },
     {
-      "tekst": "Norske styrker deltar på øvelser til havs for å forsvare Svalbard i en stadig mer spent sikkerhetssituasjon i Arktis.",
+      "tekst": "Troms og Finnmark opplever en uvanlig varm oktober med temperaturer to grader over normalt.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/pa-fregatt-tokt-til-svalbard-for-a-hevde-norsk-suverenitet-1.18052283"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/uvanlig-varm-oktober-i-nord_-_-kan-havne-pa-en-pallplass-1.18062577"
         }
       ]
     }
@@ -31,39 +31,39 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Øver på å forsvare Svalbard",
-        "tekst": "Norske styrker øver på havet ved Svalbard i en tid hvor krigsskipenes rolle rundt øygruppa spås å få større betydning.",
-        "utdypning": "Halvor og Anine deltar på en militær øvelse til havs ved Norge og Natos hotspot i Arktis. En forsker påpeker at krigsskipenes rolle vil få større betydning rundt øygruppa i nord. Øvelsen fokuserer på å vise tilstedeværelse og forsvarsevne i et strategisk viktig område.",
+        "tittel": "Stabil tilkobling til Starlink i Ukraina",
+        "tekst": "Ukraina har igjen stabil forbindelse til Starlink, og overvåkingssystemer viser at hastigheten er på vei opp igjen.",
+        "utdypning": "Ukrainske myndigheter opplyste lørdag at landet igjen har en stabil forbindelse til SpaceX-nettverket, som er avgjørende for den ukrainske hærens operasjoner. Ifølge forsvarsministeren er hastigheten i Starlink og Starshield på vei opp igjen etter flere dager med spenninger overfor Washington. Fredag meldte kilder at nettet gikk tregt, noe som rammet landets evne til å forsvare seg mot russiske droner og gjennomføre egne angrep.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/pa-fregatt-tokt-til-svalbard-for-a-hevde-norsk-suverenitet-1.18052283"
+            "lenke": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Trump skal ha bedt Musk oppheve Starlink-begrensning",
-        "tekst": "Donald Trump skal ha ringt Elon Musk og bedt ham gjenopprette internettforbindelsen Starlink for Ukraina.",
-        "utdypning": "Ifølge ikke navngitte kilder som har uttalt seg til The Wall Street Journal, fungerer systemet igjen mer som normalt kort tid etter samtalen mellom Trump og Musk. Flere kilder har tidligere oppgitt at Musk selv beordret begrensningen av Ukrainas tilgang til nettverket, mens president Volodymyr Zelenskyj har pekt på at amerikanske myndigheter ga blokkeringsordren.",
+        "tittel": "Tromsømann ledet redningsaksjon i Svartehavet",
+        "tekst": "Oskar Hansen fra Tromsø var kaptein da det norske offshoreskipet Sartor berget ni overlevende sjøfolk fredag.",
+        "utdypning": "Oskar Hansen fra Oldervik i Tromsø sto på broen og ledet det norske offshoreskipet «Sartor» da de ne overlevende sjøfolkene ble plukket opp fra Svartehavet fredag.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/tromsomann-var-kaptein-under-redningsaksjonen-i-svartehavet-1.18063587"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Tine sender første brunostlass til Kina",
-        "tekst": "Tine har produsert den første leveransen av brunost som skal eksporteres til det kinesiske markedet.",
-        "utdypning": "Fredag startet produksjonen av brunosten som skal sendes til Kina. Eksporten markerer en ny satsing på det asiatiske markedet, og produsenten uttrykker tro på at kinesiske forbrukarar vil like produktet.",
+        "tittel": "Uvanlig varm oktober i nord",
+        "tekst": "Troms og Finnmark ligger hittil i oktober rundt to grader over det som er normalt.",
+        "utdypning": "Ifølge klimaforsker Helga Therese Tilley Tajet ved Meteorologisk institutt kan måneden ende på en pallplass for varmest i nord, ettersom temperaturene konsekvent har ligget to grader over normalen.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestland/no-startar-eksporten-av-brunost-til-kina-1.18062974"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/uvanlig-varm-oktober-i-nord_-_-kan-havne-pa-en-pallplass-1.18062577"
           }
         ],
         "antall_kilder": 1,
@@ -72,9 +72,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "SVT: Advarer om økende russiske hybridangrep i Europa",
-        "tekst": "En ny europeisk samling viser over 50 fysisk voldelige hybridangrep knyttet til Russland det siste halvåret.",
-        "utdypning": "Forsvarsstabschef Carl-Johan Edström uttaler til SVT at Europa har gått inn i en periode med trusler som kan vare i 10 til 15 år. Kartleggingen er gjort av europeiske public service-bolag og viser at sabotasje og hybridoperasjoner har nådd et nytt og farligere nivå.",
+        "tittel": "Advarer om økte russiske hybridangrep i Europa",
+        "tekst": "En ny europeisk samling viser over 50 fysiske hybridattacker med spor til Russland det siste halvåret.",
+        "utdypning": "Ifølge en ny gjennomgang fra europeiske public service-bolag, publisert av SVT, har over 50 fysiske hybridattacker blitt rettet mot Europa det siste halvåret. Forsvarsstabschef Carl-Johan Edström uttalere at dette er en situasjon som kan vare i 10 til 15 år.",
         "kilder": [
           {
             "navn": "SVT",
@@ -83,62 +83,14 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Dødsulykke på svensk stålverksbygge",
-        "tekst": "En mann har mistet livet i en fallulykke på Stegras stålverksbygge i Boden etter tidligere varsler om sikkerhetsbrister.",
-        "utdypning": "En tidligere sikkerhetsansvarlig på arbeidsplassen opplyser at han ved flere tilfeller har larmet ledningen om alvorlige sikkerhetsbrister, spesielt ved arbeid på høy høyd. Han uttaler at ulykken var en tidsspørsmål, og uttrykker sterk uro over at en arbeider har mistet livet.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/har-jobbar-stegra-arbetare-pa-hog-hojd-utan-fallskydd"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
-    "Norden": [
-      {
-        "tittel": "Klokkene stilles i helgen trass i finsk motstand",
-        "tekst": "Sommertid- og vintertidsordningen fortsetter i Europa selv om EU-parlamentet stemte for å avslutte den i 2019.",
-        "utdypning": "Til tross for Finlands tidligere offisielle motstand mot de sesongbaserte tidsendringene, må innbyggerne stille klokkene tilbake denne helgen. Praksisen med å skru klokken frem og tilbake fortsetter dermed på tvers av medlemslandene i påvente av en felles europeisk implementering.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20252957?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
+    "Norden": [],
     "Europa": [
       {
-        "tittel": "Intense drone- og missilangrep mellom Russland og Ukraina",
-        "tekst": "Russland og Ukraina gjennomførte omfattende gjensidige angrep bare timer etter at Moskva signaliserte vilje til fredssamtaler.",
-        "utdypning": "De tre bølgene med russiske missiler og ukrainske droneangrep rammet blant annet Moskva og forsøkte å stenge ned flyplassene der. President Donald Trump uttalte at forhandlingene var nærmere en slutt på krigen enn noen gang, men Kreml har uttrykt tvil om ukrainske og europeiske forslag. Samtidig melder Ukraina om et av krigens blodigste år for hovedstaden Kyiv.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261022-russia-missiles-kyiv-ukraine-peace-talks"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 5
-      },
-      {
-        "tittel": "Estonisk minister advarer om organiserte sabotasjeaksjoner",
-        "tekst": "Etslands utenriksminister Margus Tsahkna advarer om at russiske spesialtjenester utfører farlige sabotasjeangrep i Europa.",
-        "utdypning": "I et intervju med Talking Europe påpeker Tsahkna at russisk-orkestrerte sabotasjeoperasjoner i EU har nådd et nytt nivå der målene ikke lenger er rent symbolsk preget. Estlands etterretning har nylig kommet med lignende advarsler om trusselen fra slike operasjoner.",
+        "tittel": "Estonian FM warns of organised sabotage in Europe",
+        "tekst": "Estonias utenriksminister advarer om at russiske spesialtjenester står bak en ny og farlig fase med sabotasjeoperasjoner i Europa.",
+        "utdypning": "Estonias utenriksminister Margus Tsahkna advarer om at sabotasjeoperasjoner orkestrert av russiske spesialtjenester har nådd en ny og farlig fase i Europa, hvor målene ikke lenger er rent symbolsk preget. Estlands etterretningstjeneste har tidligere advart om utviklingen.",
         "kilder": [
           {
             "navn": "France 24",
@@ -149,36 +101,53 @@
         "vekt": 4
       },
       {
-        "tittel": "EU tildeler Sakharov-prisen til Den internasjonale straffedomstolen",
-        "tekst": "ICC tildeles EUs fremste rettighetspris i en beslutning som kan provosere fram reaksjoner fra USA.",
-        "utdypning": "Den internasjonale straffedomstolen (ICC) mottar EUs Sakharov-pris midt under amerikanske sanksjoner mot domstolen. EU-parlamentets sjef Roberta Metsola begrunner tildelingen med at EU bygger på multilateralisme og at prisen anerkjenner domstolens arbeid med å opprettholde internasjonal lov. ICC takker for støtten i en tid med enestående utfordringer for domstolens embetsfolk.",
+        "tittel": "Protests against cost of living in Italy",
+        "tekst": "Italia forbereder seg på nye demonstrasjoner mot budsjettkutt og levekostnader med tung sikkerhetsinnsats i åtte byer.",
+        "utdypning": "Italia forbereder en ny dag med protester mot budsjettkutt og høye levekostnader i åtte byer, inkludert Roma og Milano. Myndighetene har satt inn tunge sikkerhetstiltak, deriblant droner og helikoptre, etter urolighetene forrige helg.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/targeted-by-trump-international-criminal-court-wins-top-eu-rights-prize"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Inngår lokal våpenhvile i omstridt ukrainsk by",
-        "tekst": "Russland og Ukraina har avtalt en amerikansk-meglet våpenhvile i den frontnære byen Oleshky.",
-        "utdypning": "Den okkuperte ukrainske byen Oleshky har vært preget av en alvorlig humanitær krise der innbyggere har måttet spise hageugress for å overleve. Den lokale avtalen kommer i stand for å lette situasjonen, samtidig som Ukrainas president Volodymyr Zelenskyj opplyser at forhandlere vil møtes til bredere samtaler neste måned.",
+        "tittel": "To israelske soldater drept på Vestbredden",
+        "tekst": "To israelske soldater ble drept i et angrep utført av mistenkte palestinske væpnede menn ved Hebron.",
+        "utdypning": "De to angriperne ble skutt og drept i en skuddveksling utenfor Hebron, fire dager før Israels generalvalg. Statsminister Benjamin Netanyahu opplyste i etterkant at israelske styrker vil beordre husdemoleringer på Vestbredden som følge av angrepet.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Skyting og tyfon herjer internasjonalt",
+        "tekst": "Seksten personer ble skutt og drept i en kirke i Jordan, samtidig som tyfonen Champi rammer Taiwan.",
+        "utdypning": "Uidentifiserte væpnede menn åpnet ild under en begravelse i Karak-guvernementet i Jordan, noe som resulterte i at minst sju personer ble drept og 28 såret. Samtidig har tyfonen Champi krevd minst ett liv og skadet over 500 mennesker i Taiwan før den setter kursen mot Kina.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ]
   },

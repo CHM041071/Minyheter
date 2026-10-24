@@ -1,7 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Ukraina har igjen en stabil forbindelse til Starlink etter dager med spenninger rundt nettet.",
+      "tekst": "Stormen Boelo treffer Norge lørdag kveld med varsler om kraftig vind, flom og jordskred.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/vestfoldogtelemark/stormvarsel-pa-ostlandet-_-frykter-ikke-_amy_-tilstander-1.18063720"
+        }
+      ]
+    },
+    {
+      "tekst": "Ukraina har igjen en stabil forbindelse til Starlink- og Starshield-nettverkene, opplyser myndighetene.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +19,11 @@
       ]
     },
     {
-      "tekst": "En norsk offiserskips-kaptein ledet redningsaksjonen i Svartehavet der ni sjøfolk ble berget.",
+      "tekst": "Et norsk offshoreskip berget ni overlevende sjøfolk opp fra Svartehavet etter et skipsangrep.",
       "kilder": [
         {
           "navn": "NRK Norge",
           "lenke": "https://www.nrk.no/tromsogfinnmark/tromsomann-var-kaptein-under-redningsaksjonen-i-svartehavet-1.18063587"
-        }
-      ]
-    },
-    {
-      "tekst": "Troms og Finnmark opplever en uvanlig varm oktober med temperaturer to grader over normalt.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/uvanlig-varm-oktober-i-nord_-_-kan-havne-pa-en-pallplass-1.18062577"
         }
       ]
     }
@@ -31,9 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Stabil tilkobling til Starlink i Ukraina",
-        "tekst": "Ukraina har igjen stabil forbindelse til Starlink, og overvåkingssystemer viser at hastigheten er på vei opp igjen.",
-        "utdypning": "Ukrainske myndigheter opplyste lørdag at landet igjen har en stabil forbindelse til SpaceX-nettverket, som er avgjørende for den ukrainske hærens operasjoner. Ifølge forsvarsministeren er hastigheten i Starlink og Starshield på vei opp igjen etter flere dager med spenninger overfor Washington. Fredag meldte kilder at nettet gikk tregt, noe som rammet landets evne til å forsvare seg mot russiske droner og gjennomføre egne angrep.",
+        "tittel": "Stormvarsel sendt ut for Østlandet og landet for øvrig",
+        "tekst": "Stormen Boelo er ventet å treffe Norge lørdag kveld med fare for flom og jordskred.",
+        "utdypning": "Flere steder i landet er det sendt ut farevarsler om kraftig vind, flom og jordskred i forbindelse med at stormen Boelo treffer Norge lørdag kveld. Meteorologer og myndigheter følger situasjonen nøye for å håndtere eventuelle skader på infrastruktur og eiendom. Det er foreløpig ikke ventet tilstander som den tidligere stormen Amy, men værforholdene krever beredskap i de berørte områdene.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/stormvarsel-pa-ostlandet-_-frykter-ikke-_amy_-tilstander-1.18063720"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Ukraina melder om stabilisert Starlink-forbindelse",
+        "tekst": "Ukraina har igjen en stabil forbindelse til Starlink etter dager med forstyrrelser som rammet militære operasjoner.",
+        "utdypning": "Ukraina har igjen en «stabil forbindelse» til Starlink, opplyste myndighetene lørdag. De siste dagers spenninger med Washington over SpaceX-nettverket har avtatt, og overvåkingssystemer viser at hastigheten er på vei opp igjen. De tidligere problemene rammet landets evne til å forsvare seg mot russiske droner og gjennomføre egne droneangrep.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,9 +57,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Tromsømann ledet redningsaksjon i Svartehavet",
-        "tekst": "Oskar Hansen fra Tromsø var kaptein da det norske offshoreskipet Sartor berget ni overlevende sjøfolk fredag.",
-        "utdypning": "Oskar Hansen fra Oldervik i Tromsø sto på broen og ledet det norske offshoreskipet «Sartor» da de ne overlevende sjøfolkene ble plukket opp fra Svartehavet fredag.",
+        "tittel": "Norsk offshoreskip berget sjøfolk i Svartehavet",
+        "tekst": "Det norske offshoreskipet Sartor reddet ni overlevende sjøfolk opp fra Svartehavet fredag.",
+        "utdypning": "Oskar Hansen fra Oldervik i Tromsø var kaptein på det norske offshoreskipet «Sartor» da det gjennomførte en krevende redningsaksjon i Svartehavet fredag. Skipet berget opp ni overlevende sjøfolk etter at situasjonen i området har blitt tilspisset med økende angrep mot skip som forsøker å eksportere ukrainsk korn og last.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -57,13 +70,13 @@
         "vekt": 4
       },
       {
-        "tittel": "Uvanlig varm oktober i nord",
-        "tekst": "Troms og Finnmark ligger hittil i oktober rundt to grader over det som er normalt.",
-        "utdypning": "Ifølge klimaforsker Helga Therese Tilley Tajet ved Meteorologisk institutt kan måneden ende på en pallplass for varmest i nord, ettersom temperaturene konsekvent har ligget to grader over normalen.",
+        "tittel": "Vil utelukke Russland fra frigjøringsmarkering i Kirkenes",
+        "tekst": "Ordføreren i Sør-Varanger mener Russland misbruker krigshistorien og ikke bør få delta i feiringen igjen.",
+        "utdypning": "Ordføreren i Sør-Varanger retter hard kritikk mot Russland og sier landet misbruker krigshistorien som propaganda. På bakgrunn av dette ser han ikke for seg at Russland noen gang kan få delta i markeringen av frigjøringen i Kirkenes igjen.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/uvanlig-varm-oktober-i-nord_-_-kan-havne-pa-en-pallplass-1.18062577"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/ordforer_-russland-misbruker-krigshistorien-og-bor-aldri-mer-feire-i-kirkenes-1.18063660"
           }
         ],
         "antall_kilder": 1,
@@ -72,25 +85,38 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Advarer om økte russiske hybridangrep i Europa",
-        "tekst": "En ny europeisk samling viser over 50 fysiske hybridattacker med spor til Russland det siste halvåret.",
-        "utdypning": "Ifølge en ny gjennomgang fra europeiske public service-bolag, publisert av SVT, har over 50 fysiske hybridattacker blitt rettet mot Europa det siste halvåret. Forsvarsstabschef Carl-Johan Edström uttalere at dette er en situasjon som kan vare i 10 til 15 år.",
+        "tittel": "Dødsulykke på svensk stålverksbygge etter varsler om brudd",
+        "tekst": "En mann omkom i en fallulykke på Stegras stålverk i Boden etter tidligere advarsler om sikkerhetsbrudd.",
+        "utdypning": "En arbeider har mistet livet i en fallulykke på Stegras stålverksbygge i Boden i Sverige. En tidligere sikkerhetsansvarlig på arbeidsplassen opplyser at han ved flere anledninger hadde varslet ledelsen om alvorlige sikkerhetsbrudd, blant annet knyttet til arbeid på høy højd uten tilstrekkelig fallskydd. Hendelsen har utløst sterke reaksjoner og krav om bedre sikkerhet.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/granskning-sa-trappar-ryssland-upp-valdsamma-hybridattackerna"
+            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/har-jobbar-stegra-arbetare-pa-hog-hojd-utan-fallskydd"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Beredskapsøvelse for drikkevann i Sverige",
+        "tekst": "Det er gjennomført en stor beredskapsøvelse for å sikre rask kontroll av drikkevann ved kriser.",
+        "utdypning": "På laboratoriet SGS i Linköping er det gjennomført en omfattende beredskapsøvelse for å raskt kunne avgjøre om drikkevannet er trygt under en eventuell krise eller krig. Eksperter peker på at drikkevann er samfunnets viktigste livsmedel og at hele samfunnet stopper opp uten det.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/ost/har-sakras-dricksvattnet-i-handelse-av-kris-eller-krig"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Estonian FM warns of organised sabotage in Europe",
-        "tekst": "Estonias utenriksminister advarer om at russiske spesialtjenester står bak en ny og farlig fase med sabotasjeoperasjoner i Europa.",
-        "utdypning": "Estonias utenriksminister Margus Tsahkna advarer om at sabotasjeoperasjoner orkestrert av russiske spesialtjenester har nådd en ny og farlig fase i Europa, hvor målene ikke lenger er rent symbolsk preget. Estlands etterretningstjeneste har tidligere advart om utviklingen.",
+        "tittel": "Estonisk minister advarer om økt russisk sabotasje i Europa",
+        "tekst": "Enoias utenriksminister advarer om at russiske spesialtjenester har trappet opp sabotasjeoperasjoner i Europa.",
+        "utdypning": "Estlands utenriksminister Margus Tsahkna advarer om at sabotasjeoperasjoner orkestrert av russiske spesialtjenester har nådd en ny og farlig fase i Europa. Ifølge landets etterretningstjeneste er ikke målene lenger rent symbolske, noe som øker sikkerhetstrusselen mot en rekke europeiske land.",
         "kilder": [
           {
             "navn": "France 24",
@@ -101,9 +127,22 @@
         "vekt": 4
       },
       {
-        "tittel": "Protests against cost of living in Italy",
-        "tekst": "Italia forbereder seg på nye demonstrasjoner mot budsjettkutt og levekostnader med tung sikkerhetsinnsats i åtte byer.",
-        "utdypning": "Italia forbereder en ny dag med protester mot budsjettkutt og høye levekostnader i åtte byer, inkludert Roma og Milano. Myndighetene har satt inn tunge sikkerhetstiltak, deriblant droner og helikoptre, etter urolighetene forrige helg.",
+        "tittel": "Fastlåst budsjettstrid i EU om langsiktige finanser",
+        "tekst": "EU-ledere sliter med å enes om det neste langtidsbudsjettet for perioden 2028 til 2034.",
+        "utdypning": "Et maratonmøte på et EU-toppmøte klarte ikke å produsere et gjennombrudd for EUs neste langtidsbudsjett. Medlemslandene fremstår som splittet mellom de såkalte nøkterne landene som krever dype kutt, og samholdstilhengerne som avviser kutt. På spill står unionens evne til å finansiere sine strategiske prioriteringer fra 2028.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/tv-shows/talking-europe/20261023-eu-member-states-wrangle-over-all-important-budget-is-a-deal-this-year-feasible"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Høy sikkerhet under levekårsprotester i Italia",
+        "tekst": "Italia ruster opp med tunge sikkerhetstiltak for nye demonstrasjoner mot kutt og levekostnader.",
+        "utdypning": "Italia forbereder seg på nye demonstrasjoner i åtte byer, inkludert Roma og Milano, mot budsjettkutt og høye levekostnader. Etter uroligheter helgen før har myndighetene satt inn omfattende sikkerhetstiltak, inkludert overvåking med droner og helikoptre under marsjene.",
         "kilder": [
           {
             "navn": "France 24",
@@ -116,9 +155,9 @@
     ],
     "Verden": [
       {
-        "tittel": "To israelske soldater drept på Vestbredden",
-        "tekst": "To israelske soldater ble drept i et angrep utført av mistenkte palestinske væpnede menn ved Hebron.",
-        "utdypning": "De to angriperne ble skutt og drept i en skuddveksling utenfor Hebron, fire dager før Israels generalvalg. Statsminister Benjamin Netanyahu opplyste i etterkant at israelske styrker vil beordre husdemoleringer på Vestbredden som følge av angrepet.",
+        "tittel": "Israelske soldater drept på Vestbredden – svarer med riving",
+        "tekst": "Statsminister Benjamin Netanyahu varsler husrivninger etter at to israelske soldater ble drept av væpnede palestinere.",
+        "utdypning": "To israelske soldater ble drept og gjerningspersonene skutt og drept i en skuddveksling utenfor Hebron på Vestbredden, bare dager før Israels generalvalg. Som svar har statsminister Benjamin Netanyahu beordret at israelske styrker skal rive hjemmene til de involverte i området.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -130,24 +169,7 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Skyting og tyfon herjer internasjonalt",
-        "tekst": "Seksten personer ble skutt og drept i en kirke i Jordan, samtidig som tyfonen Champi rammer Taiwan.",
-        "utdypning": "Uidentifiserte væpnede menn åpnet ild under en begravelse i Karak-guvernementet i Jordan, noe som resulterte i at minst sju personer ble drept og 28 såret. Samtidig har tyfonen Champi krevd minst ett liv og skadet over 500 mennesker i Taiwan før den setter kursen mot Kina.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "vekt": 4
       }
     ]
   },

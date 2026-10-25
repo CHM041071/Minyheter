@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Stormen Boelo treffer Norge lørdag kveld med farevarsler om kraftig vind, flom og jordskred.",
+      "tekst": "Nærmere 6000 husstander i Sør-Norge er uten strøm etter at høststormen Boelo traff landet med kraftig vind og fare for flom.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/vestfoldogtelemark/stormvarsel-pa-ostlandet-_-frykter-ikke-_amy_-tilstander-1.18063720"
+          "lenke": "https://www.nrk.no/vestfoldogtelemark/stormen-pa-ostlandet_-flere-tusen-uten-strom-1.18064040"
         }
       ]
     },
     {
-      "tekst": "Ukraina har igjen en stabil tilkobling til Starlink-satelittnettverket etter dager med forstyrrelser.",
+      "tekst": "Fem personer er savnet etter at en borerigg tilhørende det norske selskapet Borr Drilling sank utenfor kysten av Gabon.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596"
+          "lenke": "https://www.nrk.no/nyheter/fem-personer-savnet-etter-at-borerigg-sank-1.18064042"
         }
       ]
     },
     {
-      "tekst": "Ordføreren i Sør-Varanger mener Russland aldri bør få feire freden i Kirkenes igjen.",
+      "tekst": "Ukraina har gjenvunnet stabile internettforbindelser via Starlink etter at restriksjoner tidligere skapte forstyrrelser i militæroperasjonene.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/ordforer_-russland-misbruker-krigshistorien-og-bor-aldri-mer-feire-i-kirkenes-1.18063660"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
         }
       ]
     }
@@ -31,110 +31,79 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Stormvarsel på Østlandet",
-        "tekst": "Stormen Boelo er ventet å treffe Norge lørdag kveld med varsler om kraftig vind, flom og jordskred.",
-        "utdypning": "Stormen «Boelo» rammer landet lørdag kveld. Flere steder i Norge er det sendt ut farevarsler om kraftig vind, flom og jordskred på Østlandet og andre utsatte områder.",
+        "tittel": "Norsk borerigg sank i Gabon",
+        "tekst": "Fem personer er savnet etter at boreriggen «Prospector 5» sank utenfor kysten av Gabon lørdag kveld.",
+        "utdypning": "Ulykken skjedde da boreriggen, eid av det norske selskapet Borr Drilling, mistet stabiliteten mens den forberedte seg på et boreoppdrag. Av de 115 personene om bord er fem ikke gjort rede for, ifølge Reuters. Både norske interesser og utenlandske mannskaper berøres av hendelsen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/stormvarsel-pa-ostlandet-_-frykter-ikke-_amy_-tilstander-1.18063720"
+            "lenke": "https://www.nrk.no/nyheter/fem-personer-savnet-etter-at-borerigg-sank-1.18064042"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Stabil Starlink-forbindelse for Ukraina",
-        "tekst": "Ukraina har igjen en stabil forbindelse til Starlink etter problemer som rammet militære operasjoner.",
-        "utdypning": "Ukraina har igjen en «stabil forbindelse» til Starlink, ifølge myndighetene lørdag. Dette kommer etter dager med spenninger overfor Washington om SpaceX-nettverket som er avgjørende for den ukrainske hærens operasjoner. Ifølge Ukrainas forsvarsminister er hastigheten i Starlink og Starshield på vei opp igjen, etter at tregt nett rammet landets evne til å forsvare seg mot russiske droner.",
+        "tittel": "Tusenvis uten strøm etter storm",
+        "tekst": "Nærmere 6000 husstander i Sør-Norge er strømløse etter at høststormen Boelo herjet natt til søndag.",
+        "utdypning": "Stormen Boelo førte til kraftige vindkast, og det er sendt ut varsler om både flom og jordskred i flere deler av landet. Strømselskapene jobber med å rette feilene etter nattens herjinger, mens uværet fortsetter å prege regionen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063596"
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/stormen-pa-ostlandet_-flere-tusen-uten-strom-1.18064040"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Vil utelukke Russland fra frigjøringsmarkering",
-        "tekst": "Ordføreren i Sør-Varanger mener Russland misbruker krigshistorien og ikke bør få markere frigjøringen i Kirkenes.",
-        "utdypning": "Ordføreren i Sør-Varanger sier at Russland misbruker krigshistorien som propaganda. Han ser ikke for seg at landet noen gang kan få bli med på å markere frigjøringen i Kirkenes igjen.",
+        "tittel": "Kinesisk leverandør saksøker Unibuss",
+        "tekst": "Etter at busselskapet Unibuss trakk seg fra en avtale om busskjøp, krever den kinesiske leverandøren en halv milliard kroner i erstatning.",
+        "utdypning": "Saken gjelder en avbrutt avtale om levering av busser som nå har havnet i retten med et krav på rundt 500 millioner kroner mot det norske busselskapet.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/ordforer_-russland-misbruker-krigshistorien-og-bor-aldri-mer-feire-i-kirkenes-1.18063660"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/stor-oslo/avbestilte-kinesiske-busser-_-na-saksokes-de-for-en-halv-milliard-1.18062920"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Alvorlig ulykke i Nordland",
-        "tekst": "Tre personer er fraktet til sykehus i redningshelikopter etter en bilulykke i Salten.",
-        "utdypning": "En bil med tre personer har kjørt av veien og truffet et tre i Nordland. En person er alvorlig skadd, og alle tre er fraktet til sykehus.",
+        "tittel": "Knivstikking i Oslo: Mann etterlyst internasjonalt",
+        "tekst": "Politiet søker etter en mann i 30-årene som er siktet for grov kroppsskade etter en knivstikking i Oslo sentrum.",
+        "utdypning": "Fornærmede er en kvinne i 30-årene som pådra seg alvorlige, men ikke livstruende skader i hendelsen lørdag ettermiddag. Den siktede mannen er etterlyst internasjonalt på grunn av tilknytning til utlandet, opplyser politiet.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/trafikkulykke-i-beiarn-1.18063758"
-          },
-          {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/alvorlig-ulykke-i-nordland_-tre-personer-fraktes-til-sykehus-i-redningshelikopter-1.18063794"
+            "lenke": "https://www.nrk.no/stor-oslo/knivstikkingen-i-oslo_-mann-etterlyst-internasjonalt-1.18064107"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Beredskapsøvelse for drikkevann i Sverige",
-        "tekst": "Det er gjennomført en stor beredskapsövning for å sikre drikkevannet i tilfelle krise eller krig.",
-        "utdypning": "På laboratoriet SGS i Linköping er det gjennomført en stor beredskapsøvelse. Målet er å raskt kunne avgjøre om dricksvattnet er sikkert under en krisesituasjon. – Dricksvatten är ju samhällets viktigaste livsmedel, påpeker Markus Axelsson, senior specialist på SGS.",
+        "tittel": "Stormen Boelo treffer Sverige",
+        "tekst": "Stormen Boelo beveger seg inn over Sverige søndag med regn og kraftige vindkast på over 20 meter i sekundet.",
+        "utdypning": "Det svenske meteorologiske instituttet SMHI har utstedt flere gule varsler som følge av uværet. Vinden og regnet ventes å ramme store deler av landet i løpet av dagen.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/ost/har-sakras-dricksvattnet-i-handelse-av-kris-eller-krig"
+            "lenke": "https://www.svt.se/nyheter/inrikes/nu-drar-stormen-in-over-sverige-flera-gula-varningar"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       }
     ],
-    "Norden": [
-      {
-        "tittel": "Rekordomsetning for Icelandair",
-        "tekst": "Icelandair la frem sitt beste tredje kvartal noensinne til tross for streik.",
-        "utdypning": "Icelandair oppnådde en omsetning på like under 80 milliarder ISK, en økning på 12 prosent fra året før. Resultatet viste en profitt på nesten 12 milliarder ISK. En flyteknikerstreik sist måned kostet selskapet omtrent 500 millioner ISK, men ledelsen peker på at den underliggende ytelsen var sterk tross høye drivstoffpriser.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-23-record-revenues-for-icelandair-despite-strike-490736/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Endringer på meningsmåling på Island",
-        "tekst": "Samfylkingin øker ledelsen mens Sjálfstæðisflokkurinn faller på ny måling.",
-        "utdypning": "Støtten til Sjálfstæðisflokkurinn har falt med drøyt tre prosentpoeng til 21,9 prosent ifølge en Maskína-måling for Bylgjan. Samfylkingin forblir det mest populære partiet med en oppslutning på 28,6 prosent. De to partiene er de eneste som måler over 14 prosent.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-23-social-democratic-alliance-widens-lead-as-independence-party-falls-back-suggests-survey-490759/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
+    "Norden": [],
     "Europa": [
       {
-        "tittel": "Starlink-forbindelsen stabilisert for Ukraina",
-        "tekst": "Ukraina har gjenvunnet stabil tilkobling til Starlink og Starshield etter avbrudd.",
-        "utdypning": "Ukraina har igjen en stabil forbindelse til Starlink og Starshield, ifølge landets forsvarsminister lørdag. De nylige avbruddene i satellittkommunikasjonen skapte spenninger med Washington rundt SpaceX-nettverket som er avgjørende for ukrainske militæroperasjoner. De trege forbindelsene hadde rammet ukrainske droneoperasjoner i over en uke.",
+        "tittel": "Ukraina melder om stabile Starlink-forbindelser",
+        "tekst": "Ukraina har igjen en stabil forbindelse til satellittsystemene Starlink og Starshield, ifølge landets forsvarsminister.",
+        "utdypning": "Tidligere forstyrrelser i nettverkene skapte spenninger i forholdet til USA, ettersom teknologien er avgjørende for den ukrainske hærens operasjoner. Selskapets eier Elon Musk har anklaget Ukraina for å bryte vilkårene ved å bruke nettet til militære formål, men hastighetene er nå gjenopprettet til det normale.",
         "kilder": [
           {
             "navn": "France 24",
@@ -142,16 +111,20 @@
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 3,
         "vekt": 5
       },
       {
-        "tittel": "Masseprotester og høyt sikkerhetsoppbud i Frankrike",
-        "tekst": "Hundrevis av tusen deltar i nye demonstrasjoner i Frankrike med over 70 000 politifolk utplassert.",
-        "utdypning": "Politiet og elitiserte sikkerhetsstyrker er tungt til stede i franske byer idet tienduvis av mennesker deltar i nye runder med protester. Situasjonen er i ferd med å bli spent i byer som Paris og Marseille. Mer enn 70 000 politifolk er satt inn for å håndtere situasjonen en uke etter omfattende opptøyer.",
+        "tittel": "Masseprotester og sammenstøt i Frankrike",
+        "tekst": "Nesten 1000 personer er arrestert etter at nye, massive protester utartet til sammenstøt med politiet i flere franske byer.",
+        "utdypning": "Titusenvis av demonstranter deltok i markeringene, som ble preget av økende spenning og sammenstøt i gater i blant annet Paris og Marseille. Også i andre europeiske land har det vært liknende markeringer i forbindelse med protestbølgen.",
         "kilder": [
           {
             "navn": "DW",
@@ -159,54 +132,31 @@
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
       },
       {
-        "tittel": "Høye sikkerhetstiltak under italienske protester",
-        "tekst": "Italia forbereder seg på nye demonstrasjoner mot levekostnader med tung overvåking i åtte byer.",
-        "utdypning": "Italia forbereder en ny dag med protester lørdag mot budsjettkutt og høye levekostnader i åtte byer, inkludert Roma og Milano. Myndighetene har innført tunge sikkerhetstiltak med bruk av droner og helikoptre for å overvåke marsjene etter urolighetene helgen før.",
+        "tittel": "Valg i Serbia preget av studentprotester",
+        "tekst": "Serbia avholder et tidlig parlamentsvalg som ventes å bli det mest omstridte på over 14 år.",
+        "utdypning": "Valget skjer i skyggen av en studentledret bevegelse som forsøker å svekke den populistiske lederen Aleksandar Vucics grep om makten. Protestene har pågått i nesten to år etter at en takkollaps i 2024 krevde 16 menneskeliv.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261024-protests-against-cost-of-living-expected-in-italy-under-heavy-security"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Verden": [
-      {
-        "tittel": "USA letter på toll mot Canada",
-        "tekst": "Det hvite hus letter på tollsatser for visse canadiske varer foran midtveisvalget.",
-        "utdypning": "Fra 30. oktober vil tollen lempes på enkelte produkter som visse maskiner, samtidig som nye tollsatser innføres på andre varer som tepper. Endringen kommer i forkant av landets midtveisvalg.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Lokal våpenhvile avtalt i Ukraina",
-        "tekst": "Russland og Ukraina er enige om en amerikansk-meglet våpenhvile for én by.",
-        "utdypning": "Den ukrainske byen Oleshky, som er okkupert av Russland og ligger ved frontlinjen, opplever en humanitær krise og omfattes nå av en lokalisert våpenhvile. Kunngjøringen kommer samtidig som Ukrainas president Volodymyr Zelenskyy opplyser at forhandlere vil møtes til bredere samtaler neste måned.",
-        "kilder": [
+            "lenke": "https://www.france24.com/en/europe/20261025-serbia-holds-parliamentary-election-as-populist-leader-vucic-faces-student-movement"
+          },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 3
       }
-    ]
+    ],
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

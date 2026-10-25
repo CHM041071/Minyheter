@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Høststormen Boelos har etterlatt nærmere 6000 husstander uten strøm i Sør-Norge, og flere meldes værfast på fjellet.",
+      "tekst": "Høststormen «Boelos» har rammet Sør-Norge hardt med strømbrudd og oversvømmelser, og E6 er stengt mellom Lillehammer og Biri.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "tekst": "En navngitt mann i 30-årene er internasjonalt etterlyst etter en knivstikking mot en kvinne i Oslo sentrum.",
+      "tekst": "Politiet etterlyser en mann internasjonalt etter knivstikkingen i Oslo sentrum der en kvinne ble alvorlig skadet.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "Busselskapet Unibuss saksøkes for en halv milliard kroner etter å ha trukket seg fra en avtale om kjøp av kinesiske busser.",
+      "tekst": "Venezuelas opposisjonsleder María Corina Machado har vendt tilbake til hjemlandets jord etter en periode i eksil.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/stor-oslo/avbestilte-kinesiske-busser-_-na-saksokes-de-for-en-halv-milliard-1.18062920"
+          "lenke": "https://www.nrk.no/nyheter/venezuelas-opposisjonsleder-er-tilbake-i-landet-1.18064279"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Høststorm rammer Sør-Norge",
-        "tekst": "Nærmere 6000 husstander i Sør-Norge er uten strøm etter at høststormen Boelos herjet i natt.",
-        "utdypning": "Nærmere 6000 husstander i Sør-Norge er strømløse etter høststormen «Boelos» herjinger i natt. Værsituasjonen skaper også store problemer for reisende i fjellet, der folk sitter værfast på hytter og veier har blitt utilgjengelige. Redningshelikoptre har måttet snu som følge av det dårlige været, og det er utstedt gult farevarsel for høg vassstand i Hordaland.",
+        "tittel": "Tusenvis uten strøm i Sør-Norge",
+        "tekst": "Nærmere 6000 husstander i Sør-Norge er uten strøm etter at høststormen «Boelos» herjet i natt.",
+        "utdypning": "Nærmere 6000 husstander i Sør-Norge er strømløse etter høststormen «Boelos» herjinger i natt. Flere opplever også å være værfast på hytta som følge av været.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,22 +44,22 @@
         "vekt": 5
       },
       {
-        "tittel": "Unibuss saksøkes for en halv milliard",
-        "tekst": "Busselskapet Unibuss saksøkes for en halv milliard kroner av en kinesisk leverandør etter avbrutt busskjøp.",
-        "utdypning": "Busselskapet Unibuss trakk seg fra en avtale om kjøp av kinesiske busser, noe som nå får store økonomiske etterspill. Den kinesiske leverandøren reagerer kraftig på avbruddet og krever nå en halv milliard kroner i erstatning fra det norske busselskapet.",
+        "tittel": "E6 stengt på grunn av oversvømmelser",
+        "tekst": "E6 mellom Vingrom og Biri er stengt som følge av tre ulike oversvømmelser etter mye nedbør.",
+        "utdypning": "E6 mellom Vingrom og Biri er stengt i forbindelse med oversvømmelser. Trafikkoperatør Barbro Evensen Venhagen opplyser at det er tale om tre ulike hendelser, blant annet der en elv har gått over veien. Det er ikke meldt om ulykker, men kjøreforholdene har vært krevende, og det er skiltet omkjøring.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/stor-oslo/avbestilte-kinesiske-busser-_-na-saksokes-de-for-en-halv-milliard-1.18062920"
+            "lenke": "https://www.nrk.no/innlandet/e6-stengt-mellom-lillehammer-og-biri-1.18064357"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
       },
       {
         "tittel": "Internasjonalt etterlyst etter knivstikking i Oslo",
-        "tekst": "En mann i 30-årene er internasjonalt etterlyst etter en knivstikking mot en kvinne i Oslo sentrum.",
-        "utdypning": "Politiet søker fortsatt etter en navngitt siktet etter knivstikkingen i Oslo sentrum lørdag ettermiddag. Mannen, som er i 30-årene, er siktet for grov kroppsskade mot en kvinne i 30-årene. Siktede er etterlyst internasjonalt på grunn av tilknytning til utlandet, opplyser politiet. Fornærmede pådro seg alvorlige, men ikke livstruende skader.",
+        "tekst": "En mann i 30-årene er internasjonalt etterlyst siktet for grov kroppsskade etter knivstikking i Oslo sentrum.",
+        "utdypning": "Politiet søker fortsatt etter en navngitt siktet etter knivstikkingen i Oslo sentrum lørdag ettermiddag. Mannen i 30-årene er siktet for grov kroppsskade og er etterlyst internasjonalt på grunn av tilknytning til utlandet. Fornærmede er en kvinne i 30-årene som er alvorlig, men ikke livstruende skadet.",
         "kilder": [
           {
             "navn": "NRK",
@@ -67,37 +67,16 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 5
       }
     ],
     "Skandinavia": [],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Starlink-hastigheter gjenopprettet i Ukraina",
-        "tekst": "Elon Musk opplyser at SpaceX har gjenopprettet normale hastigheter på Starlink-nettverket i Ukraina.",
-        "utdypning": "Teknologimilliardær Elon Musk anklaget tidligere Ukraina for å bryte tjenestevilkårene ved å bruke nettverket til militære aktiviteter. Restriksjonene på Starlink- og Starshield-forbindelsene hadde ført til forstyrrelser i frontlinjeoperasjonene og skapt spenninger med USA. Ukrainas president Volodymyr Zelenskyj bekreftet lørdag at tilgangen er gjenopprettet til nivået før restriksjonene, og ukrainske myndigheter peker på mangelen på fullgod alternativ satellittinternett-dekning.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Masseprotestene i Frankrike endte med arrestasjoner",
-        "tekst": "Den franske regjeringen opplyser at over 1000 personer ble arrestert under omfattende protester over helgen.",
-        "utdypning": "Hundrevis av tusen deltok i demonstrasjoner i Frankrike, noe som førte til sammenstøt mellom demonstranter og politi samt eliteenheter som var satt inn i store styrker. Protestene inngår i en uke preget av uro, inkludert studentdemonstrasjoner over hele landet. Lignende demonstrasjoner har også funnet sted i andre europeiske land.",
+        "tittel": "Hundrevis arrestert under demonstrasjoner i Frankrike",
+        "tekst": "Den franske regjeringen opplyser at over 1000 personer ble arrestert under omfattende protester og sammenstøt over helgen.",
+        "utdypning": "Hundrevis av tusen deltok i demonstrasjoner i Frankrike, med protester som også fant sted i andre europeiske land. Politiet og eliteenheter var sterkt tilstede da det brøt ut sammenstøt. Hendelsene knytter seg til studentprotester og uro over helgen.",
         "kilder": [
           {
             "navn": "France 24",
@@ -113,12 +92,12 @@
           }
         ],
         "antall_kilder": 3,
-        "vekt": 3
+        "vekt": 4
       },
       {
         "tittel": "Valg i Serbia preget av studentprotester",
-        "tekst": "Serbia avholder parlamentsvalg mens populistleder Aleksandar Vucic utfordres av en studentledet bevegelse.",
-        "utdypning": "Serbia holder det som ansees som landets mest omstridte parlamentsvalg på over 14 år. En studentleded, antikorrupsjonsbevegelse søker å fjerne partiet til den langvarige populistlederen Aleksandar Vucic. Valget kommer etter nesten to år med vedvarende protester som ble utløst av en takkollaps i 2024 som krevde 16 menneskeliv.",
+        "tekst": "Serbia holder parlamentsvalg i det som beskrives som det mest omstridte valget på over 14 år.",
+        "utdypning": "Valget kommer etter nesten to år med studentledede, anti-korrupsjonsprotester som ble utløst av kollapsen av en takkonstruksjon i 2024 som krevde 16 menneskeliv. En studentbevegelse forsøker å fjerne den populistiske lederen Aleksandar Vucic og hans parti fra makten i Balkan-landet.",
         "kilder": [
           {
             "navn": "France 24",
@@ -135,37 +114,16 @@
     ],
     "Verden": [
       {
-        "tittel": "Avgjørende valgrunde i Brasil",
-        "tekst": "Nærmere 160 millioner velgere deltar i andre og siste runde av presidentvalget i Brasil.",
-        "utdypning": "Valget står mellom den venstreorienterte sittende presidenten Luiz Inacio Lula da Silva og utfordreren Flavio Bolsonaro, som er sønn av den tidligere høyreradikale presidenten. Kampen avgjør landets politiske retning for de kommende årene, og meningsmålinger har vist et svært jevnt løp mellom de to vidt forskjellige kandidatene.",
+        "tittel": "Venezuelansk opposisjonsleder tilbake i hjemlandet",
+        "tekst": "Fredsprisvinner og opposisjonsleder María Corina Machado har vendt tilbake til Venezuela etter tid i eksil.",
+        "utdypning": "Venezuelas opposisjonsleder og fredsprisvinner María Corina Machado er tilbake i landet, ifølge allierte og nyhetsbyrået Reuters. Hun har vært i eksil i Panama og borte fra Venezuela i rundt ett år. Allierte publiserte meldinger fra henne der hun bekrefter at hun er tilbake på venezuelansk jord.",
         "kilder": [
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/venezuelas-opposisjonsleder-er-tilbake-i-landet-1.18064279"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Israel stenger grenseoverganger ved Vestbredden",
-        "tekst": "Israels militære stenger alle landegrenser til den okkuperte Vestbredden i forbindelse med valget.",
-        "utdypning": "De israelske forsvarsstyrkene kunngjør strenge restriksjoner og stenging av alle landpasseringer mot Vestbredden i forkant av tirsdagens valg. Tiltaket kommer etter et dødelig angrep fredag der to israelske soldater ble drept av palestinske væpnede menn. Avstengningen rammer blant annet palestinske arbeidere og fører til ytterligere forverring av forholdene i området.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 3
       }
     ]

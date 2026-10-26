@@ -1,7 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Flom og uvær rammer landet med stengt E6, stansede ferger og økende vannstand på Vestlandet.",
+      "tekst": "Utenriksminister Espen Barth Eide minner om at Nobelkomiteen er uavhengig etter Donald Trumps kritikk av Norge.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/eide_-_-han-vet-at-nobelkomiteen-er-uavhengig-1.18064642"
+        }
+      ]
+    },
+    {
+      "tekst": "Flom- og høyt vannstand-varsler rammer Vestlandet og Skagerrak, der brygger stenges og ferger må snu.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +19,11 @@
       ]
     },
     {
-      "tekst": "Nordic Mining stanser driften ved Førdefjorden midlertidig for å unngå konkurs under eitt år etter oppstart.",
+      "tekst": "Teknologiganten Microsoft kutter om lag 60.000 ansatte globalt gjennom frivillige sluttpakker.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/vestland/nordic-mining-stanser-gruvedrifta-midlertidig-for-a-spare-pengar-1.18064666"
-        }
-      ]
-    },
-    {
-      "tekst": "Sør-Varanger rammes av ny stor vannlekkasje, noe som setter sykehuset i rød beredskap og stenger skoler.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/vannmangel-i-sor-varanger_-kjell-henter-vann-i-elva-1.18064714"
+          "lenke": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188"
         }
       ]
     }
@@ -31,9 +31,35 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Flom og uvær skaper problemer",
-        "tekst": "Danskebåten måtte snu i Skagerrak, og det er gult farevarsel for flom og høy vannstand på Vestlandet mandag formiddag.",
-        "utdypning": "Det er sendt ut gult farevarsel for flom og høy vannstand mandag formiddag. Bryggen i Bergen er stengt, vannet stiger i Vågen i Stavanger, og i Skagerrak måtte danskebåten snu som følge av det kraftige uværet.",
+        "tittel": "Eide avviser Trump-kritikk om Nobels fredspris",
+        "tekst": "USAs president Donald Trump kritiserer Norge etter å ha blitt kuppet for fredsprisen. Utenriksminister Espen Barth Eide understreker at komiteen er uavhengig.",
+        "utdypning": "Under et valgkamparrangement søndag la USAs president Donald Trump skylden på norske myndigheter for at han ikke fikk Nobels fredspris, og omtalte landet i harde ordelag. Utenriksminister Espen Barth Eide (Ap) kommenterte saken til NRK mandag morgen og minnet om at Nobelkomiteen er uavhengig.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/eide_-_-han-vet-at-nobelkomiteen-er-uavhengig-1.18064642"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Bloomberg: Microsoft tilbyr sluttpakker til 60.000 ansatte",
+        "tekst": "Microsoft tilbyr 60.000 ansatte sluttpakker i et internt kuttnotat. Tilbudet gjelder ansatte i land som USA, Canada, India og Storbritannia.",
+        "utdypning": "Ifølge Bloomberg har teknologiselskapet Microsoft tilbudt 60.000 ansatte sluttpakker. Tilbudet kom frem i et internt notat sendt ut mandag fra HR-sjef Amy Coleman, og omfatter ansatte i USA, Canada, India og Storbritannia ifølge AFP.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Gult farevarsel for flom og høy vannstand på Vestlandet",
+        "tekst": "Flom og høyt vannstand gir stengte gater i Bergen, stigende vann i Stavanger og at danskebåten i Skagerrak måtte snu.",
+        "utdypning": "Det er sendt ut gult farevarsel for flom og høy vannstand mandag formiddag. Situasjonen har ført til at Bryggen i Bergen er stengt, vannet stiger i Vågen i Stavanger, og danskebåten måtte snu i Skagerrak.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,64 +70,52 @@
         "vekt": 5
       },
       {
-        "tittel": "E6 stengt på grunn av oversvømmelser",
-        "tekst": "E6 mellom Vingrom og Biri er stengt mandag morgen etter tre ulike oversvømmelser og krevende kjøreforhold.",
-        "utdypning": "E6 mellom Vingrom og Biri er stengt i forbindelse med oversvømmelser. Det er ikke bare én, men tre ulike hendelser som gjør at det er stengt, inkludert en elv som har gått over veien. Det er skiltet omkjøring via fylkesvei 213 om Moelv, og det er tatt høyde for at det fortsatt er mye nedbør på stedet.",
+        "tittel": "Umoe Mandal med i kampen om milliardkontrakt",
+        "tekst": "Umoe Mandal har inngått et verftssamarbeid med mål om å levere 30 fartøy til det norske og britiske forsvaret.",
+        "utdypning": "Umoe Mandal har inngått samarbeid med flere andre verft for å posisjonere seg for en stor avtale. De ønsker å levere til sammen 30 nye fartøy til både det norske og det britiske forsvaret.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/innlandet/e6-stengt-mellom-lillehammer-og-biri-1.18064357"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/forsvarskontrakt-sorlandet-1.18064870"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Vannkrise i Kirkenes",
-        "tekst": "Sør-Varanger er rammet av en stor vannlekkasje som har satt sykehuset i rød beredskap og stengt skoler.",
-        "utdypning": "Sør-Varanger er igjen rammet av en stor vannlekkasje. Sykehuset er satt i rød beredskap, og skoler holder stengt mens innbyggerne oppfordres til å rasjonere på vannet og hjelpe hverandre.",
+        "tittel": "Sommerbetaling på gratisferger ga uventede utslag",
+        "tekst": "Fylket fikk inn dobbelt så mye som antatt på fergebetaling for turister, men regningen ble i stor grad betalt av kystbefolkningen.",
+        "utdypning": "Meningen med sommerbetalingen på de tradisjonelt gratis fergene var å begrense køer og kreve inn penger fra turister. I stedet fikk fylket inn det doble av det antatte beløpet, og lokalbefolkningen endte opp med å ta én tredjedel av regningen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/vannmangel-i-sor-varanger_-kjell-henter-vann-i-elva-1.18064714"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Nordic Mining stanser driften",
-        "tekst": "Under et år etter oppstarten stopper Nordic Mining gruvedriften ved Førdefjorden midlertidig for å spare penger.",
-        "utdypning": "Under ett år etter oppstarten stansar Nordic Mining gruvedrifta ved Førdefjorden mellombels for å spare pengar. – Klart at situasjonen er kritisk, seier investeringsdirektør i selskapet.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestland/nordic-mining-stanser-gruvedrifta-midlertidig-for-a-spare-pengar-1.18064666"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "NRK innvilger over hundre sluttpakker",
-        "tekst": "NRK har innvilget 106 søknader om sluttpakke for å tilpasse organisasjonen og arbeidsflyten.",
-        "utdypning": "NRK har innvilget 106 søknader om sluttpakke av 183 innsendte søknader. Kringkastingssjef Vibeke Fürst Haugen sier tiltaket er nødvendig for å utvikle måten en jobber på med nye verktøy og roller. Totalt 51 søknader ble avslått av hensyn til kritisk kjernekompetanse, ti personer trakk søknaden sin, og de resterende 16 ble håndtert særskilt.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/106-ansatte-far-sluttpakke-i-nrk-1.18064707"
+            "lenke": "https://www.nrk.no/nordland/nordland-fylkeskommune-havet-inn-34-millioner-pa-gratisfergene-1.18061071"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       }
     ],
-    "Skandinavia": [],
+    "Skandinavia": [
+      {
+        "tittel": "Lula vinner det brasilianske presidentvalget",
+        "tekst": "Brasils venstreorienterte president Lula da Silva har vunnet andre omgang og er gjenvalgt.",
+        "utdypning": "Ifølge DR har Lula da Silva sikret valgseieren i Brasil etter en jevn runde. Søramerika-korrespondent Kristian Almblad uttaler at Lula har snudd skuden.",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/praesident-lula-slaar-bolsonaro-og-vinder-valget-i-brasilien"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
     "Norden": [
       {
-        "tittel": "Advarer om alvorlige IT-sårbarheter",
-        "tekst": "Flere alvorlige sikkerhetssårbarheter vil komme til overflaten, advarer islandske IT-eksperter.",
-        "utdypning": "Flere alvorlige sikkerhetssårbarheter, som de som ble identifisert i PHP-programmeringsspråket nylig, vil komme til syne ifølge Ingólfur Andri Ágústsson, en cybersikkerhetsekspert ved OK. Han understreker at det er viktig å kartlegge systemer og etablere forsvar, da opptil 70 prosent av internetts nettsteder benytter PHP og ondsinnede aktører kan utnytte svakhetene til å påføre stor skade.",
+        "tittel": "Advarer om økt fare for alvorlige IT-sårbarheter",
+        "tekst": "Flere alvorlige sikkerhetssårbarheter i programmeringsspråk som PHP vil trolig komme til overflaten fremover, advarer eksperter.",
+        "utdypning": "Ingólfur Andri Ágústsson, sikkerhetsekspert i den islandske IT-tjenesteyteren OK, peker på at alvorlige svakheter på linje med nylige funn i PHP vil avdekkes. Siden opp mot 70 prosent av internetts nettsider baserer seg på PHP, understreker han viktigheten av å kartlegge systemer og etablere forsvar mot ondsinnede aktører som kan utnytte feilene.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -110,48 +124,96 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
+      },
+      {
+        "tittel": "Reaksjoner etter islandsk dom om seksuell vold",
+        "tekst": "Over 8000 har signert opprop for en uavhengig gjennomgang etter en frifinnelsesdom i en voldtektssak.",
+        "utdypning": "En islandsk lagmannsrett frikjente en mann for voldtekt med den begrunnelse at kvinnen hadde samtykket til hard sex, til tross for at hun pådro seg alvorlige skader som brukket ribbein og hørselstap. Dommen har vakt kraftige reaksjoner, og over 8000 har signert et opprop for å granske behandlingen av slike saker fra etterforskning til rettssal.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-10-26-sexual-violence-support-group-outrage-over-court-of-appeal-ruling-understandable-490897/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Aleksandar Vučić erkjenner valgnederlag i Serbia",
-        "tekst": "Serbias president har erkjent nederlag i et historisk valg etter en massiv studentledet opposisjonsbølge.",
-        "utdypning": "Serbias langvarige leder Aleksandar Vučić har erkjent nederlag i et historisk parlamentsvalg etter en valgdeltakelse på nærmere 70 prosent – den høyeste siden Jugoslavias oppløsning i 1992. Valget kom etter to år med studentledede demonstrasjoner mot korrupsjon og autoritært styre, utløst av at en stasjonskoffert i Novi Sad kollapset i 2024 og krevde 16 menneskeliv. Seieren til den studentledede bevegelsen utløste elleville feiringer i Belgrads gater.",
+        "tittel": "Serbias Vučić erkjenner nederlag for studentbevegelse",
+        "tekst": "Aleksandar Vučić har erkjent nederlag i det serbiske parlamentsvalget etter et historisk oppgjør mot det langvarige styret.",
+        "utdypning": "I et politisk jordskjelv har Serbias mangeårige leder Aleksandar Vučić tapt valget for en studentledet opposisjonsbevegelse. Valget hadde en valgdeltakelse på nær 70 prosent – den høyeste siden Jugoslavias oppløsning i 1992 – utløst etter protester mot korrupsjon og myndighetenes håndtering av en tragisk stasjonskollaps i Novi Sad.",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/c8x23x1yn6w6o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout"
+            "lenke": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next"
           },
           {
             "navn": "DW World",
             "lenke": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
+        "antall_kilder": 2,
         "vekt": 4
+      },
+      {
+        "tittel": "Lav valgdeltakelse i Bulgaria utløser omvalg",
+        "tekst": "Rekordlav valgdeltakelse i Bulgaria fører til en presidentomgang 1. november preget av dype skillelinjer om Ukraina-krigen.",
+        "utdypning": "Bulgarias presidentvalg endte i en ny runde etter svært lav oppslutning blant velgerne. Avstemningen er preget av sterke motsetninger knyttet til Russlands krig i Ukraina og landets relasjoner til Kreml.",
+        "kilder": [
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Macron lover tiltak etter franske elevprotester",
+        "tekst": "Frankrikes president Emmanuel Macron varsler konkrete tiltak mandag for å møte elevenes misnøye etter ukesvis med uro.",
+        "utdypning": "President Emmanuel Macron opplyste at regjeringen vil legge frem konkrete mottrekk etter omfattende protester fra skoleelever. Statsminister Sébastien Lecornu er satt til å møte studentrepresentanter i løpet av mandagen for å drøfte situasjonen.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Lula gjenvalgt som president i Brasil",
-        "tekst": "Venstreorienterte Luiz Inácio Lula da Silva har vunnet gjenvalg til en historisk fjerde periode.",
-        "utdypning": "Brasils venstreorienterte president Lula har beseiret den konservative utfordreren Flávio Bolsonaro i en svært jevn valgomgang og sikret seg en historisk fjerde periode i embetet. Utfordreren Bolsonaro har nektet å anerkjenne resultatet og bedt om at det blir annullert, mens Lula har takket velgerne for å ha forsvart demokratiet i en valgkamp der nesten 160 millioner velgere var stemmeberettigede.",
+        "tittel": "Venezuelansk opposisjonsleder Machado tilbake fra eksil",
+        "tekst": "Den prisbelønte opposisjonslederen María Corina Machado har returnert til Caracas etter nesten et år i eksil.",
+        "utdypning": "María Corina Machado ble mottatt av tusenvis av jublende støttespillere da hun ankom Caracas. Hun hadde forlatt landet kort tid før den amerikanske regjeringen pågrep den avsatte presidenten Nicolás Maduro.",
         "kilder": [
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 3
+      },
+      {
+        "tittel": "Lula sikrer seg fjerde periode i Brasil",
+        "tekst": "Venstreorienterte Lula da Silva vant presidentvalget i Brasil etter en dramatisk valgthriller mot utfordreren.",
+        "utdypning": "Sittende president Lula da Silva snudde et tidligere nederlag fra første runde og sikret seg en historisk fjerde presidentperiode etter å ha slått utfordreren Flávio Bolsonaro i en svært jevn andre omgang.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ]
   },

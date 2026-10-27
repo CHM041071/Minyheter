@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Utenriksminister Espen Barth Eide avviser Donald Trumps kritikk av Norge og minner om at Nobelkomiteen er uavhengig.",
+      "tekst": "Norge og Finland har hatt en sjelden samtale med Russlands president Vladimir Putin om Ukraina-krigen.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/eide_-_-han-vet-at-nobelkomiteen-er-uavhengig-1.18064642"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "Sør-Varanger står i fare for å gå tom for vann tirsdag kveld og ber innbyggerne stanse alt unødvendig forbruk.",
+      "tekst": "Danmark kritiserer Finland og Norge for å ha ringt Putin uten å koordinere med sine allierte.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "Helse Møre og Romsdal snur og dropper de omstridde kuttene i de distriktspsykiatriske sentrene.",
+      "tekst": "Et nytt nordisk samarbeid mellom nordre Sverige, Norge og Finland skal sikre blodtilgangen i krise og krig.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688"
+          "navn": "SVT",
+          "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/nytt-nordisk-samarbete-ska-ge-battre-tillgang-till-blod"
         }
       ]
     }
@@ -31,65 +31,13 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Eide svarer Trump om fredsprisen",
-        "tekst": "Utenriksminister Espen Barth Eide understreker at Nobelkomiteen er uavhengig etter at Donald Trump kom med kraftig kritikk av Norge.",
-        "utdypning": "USAs president Donald Trump er fortsatt misfornøyd med at han ikke fikk Nobels fredspris i år. Under et valgkamparrangement søndag la han skylden på norske myndigheter og kalte Norge et «shit house»-land. Utenriksminister Espen Barth Eide (Ap) kommenterte uttalelsene mandag morgenen overfor NRK og slo fast at Trump vet svært godt at Nobelkomiteen er uavhengig.",
+        "tittel": "Norske velgere i Israel",
+        "tekst": "Tusenvis av jøder har fløyet til Israel for å stemme mot Benjamin Netanyahu i dagens valg.",
+        "utdypning": "Tusenvis av jøder har reist til Israel for å delta i det skjebnesvangre valget, hvor de kan være med på å avgjøre om Benjamin Netanyahu beholder makten. Valget holdes i en spent situasjon preget av sikkerhetsdebatter og demokrati.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/eide_-_-han-vet-at-nobelkomiteen-er-uavhengig-1.18064642"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Vannkrise i Sør-Varanger",
-        "tekst": "Sør-Varanger kommune risikerer å gå helt tom for vann tirsdag kveld og oppfordrer innbyggerne til å kutte forbruket umiddelbart.",
-        "utdypning": "Krisen har oppstått på grunn av et vannbrudd. Kommunen melder at situasjonen er så alvorlig at innbyggerne ikke en gang skal pusse tennene i springvann. Hvis ikke forbruket stanses tvert, vil reservene være helt tømt innen klokken 19 tirsdag kveld.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Dropper kutt i psykiatrien i Møre og Romsdal",
-        "tekst": "Helse Møre og Romsdal har snudd og droppar likevel å legge ned et distriktspsykiatrisk senter i Molde og Kristiansund.",
-        "utdypning": "Beslutningen om å skrinlegge de omstridde kuttene skapte store gledesscener blant de ansatte. Tillitsvalgte forteller at folk gråt av glede da meldingen om at sentrene blir reddet ble kjent.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Debatt om regjeringens nye leseliste for skolen",
-        "tekst": "Kunnskapsministerens oppdatering av leselisten for norskfaget spenner fra Henrik Ibsen til Karpe, men høster blandet kritikk.",
-        "utdypning": "15 år gamle Elon reagerer på at han ikke kjenner til flere av navnene på listen. Samtidig peker en professor på at flere av tekstene som er valgt ut, holder dårlig kvalitet, selv om hensikten er å løfte norskfaget.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/kari-nessa-nordtun-og-regjeringen-vil-endre-laereplanen-_-elevene-har-ikke-hort-om-tekstene-1.18061029"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "«Profeten»-paret må dekke TV 2s saksomkostninger",
-        "tekst": "Hordaland tingrett har avgjort at paret bak det tilbaketrukne søksmålet mot TV 2 må betale 300 000 kroner.",
-        "utdypning": "Christian Sønstebø og Carine Smeby Schackt saksøkte mediehuset etter dokumentaren «Kollaps - profeten i Bærum», men trakk søksmålet allerede dagen etter. Tirsdag morgen falt avgjørelsen om at de må dekke TV 2s saksomkostninger på 300 000 kroner. Dokumentaren omhandler miljøet rundt Sønstebø på Nordhaug gård og har vakt sterke reaksjoner.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/_profeten_-ma-betale-300.000-til-tv-2-1.18065689"
+            "lenke": "https://www.nrk.no/urix/daniel-er-velgeren-netanyahu-frykter-1.18065943"
           }
         ],
         "antall_kilder": 1,
@@ -98,9 +46,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Nytt nordisk blodsamarbeid for kriser og krig",
-        "tekst": "Norra Sverige, Norge og Finland etablerer et nytt samarbeid for å sikre tilgang til blod i nødsituasjoner.",
-        "utdypning": "Prosjektet blir fremhevet som en av de mest prioriterte beredskapsplanene i nordområdene akkurat nå. Ifølge beredskapsöverläkare Henrik Brännholm i Region Norrbotten skal ordningen garantere at det alltid finnes blod tilgjengelig ved kriser og krig.",
+        "tittel": "Nytt nordisk blodsamarbeid for krise og krig",
+        "tekst": "Nordre Sverige, Norge og Finland etablerer et samarbeid for å sikre nok blod i krisesituasjoner.",
+        "utdypning": "Et nytt samarbeid mellom nordre Sverige, Norge og Finland er satt i gang for å garantere at blod alltid er tilgjengelig i nødstilfeller som kriser eller krig. Ifølge beredskapsöverläkare Henrik Brännholm i Region Norrbotten er dette et av de mest prioriterte beredskapsprosjektene i regionen akkurat nå.",
         "kilder": [
           {
             "navn": "SVT",
@@ -113,9 +61,26 @@
     ],
     "Norden": [
       {
-        "tittel": "Nordisk råd krever bedre krisekoordinering",
-        "tekst": "Sikkerhet og forsvar står i sentrum når Nordisk råd samles til sin 78. sesjon i Helsingfors denne uken.",
-        "utdypning": "Finland innehar formannskapet i år. Islandske delegater og andre parlamentarikere peker på at de nordiske landene ikke var tilstrekkelig koordinerte under pandemien. Hovedfokuset nå er å sikre at landene står bedre sammen i fremtidige kriser.",
+        "tittel": "Støre og Stubb i samtale med Putin",
+        "tekst": "Jonas Gahr Støre og Alexander Stubb har snakket med Vladimir Putin om å avslutte krigen i Ukraina.",
+        "utdypning": "Statsminister Jonas Gahr Støre og Finlands president Alexander Stubb gjennomførte tirsdag en sjelden samtale med Russlands president Vladimir Putin. Dette er første gang europeiske ledere har hatt direkte kontakt med den russiske lederen på over et år, noe som har vakt reaksjoner blant allierte.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Nordisk krisekoordinering på dagsordenen",
+        "tekst": "Sikkerhet og forsvar er hovedfokus under Nordisk råds sesjon i Helsingfors denne uken.",
+        "utdypning": "Under Nordisk råds 78. sesjon i Helsingfors er det bred enighet om at de nordiske landene må bli bedre koordinert i møte med fremtidige kriser. Islands delegasjon peker på at koronapandemien viste at samordningen ikke var god nok, og at sikkerhet og forsvar nå må prioriteres høyere i det felles nordiske samarbeidet.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -124,97 +89,36 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Island vil kutt maksimal løpetid på indekslån",
-        "tekst": "Det islandske finansdepartementet foreslår å redusere maksimal løpetid på nye indekslån fra 40 til 25 år.",
-        "utdypning": "Målet med lovendringen, som etter planen skal tre i kraft 1. januar 2027, er å sikre at hovedstolen ikke øker nominelt over en 12-månedersperiode ved en inflasjon på 2,5 prosent. Høringsperioden er nå avsluttet med 16 innkomne svar, hvor blant annet SA motsetter seg de foreslåtte endringene.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-27-consultation-comments-favour-reducing-indexation-but-not-governments-planned-actions-490986/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Serbias regjerende parti slått av studentbevegelse",
-        "tekst": "Aleksandar Vučić erkjenner valgnederlag i Serbia etter 14 år ved makten, etter at en studentledet bevegelse vant valget.",
-        "utdypning": "Valget beskrives som et historisk tidsskifte i serbisk politikk. Feiringen brøt ut i Belgrads gater mandag, der innbyggere tutet med horn og ryddet opp parker etter Vučić-lojalister. Eksperter og analytikere advarer om at den nye, ennå ikke navngitte studentledelsen står overfor en lang rekke krevende oppgaver.",
+        "tittel": "Lokal våpenhvile mellom Russland og Ukraina",
+        "tekst": "En lokalisert våpenhvile har trådt i kraft i Ukraina for å slippe til en humanitær misjon.",
+        "utdypning": "En begrenset våpenhvile mellom Ukraina og Russland startet tirsdag for å legge til rette for en humanitær misjon ledet av USAs førstedame Melania Trump. Våpenhvilen gjelder i den russiskokkupert byen Oleshky, hvor rundt 2.000 mennesker er fanget med akutt mangel på mat og medisin etter hard kamphandling og flom.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/spotlight/20261027-they-should-be-afraid-serbia-s-student-led-victory-over-vu%C4%8Di%C4%87-sends-warning-to-corrupt-leaders"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Nato-makter lover større europeisk ansvarsdeling",
-        "tekst": "Forsvarsministrene fra Frankrike, Tyskland, Italia, Polen og Storbritannia lover å ta større ansvar for europeisk sikkerhet.",
-        "utdypning": "Under et møte i Paris mandag bekreftet de fem landene at USA forblir en «uavhengig alliert». Målet er å styrke Europas egen forsvarsrolle samtidig som det legges opp til et tettere samarbeid med Washington.",
-        "kilder": [
+            "lenke": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation"
+          },
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Advarer om at USAs tollvåpen mot EU kan ramme Airbus-lån",
-        "tekst": "USA truer med å oppheve tollvåpenhvilen med EU som følge av et europeisk investeringsbanklån til flyprodusenten Airbus.",
-        "utdypning": "US Trade Representative Jamieson Greer uttalte mandag at et lån på 3,4 milliarder dollar til Airbus kan sette avtalen i fare. Washington har ikke mottatt detaljer om finansieringen som ble annonsert i juni, og krever at EU rydder opp raskt.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump"
-          }
-        ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Israel avholder nyvalg preget av sikkerhet",
-        "tekst": "Israel stemmer i et svært jevnt og avgjørende valg, det første siden terrorangrepet 7. oktober.",
-        "utdypning": "Statsminister Benjamin Netanyahu kjemper for å beholde makten mot en blokk ledet av tidligere militærsjef Gadi Eisenkot. Mange frykter at ingen av de ledende blokkene vil sikre flertall, noe som kan lede til ukesvis eller månedsvis med politisk tautrekking.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Luiz Inácio Lula da Silva vinner valget i Brasil",
-        "tekst": "Brasils venstreorienterte president Lula sikret seg en overraskende seier i presidentvalget mot ytre høyre-kandidat Flávio Bolsonaro.",
-        "utdypning": "Valgthrilleren endte med at Bolsonaros eget parti offisielt anerkjenner Lulas valgseier. Seieren markerer et dramatisk comeback for den sittende presidenten, som tapte første runde mot utfordreren.",
+        "tittel": "Parlamentsvalg i Israel",
+        "tekst": "Israeltene stemmer i sitt første valg siden terrorangrepet 7. oktober.",
+        "utdypning": "Benjamin Netanyahu kjemper for å beholde makten i et svært jevnt valg mot en opposisjonsblokk ledet av tidligere militærsjef Gadi Eisenkot. Valgdeltakelsen har nådd rekordhøye nivåer midtveis i valgdagen, og arabiske partier antas å kunne bli en avgjørende vippefaktor i forhandlingene som venter.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Ukraina og Russland innleder våpenhvile i Oleshky",
-        "tekst": "Partene har startet en lokal våpenhvile i Oleshky for å gjennomføre en humanitær misjon.",
-        "utdypning": "Omtrent 2 000 mennesker er fortsatt strandet i byen med store mangler på mat og medisiner. Den russiskokkupert byen har vært hardt rammet av både kamphandlinger og oversvømmelser siden invasjonen i 2022.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

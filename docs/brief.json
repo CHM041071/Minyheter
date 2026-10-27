@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Utenriksminister Espen Barth Eide minner om at Nobelkomiteen er uavhengig etter Donald Trumps kritikk av Norge.",
+      "tekst": "Utenriksminister Espen Barth Eide avviser Donald Trumps kritikk av Norge og minner om at Nobelkomiteen er uavhengig.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Flom- og høyt vannstand-varsler rammer Vestlandet og Skagerrak, der brygger stenges og ferger må snu.",
+      "tekst": "Sør-Varanger står i fare for å gå tom for vann tirsdag kveld og ber innbyggerne stanse alt unødvendig forbruk.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/vestland/bryggen-i-bergen-er-stengt-for-trafikk-pa-grunn-av-fare-for-flom-1.18064643"
+          "lenke": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754"
         }
       ]
     },
     {
-      "tekst": "Teknologiganten Microsoft kutter om lag 60.000 ansatte globalt gjennom frivillige sluttpakker.",
+      "tekst": "Helse Møre og Romsdal snur og dropper de omstridde kuttene i de distriktspsykiatriske sentrene.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188"
+          "lenke": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Eide avviser Trump-kritikk om Nobels fredspris",
-        "tekst": "USAs president Donald Trump kritiserer Norge etter å ha blitt kuppet for fredsprisen. Utenriksminister Espen Barth Eide understreker at komiteen er uavhengig.",
-        "utdypning": "Under et valgkamparrangement søndag la USAs president Donald Trump skylden på norske myndigheter for at han ikke fikk Nobels fredspris, og omtalte landet i harde ordelag. Utenriksminister Espen Barth Eide (Ap) kommenterte saken til NRK mandag morgen og minnet om at Nobelkomiteen er uavhengig.",
+        "tittel": "Eide svarer Trump om fredsprisen",
+        "tekst": "Utenriksminister Espen Barth Eide understreker at Nobelkomiteen er uavhengig etter at Donald Trump kom med kraftig kritikk av Norge.",
+        "utdypning": "USAs president Donald Trump er fortsatt misfornøyd med at han ikke fikk Nobels fredspris i år. Under et valgkamparrangement søndag la han skylden på norske myndigheter og kalte Norge et «shit house»-land. Utenriksminister Espen Barth Eide (Ap) kommenterte uttalelsene mandag morgenen overfor NRK og slo fast at Trump vet svært godt at Nobelkomiteen er uavhengig.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,95 +44,95 @@
         "vekt": 5
       },
       {
-        "tittel": "Bloomberg: Microsoft tilbyr sluttpakker til 60.000 ansatte",
-        "tekst": "Microsoft tilbyr 60.000 ansatte sluttpakker i et internt kuttnotat. Tilbudet gjelder ansatte i land som USA, Canada, India og Storbritannia.",
-        "utdypning": "Ifølge Bloomberg har teknologiselskapet Microsoft tilbudt 60.000 ansatte sluttpakker. Tilbudet kom frem i et internt notat sendt ut mandag fra HR-sjef Amy Coleman, og omfatter ansatte i USA, Canada, India og Storbritannia ifølge AFP.",
+        "tittel": "Vannkrise i Sør-Varanger",
+        "tekst": "Sør-Varanger kommune risikerer å gå helt tom for vann tirsdag kveld og oppfordrer innbyggerne til å kutte forbruket umiddelbart.",
+        "utdypning": "Krisen har oppstått på grunn av et vannbrudd. Kommunen melder at situasjonen er så alvorlig at innbyggerne ikke en gang skal pusse tennene i springvann. Hvis ikke forbruket stanses tvert, vil reservene være helt tømt innen klokken 19 tirsdag kveld.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Gult farevarsel for flom og høy vannstand på Vestlandet",
-        "tekst": "Flom og høyt vannstand gir stengte gater i Bergen, stigende vann i Stavanger og at danskebåten i Skagerrak måtte snu.",
-        "utdypning": "Det er sendt ut gult farevarsel for flom og høy vannstand mandag formiddag. Situasjonen har ført til at Bryggen i Bergen er stengt, vannet stiger i Vågen i Stavanger, og danskebåten måtte snu i Skagerrak.",
+        "tittel": "Dropper kutt i psykiatrien i Møre og Romsdal",
+        "tekst": "Helse Møre og Romsdal har snudd og droppar likevel å legge ned et distriktspsykiatrisk senter i Molde og Kristiansund.",
+        "utdypning": "Beslutningen om å skrinlegge de omstridde kuttene skapte store gledesscener blant de ansatte. Tillitsvalgte forteller at folk gråt av glede da meldingen om at sentrene blir reddet ble kjent.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestland/bryggen-i-bergen-er-stengt-for-trafikk-pa-grunn-av-fare-for-flom-1.18064643"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Umoe Mandal med i kampen om milliardkontrakt",
-        "tekst": "Umoe Mandal har inngått et verftssamarbeid med mål om å levere 30 fartøy til det norske og britiske forsvaret.",
-        "utdypning": "Umoe Mandal har inngått samarbeid med flere andre verft for å posisjonere seg for en stor avtale. De ønsker å levere til sammen 30 nye fartøy til både det norske og det britiske forsvaret.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/forsvarskontrakt-sorlandet-1.18064870"
+            "lenke": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Sommerbetaling på gratisferger ga uventede utslag",
-        "tekst": "Fylket fikk inn dobbelt så mye som antatt på fergebetaling for turister, men regningen ble i stor grad betalt av kystbefolkningen.",
-        "utdypning": "Meningen med sommerbetalingen på de tradisjonelt gratis fergene var å begrense køer og kreve inn penger fra turister. I stedet fikk fylket inn det doble av det antatte beløpet, og lokalbefolkningen endte opp med å ta én tredjedel av regningen.",
+        "tittel": "Debatt om regjeringens nye leseliste for skolen",
+        "tekst": "Kunnskapsministerens oppdatering av leselisten for norskfaget spenner fra Henrik Ibsen til Karpe, men høster blandet kritikk.",
+        "utdypning": "15 år gamle Elon reagerer på at han ikke kjenner til flere av navnene på listen. Samtidig peker en professor på at flere av tekstene som er valgt ut, holder dårlig kvalitet, selv om hensikten er å løfte norskfaget.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/nordland-fylkeskommune-havet-inn-34-millioner-pa-gratisfergene-1.18061071"
+            "lenke": "https://www.nrk.no/rogaland/kari-nessa-nordtun-og-regjeringen-vil-endre-laereplanen-_-elevene-har-ikke-hort-om-tekstene-1.18061029"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
+      },
+      {
+        "tittel": "«Profeten»-paret må dekke TV 2s saksomkostninger",
+        "tekst": "Hordaland tingrett har avgjort at paret bak det tilbaketrukne søksmålet mot TV 2 må betale 300 000 kroner.",
+        "utdypning": "Christian Sønstebø og Carine Smeby Schackt saksøkte mediehuset etter dokumentaren «Kollaps - profeten i Bærum», men trakk søksmålet allerede dagen etter. Tirsdag morgen falt avgjørelsen om at de må dekke TV 2s saksomkostninger på 300 000 kroner. Dokumentaren omhandler miljøet rundt Sønstebø på Nordhaug gård og har vakt sterke reaksjoner.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/_profeten_-ma-betale-300.000-til-tv-2-1.18065689"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Lula vinner det brasilianske presidentvalget",
-        "tekst": "Brasils venstreorienterte president Lula da Silva har vunnet andre omgang og er gjenvalgt.",
-        "utdypning": "Ifølge DR har Lula da Silva sikret valgseieren i Brasil etter en jevn runde. Søramerika-korrespondent Kristian Almblad uttaler at Lula har snudd skuden.",
+        "tittel": "Nytt nordisk blodsamarbeid for kriser og krig",
+        "tekst": "Norra Sverige, Norge og Finland etablerer et nytt samarbeid for å sikre tilgang til blod i nødsituasjoner.",
+        "utdypning": "Prosjektet blir fremhevet som en av de mest prioriterte beredskapsplanene i nordområdene akkurat nå. Ifølge beredskapsöverläkare Henrik Brännholm i Region Norrbotten skal ordningen garantere at det alltid finnes blod tilgjengelig ved kriser og krig.",
         "kilder": [
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/praesident-lula-slaar-bolsonaro-og-vinder-valget-i-brasilien"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/nytt-nordisk-samarbete-ska-ge-battre-tillgang-till-blod"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Norden": [
       {
-        "tittel": "Advarer om økt fare for alvorlige IT-sårbarheter",
-        "tekst": "Flere alvorlige sikkerhetssårbarheter i programmeringsspråk som PHP vil trolig komme til overflaten fremover, advarer eksperter.",
-        "utdypning": "Ingólfur Andri Ágústsson, sikkerhetsekspert i den islandske IT-tjenesteyteren OK, peker på at alvorlige svakheter på linje med nylige funn i PHP vil avdekkes. Siden opp mot 70 prosent av internetts nettsider baserer seg på PHP, understreker han viktigheten av å kartlegge systemer og etablere forsvar mot ondsinnede aktører som kan utnytte feilene.",
+        "tittel": "Nordisk råd krever bedre krisekoordinering",
+        "tekst": "Sikkerhet og forsvar står i sentrum når Nordisk råd samles til sin 78. sesjon i Helsingfors denne uken.",
+        "utdypning": "Finland innehar formannskapet i år. Islandske delegater og andre parlamentarikere peker på at de nordiske landene ikke var tilstrekkelig koordinerte under pandemien. Hovedfokuset nå er å sikre at landene står bedre sammen i fremtidige kriser.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-26-more-serious-cybersecurity-vulnerabilities-capable-of-causing-damage-likely-490894/"
+            "lenke": "https://www.ruv.is/english/2026-10-26-important-for-nordic-countries-to-be-better-coordinated-in-next-crisis-490904/"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       },
       {
-        "tittel": "Reaksjoner etter islandsk dom om seksuell vold",
-        "tekst": "Over 8000 har signert opprop for en uavhengig gjennomgang etter en frifinnelsesdom i en voldtektssak.",
-        "utdypning": "En islandsk lagmannsrett frikjente en mann for voldtekt med den begrunnelse at kvinnen hadde samtykket til hard sex, til tross for at hun pådro seg alvorlige skader som brukket ribbein og hørselstap. Dommen har vakt kraftige reaksjoner, og over 8000 har signert et opprop for å granske behandlingen av slike saker fra etterforskning til rettssal.",
+        "tittel": "Island vil kutt maksimal løpetid på indekslån",
+        "tekst": "Det islandske finansdepartementet foreslår å redusere maksimal løpetid på nye indekslån fra 40 til 25 år.",
+        "utdypning": "Målet med lovendringen, som etter planen skal tre i kraft 1. januar 2027, er å sikre at hovedstolen ikke øker nominelt over en 12-månedersperiode ved en inflasjon på 2,5 prosent. Høringsperioden er nå avsluttet med 16 innkomne svar, hvor blant annet SA motsetter seg de foreslåtte endringene.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-26-sexual-violence-support-group-outrage-over-court-of-appeal-ruling-understandable-490897/"
+            "lenke": "https://www.ruv.is/english/2026-10-27-consultation-comments-favour-reducing-indexation-but-not-governments-planned-actions-490986/"
           }
         ],
         "antall_kilder": 1,
@@ -141,75 +141,80 @@
     ],
     "Europa": [
       {
-        "tittel": "Serbias Vučić erkjenner nederlag for studentbevegelse",
-        "tekst": "Aleksandar Vučić har erkjent nederlag i det serbiske parlamentsvalget etter et historisk oppgjør mot det langvarige styret.",
-        "utdypning": "I et politisk jordskjelv har Serbias mangeårige leder Aleksandar Vučić tapt valget for en studentledet opposisjonsbevegelse. Valget hadde en valgdeltakelse på nær 70 prosent – den høyeste siden Jugoslavias oppløsning i 1992 – utløst etter protester mot korrupsjon og myndighetenes håndtering av en tragisk stasjonskollaps i Novi Sad.",
+        "tittel": "Serbias regjerende parti slått av studentbevegelse",
+        "tekst": "Aleksandar Vučić erkjenner valgnederlag i Serbia etter 14 år ved makten, etter at en studentledet bevegelse vant valget.",
+        "utdypning": "Valget beskrives som et historisk tidsskifte i serbisk politikk. Feiringen brøt ut i Belgrads gater mandag, der innbyggere tutet med horn og ryddet opp parker etter Vučić-lojalister. Eksperter og analytikere advarer om at den nye, ennå ikke navngitte studentledelsen står overfor en lang rekke krevende oppgaver.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/serbia-s-vucic-concedes-defeat-to-the-student-led-movement-what-s-next"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.france24.com/en/tv-shows/spotlight/20261027-they-should-be-afraid-serbia-s-student-led-victory-over-vu%C4%8Di%C4%87-sends-warning-to-corrupt-leaders"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 1,
+        "vekt": 5
       },
       {
-        "tittel": "Lav valgdeltakelse i Bulgaria utløser omvalg",
-        "tekst": "Rekordlav valgdeltakelse i Bulgaria fører til en presidentomgang 1. november preget av dype skillelinjer om Ukraina-krigen.",
-        "utdypning": "Bulgarias presidentvalg endte i en ny runde etter svært lav oppslutning blant velgerne. Avstemningen er preget av sterke motsetninger knyttet til Russlands krig i Ukraina og landets relasjoner til Kreml.",
+        "tittel": "Nato-makter lover større europeisk ansvarsdeling",
+        "tekst": "Forsvarsministrene fra Frankrike, Tyskland, Italia, Polen og Storbritannia lover å ta større ansvar for europeisk sikkerhet.",
+        "utdypning": "Under et møte i Paris mandag bekreftet de fem landene at USA forblir en «uavhengig alliert». Målet er å styrke Europas egen forsvarsrolle samtidig som det legges opp til et tettere samarbeid med Washington.",
         "kilder": [
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-eu-2092-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Macron lover tiltak etter franske elevprotester",
-        "tekst": "Frankrikes president Emmanuel Macron varsler konkrete tiltak mandag for å møte elevenes misnøye etter ukesvis med uro.",
-        "utdypning": "President Emmanuel Macron opplyste at regjeringen vil legge frem konkrete mottrekk etter omfattende protester fra skoleelever. Statsminister Sébastien Lecornu er satt til å møte studentrepresentanter i løpet av mandagen for å drøfte situasjonen.",
+        "tittel": "Advarer om at USAs tollvåpen mot EU kan ramme Airbus-lån",
+        "tekst": "USA truer med å oppheve tollvåpenhvilen med EU som følge av et europeisk investeringsbanklån til flyprodusenten Airbus.",
+        "utdypning": "US Trade Representative Jamieson Greer uttalte mandag at et lån på 3,4 milliarder dollar til Airbus kan sette avtalen i fare. Washington har ikke mottatt detaljer om finansieringen som ble annonsert i juni, og krever at EU rydder opp raskt.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261026-french-president-promises-concrete-measures-in-response-to-french-students-demands"
+            "lenke": "https://www.france24.com/en/europe/20261027-us-eu-trade-truce-airbus-loan-trump"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Venezuelansk opposisjonsleder Machado tilbake fra eksil",
-        "tekst": "Den prisbelønte opposisjonslederen María Corina Machado har returnert til Caracas etter nesten et år i eksil.",
-        "utdypning": "María Corina Machado ble mottatt av tusenvis av jublende støttespillere da hun ankom Caracas. Hun hadde forlatt landet kort tid før den amerikanske regjeringen pågrep den avsatte presidenten Nicolás Maduro.",
+        "tittel": "Israel avholder nyvalg preget av sikkerhet",
+        "tekst": "Israel stemmer i et svært jevnt og avgjørende valg, det første siden terrorangrepet 7. oktober.",
+        "utdypning": "Statsminister Benjamin Netanyahu kjemper for å beholde makten mot en blokk ledet av tidligere militærsjef Gadi Eisenkot. Mange frykter at ingen av de ledende blokkene vil sikre flertall, noe som kan lede til ukesvis eller månedsvis med politisk tautrekking.",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Lula sikrer seg fjerde periode i Brasil",
-        "tekst": "Venstreorienterte Lula da Silva vant presidentvalget i Brasil etter en dramatisk valgthriller mot utfordreren.",
-        "utdypning": "Sittende president Lula da Silva snudde et tidligere nederlag fra første runde og sikret seg en historisk fjerde presidentperiode etter å ha slått utfordreren Flávio Bolsonaro i en svært jevn andre omgang.",
+        "tittel": "Luiz Inácio Lula da Silva vinner valget i Brasil",
+        "tekst": "Brasils venstreorienterte president Lula sikret seg en overraskende seier i presidentvalget mot ytre høyre-kandidat Flávio Bolsonaro.",
+        "utdypning": "Valgthrilleren endte med at Bolsonaros eget parti offisielt anerkjenner Lulas valgseier. Seieren markerer et dramatisk comeback for den sittende presidenten, som tapte første runde mot utfordreren.",
         "kilder": [
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Ukraina og Russland innleder våpenhvile i Oleshky",
+        "tekst": "Partene har startet en lokal våpenhvile i Oleshky for å gjennomføre en humanitær misjon.",
+        "utdypning": "Omtrent 2 000 mennesker er fortsatt strandet i byen med store mangler på mat og medisiner. Den russiskokkupert byen har vært hardt rammet av både kamphandlinger og oversvømmelser siden invasjonen i 2022.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

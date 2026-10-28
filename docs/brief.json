@@ -1,16 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Flere personer er pågrepet etter at Økokrim slo til mot fiskemottak langs hele kysten tirsdag.",
+      "tekst": "Equinors sterke kvartalsresultater kan påvirke rentene og folks privatøkonomi gjennom oljefondets inntekter.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/video/DKNO98102726"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839"
         }
       ]
     },
     {
-      "tekst": "Statsminister Jonas Gahr Støre har holdt en sjelden direktesamtale med Russlands president Vladimir Putin.",
+      "tekst": "Norge og Finland har hatt en sjelden direktesamtale med Russlands president Vladimir Putin om Ukraina-krigen.",
       "kilder": [
         {
           "navn": "BBC",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "Et nytt nordisk samarbeid skal sikre at det alltid finnes blod tilgjengelig ved kriser og krig.",
+      "tekst": "Økokrim har pågrepet flere personer i en stor aksjon mot fiskemottak langs kysten for systematisk feilregistrering.",
       "kilder": [
         {
-          "navn": "SVT",
-          "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/nytt-nordisk-samarbete-ska-ge-battre-tillgang-till-blod"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/video/DKNO98102726"
         }
       ]
     }
@@ -31,9 +31,22 @@
   "saker": {
     "Norge": [
       {
+        "tittel": "Equinors milliardsuksess",
+        "tekst": "Equinor leverer nok et høyt kvartalsresultat med milliarder til oljefondet, noe som kan påvirke rentene.",
+        "utdypning": "Equinor leverer nok et skyhøyt resultat, og milliardene strømmer inn i oljefondet. Dette kan få betydning for norsk økonomi og renteutvikling.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
         "tittel": "Økokrim-aksjon mot fiskemottak",
-        "tekst": "Flere personer er pågrepet i en stor Økokrim-aksjon mot fiskemottak flere steder i landet.",
-        "utdypning": "De arresterte er siktet for bevisst og systematisk feilregistrering av fangst av fisk. Aksjonen fant sted tirsdag og omfattet flere mottak langs kysten. Et ukjent antall personer er foreløpig pågrepet i saken.",
+        "tekst": "Flere personer er pågrepet i en stor Økokrim-aksjon siktet for systematisk feilregistrering av fiskefangst.",
+        "utdypning": "Et ukjent antall personer er pågrepet etter en stor aksjon fra Økokrim flere steder i landet. De arresterte er siktet for bevisst og systematisk feilregistrering av fangst av fisk langs kysten.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -48,26 +61,13 @@
         "vekt": 5
       },
       {
-        "tittel": "Vannet tilbake i Kirkenes",
-        "tekst": "Samtlige innbyggere i Sør-Varanger har fått vannet tilbake etter et omfattende brudd i hovedvannledningen.",
-        "utdypning": "Vannet har vært borte i to dager, men kommunen varsler at vannet fortsatt må kokes i flere dager fremover. Alle skoler, barnehager og SFO vil ha normal dag onsdag etter å ha vært stengt hittil i uka. Kirkenes sykehus har også varslet at de vil ha normal drift onsdag etter å ha vært i rød beredskap.",
+        "tittel": "SAS-streik i gang",
+        "tekst": "24 kabinansatte i SAS Link streiker etter at meklingsforslaget ble avvist, men SAS venter begrensede følger.",
+        "utdypning": "24 kabinansatte i datterselskapet SAS Link har gått ut i streik etter at Fellesforbundets medlemmer sa nei til meklingsforslaget. SAS venter likevel begrensede følger for flytrafikken og oppfordrer reisende til å sjekke oppdatert informasjon på sine nettsider. Passasjerer vil bli kontaktet direkte dersom flyvningen blir berørt.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/vannet-tilbake-i-kirkenes-1.18066561"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Milliondryss til sammenslåtte kommuner",
-        "tekst": "Regjeringen foreslår belønning til kommuner som slår seg sammen og runder 20 000 innbyggere.",
-        "utdypning": "Regjeringens forslag om milliondryss til frivillig sammenslåtte kommuner og en ekstra belønning til kommuner som blir flere enn 20 000 innbyggere får Senterpartiet til å reagere kraftig. Forslaget beskrives som helt feilslått av kritikerne.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/regjeringen-foreslar-a-belonne-kommuner-som-slar-seg-sammen-1.18055543"
+            "lenke": "https://www.nrk.no/nyheter/sas-streik-i-gang-1.18066664"
           }
         ],
         "antall_kilder": 1,
@@ -76,52 +76,25 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Nytt nordisk blodsamarbeid",
-        "tekst": "Et nytt samarbeid mellom norra Sverige, Norge og Finland skal sikre blodtilgang ved kriser og krig.",
-        "utdypning": "Prosjektet fremheves som en av de mest prioriterte beredskapsplanene som pågår i nordområdene akkurat nå. Det skal sørge for at blod alltid finnes tilgjengelig i nödlägen, ifølge beredskapsöverläkare Henrik Brännholm i Region Norrbotten.",
+        "tittel": "LKAB vender til overskudd",
+        "tekst": "Den svenske gruveganten LKAB leverer et positivt resultat for tredje kvartal.",
+        "utdypning": "Den statliga gruvkoncernen LKAB gjorde en rörelsevinst på 1,60 miljarder kronor under årets tredje kvartal. Det kan jämföras med förlusten på 2,42 miljarder under motsvarande kvartal i fjol.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/nytt-nordisk-samarbete-ska-ge-battre-tillgang-till-blod"
+            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/statliga-gruvjatten-lkab-vander-forlust-till-vinst"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ],
-    "Norden": [
-      {
-        "tittel": "Stubb og Støre snakket med Putin",
-        "tekst": "Finlands president Alexander Stubb og statsminister Jonas Gahr Støre har snakket med Russlands president.",
-        "utdypning": "Samtalen med Vladimir Putin handlet om fredsbestrebelser og kom i stand tirsdag. Dette er første gang på over et år at europeiske ledere har hatt direkte kommunikasjon med den russiske presidenten.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20253565?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Nordisk krisehåndtering i fokus",
-        "tekst": "Sikkerhet og forsvar er hovedtema under Nordisk råds sesjon i Helsingfors denne uken.",
-        "utdypning": "Delegatene peker på at de nordiske landene ikke var tilstrekkelig koordinerte under koronapandemien. Målet med årets møte er å sikre at de nordiske landene jobber bedre sammen for å håndtere fremtidige kriser.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-26-important-for-nordic-countries-to-be-better-coordinated-in-next-crisis-490904/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
+    "Norden": [],
     "Europa": [
       {
-        "tittel": "Danmark kritiserer Norge og Finland",
-        "tekst": "Danmarks Mette Frederiksen kritiserer Norge og Finland for å ha ringt Putin uten å koordinere med allierte.",
-        "utdypning": "Samtalen med den russiske presidenten ble riktignok konsultert med Ukraina, men har vakt dansk misnøye. Striden avdekker dype spenninger internt i Europa om hvordan man skal håndtere Moskva i forkant av planlagte USA-ledede fredssamtaler.",
+        "tittel": "Norge og Finland snakket med Putin",
+        "tekst": "Statsminister Støre og Finlands president har hatt en sjelden direktesamtale med Russlands president.",
+        "utdypning": "Norway and Finland leaders hold rare call with Putin. This is the first time European leaders have had direct communication with Russia's president in more than a year. Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
         "kilder": [
           {
             "navn": "BBC",
@@ -136,68 +109,24 @@
         "vekt": 5
       },
       {
-        "tittel": "Nato-makter vil ta større forsvarsansvar",
-        "tekst": "Fem europeiske Nato-land lover å ta større ansvar for kontinentets sikkerhet samtidig som USA-alliansen bekreftes.",
-        "utdypning": "Forsvarsministrene fra Frankrike, Tyskland, Italia, Polen og Storbritannia kunngjorde etter samtaler i Paris at de er klare for en større sikkerhetsrolle. Samtidig ble USA beskrevet som en uunnværlig alliert, og ministrene lovet et tettere samarbeid med Washington.",
+        "tittel": "Togulykke i Spania",
+        "tekst": "Minst ti personer mistet livet i en kollisjon mellom høyhastighetstog i Spania.",
+        "utdypning": "At least ten people have died in a crash between two high-speed trains in central Spain. The crash occurred Wednesday morning in the province of Toledo, and rail services between Madrid and Seville have been suspended while the death toll is expected to rise.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261026-europe-nato-defence-responsibility-us-alliance"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Lokal våpenhvile i Ukraina for nødhjelp",
-        "tekst": "En lokalisert våpenhvile har trådt i kraft i Oleshky i Ukraina i forbindelse med en humanitær misjon.",
-        "utdypning": "Våpenhvilen startet tirsdag for å hjelpe rundt 2 000 strandede innbyggere i den russiskokkuperte byen som står overfor alvorlig mangel på mat og medisin. Samtidig som oppdraget ledet av USAs førstedame Melania Trump og våpenhvilen pågår, har missilangrepene i Kyiv blitt gjenopptatt.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation"
+            "lenke": "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/at-least-10-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
       }
     ],
-    "Verden": [
-      {
-        "tittel": "Skjebnevalg i Israel",
-        "tekst": "Israelere stemmer i et historisk valg preget av sikkerhet og politisk drakamp.",
-        "utdypning": "Statsminister Benjamin Netanyahu kjemper for å beholde makten mot en blokk ledet av Gadi Eisenkot, i landets første valg siden 7. oktober-angrepet. Valgdeltakelsen har nådd rekordhøye nivåer midt på dagen, og mange frykter at ingen av blokkene vil sikre seg flertall.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Jordanske angrep i Syria",
-        "tekst": "Jordan har gjennomført militære angrep mot Syria som svar på et dødelig kirkeangrep.",
-        "utdypning": "De jordanske væpnede styrkene opplyser at de har rammet militante skjulesteder i Syria knyttet til angrepet på kongeriket forrige uke. Syriske helsemyndigheter opplyser at angrepet på en landsby i Syria drepte fem personer, deriblant kvinner og barn, men ga en annen versjon av hendelsene.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      }
-    ]
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

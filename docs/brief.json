@@ -1,25 +1,25 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Flavio Bolsonaro har landet i Miami i USA etter å ha tapt presidentvalget i Brasil.",
+      "tekst": "Oslo Børs satte ny rekord da hovedindeksen steg 0,4 prosent til tross for et fall for Equinor.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/flavio-bolsonaro-skal-ha-landet-i-miami-1.18067228"
+          "lenke": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550"
         }
       ]
     },
     {
-      "tekst": "Togulykken i Spania har krevd minst 68 menneskeliv, og landet har erklært tre dagers sorg.",
+      "tekst": "Politiet har pågrepet over 30 personer i det som kan bli norgeshistoriens største fiskerikrimsak.",
       "kilder": [
         {
-          "navn": "BBC",
-          "lenke": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nordland/fiskeri-redaktor-om-storaksjonen_-_-jeg-er-sjokkert-1.18068548"
         }
       ]
     },
     {
-      "tekst": "Tusenvis av ukrainere i Norge kan risikere avslag på opphold som følge av inntektskrav.",
+      "tekst": "Flere tusen ukrainske flyktninger i Norge risikerer avslag på opphold på grunn av krav om arbeidsinntekt.",
       "kilder": [
         {
           "navn": "NRK",
@@ -31,9 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "67 000 ukrainere kan få avslag i Norge",
-        "tekst": "Flere ukrainske flyktninger som ønsker å bli i Norge, uttrykker bekymring over strenge krav til arbeidsinntekt.",
-        "utdypning": "Iryna er blant de ukrainske flyktningene som søker om å få bli i Norge, men hun risikerer å ikke oppfylle kravene. 67 000 ukrainere kan potensielt få nei til videre opphold på grunn av manglende eller ikke høy nok arbeidsinntekt. Mange i denne gruppen er sterkt bekymret for fremtiden sin i landet.",
+        "tittel": "Storaksjon mot fiskerikrim",
+        "tekst": "Politiet har pågrepet over 30 personer i en omfattende aksjon som kan bli norgeshistoriens største fiskerikrimsak.",
+        "utdypning": "En fiskeriredaktør uttrykker sjokk over aksjonen der politiet har slått til mot et stort antall mistenkte. Saken etterforskes som en av de største innen norsk fiskerikriminalitet noensinne.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/fiskeri-redaktor-om-storaksjonen_-_-jeg-er-sjokkert-1.18068548"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Usikker framtid for ukrainere",
+        "tekst": "Omtrent 67.000 ukrainere risikerer å få nei til opphold i Norge fordi de ikke oppfyller inntektskravene.",
+        "utdypning": "Flere flyktninger, deriblant Iryna som har flyktet fra krigen, opplever stor bekymring for sin framtid i landet. Regelverket krever en viss arbeidsinntekt for å få opphold, noe mange sliter med å oppnå.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,43 +57,26 @@
         "vekt": 4
       },
       {
-        "tittel": "Reagerer på VM-tildeling til Russland",
-        "tekst": "Det norske vektløfterforbundet vil ikke sende utøvere dersom Russland tildeles VM slik situasjonen er nå.",
-        "utdypning": "VM-tildelingen til Russland vekker sterke reaksjoner i Det norske vektløfterforbundet. Forbundet er krystallklare på at de ikke kommer til å sende utøvere dit under dagens uendrede situasjon.",
+        "tittel": "Ny rekordanotering på Oslo Børs",
+        "tekst": "Oslo Børs nådde en ny toppnotering etter en oppgang på 0,4 prosent på ukens nest siste handelsdag.",
+        "utdypning": "Dette er årets 40. sluttrekord på børsen. Oppgangen kom til tross for at energigiganten Equinor falt, hjulpet frem av en kraftig stigning for Kongsberg Gruppen og andre energiselskaper som Aker BP og DNO.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sport/det-internasjonale-vektloftarforbundet-gir-vm-til-russland-_-noreg-reagerer-1.18065823"
+            "lenke": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Person pågrepet etter politiaksjon i Vesterålen",
-        "tekst": "En antatt gjerningsperson er pågrepet uten dramatikk etter en bevæpnet politiaksjon på Andøy.",
-        "utdypning": "Nordland politidistrikt rykket ut med bevæpnet politi som omringet et hus onsdag kveld etter en voldshendelse. En person er lettere skadet og tatt hånd om av helsepersonell, mens den mistenkte ble pågrepet uten dramatikk og vil bli avhørt på et senere tidspunkt. Politiet opplyser at det ikke har vært fare for andre i området.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380#1.18067493.1.18067493"
-          },
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/person-pagrepet-etter-politiaksjon-i-vesteralen-1.18067656"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Equinor tester selvgående droner til havs",
-        "tekst": "Equinor skal teste selvgående droner og roboter for å gjøre undersøkelser av olje- og gassanlegg billigere og tryggere.",
-        "utdypning": "Oljeselskapet Equinor tar i bruk ny teknologi for å kutte kostnader og øke sikkerheten. Målet med å teste selvgående droner og roboter til offshore-arbeid er å spare store summer på undersøkelser av olje- og gassanlegg.",
+        "tittel": "Politisk strid om nye datasentre",
+        "tekst": "Rødt foreslår å stoppe etableringen av nye datasentre i Norge, noe som vekker kraftige reaksjoner i distriktene.",
+        "utdypning": "Ordføreren i Fyresdal kaller forslaget for 'vill panikk' og frykter det vil ødelegge en voksende næring. Vedkommende ber Stortinget om å puste med magen fremfor å trekke i nødbremsen.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/equinor-apner-testsenteret-knarr-for-roboter-og-undervannsdroner-pa-karsto-1.18066140"
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/datasenter-i-fyresdal-kan-rammes-av-mulig-stopp-pa-stortinget-1.18067827"
           }
         ],
         "antall_kilder": 1,
@@ -89,9 +85,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Christine Lagarde går av som ECB-sjef",
-        "tekst": "Sjefen for Den europeiske sentralbanken (ECB), Christine Lagarde, går av i februar 2027, ni måneder før tiden.",
-        "utdypning": "Ifølge et pressmeddelande fra ECB vil Christine Lagarde fratre sin stilling som sentralbanksjef den 7. februar 2027. Dette er nesten ni måneder før hennes åtteårige periode utløper. Det europeiske råd vil utnevne hennes etterfølger i henhold til EU-traktatens regler, og prosessen er allerede i gang ifølge rådets president Antonio Costa.",
+        "tittel": "Christine Lagarde går av i februar",
+        "tekst": "Sjefen for Den europeiske sentralbanken (ECB), Christine Lagarde, trekker seg ni måneder før perioden utløper.",
+        "utdypning": "ECB opplyser i en pressemelding at Lagarde vil fratre sin stilling den 7. februar 2027. Det europeiske råd vil oppnevne en etterfølger i tråd med EU-traktatens regler, og prosessen er allerede i gang ifølge rådets president Antonio Costa.",
         "kilder": [
           {
             "navn": "SVT",
@@ -108,56 +104,17 @@
         ],
         "antall_kilder": 3,
         "vekt": 4
-      },
-      {
-        "tittel": "Svensk inflasjon peker oppover",
-        "tekst": "Sveriges inflasjon har vendt oppover igjen, noe som øker risikoen for at boliglånsrentene kan stige.",
-        "utdypning": "Den svenske prisveksten har snudd og øker igjen, og eksperter advarer om at dette fører med seg en risiko for høyere renter. Private banking-senior Markus Hagström Almroth fra SEB anbefaler boliglånskunder å vurdere en kombinasjon av ulike rentebindinger for å håndtere situasjonen.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/smaland/expertens-rad-sa-ska-du-tanka-kring-borantan"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Finland og Japan signerer forsvarsavtale",
-        "tekst": "Finland og Japan har inngått en ny avtale om forsvarssamarbeid for å styrke teknologi- og industriutviklingen.",
-        "utdypning": "Den finske forsvarsministeren Antki Häkkänen (NCP) uttaler at den nye forsvarsavtalen vil åpne opp vesentlige vekstmuligheter for landets forsvarsindustri og teknologiselskaper.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20253815?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Debatt i Finland etter Stubb-samtale med Putin",
-        "tekst": "Den 90 minutter lange telefonsamtalen mellom Finlands ledelse og Vladimir Putin høster både kritikk og ros.",
-        "utdypning": "Kritikere har stilt spørsmål ved hvor mye regjeringen egentlig visste i forkant av Alexander Stubbs samtale med den russiske presidenten.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20253775?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Gale-varsler og fare for ekstremvind på Island",
-        "tekst": "Islandske myndigheter har utstedt gule farevarsler for kraftig vind og styrtregn i deler av landet.",
-        "utdypning": "Varslene gjelder for Faxaflói og Sør-Island, hvor det ventes sørøstlige vindstyrker på opp mot 13-20 m/s med regn. Vindkast nær fjell og på veistrekningen mellom Hella og Vík kan overstige 30 m/s, noe som gir svært krevende kjøreforhold for vindutsatte kjøretøy før varselet utløper torsdag formiddag.",
+        "tittel": "Stabilt høy inflasjon på Island",
+        "tekst": "Den islandske inflasjonen lå på 5,9 prosent i oktober, tynget av økte drivstoffpriser.",
+        "utdypning": "Inflasjonen har holdt seg over fem prosent gjennom hele året. Prisene på bensin og diesel har steget henholdsvis åtte og 11,2 prosent det siste året, noe som gjør transport til den dyreste kategorien i forbrukerindeksen.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-28-gale-warnings-issued-for-early-thursday-491133/"
+            "lenke": "https://www.ruv.is/english/2026-10-29-inflation-sticks-at-59-as-fuel-prices-keep-up-pressure-491213/"
           }
         ],
         "antall_kilder": 1,
@@ -166,104 +123,53 @@
     ],
     "Europa": [
       {
-        "tittel": "68 drept i spansk togulykke",
-        "tekst": "To høyhastighetstog kolliderte sør for Madrid, og Spania har innført tre dagers landesorg.",
-        "utdypning": "Kollisjonen mellom de to togene krevde minst 86 menneskeliv og skadet over hundre personer, noe som gjør det til en av Europas dødeligste ulykker i århundret. Transportministeren opplyser at det ene toget fikk beskjed om å fortsette til tross for at et rødt signal var i effekt, og det er registrert demonstrasjoner og sammenstøt med politi utenfor samferdselsdepartementet i Madrid som følge av tragedien.",
+        "tittel": "Minst 14 drepte i russisk droneangrep",
+        "tekst": "Et russisk droneangrep mot en fullsatt togstasjon i ukrainske Dnipro krevde minst 14 menneskeliv.",
+        "utdypning": "En jetdrevet drone traff en travel plattform der sivile ventet på tog, og såret i tillegg minst 14 andre, inkludert en elleve år gammel gutt. Ukrainas president Volodymyr Zelenskyy kalte angrepet grufullt og ba landets allierte om å opprettholde sanksjonene mot Moskva.",
         "kilder": [
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261029-desolation-despair-spain-begins-three-days-of-mourning-after-deadly-train-crash"
+            "lenke": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 3,
         "vekt": 5
       },
       {
-        "tittel": "EU og Canada dropper assosiert medlemskap",
-        "tekst": "Canada og EU vil styrke sine bånd, men har skrinlagt planen om å gi landet spesiell status som assosiert medlem.",
-        "utdypning": "EU-kommisjonens president Ursula von der Leyen ønsket å gi Canada en spesiell status innen EU, men Tyskland og andre medlemsland reiste innvendinger. Canadas statsminister Mark Carney søker likevel tettere bånd til unionen i forkant av et toppmøte i Montreal for å redusere landets avhengighet av USA, til tross for advarsler fra Donald Trump.",
+        "tittel": "Sørgeperiode i Spania etter togtragedie",
+        "tekst": "Spania har erklært tre dager med sorg etter at en togkollisjon krevde minst 69 menneskeliv.",
+        "utdypning": "Ulykken skjedde da et høyhastighetstog kjørte inn i et annet bakfra, i landets andre alvorlige togulykke for året. Statsminister Pedro Sanchez har lovet full etterforskning, samtidig som hendelsen legger et sterkt press på regjeringen foran det kommende nasjonale valget.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
+            "lenke": "https://www.france24.com/en/video/20261029-spain-begins-three-days-of-mourning-after-train-crash-kills-69"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/spain-train-crash-pm-sanchez-calls-for-investigation-as-3-days-of-mourning-begins/a-79792085?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Lokal våpenhvile opprettholdes i Ukraina",
-        "tekst": "Den USA-meglede våpenhvilen rundt Oleshky ser ut til å holde i sin første fase.",
-        "utdypning": "Ifølge Ukrainas ombudsmann for menneskerettigheter, Dmytro Lubinets, har det ikke vært noen brudd på den lokale våpenhvilen rundt den russiskokkuperte byen Oleshky i løpet av de første 30 timene. Våpenhvilen, som ble fremforhandlet av Melania Trump, varer til 1. november for å la fastlåste innbyggere evakuere fra de krevende forholdene i frontsonen.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Flavio Bolsonaro har landet i USA",
-        "tekst": "Flavio Bolsonaro har reist til Miami etter å ha tapt presidentvalget og blitt etterforsket for økonomisk kriminalitet.",
-        "utdypning": "Et privatfly med Flavio Bolsonaro har landet i Miami i USA, ifølge nyhetsbyråene AFP og Reuters, etter at han tapte presidentvalget i Brasil og unnlod å levere fra seg passet sitt som pålagt. Argentinas president Milei har bekreftet at Bolsonaro fløy fra Puerto Iguazú i Argentina. Til tross for valgnederlaget har Bolsonaro selv erklært seg som den rette lederen for landet.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/flavio-bolsonaro-skal-ha-landet-i-miami-1.18067228"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Uavklart situasjon etter israelsk valg",
-        "tekst": "Benjamin Netanyahus blokk leder i det israelske valget, men ligger an til å mangle flertall i Knesset.",
-        "utdypning": "Med nesten 90 prosent av stemmearkene opptelt ligger den pro-Netanyahu-ledede blokken like foran opposisjonen, men ingen av sidene ser ut til å sikre seg et flertall i den 120 seter store nasjonalforsamlingen. Dette åpner opp for krevende og langvarige koalisjonsforhandlinger for å danne regjering.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Datalekkasje rammer amerikansk sikkerhetsdepartement",
-        "tekst": "Sensitiv informasjon om over 40 000 ansatte i det amerikanske sikkerhetsdepartementet har lekket ut.",
-        "utdypning": "Datalekkasjen omfatter navn, telefonnumre og e-postadresser til personell på tvers av flere amerikanske sikkerhetsbyråer. Hendelsen følger i sporet på nylige datainnbrudd som har rammet både FBI og det amerikanske forsvarsdepartementet.",
+        "tittel": "India oppjusterer vekstprognose",
+        "tekst": "Indias finansdepartement har hevet vekstprognosen for inneværende regnskapsår, men advarer mot inflasjon.",
+        "utdypning": "Særlig prisene på drivstoff og energi trekkes frem som risikofaktorer, drevet av den vedvarende ustabiliteten i Midtøsten.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

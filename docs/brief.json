@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Oslo Børs satte ny rekord da hovedindeksen steg 0,4 prosent til tross for et fall for Equinor.",
+      "tekst": "Ingen av de politiske blokkene fikk rent flertall etter valgthrilleren i Israel.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550"
+          "lenke": "https://www.nrk.no/nyheter/valget-i-israel_-ingen-blokker-fikk-flertall-1.18068940"
         }
       ]
     },
     {
-      "tekst": "Politiet har pågrepet over 30 personer i det som kan bli norgeshistoriens største fiskerikrimsak.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nordland/fiskeri-redaktor-om-storaksjonen_-_-jeg-er-sjokkert-1.18068548"
-        }
-      ]
-    },
-    {
-      "tekst": "Flere tusen ukrainske flyktninger i Norge risikerer avslag på opphold på grunn av krav om arbeidsinntekt.",
+      "tekst": "Flere titusener ukrainske flyktninger i Norge risikerer avslag på opphold som følge av inntektskrav.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/trondelag/67.000-ukrainere-kan-fa-nei-til-opphold-i-norge_-_-mange-er-bekymret-1.18058626"
+        }
+      ]
+    },
+    {
+      "tekst": "Marius Borg Høiby begjærer seg løslatt fra varetektsfengsling før ankesaken kommende mandag.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/marius-borg-hoiby-begjaerer-seg-loslatt-fra-varetekt-_-vil-fore-hemmelig-vitne-1.18069125"
         }
       ]
     }
@@ -31,22 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Storaksjon mot fiskerikrim",
-        "tekst": "Politiet har pågrepet over 30 personer i en omfattende aksjon som kan bli norgeshistoriens største fiskerikrimsak.",
-        "utdypning": "En fiskeriredaktør uttrykker sjokk over aksjonen der politiet har slått til mot et stort antall mistenkte. Saken etterforskes som en av de største innen norsk fiskerikriminalitet noensinne.",
+        "tittel": "Flertallskladd etter valg i Israel",
+        "tekst": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter tirsdagens valg, viser endelige tall.",
+        "utdypning": "Det trengs 61 mandater for å få rent flertall i nasjonalforsamlingen på 120 plasser. Statsminister Benjamin Netanyahus koalisjon fikk 53 mandater, mens opposisjonen ledet av Gadi Eisenkot fikk 48. De palestinske partiene sikret seg 19 mandater etter en valgdeltakelse på 77,9 prosent.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/fiskeri-redaktor-om-storaksjonen_-_-jeg-er-sjokkert-1.18068548"
+            "lenke": "https://www.nrk.no/nyheter/valget-i-israel_-ingen-blokker-fikk-flertall-1.18068940"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Usikker framtid for ukrainere",
-        "tekst": "Omtrent 67.000 ukrainere risikerer å få nei til opphold i Norge fordi de ikke oppfyller inntektskravene.",
-        "utdypning": "Flere flyktninger, deriblant Iryna som har flyktet fra krigen, opplever stor bekymring for sin framtid i landet. Regelverket krever en viss arbeidsinntekt for å få opphold, noe mange sliter med å oppnå.",
+        "tittel": "67.000 ukrainere kan få avslag i Norge",
+        "tekst": "Titusenvis av ukrainske flyktninger i Norge risikerer å få nei til videre opphold fordi de mangler tilstrekkelig arbeidsinntekt.",
+        "utdypning": "Situasjonen skaper stor bekymring blant flyktninger som Iryna, som flyktet fra krigen og ønsker å bli værende i landet, men som rammes av de strenge inntektskravene for forlenget opphold.",
         "kilder": [
           {
             "navn": "NRK",
@@ -54,40 +54,31 @@
           }
         ],
         "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Høiby krever løslatelse fra varetekt",
+        "tekst": "Marius Borg Høiby og hans forsvarer begjærer at han løslates fra den nåværende varetektsordningen.",
+        "utdypning": "Påtalemyndigheten har bedt om ytterligere fire ukers varetekt, men forsvarer Alexander Greaker uttaler at det ikke er rettslig grunnlag for videre fengsling. Belastningen ved situasjonen beskrives som svært krevende for Høiby, som ser frem til å forklare seg når retten behandler saken mandag.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/marius-borg-hoiby-begjaerer-seg-loslatt-fra-varetekt-_-vil-fore-hemmelig-vitne-1.18069125"
+          },
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/marius-borg-hoeiby-anmoder-om-loesladelse"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 4
-      },
-      {
-        "tittel": "Ny rekordanotering på Oslo Børs",
-        "tekst": "Oslo Børs nådde en ny toppnotering etter en oppgang på 0,4 prosent på ukens nest siste handelsdag.",
-        "utdypning": "Dette er årets 40. sluttrekord på børsen. Oppgangen kom til tross for at energigiganten Equinor falt, hjulpet frem av en kraftig stigning for Kongsberg Gruppen og andre energiselskaper som Aker BP og DNO.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Politisk strid om nye datasentre",
-        "tekst": "Rødt foreslår å stoppe etableringen av nye datasentre i Norge, noe som vekker kraftige reaksjoner i distriktene.",
-        "utdypning": "Ordføreren i Fyresdal kaller forslaget for 'vill panikk' og frykter det vil ødelegge en voksende næring. Vedkommende ber Stortinget om å puste med magen fremfor å trekke i nødbremsen.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/datasenter-i-fyresdal-kan-rammes-av-mulig-stopp-pa-stortinget-1.18067827"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Christine Lagarde går av i februar",
-        "tekst": "Sjefen for Den europeiske sentralbanken (ECB), Christine Lagarde, trekker seg ni måneder før perioden utløper.",
-        "utdypning": "ECB opplyser i en pressemelding at Lagarde vil fratre sin stilling den 7. februar 2027. Det europeiske råd vil oppnevne en etterfølger i tråd med EU-traktatens regler, og prosessen er allerede i gang ifølge rådets president Antonio Costa.",
+        "tittel": "Christine Lagarde trekker seg fra ECB",
+        "tekst": "Sjefen for Den europeiske sentralbanken (ECB), Christine Lagarde, går av i februar 2027, ni måneder før åremålet utløper.",
+        "utdypning": "Avgangen ble kunngjort i en pressemelding fra ECB torsdag. Europeisk råds president Antonio Costa opplyser at arbeidet med å finne en etterfølger er satt i gang, og den nye sjefen vil bli utnevnt av Det europeiske råd i tråd med EU-traktatene.",
         "kilder": [
           {
             "navn": "SVT",
@@ -104,17 +95,51 @@
         ],
         "antall_kilder": 3,
         "vekt": 4
+      },
+      {
+        "tittel": "Internt press mot Magdalena Andersson",
+        "tekst": "Det er voksende frustrasjon innad i de rödgröna partiene i Sverige mot S-ledaren Magdalena Anderssons håndtering av regeringsbildningen.",
+        "utdypning": "Sverige står fremdeles uten ny regjering. S-profilen Annie Ross uttaler forståelse for at Vänsterpartiet føler seg lurt, og C-leder Elisabeth Thand Ringqvist skal nå stilles for en statsministeromröstning i riksdagen i et fastlåst politisk landskap.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Stabilt høy inflasjon på Island",
-        "tekst": "Den islandske inflasjonen lå på 5,9 prosent i oktober, tynget av økte drivstoffpriser.",
-        "utdypning": "Inflasjonen har holdt seg over fem prosent gjennom hele året. Prisene på bensin og diesel har steget henholdsvis åtte og 11,2 prosent det siste året, noe som gjør transport til den dyreste kategorien i forbrukerindeksen.",
+        "tittel": "Kutt i offentlige stillinger på Island",
+        "tekst": "Lederen for Islands faglige landsorganisasjon ASÍ kritiserer offentlige myndigheter for å ha gått altfor langt med nylige nedbemanninger.",
+        "utdypning": "Protestene kommer etter at Reykjavík City Council kuttet 74 stillinger og sa opp 50 ansatte for å unngå økte offentlige avgifter. Også Sorpa og Sjúkratryggingar Íslands har gjennomført kutt, samtidig som Island sliter med en vedvarende inflasjon på 5,9 prosent drevet av drivstoffpriser.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-29-inflation-sticks-at-59-as-fuel-prices-keep-up-pressure-491213/"
+            "lenke": "https://www.ruv.is/english/2026-10-29-redundancies-go-too-far-says-union-leader-491191/"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 3
+      },
+      {
+        "tittel": "Putin vil gjenopprette europeiske relasjoner",
+        "tekst": "Russlands president Vladimir Putin uttaler at den finske presidenten Alexander Stubb og norske statsministeren Jonas Gahr Støre gjorde rett i å ta kontakt.",
+        "utdypning": "Uttalelsen kom etter en telefonsamtale tidligere i uken, som vakte blandede reaksjoner blant europeiske allierte.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20254226?origin=rss"
           }
         ],
         "antall_kilder": 1,
@@ -123,9 +148,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Minst 14 drepte i russisk droneangrep",
-        "tekst": "Et russisk droneangrep mot en fullsatt togstasjon i ukrainske Dnipro krevde minst 14 menneskeliv.",
-        "utdypning": "En jetdrevet drone traff en travel plattform der sivile ventet på tog, og såret i tillegg minst 14 andre, inkludert en elleve år gammel gutt. Ukrainas president Volodymyr Zelenskyy kalte angrepet grufullt og ba landets allierte om å opprettholde sanksjonene mot Moskva.",
+        "tittel": "Dronemangel og dødsfall i Dnipro",
+        "tekst": "Minst 14 mennesker ble drept og like mange skadet i et russisk droneangrep mot en fullsatt jernbanestasjon i ukrainske Dnipro.",
+        "utdypning": "Angrepet rammet en sivil plattform der passere ventet på tog torsdag. Ukraina-president Volodymyr Zelenskyy kaller angrepet forferdelig og oppfordrer de allierte til å opprettholde det harde sanksjonspresset mot Moskva.",
         "kilder": [
           {
             "navn": "BBC",
@@ -144,9 +169,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Sørgeperiode i Spania etter togtragedie",
-        "tekst": "Spania har erklært tre dager med sorg etter at en togkollisjon krevde minst 69 menneskeliv.",
-        "utdypning": "Ulykken skjedde da et høyhastighetstog kjørte inn i et annet bakfra, i landets andre alvorlige togulykke for året. Statsminister Pedro Sanchez har lovet full etterforskning, samtidig som hendelsen legger et sterkt press på regjeringen foran det kommende nasjonale valget.",
+        "tittel": "Togkrasj krever 69 menneskeliv i Spania",
+        "tekst": "Spania erklærer tre dager med landesorg etter landets andre alvorlige høyhastighetstogulykke på kort tid.",
+        "utdypning": "Tragedien inntraff da et tog kjørte inn i et annet bakfra, med 69 omkomne som resultat. Statsminister Pedro Sánchez lover en full gransking av sikkerheten i det nasjonale jernbanenettet i en tid preget av et spent politisk klima foran valget.",
         "kilder": [
           {
             "navn": "France 24",
@@ -159,13 +184,30 @@
         ],
         "antall_kilder": 2,
         "vekt": 4
+      },
+      {
+        "tittel": "EU og Canada dropper assosiert medlemskap",
+        "tekst": "EU og Canada vraker planene om et spesielt assosiert medlemskap i forkant av Montreal-toppmøtet.",
+        "utdypning": "EU-kommisjonens president Ursula von der Leyen ønsket å gi Canada særstatus, men Tyskland og andre medlemsland la ned veto mot forslaget. Partene søker likevel tettere bånd på tross av uenighetene.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261029-canada-and-eu-drop-associate-membership-plan-in-bid-to-deepen-ties"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "India oppjusterer vekstprognose",
-        "tekst": "Indias finansdepartement har hevet vekstprognosen for inneværende regnskapsår, men advarer mot inflasjon.",
-        "utdypning": "Særlig prisene på drivstoff og energi trekkes frem som risikofaktorer, drevet av den vedvarende ustabiliteten i Midtøsten.",
+        "tittel": "India oppjusterer vekstutsikter",
+        "tekst": "Indias finansdepartement hever sine økonomiske vekstprognoser for inneværende finansår, men advarer samtidig mot økt inflasjon.",
+        "utdypning": "Advarselen retter seg særlig mot prisen på drivstoff og energi, knyttet til den fortsatte uroen i Midtøsten.",
         "kilder": [
           {
             "navn": "DW World",
@@ -173,6 +215,23 @@
           }
         ],
         "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Flávio Bolsonaro erklærer seg som leder",
+        "tekst": "Den tapende presidentkandidaten Flávio Bolsonaro har flyktet til USA og erklært seg som leder for opposisjonen i Brasil.",
+        "utdypning": "Uttalelsen kommer i kjølvannet av nederlaget i helgens presidentvalgomgang, hvor han og familien valgte å forlate landet.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]

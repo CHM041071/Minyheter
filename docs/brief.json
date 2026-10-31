@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Ingen av de politiske blokkene fikk rent flertall i det israelske valget, noe som åpner for krevende koalisjonsforhandlinger.",
+      "tekst": "Russiske angrep rammet energianlegg i Kyiv fredag kveld, og fire bydeler i hovedstaden er uten strøm.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900"
+        }
+      ]
+    },
+    {
+      "tekst": "Et energikrevende evakueringsarbeid og humanitær hjelpekonvoi ble gjennomført i den russiskokkuperte byen Oleshky i Ukraina.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky"
+        }
+      ]
+    },
+    {
+      "tekst": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter valget, og det venter krevende koalisjonsforhandlinger.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/nyheter/valget-i-israel_-ingen-blokker-fikk-flertall-1.18068940"
-        }
-      ]
-    },
-    {
-      "tekst": "Minst 13 personer ble drept i et russisk droneangrep mot en travel jernbanestasjon i ukrainske Dnipro.",
-      "kilder": [
-        {
-          "navn": "BBC",
-          "lenke": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "tekst": "Oslo Børs endte med ny sluttrekord fredag, tross fall for energilokomotivet Equinor.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550"
         }
       ]
     }
@@ -31,9 +31,49 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Uavklart flertall etter valg i Israel",
-        "tekst": "Ingen av de politiske blokkene fikk rent flertall i det israelske valget, viser opptalte stemmer.",
-        "utdypning": "Det kreves 61 mandater for å få rent flertall i nasjonalforsamlingen på 120 plasser. Statsminister Benjamin Netanyahus koalisjon fikk 53 mandater, mens opposisjonen anført av Gadi Eisenkot fikk 48. De palestinske partiene sikret seg 19 mandater i valg der 77,9 prosent av velgerne avla stemme.",
+        "tittel": "Russisk angrep mot ukrainsk energianlegg",
+        "tekst": "Et energianlegg i Kyiv ble rammet i et russisk angrep fredag kveld, noe som etterlot fire bydeler uten strøm.",
+        "utdypning": "Et energianlegg i Kyiv ble rammet i et russisk angrep fredag kveld, melder avisen The Kyiv Independent. Fire bydeler i den ukrainske hovedstaden er uten strøm, ifølge energiselskapet DTEK. Det har så langt ikke kommet meldinger om døde eller sårede etter angrepet.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      }
+    ],
+    "Skandinavia": [],
+    "Norden": [],
+    "Europa": [
+      {
+        "tittel": "Sjelden evakuering i okkuperte Oleshky",
+        "tekst": "Utmattede innbyggere i Oleshky evakueres i en sjelden felles operasjon under en midlertidig våpenhvile.",
+        "utdypning": "Starving and exhausted residents of Oleshky, a Russian-occupied town in southern Ukraine, were being evacuated on Friday, October 30, as part of a joint relief operation involving the opposing sides – the first operation of its kind in four years and eight months of war. Hundreds of people are also understood to have stayed in the front-line town, despite the dangers. FRANCE 24’s Ukraine correspondent Emmanuelle Chaze reports.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 5
+      }
+    ],
+    "Verden": [
+      {
+        "tittel": "Uavklart valgresultat i Israel",
+        "tekst": "Ingen politiske blokker fikk flertall etter valget i Israel, og det går mot tøffe koalisjonsforhandlinger.",
+        "utdypning": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter tirsdagens valg. Det er klart etter at alle stemmene skal være talt opp, melder avisen The Times of Israel. Det trengs 61 mandater for å få rent flertall i nasjonalforsamlingen, der det er 120 parlamentsmedlemmer til sammen. Statsminister Benjamin Netanyahus politiske koalisjon fikk 53 mandater. Opposisjonen, som ledes av Netanyahu-utfordrer Gadi Eisenkot, fikk 48 mandater. De palestinske partiene fikk 19 mandater. 77,9 prosent av de stemmeberettigede israelerne avla sin stemme i valget.",
         "kilder": [
           {
             "navn": "NRK",
@@ -41,271 +81,7 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Ny rekord på Oslo Børs",
-        "tekst": "Hovedindeksen steg 0,4 prosent og satte årets 40. sluttrekord til tross for fall for Equinor.",
-        "utdypning": "Oppgangen ble drevet av en kurshopp på 13 prosent for Kongsberg Gruppen samt gode dager for energiselskaper som Aker BP og DNO. Dette var ukens nest siste handelsdag.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/ny-rekord-pa-oslo-bors-_-hovedindeksen-steg-0_4-prosent-til-ny-toppnotering-1.18068550"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Navn frigitt etter dødsulykke i Stjørdal",
-        "tekst": "29 år gamle Martin Aune fra Trondheim omkom under en militærøvelse i Stjørdal torsdag kveld.",
-        "utdypning": "Navn og bilde ble frigitt i samråd med de pårørende i forbindelse med en minnestund i Luftforsvarets regi. Arbeidsgiveren uttrykker dyp sorg og beskriver Aune som en gledesspreder og et forbilde som gjorde andre gode.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/trondelag/martin-_29_-omkom-under-militaerovelsen-i-stjordal-1.18069137"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/trondelag/martin-_29_-omkom-under-militaerovinga-i-stjordal-1.18069547"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Mann fraktet til sykehus med skuddskader",
-        "tekst": "En mann i 30-årene ble fredag ettermiddag fløyet til sykehus med alvorlige skuddskader.",
-        "utdypning": "En siktet mann i samme aldersgruppe ble nylig løslatt fra varetekt i en annen sak som gjelder et mistenkelig dødsfall. Politiet opplyser at det skal være en sammenheng mellom disse sakene.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/innlandet/mann-fraktet-til-sykehus-med-alvorlig-skuddskade-1.18069813"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/rogaland/mann-i-30-arene-ble-loslatt-_-na-er-han-siktet-for-frihetsberovelse-pa-valand-i-stavanger-1.18067759"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Alvorlig trafikkulykke i Sarpsborg",
-        "tekst": "To barn i barneskolealder ble fraktet til sykehus etter en kollisjon i et lyskryss fredag.",
-        "utdypning": "Ulykken involverte to biler og totalt seks personer. Den ene skadde ble fraktet i ambulanse, mens den andre ble fløyet med luftambulanse til Ullevål sykehus.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-tonsberg-1.18068715"
-          },
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/ostfold/to-barn-til-sykehus-etter-alvorlig-trafikkulykke-i-sarpsborg-1.18068433"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "G20-gruppebilde avlyst etter europeisk protest",
-        "tekst": "USA har avlyst det tradisjonelle gruppefotografiet under G20-møtet i Atlanta etter europeiske protester.",
-        "utdypning": "Protestene kom som følge av tilstedeværelsen til Russlands utrikesminister Sergej Lavrov. Dermed blir det ikke noe felles familiefoto fra toppmøtet.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/drama-under-g20-gruppfoto-stalls-in-nej"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Interflom i svensk regjeringsdannelse",
-        "tekst": "Frustrationen vokser innad i de rödgröna partierna over Magdalena Anderssons håndtering av regjeringskrisen.",
-        "utdypning": "Kilder opplyser til SVT at Vänsterpartiet føler seg lurt i prosessen. Samtidig står Sverige fortsatt uten ny regjering.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Krev millionbeløp for oljesanering etter grunnstøting",
-        "tekst": "Myndigheten för civilt försvar stämmer forsikringsselskapet til rederiet TT-Line etter oljeutslippet fra Marco Polo.",
-        "utdypning": "Søksmålet kommer fordi forsikringsselskapet ikke har betalt hele regningen for opprydningsarbeidet etter grunnstøtingen, ifølge P4 Blekinge.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/blekinge/myndighet-kraver-miljoner-for-oljesanering-efter-marco-polos-grundstotning"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Norden": [
-      {
-        "tittel": "Høy inflasjon på Island grunnet drivstoffpriser",
-        "tekst": "Den islandske inflasjonen holdt seg på 5,9 prosent i oktober, uendret fra måneden før.",
-        "utdypning": "Inflasjonen har ligget over 5 prosent gjennom hele året. Prisøkningen drives særlig av økte drivstoffpriser, der bensin har steget med 8,0 prosent og diesel med 11,2 prosent det siste året.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-29-inflation-sticks-at-59-as-fuel-prices-keep-up-pressure-491213/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Hard kritikk av offentlige nedbemanninger i Island",
-        "tekst": "Lederen for den islandske fagbevegelsen mener offentlige myndigheter går altfor langt med nylige kutt.",
-        "utdypning": "Kritikken kommer etter at Reykjavík bystyre kuttet 74 stillinger i sentraladministrasjonen, mens Sorpa sa opp ti ansatte og lot syv midlertidige kontrakter utløpe. ASÍ-lederen avviser at kuttene er nødvendige for å unngå økte gebyrer.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-10-29-redundancies-go-too-far-says-union-leader-491191/"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/venezuela-opposition-leader-maria-corina-machado-says-us-backs-2027-election/a-79803426?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 3
-      },
-      {
-        "tittel": "Putin kommenterer samtaler med Stubb og Støre",
-        "tekst": "Russlands president Vladimir Putin uttaler at den finske presidenten og den norske statsministeren handlet riktig ved å ta initiativ til telefonsamtale.",
-        "utdypning": "Samtalene tidligere i uken møtte blandede reaksjoner blant europeiske allierte, men den russiske lederen uttrykker ønske om å gjenopprette relasjonene til europeiske land.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20254226?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Europa": [
-      {
-        "tittel": "Drepte og sårede i russisk droneangrep mot togstasjon",
-        "tekst": "Minst 14 personer ble drept i et russisk droneangrep mot en fullsatt jernbanestasjon i Dnipro.",
-        "utdypning": "Et jetdrevet dronevåpen traff perrongen torsdag der passasjerer ventet på tog. President Volodymyr Zelenskyj betegner angrepet som forferdelig og ber Ukrainas vestlige allierte om ikke å lette på sanksjonene mot Moskva. Blant de sårede er et 11 år gammelt barn.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-14-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 5
-      },
-      {
-        "tittel": "Sjelden evakuering i okkupert Oleshky",
-        "tekst": "En lokal våpenhvile tillot et humanitært konvoi med busser å hente ut hundrevis av innbyggere fra russiskokkuperte Oleshky.",
-        "utdypning": "Operasjonen markerer den første av sitt slag i sørkynske områder under krigen. Konvoien fraktet mat og medisinsk utstyr, og 527 personer ble evakuert til områder under Kyivs kontroll. Byen har vært okkupert siden 2022 og slitt med matmangel.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261030-live-russia-strikes-energy-facilities-kyiv-aid-convoy-heads-besieged-town-oleshky-ukraine"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Novaya Gazeta stenger dørene",
-        "tekst": "Den uavhengige russiske avisen Novaya Gazeta legger ned etter massivt press fra myndighetene.",
-        "utdypning": "Avisen har vært et av de siste fyrtårnene for fri journalistikk i Russland i tre tiår. Nedleggelsen kommer i kjølvanten av ransakinger hjemme hos redaktøren og arrestasjoner av medarbeidere.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261030-russia-s-bastion-of-free-press-novaya-gazeta-shuts-down-after-years-of-kremlin-pressure"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/russia-critical-newspaper-novaya-gazeta-to-close/a-79805693?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      }
-    ],
-    "Verden": [
-      {
-        "tittel": "Uten flertall etter israelsk valgthriller",
-        "tekst": "Verken Benjamin Netanyahus blokk eller opposisjonen fikk flertall etter at alle stemmene i Israel ble opptalt.",
-        "utdypning": "Netanyahus parti Likud har anklaget arabiskledede partier for å stjele valget og påberopt seg ekstern innblanding. Det ventes nå tøffe og langvarige koalisjonsforhandlinger for å unngå politisk lammelse.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/israeli-election-netanyahu-main-rival-fall-short-of-majority-after-all-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Binance forsøker å hente inn stjålne milliarder",
-        "tekst": "Kryptobørsen Binance har suspendert all handel etter et gigantisk hackerangrep knyttet til Nord-Korea.",
-        "utdypning": "Tyveriet beløper seg til anslagsvis 6,3 milliarder dollar og beskrives som det mest komplekse og omfattende i bransjens historie. Brukerne er avskåret fra trading mens etterforskningen pågår.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "India oppjusterer vekstprognose",
-        "tekst": "Indias finansdepartement har hevet landets økonomiske vekstestimater for inneværende finansår.",
-        "utdypning": "Samtidig advares det mot galopperende inflasjon, særlig knyttet til drivstoff og energi som følge av den vedvarende uroen i Midtøsten.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ]
   },

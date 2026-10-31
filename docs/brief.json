@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Russiske angrep rammet energianlegg i Kyiv fredag kveld, og fire bydeler i hovedstaden er uten strøm.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900"
-        }
-      ]
-    },
-    {
-      "tekst": "Et energikrevende evakueringsarbeid og humanitær hjelpekonvoi ble gjennomført i den russiskokkuperte byen Oleshky i Ukraina.",
+      "tekst": "Forholdet over Atlanteren er kraftig forverret etter nye amerikanske toller og en avtale mellom USA og Russland.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/video/20261030-war-in-ukraine-evacuations-under-way-in-russian-occupied-oleshky"
+          "lenke": "https://www.france24.com/en/tv-shows/talking-europe/20261030-could-us-midterms-impact-the-eu-transatlantic-ties-hit-new-low-after-trump-putin-diesel-deal"
         }
       ]
     },
     {
-      "tekst": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter valget, og det venter krevende koalisjonsforhandlinger.",
+      "tekst": "USA har godkjent et salg av 500 Patriot-missiler for å styrke Ukrainas luftforsvar mot russiske missilangrep.",
+      "kilder": [
+        {
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "tekst": "Hundrevis av isbreer i Norge står i fare for å forsvinne innen få år, viser nye målinger.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/valget-i-israel_-ingen-blokker-fikk-flertall-1.18068940"
+          "lenke": "https://www.nrk.no/mr/hundrevis-av-isbrear-forsvinn.-i-geirangerfjorden-og-naeroyfjorden-er-46-av-48-brear-doyande-1.18065778"
         }
       ]
     }
@@ -31,26 +31,57 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Russisk angrep mot ukrainsk energianlegg",
-        "tekst": "Et energianlegg i Kyiv ble rammet i et russisk angrep fredag kveld, noe som etterlot fire bydeler uten strøm.",
-        "utdypning": "Et energianlegg i Kyiv ble rammet i et russisk angrep fredag kveld, melder avisen The Kyiv Independent. Fire bydeler i den ukrainske hovedstaden er uten strøm, ifølge energiselskapet DTEK. Det har så langt ikke kommet meldinger om døde eller sårede etter angrepet.",
+        "tittel": "Norske isbreer forsvinner i høyt tempo",
+        "tekst": "Hundrevis av norske isbreer kan være borte om få år som følge av smelting. I verdensarvområdene på Vestlandet er nesten alle breene utryddingstruet.",
+        "utdypning": "Målinger viser at 46 av 48 undersøkte breer nå er i ferd med å smelte bort. Det er velkjent at smeltingen pågår, men forskerne vet ikke nøyaktig hvor fort prosessen går. Utviklingen betegnes som alarmerende, særlig i de vernede naturområdene på Vestlandet.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/avis_-angrep-mot-ukrainsk-energianlegg-1.18069900"
+            "lenke": "https://www.nrk.no/mr/hundrevis-av-isbrear-forsvinn.-i-geirangerfjorden-og-naeroyfjorden-er-46-av-48-brear-doyande-1.18065778"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 3
       }
     ],
-    "Skandinavia": [],
+    "Skandinavia": [
+      {
+        "tittel": "G20-gruppebilde avlyst etter Lavrov-protest",
+        "tekst": "Det tradisjonelle gruppebildet under G20-møtet i Atlanta ble avlyst av USA. Årsaken var europeiske protester mot Russlands utenriksminister Sergej Lavrov.",
+        "utdypning": "Europeiske representanter nektet å stille opp til fotografering sammen med Russlands utenriksminister Sergej Lavrov. Vertsnasjonen USA besluttet derfor å avlyse hele seansen for toppmøtet. Reaksjonene understreker den dype splittelsen mellom Russland og vestlige land under internasjonale samlinger.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/drama-under-g20-gruppfoto-stalls-in-nej"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Sjelden evakuering i okkuperte Oleshky",
-        "tekst": "Utmattede innbyggere i Oleshky evakueres i en sjelden felles operasjon under en midlertidig våpenhvile.",
-        "utdypning": "Starving and exhausted residents of Oleshky, a Russian-occupied town in southern Ukraine, were being evacuated on Friday, October 30, as part of a joint relief operation involving the opposing sides – the first operation of its kind in four years and eight months of war. Hundreds of people are also understood to have stayed in the front-line town, despite the dangers. FRANCE 24’s Ukraine correspondent Emmanuelle Chaze reports.",
+        "tittel": "Spent forhold mellom USA og Europa",
+        "tekst": "Forholdet mellom USA og EU har nådd et nytt lavmål under Donald Trump. Nye toller mot europeiske varer og en fersk dieselavtale med Russland skaper dyp uro.",
+        "utdypning": "Europeiske ledere opplever Trumps andre presidentperiode som svært destabiliserende for det transatlantiske partnerskapet. I tillegg til tollmurer har Trump stilt spørsmål ved EUs hensikter, fremmet krav om Grønland og bedt Ukraina bytte president. Samtidig knyttes stor spenning til det kommende amerikanske mellomvalget, som kan endre rammene for presidentens videre politikk.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/tv-shows/talking-europe/20261030-could-us-midterms-impact-the-eu-transatlantic-ties-hit-new-low-after-trump-putin-diesel-deal"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Sjelden våpenhvile åpnet for evakuering i Ukraina",
+        "tekst": "Hundrevis av sivile er evakuert fra den russisk-okkuperte byen Olesjky sør i Ukraina under en sjelden våpenhvile. Byen har lidd under matmangel etter lang tids okkupasjon.",
+        "utdypning": "En kolonne med 25 busser fraktet nødhjelp inn og evakuerte utmattede innbyggere ut til regjeringskontrollerte områder. Beboerne har overlevd uten stabil tilgang på mat, vann og strøm, og mange har måttet koke ugress for å berge seg. Våpenhvilen skal ifølge rapporter ha blitt meglet frem av Melania Trump, men hundrevis av personer har likevel valgt å bli værende i frontbyen. Samtidig hevdet myndighetene i Kyiv at de har truffet en russisk fabrikk for rakettbrensel.",
         "kilder": [
           {
             "navn": "France 24",
@@ -61,32 +92,91 @@
             "lenke": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss"
           },
           {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf"
+          },
+          {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 5
+        "antall_kilder": 4,
+        "vekt": 3
+      },
+      {
+        "tittel": "USA godkjenner 500 Patriot-missiler til Ukraina",
+        "tekst": "USA har godkjent et salg av 500 Patriot-missiler til Ukraina. Våpnene regnes som det eneste effektive forsvaret mot russiske ballistiske missiler.",
+        "utdypning": "De amerikanskproduserte avskjæringsrakettene er avgjørende for Ukrainas evne til å beskytte sivil befolkning og strategiske mål. Forsyningen av 500 nye missiler skal sikre at det ukrainske forsvaret kan opprettholde beredskapen mot tunge russiske luftangrep. Kjøpet representerer en betydelig styrking av landets luftvernkapasitet.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Uavklart valgresultat i Israel",
-        "tekst": "Ingen politiske blokker fikk flertall etter valget i Israel, og det går mot tøffe koalisjonsforhandlinger.",
-        "utdypning": "Ingen politiske blokker fikk rent flertall i det israelske parlamentet etter tirsdagens valg. Det er klart etter at alle stemmene skal være talt opp, melder avisen The Times of Israel. Det trengs 61 mandater for å få rent flertall i nasjonalforsamlingen, der det er 120 parlamentsmedlemmer til sammen. Statsminister Benjamin Netanyahus politiske koalisjon fikk 53 mandater. Opposisjonen, som ledes av Netanyahu-utfordrer Gadi Eisenkot, fikk 48 mandater. De palestinske partiene fikk 19 mandater. 77,9 prosent av de stemmeberettigede israelerne avla sin stemme i valget.",
+        "tittel": "Binance stanser handel etter massivt angrep",
+        "tekst": "Kryptobørsen Binance har stanset all handel etter et hackerangrep der verdier for 6,3 milliarder dollar ble stjålet. Angrepet knyttes til en nordkoreansk aktør.",
+        "utdypning": "Analyseselskaper opplyser at de sitter på solide etterretningsdata som peker mot en nordkoreansk statsstøttet gruppe som gjerningspersoner. Binance har valgt å suspendere handelsaktiviteten fullstendig mens sikkerhetsbruddet etterforskes. Selskapet varsler samtidig at de vil dekke 90 prosent av tapene som brukerne er påført etter tyveriet.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/valget-i-israel_-ingen-blokker-fikk-flertall-1.18068940"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/binance-crypto-exchange-suspends-trades-over-north-korea-linked-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "FNs mandat i Vest-Sahara utløper",
+        "tekst": "FNs fredsbevarende oppdrag i Vest-Sahara opphører etter at Sikkerhetsrådet ikke klarte å forlenge mandatet innen fristen 31. oktober.",
+        "utdypning": "Operasjonen avsluttes ettersom medlemslandene i FNs sikkerhetsråd ikke maktet å samle seg om en forlengelse. Både USA og Russland benyttet vetoretten mot resolusjonsforslaget under forhandlingene. Fredsstyrkens formelle tilstedeværelse i området opphører dermed i dag.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ]
   },
-  "folg_med": [],
+  "folg_med": [
+    {
+      "tid": "",
+      "kategori": "FN",
+      "hendelse": "FNs fredsbevarende mandat i Vest-Sahara utløper etter at Sikkerhetsrådet ikke oppnådde enighet.",
+      "hvorfor": "Både USA og Russland la ned veto mot en forlengelse av fredsstyrkens oppdrag.",
+      "kilder": [
+        {
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Sikkerhet",
+      "hendelse": "USAs ambassade i Moskva advarer om en mulig masseskadehendelse i den russiske hovedstaden.",
+      "hvorfor": "Amerikanske myndigheter melder om en troverdig terrortrussel, samtidig som russisk etterretning opplyser om angrepsplaner.",
+      "kilder": [
+        {
+          "navn": "SVT",
+          "lenke": "https://www.svt.se/nyheter/utrikes/usas-ambassad-i-moskva-varnar-for-valdsdad"
+        }
+      ]
+    }
+  ],
   "senere": [],
   "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modell": "gemini-3.8-flash"
 }

@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Politikere tar til orde for forbud og begrensninger mot at fisketurister tar med store mengder fisk ut av Norge.",
+      "tekst": "Rakettoppskytninger tvinger fiskere i Norge til kai, og nå krever alle parter at regjeringen rydder opp i situasjonen.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/nordland/fisketurister-har-tatt-med-seg-fisk-for-4-milliarder-ut-av-norge.-ordforer-etterlyser-forbud-1.18066011"
+          "lenke": "https://www.nrk.no/nordland/andoya-space-uenige-med-fiskere---nho-og-andoya-space-krever-regjeringen-pa-banen-1.18068037"
         }
       ]
     },
     {
-      "tekst": "Flere ukrainske evakuerte har blitt gjenforent med sine familier etter en lokal våpenhvile i det russiskokkuperte Oleshky.",
+      "tekst": "Slakteriindustrien i Norge slår alarm etter at det kun utdannes sju nye fagarbeidere i året.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/artikkel/slar-alarm-om-rekrutteringa-til-norsk-matindustri-ove-69-held-hjula-i-gang-1530738"
         }
       ]
     },
     {
-      "tekst": "Polens president har holdt krisesamtaler etter en dramatisk opptrapping i striden rundt landets konstitusjonelle domstol.",
+      "tekst": "Den humanitære våpenhvilen i Kherson-regionen i Ukraina går mot slutten etter at Russland nekter å forlenge den.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261031-polish-president-holds-crisis-talks-in-court-standoff"
+          "lenke": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end"
         }
       ]
     }
@@ -31,47 +31,85 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Vil vurdere forbud mot utførsel av fisk for turister",
-        "tekst": "Politikere tar til orde for forbud og andre begrensninger etter at fisketurister har tatt med fisk for over 4 milliarder kroner ut av Norge.",
-        "utdypning": "I løpet av de siste årene har fisketurister tatt med seg store mengder fisk ut av landet. Nå krever politikere at det innføres et forbud eller strengere begrensninger for å hindre at store verdier forsvinner ut med turister.",
+        "tittel": "Rakettoppskytninger stopper fiskere",
+        "tekst": "Fiskere tvinges til kai på grunn av rakettoppskytninger, og ber regjeringen rydde opp.",
+        "utdypning": "Sola skinner, men fiskeflåten må ligge ved kai fordi rakettoppskytninger stenger havområdene. Nå krever alle involverte parter at regjeringen tar tak i problemstillingen slik at fiskerne kan gjenoppta arbeidet.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/fisketurister-har-tatt-med-seg-fisk-for-4-milliarder-ut-av-norge.-ordforer-etterlyser-forbud-1.18066011"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Skandinavia": [],
-    "Norden": [],
-    "Europa": [
-      {
-        "tittel": "Polsk krise etter domstolsstrid",
-        "tekst": "Polens president holdt hastemøter med politiske ledere etter en opphetet og dramatisk strid om domstoluavhengighet i landet.",
-        "utdypning": "Polens president Karol Nawrocki holdt krisesamtaler med politiske ledere på lørdag. Bakgrunnen er en bitter konflikt om utneggelsen av dommere til den konstitusjonelle domstolen, som har eskalert til en full politisk krise. Striden står mellom statsminister Donald Tusks pro-EU-regjering på den ene siden, og en nasjonalistisk opposisjon og høyreorientert president på den andre.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261031-polish-president-holds-crisis-talks-in-court-standoff"
+            "lenke": "https://www.nrk.no/nordland/andoya-space-uenige-med-fiskere---nho-og-andoya-space-krever-regjeringen-pa-banen-1.18068037"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Evakuerte fra okkupert ukrainsk by gjenforent med familier",
-        "tekst": "Innbyggere fra den russiskokkuperte byen Oleshky ble gjenforent med sine familier etter en evakuering som fulgte en lokal våpenhvile.",
-        "utdypning": "Evakuerte fra Oleshky krysset inn til ukrainsk-kontrollert territorium lørdag etter å ha reist gjennom Belarus. Operasjonen skjedde under en sjelden våpenhvile som skal ha blitt meglet frem av USAs førstedame Melania Trump. Byen Oleshky har vært under russisk okkupasjon siden 2022, og innbyggerne harlevd under svært vanskelige forhold uten mat, vann og elektrisitet.",
+        "tittel": "Slakteriindustrien slår alarm om rekruttering",
+        "tekst": "Slakteriindustrien slår alarm etter at det kun utdannes sju personer i året.",
+        "utdypning": "Norsk slakteriindustri opplever en dyp rekrutteringskrise. Med kun sju utdannede i året slår bransjen nå alarm om fremtidig kapasitet og kompetanse.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261031-evacuees-from-russian-occupied-oleshky-arrive-in-ukraine"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/artikkel/slar-alarm-om-rekrutteringa-til-norsk-matindustri-ove-69-held-hjula-i-gang-1530738"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
+      }
+    ],
+    "Skandinavia": [],
+    "Norden": [],
+    "Europa": [
+      {
+        "tittel": "Våpenhvile i Kherson nærmer seg slutten",
+        "tekst": "Den midlertidige våpenhvilen i Kherson avsluttes søndag kveld etter at Russland nekter forlengelse.",
+        "utdypning": "Den lengste våpenhvilen i Ukraina-krigen, som har vært lokalisert i Kherson-regionen, utløper søndag kveld ettersom Russland ikke vil forlenge pausen. Våpenhvilen har gjort det mulig å evakuere sivile fra den russiskokkuperte byen Oleshky og gjennomføre humanitære oppdrag. Samtidig melder ukrainske myndigheter om nye russiske angrep mot energiinfrastruktur i minst fire regioner.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "Presidentvalg i Bulgaria",
+        "tekst": "Bulgarere stemmer i en polarisert andre omgang mellom to kandidater med ulikt syn på Ukraina.",
+        "utdypning": "Bulgaria avholder søndag en ny runde i presidentvalget. Valget står mellom den sittende, Russland-vennlige presidenten Iliana Iotova og opposisjonskandidaten Andrey Gyurov. Avstemningen er preget av sikkerhetsspenninger i Svartehavet og oppfølging av en første omgang med rekordlav oppslutning.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Konstitusjonell krise i Polen",
+        "tekst": "EU oppfordrer Polens president til å anerkjenne nye dommere i en dypende konstitusjonell strid.",
+        "utdypning": "Polens konstitusjonelle krise tilspisset seg da EU-kommisjonen ba president Karol Nawrocki om å anerkjenne dommere utnevnt av statsminister Donald Tusk. Situasjonen skaper politisk uro foran neste års parlamentsvalg, hvor det ventes et svært jevnt løp mellom regjeringens koalisjon og den nasjonalistiske høresiden.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/poland-rocked-by-constitutional-showdown"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Verden": []

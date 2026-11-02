@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Rakettoppskytninger tvinger fiskere i Norge til kai, og nå krever alle parter at regjeringen rydder opp i situasjonen.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/nordland/andoya-space-uenige-med-fiskere---nho-og-andoya-space-krever-regjeringen-pa-banen-1.18068037"
-        }
-      ]
-    },
-    {
-      "tekst": "Slakteriindustrien i Norge slår alarm etter at det kun utdannes sju nye fagarbeidere i året.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/artikkel/slar-alarm-om-rekrutteringa-til-norsk-matindustri-ove-69-held-hjula-i-gang-1530738"
-        }
-      ]
-    },
-    {
-      "tekst": "Den humanitære våpenhvilen i Kherson-regionen i Ukraina går mot slutten etter at Russland nekter å forlenge den.",
+      "tekst": "Russland og Ukraina anklager hverandre for dataangrep mot nødvarslingsapper idet en skjør våpenhvile i Kherson utløper.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end"
+          "lenke": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends"
+        }
+      ]
+    },
+    {
+      "tekst": "Senterpartiet er skuffet over at helsereformutvalget ikke vil avvikle hele helseforetaksmodellen i Norge.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170"
+        }
+      ]
+    },
+    {
+      "tekst": "Nye kilder melder at det internasjonale skiforbundet frykter en vanskelig situasjon rundt russiske utøvere i verdenscupen.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456"
         }
       ]
     }
@@ -31,9 +31,35 @@
   "saker": {
     "Norge": [
       {
+        "tittel": "Kritikk mot helseforetak",
+        "tekst": "Senterpartiets nestleder Kjersti Toppe er skuffet over at helsereformutvalget ikke går inn for å fjerne helseforetaksmodellen.",
+        "utdypning": "Toppe mener sykehussektoren i Norge har blitt for systemtung og at det må brukes mindre tid på system og mer på pasienten. Hun reagerer på at utvalget foreslår å opprette nye helseselskap for en ny nærhelsetjeneste, ettersom hun mener dette gir mindre politisk styring. Sykehusene styres i dag av direktører som ikke er folkevalgte, og Toppe understreker at den demokratiske kontrollen over sektoren må tas tilbake.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "FIS frykter Russland-blemme",
+        "tekst": "Det internasjonale skiforbundet (FIS) frykter et umulig valg ettersom Aleksandr Bolsjunov er med i den russiske troppen til verdenscuprennene.",
+        "utdypning": "Den russiske stjernen Aleksandr Bolsjunov er tatt ut i den russiske troppen til de kommende verdenscuprennene i både Ruka og Trondheim. Ifølge kilder til NRK står FIS overfor en svært krevende situasjon knyttet til hvorvidt russiske utøvere skal få delta i rennene i Norden.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
         "tittel": "Rakettoppskytninger stopper fiskere",
-        "tekst": "Fiskere tvinges til kai på grunn av rakettoppskytninger, og ber regjeringen rydde opp.",
-        "utdypning": "Sola skinner, men fiskeflåten må ligge ved kai fordi rakettoppskytninger stenger havområdene. Nå krever alle involverte parter at regjeringen tar tak i problemstillingen slik at fiskerne kan gjenoppta arbeidet.",
+        "tekst": "Rakettoppskytninger tvinger fiskere til land, og alle parter krever nå at regjeringen rydder opp i situasjonen.",
+        "utdypning": "Fiskere får ikke utført sitt arbeid på sjøen som følge av rakettoppskytninger i området. Berørte parter er klare på at myndighetene må ta grep for å løse konflikten mellom oppskytningene og fiskerinæringens rett til å drive virksomhet på sjøen.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -42,32 +68,33 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Slakteriindustrien slår alarm om rekruttering",
-        "tekst": "Slakteriindustrien slår alarm etter at det kun utdannes sju personer i året.",
-        "utdypning": "Norsk slakteriindustri opplever en dyp rekrutteringskrise. Med kun sju utdannede i året slår bransjen nå alarm om fremtidig kapasitet og kompetanse.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/artikkel/slar-alarm-om-rekrutteringa-til-norsk-matindustri-ove-69-held-hjula-i-gang-1530738"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [],
-    "Norden": [],
+    "Norden": [
+      {
+        "tittel": "Høyere strømpriser i Norden",
+        "tekst": "Spotprisen på strøm stiger mandag som følge av reduserte vannkraftreserver og krisen i Midtøsten.",
+        "utdypning": "De nordiske kraftprisene skrus opp på grunn av anstrengte hydrologiske magasiner. Situasjonen forsterkes av uroen og energiprisene knyttet til krisen i Midtøsten.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20254524?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      }
+    ],
     "Europa": [
       {
-        "tittel": "Våpenhvile i Kherson nærmer seg slutten",
-        "tekst": "Den midlertidige våpenhvilen i Kherson avsluttes søndag kveld etter at Russland nekter forlengelse.",
-        "utdypning": "Den lengste våpenhvilen i Ukraina-krigen, som har vært lokalisert i Kherson-regionen, utløper søndag kveld ettersom Russland ikke vil forlenge pausen. Våpenhvilen har gjort det mulig å evakuere sivile fra den russiskokkuperte byen Oleshky og gjennomføre humanitære oppdrag. Samtidig melder ukrainske myndigheter om nye russiske angrep mot energiinfrastruktur i minst fire regioner.",
+        "tittel": "Våpenhvile utløpt i Ukraina",
+        "tekst": "Russland og Ukraina melder om gjensidige dataangrep idet en skjør lokal våpenhvile i Kherson-regionen utløper.",
+        "utdypning": "Moskva rapporterte om et hackingangrep mot sin nødvarslingsapp få timer etter at Kyiv opplevde at sitt varslingssystem ble kompromittert. Angrepene skjer samtidig som en sjelden humanitær våpenhvile i Kherson-regionen har utløpt, noe som øker frykten for hardere kamper. Volodymyr Zelenskyj opplyste at Russland har angrepet energiinfrastruktur i minst fire regioner over natten.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261101-localised-ceasefire-in-ukraine-s-kherson-region-set-to-end"
+            "lenke": "https://www.france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends"
           },
           {
             "navn": "BBC World",
@@ -82,37 +109,64 @@
         "vekt": 5
       },
       {
+        "tittel": "Ny stor radar i Kaliningrad",
+        "tekst": "Russland nærmer seg fullføringen av et gigantisk radarkompleks i Kaliningrad som vekker bekymring i NATO.",
+        "utdypning": "Anlegget er i stand til å overvåke store deler av Europa. Eksperter advarer om at prosjektet kan føre til en ytterligere tilspissing av den militære standoffen mellom Moskva og NATO-alliansen.",
+        "kilder": [
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
         "tittel": "Presidentvalg i Bulgaria",
-        "tekst": "Bulgarere stemmer i en polarisert andre omgang mellom to kandidater med ulikt syn på Ukraina.",
-        "utdypning": "Bulgaria avholder søndag en ny runde i presidentvalget. Valget står mellom den sittende, Russland-vennlige presidenten Iliana Iotova og opposisjonskandidaten Andrey Gyurov. Avstemningen er preget av sikkerhetsspenninger i Svartehavet og oppfølging av en første omgang med rekordlav oppslutning.",
+        "tekst": "Bulgarere stemte søndag i en presidentvalgomgang mellom to kandidater med vidt forskjellige syn på Ukraina-krigen.",
+        "utdypning": "Valget står mellom den sittende, russiskvennlige presidenten Iliana Iotova og motstanderen Andrey Gyurov. Valget avholdes i en tid med økende sikkerhetstjenstlige spenninger i Svartehavsområdet.",
         "kilder": [
           {
             "navn": "France 24",
             "lenke": "https://www.france24.com/en/europe/20261101-bulgarians-vote-in-presidential-runoff-amid-security-tensions-in-the-black-sea"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Konstitusjonell krise i Polen",
-        "tekst": "EU oppfordrer Polens president til å anerkjenne nye dommere i en dypende konstitusjonell strid.",
-        "utdypning": "Polens konstitusjonelle krise tilspisset seg da EU-kommisjonen ba president Karol Nawrocki om å anerkjenne dommere utnevnt av statsminister Donald Tusk. Situasjonen skaper politisk uro foran neste års parlamentsvalg, hvor det ventes et svært jevnt løp mellom regjeringens koalisjon og den nasjonalistiske høresiden.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/poland-rocked-by-constitutional-showdown"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Flystyrt i Florida",
+        "tekst": "Ni mennesker omkom da et mindre jetfly krasjet i et boligstrøk i Palm Beach County i Florida.",
+        "utdypning": "Ulykken skjedde nær en travel vei i nærheten av president Donald Trumps Mar-a-Lago-resort. Transportminister Sean Duffy betegner hendelsen som en grusom tragedie, og ulykken etterlot et stort krater på bakken.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-nine-killed-in-florida-jet-crash/a-79825921?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Ryanair advarer om prisgalopp",
+        "tekst": "Flyselskapet Ryanair advarer om at drivstoffprisene kan stige kraftig dersom krigen mellom US-Israel og Iran fortsetter.",
+        "utdypning": "Selskapet anslår at drivstoffkostnadene kan øke med opptil to milliarder euro i 2028 med mindre konflikten i Midtøsten får en ende. Som følge av dette kan det bli aktuelt å fryse de ansattes lønninger og øke flybillettprisene.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ]
   },
   "folg_med": [],
   "senere": [],

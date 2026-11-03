@@ -1,7 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Norske sykehus er dårlig forberedt på å ta imot et stort antall skadde soldater, advarer overlege.",
+      "tekst": "Russiske angrep mot en ukrainsk landsby har krevd minst 24 menneskeliv, ifølge ukrainske myndigheter.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/minst-24-drept-i-russiske-angrep-mot-ukrainsk-landsby-1.18071637"
+        }
+      ]
+    },
+    {
+      "tekst": "En norsk overlege advarer om at norske sykehus ikke er forberedt på å håndtere tusenvis av skadde soldater.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +19,11 @@
       ]
     },
     {
-      "tekst": "Senterpartiet foreslår å bevilge en kvart milliard kroner for å kutte prisene på hurtigbåt i sitt alternative budsjett.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/nordland/vedum-vil-kutte-hurtigbatpriser-med-250-millioner-1.18071624"
-        }
-      ]
-    },
-    {
-      "tekst": "Skiforbundet risikerer en krevende situasjon ettersom den russiske løperen Aleksandr Bolsjunov er tatt ut til verdenscupen.",
+      "tekst": "Regjeringen gir grønt lys for å fjerne elbilrabatten i bomringen, noe som starter på Nord-Jæren.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456"
+          "lenke": "https://www.nrk.no/rogaland/regjeringa-har-gitt-gront-lys-for-a-fjerne-elbilrabatten-i-bomringen-_-mdg-varslar-omkamp-1.18069419"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Advarer om at norske sykehus ikke er klare for krig",
-        "tekst": "Sykehusene har ingen sjanse til å ta imot 7000 skadde soldater som regjeringen har bedt om, advarer overlege.",
-        "utdypning": "Regjeringen har bedt sykehusene om å kunne håndtere 7000 skadde soldater. Kirurg og overlege Kristina Stølen Ugelvik mener imidlertid at norske sykehus ikke er forberedt på en slik situasjon. Hun peker på at kapasiteten er for lav til å takle et slikt volum av pasienter i en krigssituasjon.",
+        "tittel": "Advarer mot manglende krigsberedskap på sykehus",
+        "tekst": "Sykehusene har ingen sjanse til å ta imot 7000 skadde soldater, advarer overlege.",
+        "utdypning": "Sykehusene har ingen sjanse til å ta imot 7000 skadde soldater, som regjeringen har bedt om. Det mener kirurg og overlege Kristina Stølen Ugelvik.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,39 +44,52 @@
         "vekt": 5
       },
       {
-        "tittel": "FIS kan stå overfor Russland-dilemma før verdenscup",
-        "tekst": "Aleksandr Bolsjunov er med i den russiske troppen til verdenscuprennene i Ruka og Trondheim.",
-        "utdypning": "Kilder opplyser til NRK at Det internasjonale skiforbundet (FIS) frykter de står overfor en vanskelig situasjon med den mulige returen av Aleksandr Bolsjunov. Den russiske utøveren er inkludert i troppen til de kommende verdenscuprennene i både Ruka og Trondheim, noe som vekker bekymring for en potensiell blemme.",
+        "tittel": "Minst 24 drept i russiske angrep",
+        "tekst": "Landsbyen Komysjuvakha i Zaporizjzja ble rammet av glidebomber, ifølge ukrainske myndigheter.",
+        "utdypning": "Landsbyen Komysjuvakha i Zaporizjzja-regionen har blitt angrepet med glidebomber gjentatte ganger siden i morges, ifølge Ukrainas president Volodymyr Zelenskyj. Ukrainske nødetater opplyser at 24 mennesker er drept, ifølge Reuters. Zelenskyj hevder blant annet at angrepene var rettet mot en skole der folk samlet seg for å motta nødhjelp.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456"
+            "lenke": "https://www.nrk.no/nyheter/minst-24-drept-i-russiske-angrep-mot-ukrainsk-landsby-1.18071637"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Grønt lys for fjerning av elbilrabatt",
+        "tekst": "Regjeringen åpner for å fjerne elbilrabatten i bomringen, med Nord-Jæren først ut.",
+        "utdypning": "Forslaget gjeld i første omgang for Nord-Jæren, men fleire fryktar smitte til resten av landet. Elbilister reagerer sterkt på beslutningen og betegner den som uforståelig.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/regjeringa-har-gitt-gront-lys-for-a-fjerne-elbilrabatten-i-bomringen-_-mdg-varslar-omkamp-1.18069419"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Senterpartiet vil kutte i hurtigbåtpriser",
-        "tekst": "Senterpartiet bevilger en kvart milliard kroner i sitt alternative budsjett for å senke prisene på hurtigbåt.",
-        "utdypning": "Trygve Slagsvold Vedum betegner satsingen som det neste store grepet for kysten. Partiet setter av totalt 250 millioner kroner for å få ned prisene på hurtigbáttilbudet i distriktene.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/nordland/vedum-vil-kutte-hurtigbatpriser-med-250-millioner-1.18071624"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Sp skuffet over helsereformutvalget",
-        "tekst": "Senterpartiets nestleder Kjersti Toppe er skuffet over at utvalget ikke vil avvikle helseforetaksmodellen.",
-        "utdypning": "Toppe mener sykehussektoren har blitt for systemtung og at man må prioritere pasientene fremfor byråkrati. Hun reagerer på at utvalget foreslår å opprette nye helseselskap fremfor å fjerne foretaksmodellen, noe hun mener gir mindre politisk styring og fjerner den demokratiske kontrollen fra folkevalgte.",
+        "tittel": "Fagforbundet varsler politisk streik for Posten",
+        "tekst": "Fagforbundet varsler tre timers politisk streik mot kutt i Posten.",
+        "utdypning": "Fagforbundet varsler en tre timer lang politisk streik mandag 16. november når de samler Posten-ansatte foran Stortinget og i flere byer under parolen «Leve Posten!». Regjeringens forslag til statsbudsjett kan føre til at 2000 av 3000 postansatte mister jobben allerede 1. juli neste år, skriver Fagforbundet i en pressemelding.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/sp_-skuffet-over-at-utvalget-ikke-gar-lenger-1.18071170"
+            "lenke": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Russisk gigantkonsern til norske domstoler",
+        "tekst": "Et russisk milliardkonsern saksøker Norge for påstått diskriminering.",
+        "utdypning": "Dønningene av krigen i Ukraina havner nok en gang i en norsk domstol. Nå skal retten ta stilling til om Norge diskriminerer et russisk milliardkonsern.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/norebo-moter-staten-norge-i-tingretten-om-retten-til-a-fiske-i-norges-okonomiske-sone-1.18062665"
           }
         ],
         "antall_kilder": 1,
@@ -85,9 +98,9 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Marius Borg Høiby løslates fra varetekt",
-        "tekst": "Oslos tingsrätt beslutar att Marius Borg Høiby ska släppas på fri fot utan fotboja.",
-        "utdypning": "Marius Borg Høiby har ved flere anledninger forsøkt å slippe varetektsfengsling. Oslos tingrett har nå besluttet at han skal settes på fri fot og slippe å bruke fotlenke, selv om rettsprocessen mot ham fortsatt pågår.",
+        "tittel": "Marius Borg Høiby løslates",
+        "tekst": "Oslos tingsrätt beslutar att Marius Borg Høiby ska släppas på fri fot.",
+        "utdypning": "Marius Borg Høiby har vid flera tillfällen begärt att slippa sitta häktad. Nu beslutar Oslos tingsrätt att han ska försättas på fri fot och slippa fotboja, rapporterar norska medier. Rättsprocessen mot bonusprinsen pågår fortsatt.",
         "kilder": [
           {
             "navn": "SVT",
@@ -99,16 +112,16 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 3
       },
       {
-        "tittel": "Norsk 16-åring dømt for mordoppdrag i Sverige",
-        "tekst": "En 16-årig norsk medborgare döms till ett och ett halvt års fängelse för förberedelse till mord i Norrköping.",
-        "utdypning": "Norrköpings tingsrätt har dømt den mindreårige norske gutten for å ha påtatt seg et mordoppdrag. Ifølge dommen ble gutten rekruttert av personer med tilknytning til et kriminelt nettverk.",
+        "tittel": "USA opplyser om russisk-ukrainske samtaler",
+        "tekst": "USA vil fungere som megler i samtaler mellom Russland og Ukraina neste uke.",
+        "utdypning": "USA kommer att agera medlare i samtal mellan Ryssland och Ukraina nästa vecka. Det skriver USA:s sändebud Steve Witkoff i ett inlägg på plattformen X.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/ost/16-aring-tog-morduppdrag-i-norrkoping-doms-till-fangelse"
+            "lenke": "https://www.svt.se/nyheter/utrikes/witkoff-samtal-ryssland-ukraina-nasta-vecka"
           }
         ],
         "antall_kilder": 1,
@@ -117,9 +130,35 @@
     ],
     "Norden": [
       {
-        "tittel": "Flertallet av finnene avviser normalisering med Russland",
-        "tekst": "En ny undersøkelse viser at de fleste i Finland er imot å normalisere forbindelsene med Russland.",
-        "utdypning": "Målingen kommer etter at president Alexander Stubb nylig hadde en telefonsamtale med Russlands president Vladimir Putin. Befolkningen stiller seg altså avvisende til å gjenoppta normale diplomatiske relasjoner slik situasjonen er nå.",
+        "tittel": "Island utgir sivilbeskyttelseshefte",
+        "tekst": "Islands politi og sivilforsvar lanserer et nytt beredskapshefte for befolkningen.",
+        "utdypning": "Almannavarnadeild ríkislögreglustjóra publiserer heftet «Let's Be Prepared» for å bedre offentlig beredskap og samfunnets motstandsdyktighet. Heftet distribueres digitalt og på utvalgte steder i landet på flere språk.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-03-authorities-publish-civil-defence-booklet-lets-be-prepared-491575/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Finland avviser Russland i ishockey-VM",
+        "tekst": "Finland nekter å spille mot Russland under ishockey-VM i Tyskland i mai.",
+        "utdypning": "Turneringen er planlagt spilt i Tyskland i mai, men de finske avvisningene av å møte det russiske laget står fast.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20254773?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Finner avviser normalisering med Russland",
+        "tekst": "En ny meningsmåling viser at flertallet av finner avviser normaliserte relasjoner med Russland.",
+        "utdypning": "Målingen kommer i anledning at president Alexander Stubb nylig snakket med Vladimir Putin på telefon, noe som har vakt reaksjoner.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -127,65 +166,48 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Høyere strømpriser i Norden på grunn av lav vannstand",
-        "tekst": "Spotprisen på strøm stiger på grunn av reduserte vannkraftreserver og uro i Midtøsten.",
-        "utdypning": "De nordiske kraftprisene har hoppet markant oppover. Årsakene oppgis å være en kombinasjon av lave nivåer i vannkraftmagasinene i Norden samt den vedvarende krisen i Midtøsten.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20254524?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Russland og Ukraina anklager hverandre for dataangrep",
-        "tekst": "Både Moskva og Kyiv melder om cyberangrep mot apper for nødvarsling etter at en lokal våpenhvile utløp.",
-        "utdypning": "Dataangrepene rammet systemene som sender ut nødvarsler til publikum i både Russland og Ukraina. Hendelsene skjer etter at en seks dager lang lokal våpenhvile i Kherson-regionen natt til søndag løp ut uten registrerte brudd. Samtidig varsler Ukraina at de kan stanse angrepene mot russiske oljeraffinerier dersom USA leverer Patriot-missiler.",
+        "tittel": "Minst 26 drepte i russiske angrep i Ukraina",
+        "tekst": "Russiske angrep krevde minst 26 liv i Ukraina etter at en lengre våpenhvile tok slutt.",
+        "utdypning": "Russia killed at least 26 people in strikes on a village in southern Ukraine on Monday, including civilians collecting humanitarian aid, emergency workers and police officers. The attack came hours after a rare ceasefire ended, extinguishing hopes of progress towards peace. Fighting returned to the Kherson region after the six-day truce.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked"
+            "lenke": "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 3,
         "vekt": 5
       },
       {
-        "tittel": "Iliana Iotova valgt til historisk president i Bulgaria",
-        "tekst": "Iliana Iotova har vunnet presidentvalget i Bulgaria og blir landets første kvinnelige statsoverhode.",
-        "utdypning": "Iotova vant valgkampen med løfter om å være en fredspresident. Valget har imidlertid avdekket dype splittelser i den bulgarske befolkningen når det gjelder krigen i Ukraina og droneangrep i Svartehavet.",
+        "tittel": "Nødvarslingsapper hacket i Russland og Ukraina",
+        "tekst": "Både russiske og ukrainske nødvarslingssystemer ble utsatt for cyberangrep med falske atomtrusler.",
+        "utdypning": "Emergency alert systems in Russia and Ukraine were hit in cyber attacks overnight, with fake warnings of possible nuclear strikes broadcast to users. Experts note that these types of attacks are designed to undermine faith in governments' ability to provide trust.",
         "kilder": [
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/press-review/20261102-consolidation-of-power-bulgaria-elects-iliana-iotova-as-first-woman-president"
+            "lenke": "https://www.france24.com/en/tv-shows/a-propos/20261102-emergency-alerts-hacking-designed-to-undermine-trust-in-government-expert-says"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Ny russisk gigantradar i Kaliningrad vekker bekymring i NATO",
-        "tekst": "Russland nærmer seg fullføringen av et stort radarkompleks som kan overvåke store deler av Europa.",
-        "utdypning": "Eksperter advarer om at den nye radaren i Kaliningrad kan forsterke den militære spenningen mellom Moskva og NATO ytterligere, ettersom anlegget har kapasitet til å overvåke det meste av det europeiske luftrommet.",
+        "tittel": "Ny russisk gigantradar i Kaliningrad vekker uro",
+        "tekst": "Russland nærmer seg fullføringen av en stor radar i Kaliningrad som kan overvåke store deler av Europa.",
+        "utdypning": "Eksperter advarer om at prosjektet kan intensivere den militære spenningen mellom Moskva og NATO.",
         "kilder": [
           {
             "navn": "DW",
@@ -198,9 +220,39 @@
     ],
     "Verden": [
       {
-        "tittel": "USA fjerner Rwanda og Sør-Afrika fra frihandelsavtale",
-        "tekst": "Trump-administrasjonen kaster ut de to landene fra AGOA-initiativet for brudd på avtalens regler.",
-        "utdypning": "Beslutningen om å fjerne Sør-Afrika og Rwanda fra det tollfrie handelssamarbeidet kommer like etter at Rwandas forsvarsdepartement ble rammet av sanksjoner fra USAs finansdepartement. AGOA er en sentral påler i USAs økonomiske engasjement i Afrika sør for Sahara.",
+        "tittel": "Midtveisvalg i USA",
+        "tekst": "Amerikanerne går til urnene i et valg som sees på som en folkeavstemning om Donald Trumps presidentskap.",
+        "utdypning": "The crucial midterms will determine how much power President Donald Trump has to make changes in the last two years of his term. Voters are electing a new Congress in races that will be decisive for the future of the United States.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-midterms-americans-vote-in-polls-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Høyesterett avviser Trump-forsøk i California",
+        "tekst": "USAs høyesterett avviser administrasjonens forsøk på å diskvalifisere omstridte stemmer i California.",
+        "utdypning": "The ruling comes on the eve of the midterm elections and ends the bid to challenge more than 20,000 ballots over claims regarding non-US citizens.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "USA fjerner land fra handelsavtale",
+        "tekst": "Trump-administrasjonen fjerner Rwanda og Sør-Afrika fra tollfri handelsavtale.",
+        "utdypning": "The move comes under the AGOA initiative after US claims that the countries are breaking program rules, closely following recent sanctions against Rwanda's defense ministry.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -212,32 +264,6 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Mange drepte i russiske angrep mot nødhjelpssenter",
-        "tekst": "Minst 24 mennesker ble drept da en skole som fungerte som nødhjelpssenter ble truffet i Zaporizjzja.",
-        "utdypning": "Ukrainske myndigheter opplyser at landsbyen Komysjuvakha i Zaporizjzja-regionen har blitt angrepet gjentatte ganger med glidebomber. Ifølge president Volodymyr Zelenskyj var skolen brukt til utdeling av nødhjelp da den ble rammet, og redningsarbeidet på stedet beskrives som svært krevende.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Sør-Korea satser tungt på kunstig intelligens i nytt budsjett",
-        "tekst": "President Lee Jae Myung legger frem et rekordinvesteringsbudsjett for 2027 med fokus på teknologi.",
-        "utdypning": "Den sørkoreanske regjeringen planlegger å kanalisere milliarder inn i kunstig intelligens og annen avansert teknologi som en sentral del av landets framtidige økonomiske strategi.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ]

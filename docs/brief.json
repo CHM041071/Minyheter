@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Riksadvokaten har tatt ut tiltale mot en mann bosatt i Norge for krigsforbrytelser i Kamerun.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/norge/tiltalt-for-krigsforbrytelser-i-kamerun-fra-kjellerstue-i-norge-1.17977292"
-        }
-      ]
-    },
-    {
-      "tekst": "USA-valget vekker sterke reaksjoner og engasjement i Norge.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/sorlandet/valgfeber-pa-lista_-folger-usa-valget-fra-_den-51.-stat_-1.18072702"
-        }
-      ]
-    },
-    {
-      "tekst": "President Donald Trump varsler at USA vil kutte nesten fire milliarder dollar i militærstøtte til Israel.",
+      "tekst": "Demokratene har vunnet flertallet i både Representantenes hus og Senatet etter det amerikanske mellomvalget.",
       "kilder": [
         {
           "navn": "DW World",
-          "lenke": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf"
+          "lenke": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "tekst": "Lagmannsretten har omgjort tingrettens kjennelse slik at Marius Borg Høiby holdes i fortsatt varetekt med elektronisk kontroll.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/hoiby-blir-fortsatt-varetektsfengslet--1.18073687"
+        }
+      ]
+    },
+    {
+      "tekst": "Oslo byråd kutter antallet elsparkesykler, øker satsingen på elsykler og innfører en fast aldersgrense på 16 år.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020"
         }
       ]
     }
@@ -31,197 +31,51 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Tiltalt for krigsforbrytelser",
-        "tekst": "Riksadvokaten har tatt ut tiltale mot en mann bosatt i Norge for blant annet medvirkning til terror.",
-        "utdypning": "Riksadvokaten har tatt ut tiltale mot en mann bosatt i Norge for blant annet medvirkning til terror og krigsforbrytelser i Kamerun. Saken etterforskes og behandles av norske myndigheter ettersom den tiltalte er bosatt i landet.",
+        "tittel": "Høiby blir fortsatt varetektsfengslet",
+        "tekst": "Lagmannsretten har omgjort tingrettens avgjørelse og besluttet at Marius Borg Høiby fortsatt skal være varetektsfengslet.",
+        "utdypning": "Lagmannsretten ga medhold til påtalemyndighetens anke etter at Oslo tingrett tidligere hadde besluttet å løslate 29-åringen. Fengslingen vil fortsette med elektronisk kontroll på Skaugum. Forsvarerne opplyser at de tar avgjørelsen til etterretning og vil gjennomgå rettens begrunnelse.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/norge/tiltalt-for-krigsforbrytelser-i-kamerun-fra-kjellerstue-i-norge-1.17977292"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Trump vil avslutte støtte til Israel",
-        "tekst": "Israel vil fra nyåret ikke lenger få støtte fra USA, sier president Donald Trump.",
-        "utdypning": "Israel vil fra nyåret av ikke lenger få støtte fra USA, sier president Donald Trump i et intervju med Fox News tirsdag. Han sier videre at Israels statsminister Benjamin Netanyahu har gått med på dette, og at israelerne mener de ikke trenger støtten. Israel vil imidlertid ha muligheten til å kjøpe våpen og annet de skulle trenge, sier Trump.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/trump-sier-han-vil-avslutte-usas-stotte-til-israel-i-slutten-av-aret-1.18072465"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Norsk interesse for amerikansk valg",
-        "tekst": "Demokraten Abdul El-Sayed sikrer seg valgseier i Michigan i det amerikanske mellomvalget.",
-        "utdypning": "The New York Times erklærer at demokraten Abdul El-Sayed vinner over republikaneren Mike Rogers i kampen om sentatssetet i Michigan. Det betyr at Demokratene går seirende ut av en av de mest profilerte valgene i dette mellomvalget. Michigan var den eneste delstaten der Republikanerne hadde en realistisk mulighet til å ta et sete fra Demokratene i Senatet. El-Sayed, som tilhører venstresiden i Det demokratiske partiet, blir den første senatoren som er muslim.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/abdul-el-sayed-vinner-i-michigan-1.18073068"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Asylmottak legges ned",
-        "tekst": "UDI har besluttet å legge ned asylmottaket i Kvæfjord kommune i Troms.",
-        "utdypning": "UDI har besluttet å legge ned asylmottaket i Kvæfjord kommune i Troms. Nedleggelsen fører til at 15 ansatte mister jobben, noe som har fått ordføreren til å kreve en nærmere begrunnelse fra utlendingsmyndighetene.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/udi-har-besluttet-at-a-legge-ned-asylmottaket-i-kvaefjord-1.18073246"
+            "lenke": "https://www.nrk.no/nyheter/hoiby-blir-fortsatt-varetektsfengslet--1.18073687"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Menneskehandelssak må avlyses",
-        "tekst": "En omfattende menneskehandelssak må gjennomføres på nytt etter at en forsvarer ble siktet.",
-        "utdypning": "Da saken var inne i sin sjette uke i Nedre Telemark tingrett, ble en av forsvarerne siktet for bevispåvirkning. Nå er hele rettssaken kansellert og må starte på nytt.",
+        "tittel": "Oslo strammer inn for elsparkesykler",
+        "tekst": "Oslo byråd kutter antallet elsparkesykler, øker antallet elsykler og setter en fast aldersgrense på 16 år.",
+        "utdypning": "Det totale taket på 16.000 utleiekjøretøy forblir uendret, men elsparkesyklene kuttes fra 16.000 til maksimalt 12.000. De resterende 4000 plassene settes av til elsykler i en ny anbudskonkurranse. Byrådsleder Eirik Lae Solberg (H) sier tiltakene gjøres for å styrke tryggheten og gi folk flere reisemuligheter uten bil.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/menneskehandelssak-ma-gjennomfores-pa-nytt-etter-at-forsvarer-ble-pagrepet-1.18071708"
+            "lenke": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Skandinavia": [
+    "Skandinavia": [],
+    "Norden": [],
+    "Europa": [],
+    "Verden": [
       {
-        "tittel": "Høgste domstolen godkänner vistelseförbud",
-        "tekst": "Sveriges Högsta domstol ger grønt lys for preventivt oppholdsforbud for utpekt gängledare.",
-        "utdypning": "Besluttet gjelder en mann som pekes ut som en ledare for et kriminellt nätverk i Göteborg. Högsta domstolen har godkänt det preventiva vistelseförbudet.",
+        "tittel": "Demokratene vant kontroll over Kongressen",
+        "tekst": "Demokratene har vunnet flertallet i både Representantenes hus og Senatet i det amerikanske mellomvalget.",
+        "utdypning": "Valgresultatet innebærer et stort nederlag for president Donald Trump og Det republikanske partiet. Stemmetellingen pågår fremdeles, og resultatet har satt igang debatt om blant annet økonomisk politikk og håndteringen av krigen i Iran. Flere europeiske ledere har uttrykt håp om et politisk skifte i Washington.",
         "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/vast/hd-godkanner-vistelseforbud-for-utpekad-gangledare-i-goteborg"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Norden": [
-      {
-        "tittel": "Ny sivilforsvarsbrosjyre på Island",
-        "tekst": "Justisministeren på Island understreker at landets nye sivilforsvarsbrosjyre skal informere, ikke skremme.",
-        "utdypning": "Justisministeren sier at den nye sivilforsvarsbrosjyren er ment å informere om den endrede globale sikkerhetssituasjonen. Til forskjell fra andre nordiske land som refererer direkte til krig og konflikt, fokuserer den islandske brosjyren generelt på alvorlige hendelser og utfordringer.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-03-booklet-intended-primarily-to-inform-not-frighten-491605/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Stubb har hatt samtalepartnere om Ukraina",
-        "tekst": "Finskes president Alexander Stubb har snakket med ledere i Midtøsten om Ukraina.",
-        "utdypning": "Alexander Stubb held phone calls with the leaders of Egypt, Qatar and the United Arab Emirates on Tuesday for discussions concerning Ukraine.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20255007?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Europa": [
-      {
-        "tittel": "Dødstallene stiger i Ukraina",
-        "tekst": "Minst 38 mennesker er drevet i løpet av et døgn etter russiske angrep.",
-        "utdypning": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble after Russia attacks aid centre, hospice and hospital.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Økt økonomisk press på russiske husholdninger",
-        "tekst": "Russiske innbyggere opplever økte levekostnader og kraftig vekst i strømregninger.",
-        "utdypning": "Since the start of the war in 2022, utility bills in Russia have risen by more than 50% – over 13% this year alone. These rising costs come as the country grapples with ongoing drone attacks originating from Ukraine.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Bombetrusler mot europeiske flyselskaper",
-        "tekst": "Minst 10 europeiske flyselskaper ble rammet av bombetrusler tirsdag.",
-        "utdypning": "Bomb threats targeted at least 10 European airlines on Tuesday, forcing the temporary closure of a Warsaw airport and affecting at least four Ryanair flights. No explosives were found after the planes all took off and landed safely in different European cities.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261103-bomb-threats-disrupt-europe-flights"
-          },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      }
-    ],
-    "Verden": [
-      {
-        "tittel": "Avgjørende mellomvalg i USA",
-        "tekst": "Amerikanerne har stemt i et mellomvalg som sees som en folkeavstemning om Donald Trump.",
-        "utdypning": "The crucial midterms could put a check on how much power President Donald Trump can wield during the last two years of his term. Democrats have taken control of Congress for the rest of Donald Trump's presidency, providing moments of celebration for the party.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "USA kuttar militærstøtte til Israel",
-        "tekst": "USA vil kutte nesten fire milliarder dollar i militærstøtte til Israel, ifølge Trump.",
-        "utdypning": "President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Tysk skepsis til våpenhvile",
-        "tekst": "Tysklands kansler Friedrich Merz tviler på at Russland mener alvor med en våpenhvile.",
-        "utdypning": "German Chancellor Friedrich Merz met with Volodymyr Zelenskyy in Berlin. Both leaders said the EU needs to be included in peace talks with Russia. Merz also expressed doubts that Russia is serious about seeking a truce.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ]

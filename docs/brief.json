@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
+      "tekst": "Sverige gjeninnfører midlertidig indre grensekontroll i seks måneder som følge av økt sabotasjefare og krigen i Ukraina.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/sverige-gjeninnforer-midlertidig-indre-grensekontroll--1.18074709"
         }
       ]
     },
     {
-      "tekst": "Finnair flights to Rome and Vienna hit by hoax bomb threats",
+      "tekst": "Høye strømkostnader fører til full stopp i industriinvesteringene i Sør-Norge og truer fabrikkenes fremtid.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/vestfoldogtelemark/stromkostnader-knekker-industrien-i-sor-norge-1.18066345"
+        }
+      ]
+    },
+    {
+      "tekst": "To besetningsmedlemmer er dømt til fengsel i Finland for sabotasje mot en undersjøisk kabel i Østersjøen.",
       "kilder": [
         {
           "navn": "Yle News",
-          "lenke": "https://yle.fi/a/74-20255278?origin=rss"
-        }
-      ]
-    },
-    {
-      "tekst": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "kilder": [
-        {
-          "navn": "BBC World",
-          "lenke": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+          "lenke": "https://yle.fi/a/74-20255306?origin=rss"
         }
       ]
     }
@@ -31,237 +31,193 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Demokratiaktivist dømt til ti års fengsel i Hongkong",
-        "tekst": "Joshua Wong er dømt til ti års fengsel i en domstol i Hongkong for å ha samarbeidet med krefter i utlandet, noe som rammes av byens strenge sikkerhetslov. Det melder Reuters. 30-åringen har i mange år vært en av de mest kjente lederne for kampen for …",
-        "utdypning": "",
+        "tittel": "Sverige gjeninnfører indre grensekontroll",
+        "tekst": "Den svenske regjeringen gjeninnfører midlertidig indre grensekontroll i seks måneder på grunn av alvorlige trusler mot sikkerheten. Beslutningen begrunnes med økt sabotasjefare etter Russlands invasjon av Ukraina.",
+        "utdypning": "Justisminister Gunnar Strömmer uttaler til Expressen at tiltaket skyldes en forhøyet trussel om sabotasje mot Sverige og andre EU-land. Regjeringen viser til den forverrede sikkerhetssituasjonen i Europa som hovedårsak til tiltaket.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/demokratiaktivist-domt-til-ti-ars-fengsel-i-hongkong-1.18074104"
+            "lenke": "https://www.nrk.no/nyheter/sverige-gjeninnforer-midlertidig-indre-grensekontroll--1.18074709"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 4
       },
       {
-        "tittel": "JD Vance: Republikanerne tapte mellomvalget på grunn av Iran-krigen",
-        "tekst": "Det skriver visepresidenten i et langt innlegg på X. «Det kommer til å bli mye intern strid og krangling om hva som skjedde og hvorfor. En av meningsmålerne jeg virkelig respekterer, sa til meg at det økonomiske budskapet vårt ikke var spisset nok i …",
-        "utdypning": "",
+        "tittel": "Strømpriser stanser industriløft i Sør-Norge",
+        "tekst": "Høye strømutgifter har ført til full stopp i industriinvesteringene i Sør-Norge. Store selskaper unnlater nå å modernisere fabrikkanleggene sine.",
+        "utdypning": "Industriaktører advarer om at de vedvarende høye energikostnadene truer næringens langsiktige levedyktighet. Selskapene holder igjen nødvendig kapital som skulle gått til oppgraderinger og fornyelse av eksisterende produksjonsanlegg.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/jd-vance_-republikanerne-tapte-mellomvalget-pa-grunn-av-iran-krigen-1.18073823"
+            "lenke": "https://www.nrk.no/vestfoldogtelemark/stromkostnader-knekker-industrien-i-sor-norge-1.18066345"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 4
       },
       {
-        "tittel": "Her går fyrverkeriet galt: – Sikkerheten kunne sikkert vært bedre",
-        "tekst": "Det ble skrevet historie da Viking tok sin første seier i mesterligaen. Men før kampen holdt det på å gå skikkelig galt.",
-        "utdypning": "",
+        "tittel": "Forsvaret tester droneerfaringer i nord",
+        "tekst": "Norske styrker forbereder seg på framtidig krigføring to mil fra grensen mot Russland. Soldatene tester ut ferske droneerfaringer fra Ukraina i arktisk klima.",
+        "utdypning": "Mange av dagens moderne våpensystemer og droner er ikke tilpasset krevende nordiske vinterforhold. Forsvaret arbeider derfor målrettet med å tilpasse den teknologiske krigføringen til arktiske temperaturer og omgivelser.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sport/her-gar-vikings-fyrverkeri-galt_-_-sikkerheten-kunne-sikkert-vaert-bedre-1.18074058"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802"
           }
         ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Vil gjøre fremmedspråk valgfritt: – Kan dø ut",
-        "tekst": "Elever og lærere frykter færre vil velge fremmedspråk dersom det gjøres valgfritt på videregående skoler slik Utdanningsdirektoratet ønsker.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/udir-vil-gjore-fremmedsprak-valgfritt-pa-studieforberedende---elever-og-laerere-reagerer-1.18064840"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Aleksander (22) om den nye jobben: – Det gir livet mening",
-        "tekst": "I fire år satt Aleksander Piotr hjemme uten jobb. Takket være regjeringens nye Nav-satsing har han nå funnet drømmejobben.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/aleksander-_22_-fikk-jobb-gjennom-ungdomsprogrammet-1.18052385"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Uppgifter: C-toppar i hemligt möte om regeringsfrågan",
-        "tekst": "Centerpartiets toppskikt samlas under torsdagen för att diskutera regeringsfrågan, uppger källor för SVT. Både partistyrelsen och riksdagsgruppen är kallade. – Man får ha en stor ödmjukhet i att det här är svårt, säger C-toppen Martin Ådahl.",
-        "utdypning": "",
+        "tittel": "Tøffere privatøkonomi i vente for svenskene",
+        "tekst": "Svenske husholdninger står foran en krevende høst preget av rentehevinger, kraftig økende strømpriser og bortfall av midlertidige skattekutt.",
+        "utdypning": "I SVTs Morgonstudion beskriver økonomijournalist Ellen Hagström situasjonen som en sammenhengende rekke privatekonomiske kamper. Både renteoppgang fra Riksbanken og stigende strømutgifter legger betydelig press på svenske forbrukere.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan"
+            "lenke": "https://www.svt.se/nyheter/ekonomi/en-dyr-host-vantar-en-strid-efter-den-andra"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       },
       {
-        "tittel": "Trump efter valförlusten: Kriget mot Iran värt det",
-        "tekst": "Både president Donald Trump och vicepresident JD Vance skyller det stora nederlaget i mellanårsvalet på kriget i Iran. – Jag hade inget val. Iran kan inte ha kärnvapen, säger Trump till reportrar dagen efter valet.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/trump-efter-valforlusten-kriget-mot-iran-vart-det"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Därför kommer nordiska toppnamn till Göteborg: Nordic compass summit",
-        "tekst": "Finlands president Alexander Stubb är ett av toppnamnen som besöker Göteborg i veckan. Polisen varnar för kortare trafikstörningar runt Järntorget, när det nordiska toppmötet Nordic compass summit arrangeras för första gången.",
-        "utdypning": "",
+        "tittel": "Nordisk toppmøte samles i Göteborg",
+        "tekst": "Finlands president Alexander Stubb og andre nordiske toppledere deltar på det nyopprettede møtet Nordic Compass Summit i Göteborg.",
+        "utdypning": "Det er første gang dette nordiske toppmøtet finner sted. Svensk politi melder om kortere lokale trafikkrestriksjoner og forstyrrelser rundt Järntorget i Göteborg som følge av toppmøtet.",
         "kilder": [
           {
             "navn": "SVT",
             "lenke": "https://www.svt.se/nyheter/lokalt/vast/darfor-kommer-nordiska-toppnamn-till-goteborg-nordic-compass-summit"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Finnair flights to Rome and Vienna hit by hoax bomb threats",
-        "tekst": "The threats are part of a wider pattern disrupting airspace.",
-        "utdypning": "",
+        "tittel": "Fengselsdom for kabelsabotasje i Østersjøen",
+        "tekst": "Tingretten i Helsinki har dømt kapteinen og et besetningsmedlem fra lasteskipet Fitburg til fengsel for grov sabotasje mot en undersjøisk kabel.",
+        "utdypning": "Finske myndigheter beslagla fartøyet i fjor etter skader på undersjøiske kabler mellom Helsinki og Tallinn. Hendelsen er del av en rekke sabotasjetilfeller mot kritisk maritim infrastruktur i Østersjøregionen etter Russlands invasjon av Ukraina.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20255306?origin=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Falske bombetrusler rammer europeisk luftfart",
+        "tekst": "En rekke falske bombetrusler har ført til forstyrrelser i europeisk luftrom, og flygninger med blant annet Finnair har blitt berørt.",
+        "utdypning": "Flere passasjerfly over hele Europa har blitt omdirigert eller mottatt militær jagerflyeskorte som følge av truslene. Etterforskere har så langt ikke funnet håndfaste bevis som knytter sabotasjetruslene direkte til Russland, Iran eller stedfortredergrupper.",
         "kilder": [
           {
             "navn": "Yle News",
             "lenke": "https://yle.fi/a/74-20255278?origin=rss"
           },
           {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "navn": "DW",
             "lenke": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-eu-2092-rdf"
           },
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes"
           }
         ],
-        "antall_kilder": 3
-      },
-      {
-        "tittel": "Supreme Court upholds UK manor stay tax ruling",
-        "tekst": "Hæstiréttur (Supreme Court of Iceland) has upheld rulings by Landsréttur (Court of Appeal) and Héraðsdómur Reykjavíkur (Reykjavík District Court) rejecting a man's claim against the Icelandic state in a dispute over where he was liable to pay tax …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-05-supreme-court-upholds-uk-manor-stay-tax-ruling-491822/"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Þorgerður Katrín \"repeatedly asked\" about former President's comments",
-        "tekst": "The Foreign Minister, Þorgerður Katrín Gunnarsdóttir, says she has repeatedly had to answer questions internationally about comments and actions by former president Ólafur Ragnar Grímsson. The Russian Embassy in Iceland has objected to Þorgerður …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-05-thorgerdur-katrin-repeatedly-asked-about-former-presidents-comments-491816/"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 4,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Ukrainian's 'not expecting drastic change in US policy' after midterms",
-        "tekst": "Ukrainians do not expect the Democrats' victory in the US midterm elections is change much in regards to US policy on the war with Russia, or at least not quickly, says France 24's correspondent in Kyiv Emmanuelle Chaze. Ukraine's President …",
-        "utdypning": "",
+        "tittel": "Britisk pund på høyeste nivå på ti år",
+        "tekst": "Det britiske pundet har steget til sitt høyeste nivå mot en bred kurv av valutaer siden brexit-avstemningen i 2016.",
+        "utdypning": "Valutastyrkingen markerer en milepæl for britiske markeder nøyaktig et tiår etter at Storbritannia stemte for å forlate Den europeiske union, og reflekterer sterkere etterspørsel etter den britiske valutaen internasjonalt.",
         "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/ukrainian-s-not-expecting-drastic-change-in-us-policy-after-midterms"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "36 years later: Hungary opens Communist-era secret service files",
-        "tekst": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-eu-2092-rdf"
-          },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/hungary-opens-communist-era-secret-police-files-identifying-informants/a-79853492?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 3
-      },
-      {
-        "tittel": "European leaders welcome Democrats' US midterms election win",
-        "tekst": "European leaders voiced hopes for a reset with the United States on Wednesday, November 4, after voters delivered a huge midterm election defeat to President Donald Trump and his Republican party. FRANCE 24's Dave Keating has more.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/european-leaders-welcome-democrats-us-midterms-election-win"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-        "tekst": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-        "utdypning": "",
+        "tittel": "Lokal våpenhvile åpner for evakuering i Ukraina",
+        "tekst": "Hundrevis av sivile er evakuert fra byen Oleshky etter at Russland og Ukraina ble enige om en USA-meglet våpenhvile.",
+        "utdypning": "USAs førstedame Melania Trump krediteres en sentral rolle i å få forhandlet frem avtalen, og har oppfordret partene til en varig stans i kampene. Observatører håper operasjonen baner vei for flere vellykkede humanitære oppdrag.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Vance kritiserer Iran-krigen etter valgnederlag",
+        "tekst": "USAs visepresident J.D. Vance legger skylden for Republikanernes valgnederlag på krigen mot Iran, i et markant oppgjør med president Donald Trump.",
+        "utdypning": "Kritikken utgjør et av de skarpeste offentlige bruddene mellom en sittende visepresident og president i nyere amerikansk historie. Samtidig håper golfstatene at utfallet av mellomvalget kan bidra til å avslutte krigshandlingene i regionen.",
         "kilder": [
           {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       },
       {
-        "tittel": "Finland court jails captain and crew member over Baltic cable sabotage",
-        "tekst": "Finland seized the Fitburg freighter last year over the suspected sabotage of cables linking Helsinki and Tallinn. It's one of several incidents of damaged infrastructure in the Baltic since Russia's invasion of Ukraine.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Israel's president begins consultations with parties after election deadlock",
-        "tekst": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-        "utdypning": "",
+        "tittel": "Demokratiaktivist dømt til ti års fengsel i Hongkong",
+        "tekst": "Demokratiaktivisten Joshua Wong er dømt til ti års fengsel i Hongkong under byens omstridte nasjonale sikkerhetslov.",
+        "utdypning": "30-åringen, som tidligere ledet paraplybevegelsen i byen, ble dømt for samarbeid med utenlandske krefter etter å ha erkjent straffskyld. Wong risikerte opprinnelig livsvarig fengsel og soner allerede en tidligere fengselsstraff under det samme lovverket.",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ]
   },
-  "folg_med": [],
+  "folg_med": [
+    {
+      "tid": "",
+      "kategori": "Politikk",
+      "hendelse": "Centerpartiets ledelse og riksdagsgruppe samles til møte for å drøfte regjeringsspørsmålet i Sverige.",
+      "hvorfor": "Møtet er innkalt for å behandle partiets krevende parlamentariske linje fremover.",
+      "kilder": [
+        {
+          "navn": "SVT",
+          "lenke": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan"
+        }
+      ]
+    }
+  ],
   "senere": [],
-  "modus": "regler",
-  "modell": ""
+  "modus": "ai",
+  "modell": "gemini-flash-latest"
 }

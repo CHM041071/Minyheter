@@ -1,11 +1,11 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Flere flyvninger i Europa har mottatt bombetrusler, noe som har ført til omdirigeringer og militæreskorte.",
+      "tekst": "Norske soldater 20 mil fra Russland tester nå ferske droneerfaringer fra Ukraina i arktisk klima.",
       "kilder": [
         {
-          "navn": "Yle News",
-          "lenke": "https://yle.fi/a/74-20255278?origin=rss"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802"
         }
       ]
     },
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "tekst": "Bastøferga har gått på grunn mellom Moss og Horten, noe som medfører kansellerte avgangar.",
+      "tekst": "Torghatten opplyser at Bastøferga har gått på grunn mellom Moss og Horten, og avganger utgår.",
       "kilder": [
         {
           "navn": "NRK",
@@ -32,8 +32,8 @@
     "Norge": [
       {
         "tittel": "Sverige gjeninnfører indre grensekontroll",
-        "tekst": "Den svenske regjeringen gjeninnfører midlertidig indre grensekontroll i seks måneder på grunn av trusler mot den indre sikkerheten.",
-        "utdypning": "Den svenske regjeringen har besluttet å gjeninnføre indre grensekontroll i en periode på seks måneder. Begrunnelsen er alvorlige trusler mot den allmenne orden og indre sikkerhet, opplyser regjeringen i en pressemelding. Vurderingen er basert på den alvorlige sikkerhetssituasjonen som følge av Russlands fullskala invasjon av Ukraina. Justisminister Gunnar Strömmer viser blant annet til en økt sabotasjetrussel mot Sverige og andre medlemsstater.",
+        "tekst": "Sverige gjeninnfører midlertidig indre grensekontroll i en periode på seks måneder grunnet alvorlige trusler mot den indre sikkerheten.",
+        "utdypning": "Den svenske regjeringen opplyser at beslutningen er basert på den alvorlige sikkerhetssituasjonen som følge av Russlands fullskala invasjon av Ukraina. Justisminister Gunnar Strömmer viser blant annet til en økt sabotasjetrussel mot Sverige og andre medlemsstater.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,9 +44,52 @@
         "vekt": 5
       },
       {
-        "tittel": "Bastøferga har gått på grunn",
-        "tekst": "Et av Torghattens fartøy på sambandet mellom Moss og Horten har gått på grunn, og avganger er kansellert.",
-        "utdypning": "Torghatten opplyser på sine nettsider at et av deres fartøy må kansellere sine avganger inntil videre grunnet grunnstøt. Første avgang som utgår, er klokken 11:20 fra Horten og 12:05 fra Moss. De 148 passasjerene om bord på Bastø 6 ble bedt om å bistå med å flytte biler for å få ferga løs.",
+        "tittel": "Norske soldater øver på framtidas krig nær Russland",
+        "tekst": "Norske soldater tar med ferske droneerfaringer fra Ukraina for å tilpasse systemer til arktiske forhold nær grensen.",
+        "utdypning": "Mange eksisterende militære systemer er i dag ikke tilpasset nordiske forhold. Derfor trenes det nå intensivt 20 mil fra Russland for å styrke beredskapen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Styrker dronevernet ved grensen til Russland",
+        "tekst": "Nye sensorer og utvidet samarbeid med politiet skal gjøre Norge bedre rustet til å oppdage og avverge farlige droner.",
+        "utdypning": "Satsingen kommer som ledd i arbeidet med å beskytte kritisk infrastruktur og forsvare hver kvadratmeter i nordområdene i en krevende sikkerhetssituasjon.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Stephen Miller blir ny stabssjef for Trump",
+        "tekst": "USAs president Donald Trump utnevner sin mangeårige rådgiver Stephen Miller til ny stabssjef i Det hvite hus.",
+        "utdypning": "Miller overtar etter Susie Wiles, som skal få en annen rolle i administrasjonen. Miller regnes som en sentral arkitekt bak administrasjonens strenge innvandringspolitikk. Wiles var USAs første kvinnelige stabssjef og ledet valgkampen som sikret Trump gjenvalg.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Bastøferga har grunnstøtt",
+        "tekst": "Fergesambandet mellom Moss og Horten rammes av kanselleringer etter at Bastø 6 gikk på grunn.",
+        "utdypning": "Torghatten opplyser at avgangene utgår inntil videre. Passasjerer om bord måtte flytte på biler for å få ferga løs.",
         "kilder": [
           {
             "navn": "NRK",
@@ -58,53 +101,14 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Norske soldater øver på krig i arktisk klima",
-        "tekst": "Norske soldater tar med seg ferske droneerfaringer fra Ukraina inn i arktiske omgivelser.",
-        "utdypning": "Norske soldater tar ferske krigserfaringer med droner fra Ukraina inn i arktisk klima, tilholdende 20 mil fra Russland. Mange eksisterende systemer er i dag ikke tilpasset nordiske forhold, og det arbeides med å styrke forsvaret mot trusler.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Styrker dronevernet ved grensen til Russland",
-        "tekst": "Nye sensorer og samarbeid med politiet skal gjøre Norge bedre rustet til å oppdage og avverge farlige droner.",
-        "utdypning": "Tiltakene skal bidra til at Norge kan forsvare hver kvadratmeter bedre. Dette skjer gjennom innføring av nye sensorer og tettere samarbeid med politiet for å oppdage og verne mot farlige droner i grenseområdene.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Britisk hangarskip snur i Oslofjorden",
-        "tekst": "Det britiske hangarskipet HMS Prince of Wales har endret kurs i Oslofjorden grunnet tåke.",
-        "utdypning": "Hangarskipet HMS «Prince of Wales», med et mannskap på rundt 700, skal delta på en sikkerhetskonferanse. Fredag formiddag endrer skipet kurs i Oslofjorden, noe som trolig skyldes tåke.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/britisk-hangarskip-pa-vei-inn-oslofjorden-1.18075397"
-          }
-        ],
-        "antall_kilder": 1,
         "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Jimmie Åkesson fjerner regjeringskrav",
-        "tekst": "Sverigedemokraternas leder Jimmie Åkesson meddeler at partiet dropper kravet om å sitte i regjering.",
-        "utdypning": "På en pressträff i Sölvesborg meddelar Jimmie Åkesson en helomvändning i regeringsfrågan. SD släpper kravet på att sitta i regering för att släppa fram en borgerlig regering. Enligt SVT:s uppgifter ställer partiet inga motkrav för att låta Ulf Kristersson regera vidare.",
+        "tittel": "Sverigedemokraterna dropper regjeringskrav",
+        "tekst": "Jimmie Åkesson meddeler at SD fjerner kravet om å sitte i regjering for å slippe fram en borgerlig svensk regjering.",
+        "utdypning": "På en pressträff i Sölvesborg opplyste Åkesson at partiet ikke stiller noen motkrav for å la Ulf Kristersson regjere videre. Ifølge politiske analytikere avhenger Kristerssons framtid nå helt av Centerpartiets respons.",
         "kilder": [
           {
             "navn": "SVT",
@@ -116,8 +120,8 @@
       },
       {
         "tittel": "Russell Brand kjent skyldig i voldtekt",
-        "tekst": "Komikeren og skuespilleren Russell Brand er dømt for voldtekt og seksuelle overgrep.",
-        "utdypning": "Russell Brand fälls för ett fall av våldtäkt och tre fall av sexuella övergrepp av en domstol. Enligt domaren kommer domarna innebära ett betydande fängelsestraff. Politiet opplyser samtidig at han etterforskes for ytterligere to nye voldtektsklager.",
+        "tekst": "En britisk jury har funnet komikeren Russell Brand skyldig i ett tilfelle av voldtekt og tre tilfeller av seksuelle overgrep.",
+        "utdypning": "Dommeren varsler et betydelig fengselsstraff for skuespilleren. Politiet opplyser samtidig at Brand etterforskes for ytterligere to nye voldtektsklager, og håper dommen vil gi andre ofre mot til å melde fra.",
         "kilder": [
           {
             "navn": "SVT",
@@ -125,7 +129,7 @@
           },
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/press-review/20261106-sleazy-manipulative-and-ruthless-russell-brand-convicted-of-rape-sexual-assault"
+            "lenke": "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults"
           },
           {
             "navn": "BBC World",
@@ -138,68 +142,26 @@
         ],
         "antall_kilder": 4,
         "vekt": 3
-      },
-      {
-        "tittel": "Hemmelig møte i Centerpartiet om regeringsfrågan",
-        "tekst": "Toppsjiktet i svenske Centerpartiet har samlet seg til et hemmelig møte for å diskutere regeringsfrågan.",
-        "utdypning": "Centerpartiets toppskikt samlas under torsdagen för att diskutera regeringsfrågan, uppger källor för SVT. Både partistyrelsen och riksdagsgruppen är kallade. C-toppen Martin Ådahl påpekar at man må ha en stor ydmykhet for at situasjonen er vanskelig.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Bombetrusler mot europeisk luftrom",
-        "tekst": "Flere europeiske flyvninger har blitt rammet av bombetrusler, noe som har ført til omdirigeringer og militæreskorte.",
-        "utdypning": "Finnair-flyvninger til Roma og Wien har blitt rammet av falske bombetrusler, som er del av et bredere mønster som forstyrrer europeisk luftrom. Flere flyvninger på tvers av Europa har enten blitt omdirigert eller landet med militæreskorte etter sikkerhetstrusler. Blant annet ble en flyvning fra Dublin til Roma tvunget til å lande ved en fransk militærbase. Foreløpig finnes det ingen harde beviser som knytter truslene til Russland, Iran eller andre proksigrupper.",
+        "tittel": "Historisk rettssak mot finske sikkerhetspoliti-ansatte",
+        "tekst": "Den største straffesaken noensinne mot ansatte i det finske sikkerhetspolitiet Supo har startet i Helsingfors tingrett.",
+        "utdypning": "Saken omhandler blant annet ulovlig bruk av pensjonerte spioner, der en tidligere Eurojackpot-vinner også trekkes inn i saken.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20255278?origin=rss"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes"
+            "lenke": "https://yle.fi/a/74-20255548?origin=rss"
           }
         ],
-        "antall_kilder": 4,
-        "vekt": 5
+        "antall_kilder": 1,
+        "vekt": 3
       },
       {
-        "tittel": "Finsk domstol fengsler mannskap for sabotasje",
-        "tekst": "Helsingfors tingrett har dømt to besetningsmedlemmer fra frakteskipet Fitburg til fengsel for grov sabotasje.",
-        "utdypning": "Finland stanset og beslagla frakteskipet Fitburg i fjor etter mistanke om sabotasje mot undersjøiske kabler som knytter Helsingfors og Tallinn sammen. Hendelsen er en av flere tilfeller av skadet infrastruktur i Østersjøen siden Russlands invasjon av Ukraina.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20255306?origin=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Bombetrusler mot Keflavík lufthavn",
-        "tekst": "Politiet på Island opplyser at en bombetrusel mot Keflavík lufthavn ikke antas å være knyttet til andre europeiske trusler.",
-        "utdypning": "Ómar Mehmet Annisius, visepolitistsjef på Suðurnes, opplyser at trusselen mot Keflavík lufthavn ble vurdert som ikke troverdig. Den nasjonale politisjefens analysenheter undersøker likevel saken nærmere. Det foreligger foreløpig ingen informasjon som knytter hendelsen på Island sammen med de pågående truslene mot internasjonal sivil luftfart ellers i Europa.",
+        "tittel": "Bombetrussel mot Keflavík lufthavn",
+        "tekst": "Islandsk politi gransker en bombetrussel mot Keflavík lufthavn, men foreløpig er den ikke knyttet til bredere europeiske trusler.",
+        "utdypning": "Operasjonssjef Ómar Mehmet Annisius opplyser at trusselen er vurdert som ikke troverdig. Det er heller ikke funnet noen opplysninger som knytter hendelsen til de nylige bombetruslene mot flyvninger i resten av Europa.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -212,9 +174,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Dødstallet stiger etter russisk angrep i Ukraina",
-        "tekst": "Dødstallet etter et russisk angrep mot et utdelingspunkt for nødhjelp i Zaporizjzja har steget til 50.",
-        "utdypning": "Dødstallet fra Russlands bombing av et nødhjelpsdistribusjonspunkt i Ukrainas sørøstlige Zaporizjzja-region har steget til 50, ifølge Ukrainas nødetat. Angrepet er omtalt som et av de dødeligste mot sivile så langt i år.",
+        "tittel": "Dødstallene stiger etter russisk angrep i Ukraina",
+        "tekst": "Dødstallet etter det russiske bombangrepet mot et humanitært utdelingspunkt i Zaporizhzhia har steget til 50.",
+        "utdypning": "Ukrainas nødmyndigheter bekrefter at angrepet rammet sivile hardt tidlig i uken. Hendelsen omtales som et av de dødeligste angrepene mot sivile så langt i år.",
         "kilder": [
           {
             "navn": "France 24",
@@ -225,34 +187,34 @@
         "vekt": 5
       },
       {
-        "tittel": "Massive streiker og protester i Frankrike",
-        "tekst": "Hundretusener av arbeidere har streiket og demonstrert i Frankrike mot høye levekostnader, noe som har ført til sammenstøt.",
-        "utdypning": "Utdanningssektoren, jernbanen, offentlige sykehus og postvesenet har deltatt i omfattende streiker mot stigende levekostnader. Myndighetene har utplassert rundt 70 000 politi- og sikkerhetsfolk over hele landet. Under protestene har politiet avfyrt tåregass etter at det oppsto sammenstøt i flere byer.",
+        "tittel": "Bølge av falske bombetrusler mot europeisk luftfart",
+        "tekst": "En rekke kommersielle flyvninger og mediehus i Europa har blitt rammet av en koordinert kampanje med falske bombetrusler.",
+        "utdypning": "Ifølge irske myndigheter har minst et dusin fly blitt omdirigert eller landet med militær eskorte. Meldinger har blitt sendt til blant annet irske medier og italienske flyselskaper, og krever undersøkelser av påståtte forbindelser til russiske ekstremistgrupper.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261106-mass-protests-sweep-france-as-huge-crowds-demand-higher-wages"
+            "lenke": "https://www.france24.com/en/europe-bomb-hoaxes-widen"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-all-1573-rdf"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-eu-2092-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
       },
       {
-        "tittel": "Pave Leo innleder Sør-Amerika-reise",
-        "tekst": "Pave Leo har lagt ut på en langvarig reise til Uruguay, Argentina og Peru kort tid etter en lungekreftoperasjon.",
-        "utdypning": "Paven, som fikk fjernet deler av en lunge den foregående måneden, skal holde møter og feire messe i Uruguay, Argentina og Peru. Særlig besøket i Peru vekker stor interesse. Reisen er den lengste og lengst reiste i hans pontifikat så langt.",
+        "tittel": "Stigende gjeldsrenter truer fransk økonomi",
+        "tekst": "Frankrike planlegger økte utgifter til utdanning midt under omfattende streiker, men voksende statsgjeld presser budsjettrommet.",
+        "utdypning": "Over 250 000 mennesker har deltatt i demonstrasjoner i nesten 70 byer. Fagbevegelsen advarer om at protestene bare er starten, mens regjeringen må håndtere kraftig økende rentekostnader på statsgjelden.",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-eu-2092-rdf"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/videos/cqy7ll65r1eko?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
@@ -261,50 +223,16 @@
     ],
     "Verden": [
       {
-        "tittel": "Vance kritiserer republikansk valgnederlag",
-        "tekst": "USAs visepresident gir Iran-krigen skylden for det republikanske valgnederlaget i en skarp analyse.",
-        "utdypning": "Visepresidentens direkte vurdering av valgnederlaget markerer et av de skarpeste bruddene med en sittende president på lenge. Han peker åpent på Iran-konflikten som årsak til at partiet tapte velgernes tillit.",
+        "tittel": "Trump antyder stor avtale for Ukraina",
+        "tekst": "USAs president Donald Trump hevder krigen i Ukraina nærmer seg en løsning som kan involvere hele Europa.",
+        "utdypning": "Uttalelsen kommer i en tid der USA preges av etterspill etter mellomvalget. Trump har tidligere kommet med lignende løfter om en rask avslutning på konflikten uten at en løsning har materialisert seg.",
         "kilder": [
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Paraguays president trekker seg etter bankkollaps",
-        "tekst": "Paraguays president Santiago Peña har gått av etter en politisk krise knyttet til en kollapset långiver.",
-        "utdypning": "Avgangen kommer etter at en bank har kollapset og underhuset i kongressen stemte for å gå inn for riksrettssak mot ham. Krisen skyldes Peña sine bånd til långiveren Ueno, der millioner av kunders kontoer, samt offentlige pensjons- og helsefond, har blitt frosset.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Kalifornias guvernør omgjør dødsstraffer",
-        "tekst": "Kalifornias guvernør Gavin Newsom har i en av sine siste handlinger omgjort dødsdommene for alle innsatte på dødsgangen.",
-        "utdypning": "Demokraten Gavin Newsom har besluttet å omgjøre dødsdommene til 548 innsatte i delstaten. California har historisk sett hatt den største befolkningen av dødsdømte fanger i USA.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
         "vekt": 3
       }
     ]

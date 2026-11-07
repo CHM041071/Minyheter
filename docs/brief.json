@@ -1,16 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Norge styrker dronevernet ved grensen mot Russland med nye sensorer og politisamarbeid for å verne om suvereniteten.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429"
-        }
-      ]
-    },
-    {
-      "tekst": "Paraguays president Santiago Peña er avsatt og pågrepet etter en omfattende bankkrisen som rammet millioner av kunder.",
+      "tekst": "Paraguays president Santiago Peña er avsatt i en riksrettssak etter en bankkris og satt i husarrest.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +10,20 @@
       ]
     },
     {
-      "tekst": "Donald Trump utnevner sin nære rådgiver Stephen Miller til ny stabssjef i Det hvite hus.",
+      "tekst": "Russland har gjennomført et omfattende angrep mot Kyiv som har skadet energiforsyningen foran nye samtaler.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
+        }
+      ]
+    },
+    {
+      "tekst": "Demokratene har sikret seg flertall i begge kamre i USAs kongress i et knusende nederlag for Republikanerne.",
+      "kilder": [
+        {
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine"
         }
       ]
     }
@@ -31,22 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Styrker dronevernet mot Russland",
-        "tekst": "Norge styrker beredskapen ved grensen til Russland med nye sensorer og et tettere samarbeid med politiet for å oppdage farlige droner.",
-        "utdypning": "Norge øker sin evne til å oppdage og verne seg mot farlige droner ved grensen til Russland. Det innføres nye sensorer i området, og det etableres et tettere samarbeid med politiet. Tiltakene kommer som en del av arbeidet for å sikre at landet er bedre rustet til å beskytte kritisk infrastruktur og territorium.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
         "tittel": "Paraguays president avsatt og pågrepet",
-        "tekst": "Paraguays president Santiago Peña er avsatt gjennom en riksrettssak og satt i husarrest etter en alvorlig bankkrisen i landet.",
-        "utdypning": "Paraguays senat stemte for å avsette president Santiago Peña etter en omfattende bankkrisen knyttet til kollapsen i en stor digitalbank hvor Peña hadde eierinteresser. Visepresident Pedro Alliana har overtatt makten i landet. Den tidligere presidenten er nå pågrepet og siktet for forhold som kan føre til videre rettslig tiltale.",
+        "tekst": "Paraguays president Santiago Peña er avsatt etter en riksrettssak knyttet til en bankkollaps og sitter i husarrest.",
+        "utdypning": "Paraguays president Santiago Peña er avsatt i en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er pågrepet og satt i husarrest etter kollapsen i en stor digitalbank der han hadde eierinteresser. Senatet stemte for å avsette ham på grunn av miskjøtsel, og avgjørelsen innebærer at han kan bli tiltalt som følge av bankkrisen som har rammet landet.",
         "kilder": [
           {
             "navn": "NRK",
@@ -58,16 +45,12 @@
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
-      }
-    ],
-    "Skandinavia": [],
-    "Norden": [],
-    "Europa": [
+        "vekt": 5
+      },
       {
-        "tittel": "Trump utnevner Stephen Miller til ny stabssjef",
-        "tekst": "USAs president Donald Trump varsler at rådgiveren Stephen Miller overtar som ny stabssjef i Det hvite hus etter Susie Wiles.",
-        "utdypning": "USAs president Donald Trump har kunngjort på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Miller overtar etter Susie Wiles, som skal gå til en annen rolle i administrasjonen. Miller er kjent som en sentral arkitekt bak den strenge og omstridte innvandringspolitikken, og utnevnelsen ventes å utløse tøffe politiske kamper med Kongressen.",
+        "tittel": "Stephen Miller blir ny stabssjef i Det hvite hus",
+        "tekst": "USAs president Donald Trump utnevner Stephen Miller til ny stabssjef etter Susie Wiles.",
+        "utdypning": "President Donald Trump varsler på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Miller er nå visestabssjef og overtar ansvaret etter Susie Wiles, som skal få en annen rolle i administrasjonen. Miller regnes for å stå bak den kontroversielle innvandringspolitikken til administrasjonen, og utnevnelsen av den lojale profilen ventes å gi harde sammenstøt med Kongressen.",
         "kilder": [
           {
             "navn": "NRK",
@@ -79,6 +62,65 @@
           }
         ],
         "antall_kilder": 2,
+        "vekt": 4
+      }
+    ],
+    "Skandinavia": [],
+    "Norden": [],
+    "Europa": [
+      {
+        "tittel": "Massivt russisk angrep mot Kyiv",
+        "tekst": "Russland har gjennomført et omfattende angrep mot Kyiv som har skadet infrastruktur og energiforsyning foran kommende samtaler.",
+        "utdypning": "Moskva har gjennomført et massivt nattlig angrep mot Kyiv idet Ukraina forbereder nye runder med samtaler med Russland og USA. Minst fem personer ble skadet da russiske missiler skadet boliger, næringsbygg og energifasiliteter, noe som førte til nye strøm- og vannavbrudd og stenging av en bro over Dnipro-elven. President Volodymyr Zelenskyy anklager Moskva for å forsøke å presse landet inn i mørke før samtalene i Abu Dhabi.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Demokratisk flertall i USAs kongress",
+        "tekst": "Republikanerne har mistet flertallet i begge kamre i Kongressen i et knusende nederlag ved midtveisvalget.",
+        "utdypning": "Det republikanske partiets nederlag ved midtveisvalget har etterlatt den ukrainske ledelsen optimistisk med tanke på fremtidig støtte og sterkere transatlantiske relasjoner. USAs president Donald Trump beholder imidlertid brede fullmakter i utenrikspolitikken, og demokratene i Kongressen kan få begrenset handlingsrom til å gjennomføre store endringer. Den tidligere EU-diplomaten Josep Borrell advarer samtidig om at Trump fremdeles er en svært farlig person for verden.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Skyting i Krakow i Polen",
+        "tekst": "Minst seks personer er dretne og over et dusin skadet i en skyteepisode i Krakows sentrum i Polen.",
+        "utdypning": "En skyting i hovedtorget i Krakow i Polen krevde minst seks menneskeliv og såret femten andre lørdag. Politiet opplyser at gjerningspersonen var en polsk statsborger som ble skutt og såret av politiet på stedet. Den polske innenriksministeren Marcin Kierwinski opplyser at gjerningspersonen ser ut til å ha vært fascinert av ytre høyre-ideologier.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
         "vekt": 3
       }
     ],

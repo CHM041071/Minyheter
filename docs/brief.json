@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Norske soldater 20 mil fra Russland tester nå ferske droneerfaringer fra Ukraina i arktisk klima.",
+      "tekst": "Norge styrker dronevernet ved grensen mot Russland med nye sensorer og politisamarbeid for å verne om suvereniteten.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429"
         }
       ]
     },
     {
-      "tekst": "Sverige gjeninnfører midlertidig indre grensekontroll i seks måneder på grunn av den alvorlige sikkerhetssituasjonen.",
+      "tekst": "Paraguays president Santiago Peña er avsatt og pågrepet etter en omfattende bankkrisen som rammet millioner av kunder.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/sverige-gjeninnforer-midlertidig-indre-grensekontroll--1.18074709"
+          "lenke": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275"
         }
       ]
     },
     {
-      "tekst": "Torghatten opplyser at Bastøferga har gått på grunn mellom Moss og Horten, og avganger utgår.",
+      "tekst": "Donald Trump utnevner sin nære rådgiver Stephen Miller til ny stabssjef i Det hvite hus.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/ostfold/bastoferga-pa-grunn-1.18075674"
+          "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143"
         }
       ]
     }
@@ -31,35 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Sverige gjeninnfører indre grensekontroll",
-        "tekst": "Sverige gjeninnfører midlertidig indre grensekontroll i en periode på seks måneder grunnet alvorlige trusler mot den indre sikkerheten.",
-        "utdypning": "Den svenske regjeringen opplyser at beslutningen er basert på den alvorlige sikkerhetssituasjonen som følge av Russlands fullskala invasjon av Ukraina. Justisminister Gunnar Strömmer viser blant annet til en økt sabotasjetrussel mot Sverige og andre medlemsstater.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/sverige-gjeninnforer-midlertidig-indre-grensekontroll--1.18074709"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Norske soldater øver på framtidas krig nær Russland",
-        "tekst": "Norske soldater tar med ferske droneerfaringer fra Ukraina for å tilpasse systemer til arktiske forhold nær grensen.",
-        "utdypning": "Mange eksisterende militære systemer er i dag ikke tilpasset nordiske forhold. Derfor trenes det nå intensivt 20 mil fra Russland for å styrke beredskapen.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/xl/finnmarksbrigaden-bygger-droneforsvar-for-arktiske-forhold-med-erfaringer-fra-ukraina-1.18067802"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Styrker dronevernet ved grensen til Russland",
-        "tekst": "Nye sensorer og utvidet samarbeid med politiet skal gjøre Norge bedre rustet til å oppdage og avverge farlige droner.",
-        "utdypning": "Satsingen kommer som ledd i arbeidet med å beskytte kritisk infrastruktur og forsvare hver kvadratmeter i nordområdene i en krevende sikkerhetssituasjon.",
+        "tittel": "Styrker dronevernet mot Russland",
+        "tekst": "Norge styrker beredskapen ved grensen til Russland med nye sensorer og et tettere samarbeid med politiet for å oppdage farlige droner.",
+        "utdypning": "Norge øker sin evne til å oppdage og verne seg mot farlige droner ved grensen til Russland. Det innføres nye sensorer i området, og det etableres et tettere samarbeid med politiet. Tiltakene kommer som en del av arbeidet for å sikre at landet er bedre rustet til å beskytte kritisk infrastruktur og territorium.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -70,172 +44,45 @@
         "vekt": 5
       },
       {
-        "tittel": "Stephen Miller blir ny stabssjef for Trump",
-        "tekst": "USAs president Donald Trump utnevner sin mangeårige rådgiver Stephen Miller til ny stabssjef i Det hvite hus.",
-        "utdypning": "Miller overtar etter Susie Wiles, som skal få en annen rolle i administrasjonen. Miller regnes som en sentral arkitekt bak administrasjonens strenge innvandringspolitikk. Wiles var USAs første kvinnelige stabssjef og ledet valgkampen som sikret Trump gjenvalg.",
+        "tittel": "Paraguays president avsatt og pågrepet",
+        "tekst": "Paraguays president Santiago Peña er avsatt gjennom en riksrettssak og satt i husarrest etter en alvorlig bankkrisen i landet.",
+        "utdypning": "Paraguays senat stemte for å avsette president Santiago Peña etter en omfattende bankkrisen knyttet til kollapsen i en stor digitalbank hvor Peña hadde eierinteresser. Visepresident Pedro Alliana har overtatt makten i landet. Den tidligere presidenten er nå pågrepet og siktet for forhold som kan føre til videre rettslig tiltale.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275"
+          },
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/paraguays-president-avsatt-kan-atalas"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      }
+    ],
+    "Skandinavia": [],
+    "Norden": [],
+    "Europa": [
+      {
+        "tittel": "Trump utnevner Stephen Miller til ny stabssjef",
+        "tekst": "USAs president Donald Trump varsler at rådgiveren Stephen Miller overtar som ny stabssjef i Det hvite hus etter Susie Wiles.",
+        "utdypning": "USAs president Donald Trump har kunngjort på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Miller overtar etter Susie Wiles, som skal gå til en annen rolle i administrasjonen. Miller er kjent som en sentral arkitekt bak den strenge og omstridte innvandringspolitikken, og utnevnelsen ventes å utløse tøffe politiske kamper med Kongressen.",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Bastøferga har grunnstøtt",
-        "tekst": "Fergesambandet mellom Moss og Horten rammes av kanselleringer etter at Bastø 6 gikk på grunn.",
-        "utdypning": "Torghatten opplyser at avgangene utgår inntil videre. Passasjerer om bord måtte flytte på biler for å få ferga løs.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/ostfold/bastoferga-pa-grunn-1.18075674"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/ostfold/bastoferga-pa-grunn-utenfor-horten-1.18075671"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Sverigedemokraterna dropper regjeringskrav",
-        "tekst": "Jimmie Åkesson meddeler at SD fjerner kravet om å sitte i regjering for å slippe fram en borgerlig svensk regjering.",
-        "utdypning": "På en pressträff i Sölvesborg opplyste Åkesson at partiet ikke stiller noen motkrav for å la Ulf Kristersson regjere videre. Ifølge politiske analytikere avhenger Kristerssons framtid nå helt av Centerpartiets respons.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/blekinge/jimmie-akesson-sd-slapper-kravet-pa-att-sitta-i-regering"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Russell Brand kjent skyldig i voldtekt",
-        "tekst": "En britisk jury har funnet komikeren Russell Brand skyldig i ett tilfelle av voldtekt og tre tilfeller av seksuelle overgrep.",
-        "utdypning": "Dommeren varsler et betydelig fengselsstraff for skuespilleren. Politiet opplyser samtidig at Brand etterforskes for ytterligere to nye voldtektsklager, og håper dommen vil gi andre ofre mot til å melde fra.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/kultur/russell-brand-falls-for-valdtakt"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults"
-          },
-          {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 4,
-        "vekt": 3
-      }
-    ],
-    "Norden": [
-      {
-        "tittel": "Historisk rettssak mot finske sikkerhetspoliti-ansatte",
-        "tekst": "Den største straffesaken noensinne mot ansatte i det finske sikkerhetspolitiet Supo har startet i Helsingfors tingrett.",
-        "utdypning": "Saken omhandler blant annet ulovlig bruk av pensjonerte spioner, der en tidligere Eurojackpot-vinner også trekkes inn i saken.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20255548?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Bombetrussel mot Keflavík lufthavn",
-        "tekst": "Islandsk politi gransker en bombetrussel mot Keflavík lufthavn, men foreløpig er den ikke knyttet til bredere europeiske trusler.",
-        "utdypning": "Operasjonssjef Ómar Mehmet Annisius opplyser at trusselen er vurdert som ikke troverdig. Det er heller ikke funnet noen opplysninger som knytter hendelsen til de nylige bombetruslene mot flyvninger i resten av Europa.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-06-bomb-threat-against-keflavik-airport-not-thought-linked-to-threats-abroad-491944/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ],
-    "Europa": [
-      {
-        "tittel": "Dødstallene stiger etter russisk angrep i Ukraina",
-        "tekst": "Dødstallet etter det russiske bombangrepet mot et humanitært utdelingspunkt i Zaporizhzhia har steget til 50.",
-        "utdypning": "Ukrainas nødmyndigheter bekrefter at angrepet rammet sivile hardt tidlig i uken. Hendelsen omtales som et av de dødeligste angrepene mot sivile så langt i år.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261106-death-toll-rises-to-50-in-russian-attack-on-aid-distribution-point-in-ukraine"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Bølge av falske bombetrusler mot europeisk luftfart",
-        "tekst": "En rekke kommersielle flyvninger og mediehus i Europa har blitt rammet av en koordinert kampanje med falske bombetrusler.",
-        "utdypning": "Ifølge irske myndigheter har minst et dusin fly blitt omdirigert eller landet med militær eskorte. Meldinger har blitt sendt til blant annet irske medier og italienske flyselskaper, og krever undersøkelser av påståtte forbindelser til russiske ekstremistgrupper.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe-bomb-hoaxes-widen"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-eu-2092-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Stigende gjeldsrenter truer fransk økonomi",
-        "tekst": "Frankrike planlegger økte utgifter til utdanning midt under omfattende streiker, men voksende statsgjeld presser budsjettrommet.",
-        "utdypning": "Over 250 000 mennesker har deltatt i demonstrasjoner i nesten 70 byer. Fagbevegelsen advarer om at protestene bare er starten, mens regjeringen må håndtere kraftig økende rentekostnader på statsgjelden.",
-        "kilder": [
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/cqy7ll65r1eko?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
         "vekt": 3
       }
     ],
-    "Verden": [
-      {
-        "tittel": "Trump antyder stor avtale for Ukraina",
-        "tekst": "USAs president Donald Trump hevder krigen i Ukraina nærmer seg en løsning som kan involvere hele Europa.",
-        "utdypning": "Uttalelsen kommer i en tid der USA preges av etterspill etter mellomvalget. Trump har tidligere kommet med lignende løfter om en rask avslutning på konflikten uten at en løsning har materialisert seg.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ]
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

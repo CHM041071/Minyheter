@@ -1,16 +1,16 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Paraguays president Santiago Peña er avsatt i en riksrettssak etter en bankkris og satt i husarrest.",
+      "tekst": "Polen etterforsker masseskytingen i Kraków som terrorisme etter at seks mennesker ble mistet livet.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting"
         }
       ]
     },
     {
-      "tekst": "Russland har gjennomført et omfattende angrep mot Kyiv som har skadet energiforsyningen foran nye samtaler.",
+      "tekst": "Russland har gjennomført et omfattende angrep mot Kyiv som har ført til strøm- og vannuttak.",
       "kilder": [
         {
           "navn": "France 24",
@@ -19,112 +19,74 @@
       ]
     },
     {
-      "tekst": "Demokratene har sikret seg flertall i begge kamre i USAs kongress i et knusende nederlag for Republikanerne.",
+      "tekst": "Israels president har gitt Gadi Eisenkot i oppdrag å danne ny regjering etter valget.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617"
         }
       ]
     }
   ],
   "saker": {
-    "Norge": [
-      {
-        "tittel": "Paraguays president avsatt og pågrepet",
-        "tekst": "Paraguays president Santiago Peña er avsatt etter en riksrettssak knyttet til en bankkollaps og sitter i husarrest.",
-        "utdypning": "Paraguays president Santiago Peña er avsatt i en riksrettssak, og visepresident Pedro Alliana har overtatt makten. Peña er pågrepet og satt i husarrest etter kollapsen i en stor digitalbank der han hadde eierinteresser. Senatet stemte for å avsette ham på grunn av miskjøtsel, og avgjørelsen innebærer at han kan bli tiltalt som følge av bankkrisen som har rammet landet.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/paraguays-president-avsatt-og-pagrepet-1.18076275"
-          },
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/paraguays-president-avsatt-kan-atalas"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Stephen Miller blir ny stabssjef i Det hvite hus",
-        "tekst": "USAs president Donald Trump utnevner Stephen Miller til ny stabssjef etter Susie Wiles.",
-        "utdypning": "President Donald Trump varsler på Truth Social at hans mangeårige rådgiver Stephen Miller blir ny stabssjef i Det hvite hus. Miller er nå visestabssjef og overtar ansvaret etter Susie Wiles, som skal få en annen rolle i administrasjonen. Miller regnes for å stå bak den kontroversielle innvandringspolitikken til administrasjonen, og utnevnelsen av den lojale profilen ventes å gi harde sammenstøt med Kongressen.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/trump_-stephen-miller-blir-ny-stabssjef-1.18076143"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      }
-    ],
+    "Norge": [],
     "Skandinavia": [],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Massivt russisk angrep mot Kyiv",
-        "tekst": "Russland har gjennomført et omfattende angrep mot Kyiv som har skadet infrastruktur og energiforsyning foran kommende samtaler.",
-        "utdypning": "Moskva har gjennomført et massivt nattlig angrep mot Kyiv idet Ukraina forbereder nye runder med samtaler med Russland og USA. Minst fem personer ble skadet da russiske missiler skadet boliger, næringsbygg og energifasiliteter, noe som førte til nye strøm- og vannavbrudd og stenging av en bro over Dnipro-elven. President Volodymyr Zelenskyy anklager Moskva for å forsøke å presse landet inn i mørke før samtalene i Abu Dhabi.",
+        "tittel": "Terroretterforskning etter masseskyting i Polen",
+        "tekst": "Polske myndigheter har startet terroretterforskning etter at seks personer ble drept i Kraków.",
+        "utdypning": "Polen innledet søndag en terroretterforskning etter masseskytingen i Kraków dagen før, der seks mennesker ble drept og mange skadet. Den 24 år gamle mistenkte brukte et halvautomatisk våpen og var ifølge myndighetene fascinert av ytre høyre-ideologier. Sjukehuset opplyser at han er i kritisk tilstand. Politiet har bekreftet at de tre likene som ble funnet i den mistenkte mannens hjem, var hans foreldre og søster. Statsminister Donald Tusk har erklært skytingen som en terrorhandling.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-eu-2092-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Demokratisk flertall i USAs kongress",
-        "tekst": "Republikanerne har mistet flertallet i begge kamre i Kongressen i et knusende nederlag ved midtveisvalget.",
-        "utdypning": "Det republikanske partiets nederlag ved midtveisvalget har etterlatt den ukrainske ledelsen optimistisk med tanke på fremtidig støtte og sterkere transatlantiske relasjoner. USAs president Donald Trump beholder imidlertid brede fullmakter i utenrikspolitikken, og demokratene i Kongressen kan få begrenset handlingsrom til å gjennomføre store endringer. Den tidligere EU-diplomaten Josep Borrell advarer samtidig om at Trump fremdeles er en svært farlig person for verden.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261106-what-trump-s-midterms-debacle-could-mean-for-us-support-for-ukraine"
+            "lenke": "https://www.france24.com/en/europe/20261108-poland-launches-terrorism-probe-into-krakow-mass-shooting"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
       },
       {
-        "tittel": "Skyting i Krakow i Polen",
-        "tekst": "Minst seks personer er dretne og over et dusin skadet i en skyteepisode i Krakows sentrum i Polen.",
-        "utdypning": "En skyting i hovedtorget i Krakow i Polen krevde minst seks menneskeliv og såret femten andre lørdag. Politiet opplyser at gjerningspersonen var en polsk statsborger som ble skutt og såret av politiet på stedet. Den polske innenriksministeren Marcin Kierwinski opplyser at gjerningspersonen ser ut til å ha vært fascinert av ytre høyre-ideologier.",
+        "tittel": "Russisk angrep mot Kyiv før nye samtaler",
+        "tekst": "Russland har gjennomført et omfattende nattlig angrep mot Kyiv som skadet infrastruktur og såret fem.",
+        "utdypning": "Moskva har gjennomført et massivt nattlig angrep mot Ukrainas hovedstad Kyiv, der minst fem personer ble skadet. Russiske missiler skadet bolig- og kommersielle bygninger, tvang stengning av en bro over Dnipro-elven og forårsaket nye strøm- og vannavbrudd. Angrepene kommer mens Ukraina forbereder seg på en ny runde med samtaler med Russland og USA i Abu Dhabi neste uke.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say"
+            "lenke": "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Verden": [
+      {
+        "tittel": "Eisenkot får i oppdrag å danne regjering i Israel",
+        "tekst": "Israels president har gitt opposisjonsleder Gadi Eisenkot i oppdrag å forsøke å danne en ny regjering.",
+        "utdypning": "Israels president Isaac Herzog har gitt opposisjonsleder og tidligere militærsjef Gadi Eisenkot i oppdrag å ta det første forsøket på å danne en regjering. Verken partiene som støtter Benjamin Netanyahu eller Eisenkots blokk fikk flertall i valget, der Netanyahus blokk fikk 53 mandater og opposisjonen fikk 48. Det er ventet krevende koalisjonssamtaler ettersom en regjering trenger 61 plasser i nasjonalforsamlingen, og begge sider har utelukket samarbeid med de palestinsk-arabiske partiene.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/eisenkot-far-i-oppdrag-a-danne-regjering-i-israel-1.18076617"
           },
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 3,
         "vekt": 3
       }
-    ],
-    "Verden": []
+    ]
   },
   "folg_med": [],
   "senere": [],

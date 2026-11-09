@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Polen har erklært masseskytingen i Kraków som en terrorhandling.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house"
-        }
-      ]
-    },
-    {
-      "tekst": "USA vil megle i fredssamtaler om Ukraina i Abu Dhabi.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says"
-        }
-      ]
-    },
-    {
-      "tekst": "Det opprettes straffesak etter at en mann tok seg inn hos Marius Borg Høiby på Skaugum.",
+      "tekst": "Klimaminister Sigrun Aasland reiser til klimatoppmøtet i Tyrkia med 600 millioner kroner i regnskogstøtte til Brasil.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/politiet-oppretter-straffesak-mot-mann-som-trengte-seg-inn-hos-hoiby-1.18076838"
+          "lenke": "https://www.nrk.no/nyheter/norge-gir-600-regnskogmillioner-til-brasil-1.18077109"
+        }
+      ]
+    },
+    {
+      "tekst": "Statnett stanser midlertidig all reservasjon av nettkapasitet til nye datasentre fram til sommeren 2027.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/statnett-setter-bremsene-pa-for-nye-datasentre-frem-til-sommeren-2027-1.18077188"
+        }
+      ]
+    },
+    {
+      "tekst": "Ordførere i to av tre kommuner i Nord-Norge har signert et felles opprop mot regjeringens budsjetter.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/nordland/nordnorske-ordforarar-med-kraftig-signal-til-stortinget-1.18076420"
         }
       ]
     }
@@ -31,73 +31,66 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Straffesak etter inntrenging på Skaugum",
-        "tekst": "Politiet oppretter straffesak mot en mann som tok seg inn i hjemmet til Marius Borg Høiby og dyttet ham.",
-        "utdypning": "Politiet opplyser til NRK at det er opprettet en straffesak hvor mannen er mistenkt for kroppskrenkelse og uberettiget adgang. Hendelsen fant sted natt til fredag da mannen tok seg inn på Skaugum og dyttet Høiby. Politiadvokat Erlend Bakke opplyser at den mistenkte ikke har fått oppnevnt forsvarer ennå, og at det vil bli gjennomført avhør av partene. Politiet ønsker ikke å kommentere ytterligere etterforskningsskritt på nåværende tidspunkt.",
+        "tittel": "Statnett stanser nettkapasitet til nye datasentre",
+        "tekst": "Statnett innfører en midlertidig stans for nye reservasjoner av nettkapasitet til datasentre fram til 1. august 2027.",
+        "utdypning": "Pausen gjelder nye søknader, slik at Statnett og myndighetene rekker å lage klare tekniske krav før flere slipper til. Den midlertidige stansen varer til senest 1. august neste år. Konserndirektør for systemdrift og marked i Statnett, Peer Olav Østli, sier stansen er nødvendig for å sikre at tilknytning skjer med håndterbare konsekvenser for kraftsystemet og systemdriften.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/politiet-oppretter-straffesak-mot-mann-som-trengte-seg-inn-hos-hoiby-1.18076838"
+            "lenke": "https://www.nrk.no/nyheter/statnett-setter-bremsene-pa-for-nye-datasentre-frem-til-sommeren-2027-1.18077188"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 5
       },
       {
-        "tittel": "Gratis trygghetsalarm i Kristiansand",
-        "tekst": "Etter en presisering fra Helsedirektoratet har Kristiansand kommune gjort trygghetsalarmer gratis.",
-        "utdypning": "Siden år 2000 har Kristiansand kommune krevd egenbetaling på flere hundre kroner i måneden for trygghetsalarmer. Ordningen ble endret fra 1. september etter en presisering fra Helsedirektoratet, noe som gjør tjenesten gratis for innbyggerne.",
+        "tittel": "Norge gir 600 millioner til Brasil for regnskogbevaring",
+        "tekst": "Klimaminister Sigrun Aasland tar med seg 600 millioner kroner i regnskogstøtte til Brasil da hun reiser til klimatoppmøtet i Tyrkia.",
+        "utdypning": "Midlene tildeles fordi Brasil har levert gode resultater med å hindre avskoging i 2025. Landet har redusert avskogingen til det laveste nivået siden målingene startet for over 40 år siden. Aasland peker på at Norge finansierer resultater gjennom regnskogsatsingen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/norge-gir-600-regnskogmillioner-til-brasil-1.18077109"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Nordnorske ordførere med budsjettopprop mot regjeringa",
+        "tekst": "To av tre kommuner i Nord-Norge har signert et felles opprop der de ber om at politikerne tar grep for å berge budsjettene.",
+        "utdypning": "Ordførerne i nord gjør opprør mot regjeringa og ber stortingspolitikerne bytte plass med dem for å redde de lokale budsjettene.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/trygghetsalarm-skal-vaere-gratis-_-kristiansand-krevde-flere-hundre-kroner-per-maned-1.18077037"
+            "lenke": "https://www.nrk.no/nordland/nordnorske-ordforarar-med-kraftig-signal-til-stortinget-1.18076420"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Advarer mot oljeutvinning nær iskanten",
-        "tekst": "Havforskingsinstituttet fryktar at oljeverksemd på Wisting-feltet kan ramme sårbare økosystem.",
-        "utdypning": "Havforskingsinstituttet uttrykker bekymring for at oljeutvinning nær iskanten kan true et sårbart havområde i Barentshavet. Instituttet krever mer kunnskap om konsekvensene for økosystemet før eventuell virksomhet tillates på Wisting-feltet.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/fryktar-oljeutvinning-naer-iskanten-_-vil-ha-meir-kunnskap-1.18076445"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
-    "Skandinavia": [],
+    "Skandinavia": [
+      {
+        "tittel": "Sverige vil ha Esrange inn i EU-satellitt",
+        "tekst": "Den svenske regjeringen ønsker at rymdbasen Esrange utenfor Kiruna skal bli en del av EUs nye satellittovervåkningssystem.",
+        "utdypning": "EU utvikler et eget satellitovervåkningssystem som skal kunne erstatte Elon Musks Starlink. Den svenske regjeringen ser gjerne at rymdbasen Esrange utanför Kiruna kommer med i den satsningen.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/norrbotten/sa-kan-esrange-bli-en-del-av-eus-framtida-satellitsystem"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      }
+    ],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Masseskyting i Kraków etterforskes som terror",
-        "tekst": "Statsminister Donald Tusk erklærer skytingen der seks mennesker ble drept i Kraków som en terrorhandling.",
-        "utdypning": "En 25 år gammel mistenkt med radikale ytre høyre-synspunkter åpnet ild med et halvautomatisk våpen i Krakóws historiske torg, og drepte seks personer og såret seksten før han ble skutt av politi. Politiet har senere funnet tre døde personer, identifisert som mistenktes foreldre og søster, i mannens hjem. Statsminister Donald Tusk uttaler at Polen aldri har opplevd maken, og landet har innledet en terroretterforskning samt erklært to dager med sorg.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/cwdd8191qz9jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Europa deltar i USA-meglede Ukraina-samtaler",
-        "tekst": "Frankrike bekrefter at europeiske representanter vil delta i de US-meglede fredssamtalene i Abu Dhabi.",
-        "utdypning": "De kommende fredssamtalene om å avslutte krigen i Ukraina skal finne sted under amerikansk megling i Abu Dhabi på tirsdag og onsdag. Den franske utenriksministeren Jean-Noël Barrot opplyste søndag at Europa vil være representert under toppmøtet.",
+        "tittel": "Europa deltar i USA-medierte Ukraina-samtaler",
+        "tekst": "Frankrike og andre europeiske land vil delta i de kommende fredssamtalene om Ukraina i Abu Dhabi under amerikansk medling.",
+        "utdypning": "Frankrikes utenriksminister Jean-Noël Barrot opplyste søndag at europeere vil være representert under toppmøtet. Samtalene finner sted tirsdag og onsdag.",
         "kilder": [
           {
             "navn": "France 24",
@@ -105,10 +98,62 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
+      },
+      {
+        "tittel": "Mistenkt etter masseskyting i Kraków er død",
+        "tekst": "Den 24 år gamle mistenkte gjerningspersonen bak masseskytingen i polske Kraków er død av skader på sykehus.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-eu-2092-rdf"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/poland-in-shock-after-6-killed-in-krakow-far-right-shooting"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 3
+      },
+      {
+        "tittel": "Europeiske styrker øver i Polen",
+        "tekst": "Rundt 2800 soldater fra ti europeiske land deltar i en flernasjonal militærøvelse i Polen.",
+        "utdypning": "Målet med øvelsen er å forberede europeiske styrker på en eventuell utplassering til Ukraina etter at fiendtlighetene tar slutt.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261109-european-troops-in-poland-coalition-of-the-willing-holds-military-exercises"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Historisk svakt valgresultat for ANC i Sør-Afrika",
+        "tekst": "President Cyril Ramaphosa erkjenner at velgernes dom må respekteres etter at ANC opplevde sitt dårligste valg noensinne.",
+        "utdypning": "Partiet som ble ledet av Nelson Mandela fikk et katastrofalt resultat i landets kommunalvalg. Velgerne gir partiet skylden for omfattende vann- og strømmangel.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      }
+    ]
   },
   "folg_med": [],
   "senere": [],

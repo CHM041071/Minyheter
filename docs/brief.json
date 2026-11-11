@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Telefonnumrene til flere norske sikkerhetstopper er lekket på det mørke nettet og russiske plattformer.",
+      "tekst": "MDG fremmer et hasteforslag for å pause salget av Nussir-gruva i Finnmark til en eier med tette bånd til Russland.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/aftenposten_-telefonnumrene-til-norske-sikkerhetstopper-lekket-pa-det-morke-nettet-1.18078501"
+          "lenke": "https://www.nrk.no/nyheter/mdg_-vil-fremme-hasteforslag-for-a-pause-gruvesalg-1.18079838"
         }
       ]
     },
     {
-      "tekst": "Frp krever svar fra regjeringen etter at en kobbergruva i Hammerfest ble solgt til et selskap med bånd til Putin.",
+      "tekst": "USAs tidligere utenriksminister Mike Pompeo forsvarer gruvekjøpet og mener det vil styrke sikkerheten for Norge og EU.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/listhaug-om-nussir-kjop_-_-alle-varselklokker-bor-ringe-1.18078826"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/trumps-eks-utenriksminister-om-nussir-kjop_-_-vil-styrke-norge-og-eu-1.18078943"
         }
       ]
     },
     {
-      "tekst": "USA, Russland og Ukraina har startet sine første USA-meglede samtaler i Abu Dhabi siden februar.",
+      "tekst": "Hundrevis av skoler i Italia og Storbritannia evakueres etter bombetrusler som vekker bekymring for hybrid krigføring i Europa.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible"
+          "lenke": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats"
         }
       ]
     }
@@ -31,114 +31,67 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Sikkerhetstoppenes telefonnumre lekket på det mørke nettet",
-        "tekst": "Telefonnumrene til flere norske sikkerhetstopper, deriblant forsvarsministeren og PST-sjefen, er lekket på det mørke nettet.",
-        "utdypning": "Ifølge Aftenposten og en italiensk sikkerhetsekspert er informasjon om forsvarsministeren, PST-sjefen, NSM-sjefen og E-sjefen blant det som har blitt eksponert. Dataene er lagt ut på det mørke nettet og på to russiske plattformer som gir direkte tilgang til databasen. Verken PST eller E-tjenesten ønsker å kommentere saken. NSM uttaler at det ikke er noen dramatikk i at kontaktdetaljene til offentlige personer ligger ute.",
+        "tittel": "Vil ha hasteforslag for å pause gruvesalg",
+        "tekst": "Miljøpartiet de grønne vil ha kjøpet av Nussir-gruva på vent til sikkerhetsvurderinger er gjennomført, på grunn av eierens bånd til Russland.",
+        "utdypning": "Miljøpartiet de grønne (MDG) vil fremme et hasteforslag for å få satt kjøpet av Nussir-gruva på vent fram til nødvendige sikkerhetsvurderinger er gjennomført. Partiet reagerer på salget til et selskap der sjefen har tette bånd til folk i Vladimir Putins nære krets. MDG ønsker at regjeringa skal pause kjøpet fram til Stortinget er overbevist om at det ikke utgjør et sikkerhetsbrudd. Nussir-gruva i Finnmark inneholder store mengder kobber, samt gull og sølv.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/aftenposten_-telefonnumrene-til-norske-sikkerhetstopper-lekket-pa-det-morke-nettet-1.18078501"
+            "lenke": "https://www.nrk.no/nyheter/mdg_-vil-fremme-hasteforslag-for-a-pause-gruvesalg-1.18079838"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Frp krever svar etter salg av Hammerfest-gruva",
-        "tekst": "Sylvi Listhaug krever svar fra regjeringen etter salg av kobbergruve i Hammerfest til eier med bånd til Russlands ledelse.",
-        "utdypning": "Frp-leder Sylvi Listhaug uttaler at alle varselklokker bør ringe etter at kobbergruva i Hammerfest ble solgt til et selskap der sjefen hadde tette bånd til folk i Vladimir Putins nære krets. Hun har derfor krevd svar fra regjeringen i saken.",
+        "tittel": "Pompeo forsvarer omstridt gruvekjøp",
+        "tekst": "Mike Pompeo mener oppkjøpet av Finnmark-gruva vil trygge norsk og europeisk sikkerhet.",
+        "utdypning": "Tidligere amerikansk utenriksminister Mike Pompeo mener at en vestlig kobbergigant i Hammerfest trygger norsk sikkerhet. Sjefen for Finnmark-gruvas nye eier er en britisk-russer med tidligere oligarkbånd.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/listhaug-om-nussir-kjop_-_-alle-varselklokker-bor-ringe-1.18078826"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/trumps-eks-utenriksminister-om-nussir-kjop_-_-vil-styrke-norge-og-eu-1.18078943"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Ordfører advarer mot manglende beredskapsmidler",
-        "tekst": "Regjeringens plan om å gi kommunene større ansvar for sivil beredskap mangler både penger og kompetanse, ifølge Bodø-ordføreren.",
-        "utdypning": "Regjeringens ønske om å gi kommunane større ansvar for å verne sivile under krig møter motbør. Bodø-ordføraren meiner kommunen manglar både kompetanse og pengar til beredskapen, og får støtte frå hovudstaden i kritikken.",
+        "tittel": "Latvisk hær ber folk søke tilfluktsrom",
+        "tekst": "Folk i en region i Latvia bes om å gå i tilfluktsrom på grunn av en luftromstrussel fra Belarus.",
+        "utdypning": "Folk i Ludza-regionen i Latvia, langs grensen til Belarus, bes om å gå i tilfluktsrom på grunn av luftromstrussel, opplyser Latvias hær ifølge Reuters. Nato-kampfly på luftforsvarsoppdrag i Baltikum har rykket ut som respons på et objekt i Belarus som flyr mot Baltikum, opplyser Litauens nasjonale kriseledelsessenter.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/regjeringa-vil-gi-kommunane-meir-ansvar-under-krig-_-bodo-og-oslo-krev-tydelegare-krav-1.18076073"
+            "lenke": "https://www.nrk.no/nyheter/latvias-haer_-ber-folk-soke-tilfluktsrom-etter-luftromstrussel-1.18078847"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Høyesterett forkastet anken til Marius Borg Høiby",
-        "tekst": "Marius Borg Høiby blir værende i varetekt etter at Høyesterett har forkastet anken hans.",
-        "utdypning": "Ifølge TV 2 har Høyesterett forkastet anken til Marius Borg Høiby, som dermed ikke blir løslatt fra varetekt. Forsvarer Alexander Greaker opplyser til NRK at de tar beslutningen til etterretning og ikke har ytterligere kommentarer.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/tv-2_-hoibys-anke-forkastet-1.18078296"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Oppretter sak mot Drammen sykehus etter drap",
-        "tekst": "Politiet oppretter sak mot Drammen sykehus for å undersøke mulige straffbare forhold etter et drap på sykehuset.",
-        "utdypning": "Politiet ønsker å finne ut om sykehuset har gjort noe straffbart i forbindelse med at en mann ble drept på Drammen sykehus.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/buskerud/oppretter-sak-mot-drammen-sykehus-etter-drap-1.18079028"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 5
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "USA-forsvarsministeren avviser riksrettstrussel som sabotasje",
-        "tekst": "USAs forsvarsminister Pete Hegseth avviser riksrettstrusselen mot seg som sabotasje etter et resolusjonsforslag i Kongressen.",
-        "utdypning": "USAs forsvarsminister Pete Hegseth holdt sin første pressträff på seks måneder dagen etter at en republikansk kongressledamot, Thomas Massie, leverte inn en resolution om å vekke riksrettsåtal mot ham. Hegseth kaller det hele sabotasje og ikke patriotisme. Donald Trump har ønsket utfallet velkommen og hyllet Hegseth som en stor patriot, etter at Representantenes hus foreløpig blokkerte forslaget.",
+        "tittel": "Svensk papirprodusent stanser produksjon pga. strømpris",
+        "tekst": "Lessebo Paper tvingas til å pause produksjonen etter at strømkostnadene har blitt for høye.",
+        "utdypning": "De høye elprisene får konsekvenser for svensk industri. På Lessebo Paper har elkostnaderna blitt så höga att företaget tvingas pausa produktionen under hittills sex dagar. I måndags hade de ett så pass högt elpris som 390 000 kronor för en dags produktion.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/pete-hegseth-bemoter-riksrattshot"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 4
-      },
-      {
-        "tittel": "Svensk regjeringsdannelse kan avgjøres neste uke",
-        "tekst": "Moderaterna-leder Ulf Kristersson skal rapportere sitt sonderingsoppdrag, noe som kan føre til statsministeravstemning.",
-        "utdypning": "Etter flere uker uten framgang går den svenske regjeringsbildningen nå på högvarv. På tirsdag i neste uke skal M-ledaren Ulf Kristersson rapportere sitt sonderingsoppdrag til talmannen. Dermed kan regeringsfrågan avgöras i en statsministeromröstning allerede i slutten av neste uke.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/regeringsfragan-kan-avgoras-redan-nasta-vecka"
+            "lenke": "https://www.svt.se/nyheter/lokalt/smaland/lessebo-paper-tvingas-pausa-produktionen-pa-grund-av-elpriserna"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       },
       {
-        "tittel": "Åkesson vil ha SD i fleksibel opposisjon",
-        "tekst": "Jimmie Åkesson sier Sverigedemokraterna vil være et opposisjonsparti som kan forhandle med både høyre og venstre.",
-        "utdypning": "SD-lederen uttaler i SVTs Aktuellt at partiet vil være i opposisjon, men ikke uten innflytelse. Han understreker at partiet kan forhandle med både høyre og venstre, men at de ikke vil inngå noen budgetavtal i forväg.",
+        "tittel": "Svenske Socialdemokraterna faller på måling",
+        "tekst": "Magdalena Anderssons parti noterer sitt laveste oppgavelag siden høsten 2021 i ny SVT/Verian-måling.",
+        "utdypning": "Samtidigt som Magdalena Andersson försöker få ihop en regering sjunker Socialdemokraternas väljarstöd. I SVT/Verians novembermätning får partiet sin lägsta notering sedan Andersson tillträdde hösten 2021. Den tilltagande kritiken mot S hantering av regeringsbildningen har troligen påverkat stödet for partiet, ifølge Per Söderpalm, opinionsansvarig på Verian.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten"
+            "lenke": "https://www.svt.se/nyheter/inrikes/svtverian-s-sjunker-i-opinionen-lagsta-siffran-under-andersson"
           }
         ],
         "antall_kilder": 1,
@@ -147,9 +100,22 @@
     ],
     "Norden": [
       {
+        "tittel": "Mistenkt dronedrap i finsk luftrom",
+        "tekst": "Et ubemannet fly fløy i finsk luftrom i om lag fem minutter onsdag morgen, ifølge det svenske forsvarsdepartementet.",
+        "utdypning": "The unmanned aerial vehicle is suspected of flying in Finnish airspace for about five minutes until it left the area, according to the defence ministry.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20256373?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
         "tittel": "Advarer mot normalisering av rasisme i Finland",
-        "tekst": "Forskere og sikkerhetsmyndigheter i Finland advarer mot økt ytre høyre-innflytelse og nettradikalisering av unge.",
-        "utdypning": "Foreldre tar til motmæle mot det de opplever som en normalisering av rasisme i Finland. Bekymringen deles av forskere og sikkerhetsoffiserer, som advarer om at økende ytre høyre-innflytelse og nettradikalisering retter seg mot unge mennesker.",
+        "tekst": "Forskere og sikkerhetsmyndigheter advarer om økende ytterste høyre-innflytelse og radikalisering av unge.",
+        "utdypning": "The concerns are echoed by researchers and security officials, who warn of rising far-right influence and online radicalisation targeting young people.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -161,8 +127,8 @@
       },
       {
         "tittel": "Finsk studie: Regjeringens politikk rammet de fattigste",
-        "tekst": "En ny THL-studie viser at den finske regjeringens politikk tok 80 euro i måneden fra landets fattigste.",
-        "utdypning": "Ifølge en studie fra Instituttet for helse og velferd (THL) har regjeringens politikk ført til tap for de med lavest inntekt i Finland. Rent beløpsmessig har de største tapene rammet arbeidsløse personer.",
+        "tekst": "THL-studie viser at Orpo-regjeringens politikk tok 80 euro i måneden fra Finlands fattigste, med arbeidsledige hardest rammet.",
+        "utdypning": "In terms of cash, the largest losses have hit unemployed people.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -171,105 +137,112 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
-      },
-      {
-        "tittel": "Islandsk minister ber om historiske genforskningsdata",
-        "tekst": "Det islandske helsedepartementet har bedt om resultatene fra historisk genetisk forskning for å utvikle persontilpasset helsetjeneste.",
-        "utdypning": "Heilbrigðisráðuneytið (Helsedepartementet) har bedt om resultatene av genetisk forskning utført av Íslensk erfðagreining helt tilbake til 1996. Selskapets grunnlegger Kári Stefánsson bekreftet dette på RÚV, og opplyste at målet er å utvikle persontilpasset helsetjeneste på Island. Utad er forespørselen bekreftet i et skriftlig svar fra departementet, basert på et utkast fra en politisk komité.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-11-ministry-requests-research-findings-from-decode-genetics-492354/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "USA-meglede fredssamtaler mellom Russland og Ukraina i gang",
-        "tekst": "Russiske og ukrainske tjenestemenn har møttes til US-meglede samtaler i De forente arabiske emirater.",
-        "utdypning": "Møtet i Abu Dhabi er det første siden februar, og finner sted etter at USAs president Donald Trump antydet at en bred avtale om å avslutte krigen og garantere sikkerhet i Europa er mulig. USA-utsending Jared Kushner har tatt til orde for en ny sikkerhetsramme for de krigførende landene. Samtidig opplyser amerikanske tjenestemenn at det vises en viss fleksibilitet fra partene under de treidsidige samtalene.",
+        "tittel": "Skoler evakuert i Italia etter bombetrusler",
+        "tekst": "Hundrevis av italienske og britiske skoler ble evakuert etter falske bombetrusler, som knyttes til bekymring for hybrid krigføring.",
+        "utdypning": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats, but Italian Prime Minister Giorgia Meloni said there was no concrete danger. More than 6,000 Italian schools received a threat. Similar hoax threats were reported in schools in Britain, Ireland, Bulgaria and Northern Ireland, prompting evacuations in Scotland. Meloni called a government meeting with security and intelligence chiefs on Wednesday to discuss the threats, which authorities say highlight concerns about hybrid warfare in Europe.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible"
+            "lenke": "https://www.france24.com/en/schools-evacuated-across-italy-after-bomb-threats"
           },
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-eu-2092-rdf"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 3,
         "vekt": 5
       },
       {
-        "tittel": "Amerikansk soldat arrestert i Storbritannia mistenkt for spionasje for Russland",
-        "tekst": "En høyerestående amerikansk soldat er arrestert i England i en antiterror-etterforskning om russisk spionasje.",
-        "utdypning": "Den 41 år gamle seniorsoldaten ble arrestet i nærheten av Gloucester i England av britisk antiterrorpoliti. Han er mistenkt for nasjonale sikkerhetsforbrytelser knyttet til spionasje for Russland. Etterforskningen foregår i nært samarbeid mellom britiske og amerikanske myndigheter, inkludert FBI og det amerikanske militæret.",
+        "tittel": "Generalstreik og uro i Spania på grunn av boligkrise",
+        "tekst": "Millioner av arbeidere deltar i Spanias første generalstreik på 14 år grunnet høye boligpriser og levekostnader.",
+        "utdypning": "Millions of workers in Spain shut down businesses and public transport on Wednesday, as part of the country's first general strike in 14 years. Following peaceful and violent protests over soaring rents, property prices and the rising cost of living, protesters smashed storefronts, set off small bonfires and launched fireworks towards police. The crisis has triggered snap elections called by Socialist Prime Minister Pedro Sanchez to take place on November 29.",
         "kilder": [
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-eu-2092-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/general-strike-over-housing-brings-out-hundreds-of-thousands-in-spain"
           },
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 4
+      },
+      {
+        "tittel": "Russland og Ukraina diskuterte sikkerhet i Abu Dhabi",
+        "tekst": "Fredssamtalene i De forente arabiske emirater endte uten gjennombrudd, men tok for seg Europas sikkerhetsrammeverk.",
+        "utdypning": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday. Peace talks between Russia, Ukraine and the US concluded in the United Arab Emirates after two days, marking the first such meeting since February.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/us-russia-and-ukraine-wrap-up-abu-dhabi-talks/live-79906232?maca=en-rss-en-eu-2092-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 4
-      },
-      {
-        "tittel": "Massiv sikkerhetsoperasjon under EU-møter i Dublin",
-        "tekst": "Irsk politi iverksetter den største sikkerhetsoperasjonen i statens historie i forbindelse med EU-møter i Dublin.",
-        "utdypning": "Myndighetene advarer om forstyrrelser i forbindelse med et enormt sikkerhetsoppbud i den irske hovedstaden. Irsk politi opplyser at dette blir tidenes største sikkerhetsoperasjon i landet under avviklingen av EU-møtene.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Studie: Oljesjokk etter Iran-angrep kutter globale utslipp",
-        "tekst": "Høye energipriser som følge av USAs angrep på Iran ventes å føre til en nedgang i globale karbonutslipp i 2026.",
-        "utdypning": "Globale karbonutslipp ventes å falle litt i 2026, viser en ny studie. Årsaken er imidlertid ikke store framskritt innen klimatiltak, men derimot høye energipriser utløst av det amerikanske angrepet på Iran som har skapt et oljesjokk i markedsøkonomien.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/iran-war-oil-shock-drives-dip-in-global-emissions-study-shows/a-79905937?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Generalstreik i Spania på grunn av dyp boligkrise",
-        "tekst": "Spanske arbeidere streiker i nesten alle bransjer i protest mot skyhøye husleier og en forverret boligkrise.",
-        "utdypning": "Boligkrisen har ført til en generalstreik der arbeidere har lagt ned arbeidet på tvers av industriene. Krisen har blitt det sentrale politiske temaet foran Spanias valg som finner sted den 29. november.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "USA advarer Madagaskar mot militært samarbeid med Russland",
-        "tekst": "Amerikansk general advarer om at en sahel-lignende sikkerhetsavtale med Russland kan øke ustabiliteten på Madagaskar.",
-        "utdypning": "En amerikansk general har kommet med en advarsel til Madagaskar angående voksende militære bånd til Russland. Ifølge USA kan en sikkerhetsavtale modellert etter situasjonen i Sahel-regionen føre til større ustabilitet i Afrika.",
+        "tittel": "USA: Kongressen stanser riksrettsak mot forsvarsministeren",
+        "tekst": "Republikanerne i Representantenes hus blokkerte forsøket på å stille forsvarsminister Pete Hegseth for riksrett for øyeblikket.",
+        "utdypning": "The US House blocks bid to impeach Defence Secretary Pete Hegseth, for now, after a push launched by maverick Republican lawmaker Thomas Massie. President Donald Trump welcomed the outcome, praising Hegseth as a great American patriot, though Democrats can try again next year as Pentagon chief Pete Hegseth seems set to survive.",
         "kilder": [
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Kenya erklærer milepæl i ebolakampen",
+        "tekst": "Kenyas siste ebolapasient har forlatt sykehuset, og landet starter en 42-dagers nedtelling til å bli virusfritt.",
+        "utdypning": "Kenya had nine confirmed cases before discharging its last patient, while DR Congo continues to battle its deadliest outbreak of the disease. The country now begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Indonesias visepresident trekker seg",
+        "tekst": "Avgangen skjer i en turbulent periode med voksende gnisninger mellom president Prabowo og forgjengeren.",
+        "utdypning": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo as the ruling alliance shows signs of fraying.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 1,

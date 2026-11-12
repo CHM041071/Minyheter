@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "MDG fremmer hasteforslag for å pause salget av Nussir-gruva i Finnmark til et selskap med russiske bånd.",
+      "tekst": "MDG fremmer et hasteforslag om å pause salget av Nussir-gruva i Finnmark til et selskap med russiske bånd.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Tusenvis av skoler i Italia, Skottland og Nord-Irland ble evakuert onsdag etter falske bombetrusler.",
+      "tekst": "USAs tidligere utenriksminister Mike Pompeo forsvarer gruvekjøpet og mener det vil styrke Norge og EU.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/video/20261112-thousands-of-schools-evacuated-in-italy-as-bomb-threats-spread-across-europe"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/trumps-eks-utenriksminister-om-nussir-kjop_-_-vil-styrke-norge-og-eu-1.18078943"
         }
       ]
     },
     {
-      "tekst": "Europeiske ledere samles i Dublin for å diskutere kontinentets sikkerhet og Ukraina-krigen.",
+      "tekst": "De nordiske landene arbeider for tiden med å få på plass en ny felles forsvarsavtale.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
+          "navn": "DR",
+          "lenke": "https://www.dr.dk/nyheder/seneste/nordiske-lande-arbejder-paa-ny-forsvarsaftale"
         }
       ]
     }
@@ -32,8 +32,8 @@
     "Norge": [
       {
         "tittel": "Vil ha hasteforslag for å pause gruvesalg",
-        "tekst": "Miljøpartiet de grønne vil ha kjøpet av Nussir-gruva på vent av hensyn til sikkerhetsvurderinger.",
-        "utdypning": "Miljøpartiet de grønne (MDG) fremmer et hasteforslag for å få stanset salget av Nussir-gruva i Finnmark. Partiet reagerer på at den nye eieren har en sjef med tette bånd til Vladimir Putins krets. De ønsker at regjeringen skal pause kjøpet inntil Stortinget er overbevist om at det ikke utgjør et sikkerhetsbrudd. Tidligere utenriksminister Mike Pompeo har imidlertid uttalt at en vestlig kobbergigant i Hammerfest vil trygge norsk og europeisk sikkerhet.",
+        "tekst": "Miljøpartiet de grønne krever at regjeringen stanser salget av Nussir-gruva i Finnmark av hensyn til rikets sikkerhet.",
+        "utdypning": "MDG vil fremme et hasteforslag i Stortinget for å få satt kjøpet av Nussir-gruva på vent til nødvendige sikkerhetsvurderinger er gjennomført. Partiet reagerer på at gruva selges til et selskap der sjefen har tette bånd til Vladimir Putins nære krets. Nussir-gruva i Finnmark inneholder store mengder kobber, samt gull og sølv.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,13 +44,26 @@
         "vekt": 5
       },
       {
-        "tittel": "Pompeo forsvarer gruvekjøp",
-        "tekst": "Mike Pompeo mener at oppkjøpet av Finnmark-gruva vil styrke både Norge og EU.",
-        "utdypning": "USAs tidligere utenriksminister Mike Pompeo uttaler at en vestlig kobbergigant i Hammerfest vil trygge sikkerheten for både Norge og EU. Uttalelsen kommer i forbindelse med debatten rundt salget av Nussir-gruva til et selskap der sjefen har fortid med oligarkbånd.",
+        "tittel": "Pompeo forsvarer omstridt gruvekjøp",
+        "tekst": "USAs tidligere utenriksminister Mike Pompeo mener oppkjøpet av den norske gruven trygger både norsk og europeisk sikkerhet.",
+        "utdypning": "Mike Pompeo uttaler at en vestlig kobbergigant i Hammerfest vil styrke Norge og EU. Kjøperen har imidlertid en britisk-russisk sjef med tidligere oligarkbånd, noe som har vakt reaksjoner og bekymring for nasjonal sikkerhet på Stortinget.",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/tromsogfinnmark/trumps-eks-utenriksminister-om-nussir-kjop_-_-vil-styrke-norge-og-eu-1.18078943"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Alvorlig syke rammes av SAS-kutt",
+        "tekst": "SAS kutter direkteflyruter mellom Trondheim, Bodø og Tromsø, noe som skaper store problemer for kreftrammede og andre pasienter.",
+        "utdypning": "SAS spår krevende måneder og kutter direktruta mellom Trondheim, Bodø og Tromsø. Både Kreftforeningen og Helse Nord advarer om at dette utgjør en ekstrabelastning for alvorlig syke som er avhengige av flyreisene, og ber nå politikerne om hjelp.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/helse-nord-og-kreftforeningen-er-svaert-bekymret-nar-sas-kutter-direkteruta-mellom-bodo-og-tromso-1.18080290"
           }
         ],
         "antall_kilder": 1,
@@ -59,9 +72,35 @@
     ],
     "Skandinavia": [
       {
+        "tittel": "Nye forsvarsforhandlinger i Norden",
+        "tekst": "De nordiske landene arbeider for tiden med å få på plass en ny felles forsvarsavtale.",
+        "utdypning": "Danmarks kringkasting DR melder at de nordiske landene jobber aktivt med en ny forsvarsavtale, uten at det foreløpig er publisert ytterligere detaljer om avtalens innhold eller omfang i kildene.",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/nordiske-lande-arbejder-paa-ny-forsvarsaftale"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Norske passasjerer rammet av datalæk",
+        "tekst": "Over 140.000 norske passasjerer skal være berørt av en omfattende datalekkasje i Danmark.",
+        "utdypning": "DR melder at over 140.000 personer med norske pass er rammet av datalekkasjen. Flere detaljer om hvem som står bak lekkasjen eller hva slags data som er av kompromittert, fremgår ikke av kildene.",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/over-140-000-norwegian-passagerer-beroert-af-datalaek"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
         "tittel": "Sverige lenger unna klimamålene",
-        "tekst": "Den svenske regjeringens overgangsbudget viser at landet ser ut til å misse samtlige klimamål.",
-        "utdypning": "Sverige ser ut til å misse alle klimamål, og gapet til målene har økt det siste året. Det fremgår av overgangsbudsjettet som ble presentert av finansminister Elisabeth Svantesson. Både avstanden til 2030-målet og 2045-målet har økt ifølge regjeringens egne vurderinger.",
+        "tekst": "Den svenske regjeringens overgangsbudget viser at Sverige ser ut til å misse samtlige klimamål.",
+        "utdypning": "Gapet til å nå klimamålene har økt det siste året, ifølge regjeringens egne vurderinger i den nye overgangsbudgeten. Både avståndet til målet for 2030 og målet for 2045 har økt mer enn tidligere antatt.",
         "kilder": [
           {
             "navn": "SVT",
@@ -69,53 +108,63 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ],
-    "Norden": [],
-    "Europa": [
+    "Norden": [
       {
-        "tittel": "Bombetrusler mot skoler i Europa",
-        "tekst": "Tusenvis av skoler i Italia, Skottland og Nord-Irland ble evakuert onsdag etter falske bombetrusler.",
-        "utdypning": "Mer enn 6 000 italienske skoler mottok trusler onsdag, noe som førte til omfattende evakueringer. Også skoler i Skottland, Nord-Irland, Irland og Bulgaria ble rammet av det myndighetene betegner som falske bombetrusler. Hendelsene skaper økt bekymring for hybrid krigføring i Europa, selv om italienske myndigheter opplyser at det ikke forelå noen konkret fare.",
+        "tittel": "Ukrainsk droneangrep i Østersjøen",
+        "tekst": "Finland bekrefter at de oppdaget et ukrainsk angrep på et russisk krigsskip nær den finske øya Gogland.",
+        "utdypning": "En senior finsk offisielt bekreftet til Yle at hendelsen fant sted i et åpent strekk av Østersjøen. Dette antas å være første gang ukrainske droner har angrepet et russisk skip i disse havområdene.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261112-thousands-of-schools-evacuated-in-italy-as-bomb-threats-spread-across-europe"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20256496?origin=rss"
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 5
+        "antall_kilder": 2,
+        "vekt": 4
       },
       {
-        "tittel": "Europeisk toppmøte i Dublin",
-        "tekst": "Ledere fra over 40 land samles i Dublin for å diskutere Europas usikre sikkerhetssituasjon.",
-        "utdypning": "Stats- og regjeringssjefer fra mer enn 40 europeiske land, inkludert Ukrainas president Volodymyr Zelenskyj og Nato-sjef Mark Rutte, samles i Dublin. Møtet i Det europeiske politiske fellesskap fokuserer på kontinentets skjøre sikkerhet midt oppi nye USAs-støttede forsøk på å gjenoppta fredssamtaler om Ukraina.",
+        "tittel": "Mistenkt droneluftromsbrudd i Finland",
+        "tekst": "Et ubemannet luftfartøy fløy trolig inn i finsk luftrom onsdag og oppholdt seg der i rundt fem minutter.",
+        "utdypning": "Det det finske forsvarsdepartementet opplyser at dronen krysset grensen og befant seg i finsk luftrom i om lag fem minutter før den forlot området igjen.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20256373?origin=rss"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Enige om stor fangeutveksling",
-        "tekst": "Ukraina og Russland ble onsdag enige om en omfattende fangeutveksling etter fredssamtaler i Abu Dhabi.",
-        "utdypning": "Kiev og Moskva ble enige om en storstilt fangeutveksling på den siste dagen av trepartssamtalene i Abu Dhabi, uten at det ble oppgitt konkrete tall. Samtidig reiser amerikanske utsendinger Steve Witkoff og Jared Kushner til Moskva og Dublin for separate møter med Vladimir Putin og Volodymyr Zelenskyj.",
+        "tittel": "Finland strammer visumregler for russere",
+        "tekst": "Finske myndigheter mener russiske utøvere ikke har noe i landet å gjøre så lenge krigen i Ukraina pågår.",
+        "utdypning": "Utenriksminister Elina Valtonen uttaler at russiske idrettsutøvere ikke er velkomne i Finland. Dette er en opptrapping av de nasjonale sanksjonene og innreiserestriksjonene som følge av invasjonen.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20256630?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Europa": [
+      {
+        "tittel": "Putin møtte USAs utsendinger om Ukraina",
+        "tekst": "Russlands president Vladimir Putin avviser kompromisser på sine harde krav, men tilbyr en kortvarig våpenhvile.",
+        "utdypning": "Under et møte i Moskva med USAs utsendinger Jared Kushner og Steve Witkoff, gjorde Putin det klart at Kreml holder fast ved sine opprinnelige krav for å avslutte krigen. Samtidig ble det åpnet for en midlertidig våpenhvile i en sentral frontlinjeby etter trilateral samtale i Abu Dhabi.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
+            "lenke": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys"
           },
           {
             "navn": "BBC",
@@ -127,18 +176,86 @@
           }
         ],
         "antall_kilder": 3,
+        "vekt": 5
+      },
+      {
+        "tittel": "Ukraina og Russland enige om fangeutveksling",
+        "tekst": "Kyiv og Moskva ble onsdag enige om en storstilt fangeutveksling etter avsluttede fredssamtale i Abu Dhabi.",
+        "utdypning": "Samtalene i Abu Dhabi dreide seg primært om Europas fremtidige sikkerhetsrammeverk. Det er foreløpig ikke oppgitt noen konkrete tall på hvor mange fanger som omfattes av utvekslingen, og det gjenstår uavklarte spørsmål om hvem fra Europa som skal delta i fremtidige forhandlinger.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-eu-2092-rdf"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
+          }
+        ],
+        "antall_kilder": 3,
         "vekt": 4
+      },
+      {
+        "tittel": "Generalstreik og uro i Spania",
+        "tekst": "Millions av arbeidere deltok i Spanias første generalstreik på 14 år grunnet en dyp bolig- og levekrise.",
+        "utdypning": "Protestene mot høye leiepriser og levekader førte til sammenstøt med politiet i Barcelona med brannarsoner og fyrverkeri. Uroen kommer like før et knappevalg utskrevet av sosialistisk statsminister Pedro Sanchez den 29. november.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/general-strike-over-housing-brings-out-hundreds-of-thousands-in-spain"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Sykehusangrep i Gaza",
-        "tekst": "Seks palestinere skal ha blitt krevd som følge av et israelsk angrep mot Nasser-sykehuset.",
-        "utdypning": "Et missil traff en bygning med kirurgiske avdelinger og intensivavdelinger ved Nasser-sykehuset i det sørlige Gaza, ifølge øyenvitner og helsemyndigheter. Israel hevder Hamas brukte sykehuset som militært kommandosenter, mens palestinske tjenestemenn melder om minst seks drepte, inkludert en kirurg.",
+        "tittel": "Seks drept i israelsk angrep mot sykehus",
+        "tekst": "Det palestinske helsedepartementet melder at seks personer ble drept i en rakett-treff mot Nasser-sykehuset i Gaza.",
+        "utdypning": "Ifølge øyenvitner traff en rakett bygningen som huser de kirurgiske avdelingene og intensivavdelingene ved sykehuset, som er det største i det sørlige Gaza.",
         "kilder": [
           {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Meta bøtelagt av brasiliansk valgdomstol",
+        "tekst": "Valgdomstolen i Brasil har ilagt Meta en bot etter en klage fra president Lula da Silvas koalisjon.",
+        "utdypning": "Domstolen fant imidlertid ingen bevis for at Meta hadde til hensikt å påvirke valget eller utvise forsettlig skjevdeling. Meta avviser anklagene og uttaler at selskapet vil forsvare seg mot det de betegner som falske påstander.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Mangler midler og utstyr under ebolautbrudd",
+        "tekst": "Leger Uten Grenser advarer om at millioner av eboladollar er borte mens sykdommen sprer seg ukontrollert.",
+        "utdypning": "Helsearbeidere går ubetalte, mangler grunnleggende opplæring og sliter med store forsygningsmangler av essensielt utstyr under det pågående ebolautbruddet, ifølge hjelpeorganisasjonens ferske advarsler.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 1,

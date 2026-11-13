@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Høyesterett har slått fast at statens vedtak om tre oljefelt er ugyldige på grunn av saksbehandlingsfeil.",
+      "tekst": "Høyesterett har slått fast at statens vedtak om tre oljefelt er ugyldige på grunn av saksbehandlingsfeil i et klimasøksmål.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Ukrainske droner har truffet et russisk krigsskip i Finskebukta nær Finland.",
+      "tekst": "Ukraina og USA opplyser at Europa vil delta i de neste fredsforhandlingene med Russland.",
       "kilder": [
         {
-          "navn": "Yle News",
-          "lenke": "https://yle.fi/a/74-20256496?origin=rss"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance"
         }
       ]
     },
     {
-      "tekst": "Europeiske ledere gjør seg klare til å delta i kommende fredsforhandlinger mellom USA, Russland og Ukraina.",
+      "tekst": "Over 140 000 norske passasjerer er berørt av et datalekasje, ifølge danske opplysninger.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements"
+          "navn": "DR",
+          "lenke": "https://www.dr.dk/nyheder/seneste/over-140-000-norwegian-passagerer-beroert-af-datalaek"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Høyesterett: Oljevedtak ugyldige",
-        "tekst": "Statens vedtak om tre oljefelt er erklært ugyldige av Høyesterett på grunn av saksbehandlingsfeil.",
-        "utdypning": "Miljøorganisasjonene vant fram i klimasøksmålet i Høyesterett. Dommen slår fast at vedtakene om de tre oljefeltene var ugyldige som følge av saksbehandlingsfeil. Lederen i Natur og Ungdom uttaler at dette har endret norsk oljepolitikk for alltid.",
+        "tittel": "Miljøorganisasjonene vant fram i klimasøksmål",
+        "tekst": "Statens vedtak om tre oljefelt ble erklært ugyldige av Høyesterett på grunn av saksbehandlingsfeil.",
+        "utdypning": "Høyesterett har felt en historisk dom som slår fast at statens vedtak om tre oljefelt var ugyldige som følge av saksbehandlingsfeil. Natur og Ungdom-lederen uttaler at dette endrer norsk oljepolitikk for alltid. Dommen er et resultat av et omfattende klimasøksmål reist av miljøorganisasjonene.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,24 +44,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Frykter stans i kobbergruve",
-        "tekst": "Kobbergruva Nussir i Kvalsund gir nye jobber, men lokalbefolkningen frykter nå at bråket om eierens Russland-bånd kan gi forsinkelser.",
-        "utdypning": "Simon har 18 mann i arbeid og frykter stans i gruva. Nussir-prosjektet er ment å sikre ny tilflytting og arbeidsplasser til regionen. Usikkerheten knytter seg til den nye eierens forbindelser til Russland.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/lokalbefolkning-i-kvalsund-frykter-forsinkelser-med-nussir-1.18058306"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Mange nordmenn berørt av datalæk",
-        "tekst": "Over 140 000 norske passasjerer er rammet av en omfattende datalekkasje.",
-        "utdypning": "Ifølge danske DR er over 140.000 norske passasjerer berørt av datalekkasjen. Saken kaster lys over sårbarheten i digitale systemer som rammer tvers av landegrensene i Skandinavia.",
+        "tittel": "Over 140 000 nordmenn berørt av datalekasje",
+        "tekst": "Danske medier melder at over 140 000 norske passasjerer er rammet av en datalekasje.",
+        "utdypning": "Opplysningene kommer fram via danske DR, som rapporterer at mer enn 140 000 norske passasjerer er berørt av hendelsen. Det foreligger foreløpig få detaljer om konsekvensene for de rammede personene eller hvem som står bak lekkasjen.",
         "kilder": [
           {
             "navn": "DR",
@@ -70,43 +55,106 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      }
-    ],
-    "Norden": [
+      },
       {
-        "tittel": "Russisk skip truffet nær Finland",
-        "tekst": "Et russisk krigsskip ble truffet av en ukrainsk drone i Finskebukta nær Finland.",
-        "utdypning": "En senior finsk embetsmann bekreftet til Yle at Finland detekterte et angrep nær den russiske øya Gogland, kjent som Suursaari på finsk. Angrepet antas å være første gang ukrainske droner har truffet et russisk skip i et åpent strekk av Østersjøen.",
+        "tittel": "Frykter stans i kobbergruve på grunn av Russland-band",
+        "tekst": "Lokalbefolkningen i Kvalsund frykter at bråk rundt den nye eierens bånd til Russland kan forsinke Nussir-gruva.",
+        "utdypning": "Kobbergruva i Kvalsund gir nye arbeidsplasser og så dringend tilflytting til regionen. Nå er det imidlertid uro rundt den nye eierens forbindelser til Russland. Arbeidere som Simon, som har 18 mann i arbeid, frykter at situasjonen kan føre til stans og forsinkelser i driften.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20256496?origin=rss"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/lokalbefolkning-i-kvalsund-frykter-forsinkelser-med-nussir-1.18058306"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Ekstremvær rammer Island",
-        "tekst": "Oransje og gule farevarsler er utstedt for store deler av Island på grunn av kraftige snøstormer.",
-        "utdypning": "Mye av landet dekkes av snøstormer fredag og lørdag. De første varslene aktiveres i Vestfjorden, Nordvest-Island og Nordøst-Island fredag ettermiddag med vindstyrker på 15-23 m/s. Det ventes dårlig sikt og vanskelige kjøreforhold på fjellveiene, mens Breiðafjörður, Faxaflói og det sentrale høylandet får gule varsler.",
+        "tittel": "Advarer mot britiske vektkrav for offshore-arbeidere",
+        "tekst": "Fagforbund advarer mot at strenge britiske vektkrav for oljearbeidere kan bli innført i Norge.",
+        "utdypning": "I Storbritannia har offshore-arbeidere blitt slanket for å beholde jobben, med et krav om at de ikke kan veie mer enn 124 kilo. Fagforbund uttrykker bekymring for at et slikt vektkrav kan komme til Norge, noe som i så fall vil kunne føre til at enkelte mister jobben.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-12-orange-and-yellow-alerts-for-friday-and-saturday-492509/"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/vurderer-a-innfora-vektgrense-pa-124-kilo-for-oljearbeidarar-i-noreg-1.18072358"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Finland strammer inn for russiske utøvere",
-        "tekst": "Utenriksminister Elina Valtonen sier russiske utøvere ikke har noe å gjøre i Finland så lenge krigen pågår.",
-        "utdypning": "Den finske regjeringen har besluttet å stramme inn visumrestriksjonene for russiske idrettsutøvere. Utenriksminister Elina Valtonen (NCP) understreker at de ikke har noe i landet å gjøre under den pågående krigen i Ukraina.",
+        "tittel": "Ingen sluttdato for Sotra-kaoset etter ministermøte",
+        "tekst": "Det vekker skuffelse at et nytt ministermøte ikke kunne gi en fast sluttdato for Sotra-kaoset.",
+        "utdypning": "Berørte parter og lokalt næringsliv hadde håpet på avklaringer under møtet med ministeren. Det ble imidlertid ikke presentert noen konkret sluttdato for problemene knyttet til Sotra-forbindelsen, noe som skaper reaksjoner og skuffelse.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/artikkel/skuffa-etter-ministermote-fekk-ikkje-sluttdato-for-sotra-kaoset-1532882"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Skandinavia": [
+      {
+        "tittel": "Total flystopp i USA påvirker trafikken",
+        "tekst": "Amerikanske myndigheter har innført totalt flystopp i USA på grunn av sikkerhetsårsaker.",
+        "utdypning": "Svenske medier melder at amerikanske myndigheter har stoppet all flytrafikk i USA på grunn av ekstraordinære omstendigheter. Hendelsen, som etterforskes av den føderale luftfartsmyndigheten, rammer nesten 7 000 flyreiser og har internasjonale ringvirkninger.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/totalt-flygstopp-i-usa"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Nytt styre legger fram sparetiltak i Sala",
+        "tekst": "Det nye politiske styret i Sala har presentert sitt budgettforslag for å rette opp et underskudd på 90 millioner.",
+        "utdypning": "Rundt 90 millioner svenske kroner i underskudd må dekkes inn i Sala kommune. Det nye politiske styret har lagt fram en ny budsjettmodell med et uttalte endringstänk i grunnen, ifølge Erik Hamrin (M) som er foreslått som ny ordfører.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/vastmanland/forsta-budgeten-for-nya-styret-sa-ska-sala-fa-ordning-pa-ekonomin"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Nederlandsk regjeringskrisemøte avverger kollaps",
+        "tekst": "Statsminister Rob Jetten opplyser at det trengs flere samtaler for å unngå regeringskollaps i Nederland.",
+        "utdypning": "Et krismøte på fredagskvellen ble holdt for å avverge den overhengende trusselen om regjeringskollaps. Statsminister Rob Jetten bekreftet etter møtet at situasjonen fortsatt er krevende og at flere samtaler er nødvendige.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/nederlandernas-regering-raddad-tillfalligt"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Norden": [
+      {
+        "tittel": "Russland krever at Finland forlater Nato",
+        "tekst": "Ifølge Bild krever russiske tjenestepersoner at Finland forlater Nato under ukrainske fredsforhandlinger.",
+        "utdypning": "Russiske representanter fortsetter å hevde at vestlige land ga løfter om ikke å utvide Nato østover. Under de pågående samtalene om Ukraina har det blitt krevd at Finland trekker seg ut av forsvarsalliansen.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20256829?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Finland strammer inn visum for russiske idrettsutøvere",
+        "tekst": "Utenriksminister Elina Valtonen slår fast at russiske idrettsutøvere ikke har noe å gjøre i Finland.",
+        "utdypning": "Utenriksminister Elina Valtonen (Samlingspartiet) begrunner innstrammingen med at krigen i Ukraina fortsatt pågår. Finland velger dermed å skjerpe visumrestriksjonene ytterligere overfor russiske borgere innen idretten.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -115,87 +163,83 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
+      },
+      {
+        "tittel": "Oransje og gule farevarsler på Island",
+        "tekst": "Store deler av Island er rammet av værvarler på grunn av kraftige snøstormer fredag og lørdag.",
+        "utdypning": "Meteorologiske varsler viser at snøstormer med vindstyrker på 15-23 m/s rammer Vestfjorden og de nordlige delene av landet fredag ettermiddag. Det meldes om svært dårlig sikt og vanskelige kjøreforhold, særlig på fjellovergangene, og varslene gjelder også for Breiðafjörður og det sentrale høylandet.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-12-orange-and-yellow-alerts-for-friday-and-saturday-492509/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Zelenskyj advarer Europa om sikkerhetssamtaler",
-        "tekst": "Ukrainas president advarer europeiske ledere mot å bli overrumplet av USA-Russland-samtaler om kontinentets sikkerhet.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyj advarte torsdag europeiske ledere mot diskusjoner mellom USA og Russland om en ny sikkerhetsordning for kontinentet. Før invasjonen i 2022 krevde Kreml at NATO skulle trekke styrker ut av Øst-Europa. Samtidig har amerikanske utsendinger opplyst at Europa vil bli inkludert i neste runde med fredsforhandlinger, selv om det gjenstår å se hvem som får en plass ved bordet.",
+        "tittel": "Zelensky advares mot amerikansk-russiske sikkerhetssamtaler",
+        "tekst": "Ukrainas president advarer europeiske ledere mot å godta nye sikkerhetsarrangementer avtalt mellom USA og Russland.",
+        "utdypning": "Volodymyr Zelensky kom med advarselen torsdag med henvisning til tidligere russiske ultimatum om å trekke Nato-styrker ut av Øst-Europa. Eksperter advarer mot å revidere Europas sikkerhetsarkitektur, da det kan innfri Moskvas ønske om å reforhandle etterkrigstidens sikkerhet. Samtidig uttrykker Zelensky tilfredshet med at USA nå drar Europa inn i samtalene ettersom Ukraina sikter mot EU-medlemskap.",
         "kilder": [
           {
             "navn": "France 24",
             "lenke": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements"
           },
           {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-eu-2092-rdf"
+          },
+          {
             "navn": "BBC",
             "lenke": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 4,
         "vekt": 5
       },
       {
-        "tittel": "Advarer mot russiske angrep på strømnettet",
-        "tekst": "Russland fortsetter å sikte seg inn mot ukrainsk energiinfrastruktur og vannforsyning for å knekke sivilbefolkningen.",
-        "utdypning": "Mens diplomatiske forsøk pågår, er enforhandlet løsning usikker grunnet Russlands ufravikelige territorielle krav. Eksperter peker på at Moskvas maksimale visjon skjuler en kompleks forhandlingsstrategi, der strømbrudd og mangel på vann rammer ukrainske familier hardt i vinterkulden.",
+        "tittel": "Europa inkludert i nye fredsforhandlinger med Russland",
+        "tekst": "USA og Ukraina bekrefter at europeiske land vil delta i neste runde med samtaler med Moskva.",
+        "utdypning": "Etter forhandlinger i Abu Dhabi gjennomførte utsendingene Jared Kushner og Steve Witkoff over fire timers samtale med Vladimir Putin i Kreml, før de fløy til Dublin for å informere Zelensky. Putin indikerte at Moskva står fast på sine harde krav etter nesten fem års krig. Spørsmålet om europeisk sikkerhet har nå fått plass i samtalene.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/winter-is-coming-putin-seeks-to-hammer-ukrainians-their-power-grid-their-water-supplies"
+            "lenke": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance"
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
         "vekt": 5
       },
       {
-        "tittel": "Advarer mot russisk hybridkrig",
-        "tekst": "Eksperter advarer om at Russland bruker uetiske og ulovlige metoder i en omfattende hybridkrig mot europeiske land.",
-        "utdypning": "Det er voksende bekymring i Europa for at nylige bombetrusler og cyberangrep inngår i en større kampanje. Seniorforsker Elisabeth Braw ved Atlantic Council sier Moskvas mål er å øke egen makt på bekostning av europeiske land ved å føre en skitten krig med metoder Europa selv ikke vil ta i bruk.",
+        "tittel": "Massiv droneoffensiv og russiske angrep i Ukraina",
+        "tekst": "Russiske rakettangrep traff en sykehusbygning samtidig som Ukraina avfyrte nær 1 200 droner over natten.",
+        "utdypning": "Russiske styrker gjennomførte torsdag angrep mot flere mål over hele Ukraina, deriblant et sykehus. Som svar svarte Ukraina med å avfyre nesten 1 200 droner mot russiske mål i løpet av natten, noe som markerer et av de største luftangrepene siden fullinvasjonen startet for fem år siden.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says"
+            "lenke": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
       }
     ],
     "Verden": [
       {
-        "tittel": "Global Microsoft-feil rammet Outlook og Teams",
-        "tekst": "Microsoft opplyser at en global teknisk svikt har slått ut tjenester verden over, men avviser at det skyldes hacking.",
-        "utdypning": "En Microsoft-feil avbrøt Outlook og Teams i en rekke land og territorier globalt. Selskapet opplyste at de ikke var kjent med skadelig aktivitet som årsak til hendelsen, men feilsøkingsarbeidet har vist seg krevende.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Nvidia-topp stevnet for Kongressen",
-        "tekst": "Sjefen for verdifulle Nvidia har gått av og er kalt inn til Kongressen i forbindelse med sikkerhetsbekymringer.",
-        "utdypning": "USAs senat og Representantenes hus krever svar etter at Jensen Huang abrupth trakk seg fra sjefsstolen i Nvidia. Saken knytter seg til nasjonale sikkerhetsbekymringer og avsløringer om en påstått utenomekteskapelig relasjon til en påstått kinesisk spion.",
+        "tittel": "Søkelys på Nvidia etter toppsjefens avgang",
+        "tekst": "USAs senat ber om vitneforklaringer etter at Nvidias sjef Jensen Huang brått trakk seg fra selskapet.",
+        "utdypning": "Senate Banking Committee-leder Tim Scott har bedt handelssekretær Howard Lutnick og tidligere Nvidia-sjef Jensen Huang om å vitne. Avgangen kom etter avsløringer om påståtte utenomekteskapelige affærer med en påstått kinesisk spion, noe som har utløst nasjonale sikkerhetsbekymringer blant politikere i Representantenes hus.",
         "kilder": [
           {
             "navn": "DW World",
@@ -210,13 +254,30 @@
         "vekt": 3
       },
       {
-        "tittel": "Tysk budsjett med historisk gjeldsnivå",
-        "tekst": "Budsjettkomiteen i Forbundsdagen er blitt enige om et gjeldstungt statsbudsjett for 2027.",
-        "utdypning": "Bundestags budsjettkomité jobbet gjennom natten for å lande neste års pengebruk. Låneopptakene som følger med det nye budsjettet, er kun overgått én gang tidligere, under toppen av koronapandemien.",
+        "tittel": "Global Microsoft-feil rammer Outlook og Teams",
+        "tekst": "Microsoft melder om en omfattende global feil som slår ut tjenester verden over.",
+        "utdypning": "Problemer med Outlook og Teams har blitt rapportert fra et stort antall land og territorier. Programvaregiganten understreker at hendelsen ikke skyldes noen cybersikkerhetshendelse eller ondsinnet aktivitet, men forsøkene på å rette opp feilene har foreløpig ikke ført fram.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Forverret humanitær krise i Gaza",
+        "tekst": "Kraftig regn har oversvømt og skadet tusenvis av telt i Gaza, der flere mennesker har mistet livet.",
+        "utdypning": "Den humanitære situasjonen i det krigsherjede Gaza fortsetter å forverres i kjølvannet av en fastlåst politisk situasjon. Flere dødsfall er registrert etter at flomvann ødela teltene til internt fordrevne. Spørsmålet gjenstår om internasjonalt press, som Trump's Board of Peace, kan bidra til å lette krisen.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,

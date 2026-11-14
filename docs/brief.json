@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Høyesterett slår fast at statens vedtak om tre oljefelt er ugyldige på grunn av saksbehandlingsfeil.",
+      "tekst": "USA har foreslått at Ukraina avgir Donbas mot Nato-medlemskap, ifølge president Zelenskyj.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/norge/miljoorganisasjonene-vant-fram-i-klimasoksmal-i-hoyesterett-1.17997218"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "Mattilsynet har påvist fugleinfluensa i et kommersielt fjørfehold i Akershus, der 13.000 dyr må avlives.",
+      "tekst": "Utskiftning av en kobberkabel pekes på som mulig årsak til den enorme flystansen i USA.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/stor-oslo/pavist-fugleinfluensa-i-akershus_-ma-avlive-13.000-dyr-1.18081821"
+          "lenke": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036"
         }
       ]
     },
     {
-      "tekst": "USA og Ukraina opplyser at Europa vil delta i de neste fredssamtalene med Russland.",
+      "tekst": "MDG krever strakstiltak mot hvalsafari-kaos i Kvænangen etter at over 70 båter ble observert.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/mdg-topp-krev-strakstiltak-mot-kval-kaos-i-nord-troms-1.18081033"
         }
       ]
     }
@@ -31,48 +31,22 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Høyesterett: Oljevedtak ugyldige",
-        "tekst": "Statens vedtak om tre oljefelt ble erklært ugyldige av Høyesterett som følge av saksbehandlingsfeil.",
-        "utdypning": "Høyesterett har slått fast at statens vedtak om tre oljefelt er ugyldige på grunn av saksbehandlingsfeil. Miljøorganisasjonene vant dermed fram i klimasøksmålet. – Nå har vi endret norsk oljepolitikk for alltid, sier lederen i Natur og Ungdom.",
+        "tittel": "Kobberkabel kan ha utløst flystans i USA",
+        "tekst": "USAs transportminister sier utskiftning av gamle kobberkabler kan være årsaken til at over 15.000 flygninger ble rammet.",
+        "utdypning": "Amerikanske luftfartsmyndigheter FAA nektet alle fly å ta av i fire timer fredag på grunn av forstyrrelser i flykontrollen. På en pressekonferanse lørdag opplyste transportminister Sean Duffy at problemene kan ha oppstått under arbeid med å bytte ut gamle kobberkabler med fiber ved et av FAAs anlegg. Ministeren oppga også navnet på selskapet han mente forårsaket problemene, og hendelsen skal nå granskes videre.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/norge/miljoorganisasjonene-vant-fram-i-klimasoksmal-i-hoyesterett-1.17997218"
+            "lenke": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Fugleinfluensa påvist i Akershus",
-        "tekst": "Mattilsynet må avlive 13.000 fjørfe etter et påvist tilfelle av fugleinfluensa i Akershus.",
-        "utdypning": "Mattilsynet har påvist fugleinfluensa i et kommersielt fjørfehold i Akershus, noe som medfører avliving av 13.000 dyr. Det jobbes med å kartlegge om smitten har spredt seg til flere gårder, og forskere betegner situasjonen som alvorlig. Det ble tidligere i uken også påvist smitte i Rogaland.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/stor-oslo/pavist-fugleinfluensa-i-akershus_-ma-avlive-13.000-dyr-1.18081821"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Frykter stans i Nussir-gruva",
-        "tekst": "Lokalbefolkningen i Kvalsund frykter at bråk rundt eierens bånd til Russland kan forsinke kobbergruva.",
-        "utdypning": "Kobbergruva Nussir bidrar med nye arbeidsplasser og tilflytting i Kvalsund, med 18 mann i arbeid. Nå frykter imidlertid lokalbefolkningen og ledelsen at uro knyttet til den nye eierens bånd til Russland kan gi forsinkelser i driften.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/lokalbefolkning-i-kvalsund-frykter-forsinkelser-med-nussir-1.18058306"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Krev strakstiltak mot kval-kaos",
-        "tekst": "MDG ber fiskeriministeren gripe inn etter at over 70 båtar ble observerte rundt spekkhoggarar i Kvænangen.",
-        "utdypning": "Une Bastholm (MDG) ropar varsku etter at over 70 båtar vart observerte rundt berre ni spekkhoggarar i Kvænangen. Ho meiner regjeringa har vore naive og at fiskeriministeren bør gjere noko allereie no.",
+        "tittel": "Krev strakstiltak mot hval-kaos i Kvænangen",
+        "tekst": "Une Bastholm (MDG) reagerer sterkt etter at over 70 båter ble observert rundt ni spekkhoggarar i Kvænangen, og ber fiskeriministeren gripe inn.",
+        "utdypning": "Bastholm ropar varsku og mener regjeringa har vært naive i møte med situasjonen. Over 70 båter ble observerte rundt berre ni spekkhoggarar i Kvænangen. Hun mener fiskeriministeren bør gjøre noe allerede nå for å rydde opp.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -81,107 +55,29 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
-      },
-      {
-        "tittel": "Fergefortøyninger løsnet",
-        "tekst": "Fortøyningene til MS Husøy ble løsnet natt til lørdag i det som politianmeldes som en villet handling.",
-        "utdypning": "Natt til lørdag ble fortøyningene til MS Husøy løsnet, noe de som jobber på ferga mener kunne fått alvorlige konsekvenser. Saken er politianmeldt.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/fortoyninger-til-ferge-i-hasvik-slitt-i-natt_-tror-det-er-gjort-med-vilje-1.18081813"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Totalstopp på svensk atomkraftverk",
-        "tekst": "Forsmark 3 har totalstopp etter en kortslutning, men det ventes ikke å påvirke elprisene nevneverdig.",
-        "utdypning": "Siden midnatt har det vært totalstopp på kjernekraftverket Forsmark 3 på grunn av en kortslutning. Feilen er beregnet å være utbedret innen fredag. Elprisekspert Johan Sigvardsson opplyser at stoppet ikke vil påvirke elprisene nevneverdig og at det ikke er noen dramatikks i situasjonen.",
+        "tittel": "Nye russiske dronetaktikker mot Kyiv",
+        "tekst": "Ukrainsk forsvar melder at russiske luftangrep har blitt lengre og mer intensive med tysta og osynliga jetdrivne droner.",
+        "utdypning": "Ifølge det svenske mediet SVT flyr de jetdrivne dronene lavere for å unngå å synas på radaren, og tystnar når de nærmer seg målet. En kulspruteskytt i en rörlig luftvärnsgrupp uttaler at de endrer taktik hele tiden.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/uppsala/totalstopp-pa-forsmark-3-efter-kortslutning"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Norden": [
-      {
-        "tittel": "Russisk krav om Nato-exit for Finland",
-        "tekst": "Russiske embetsfolk har i fredssamtaler krevd at Finland forlater Nato, ifølge medier.",
-        "utdypning": "Russiske embetsfolk fortsetter å hevde at vestlige land lovet å ikke utvide Nato østover. I forbindelse med Ukraina-fredssamtaler har Russland krevd at Finland forlater forsvarsalliansen, ifølge opplysninger som har kommet frem.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20256829?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Häkkänen: Østersjøcruiser er trygge",
-        "tekst": "Finland vurderer Østersjøen som trygg etter at en russisk missilbåt ble truffet nær kysten.",
-        "utdypning": "Et ukrainsk angrep rammet tidligere i uken et russisk missilskip om lag 40 kilometer fra den finske kysten. Den finske ministeren Antti Häkkänen forsikrer likevel at det fremdeles er trygt å gjennomføre cruise på Østersjøen.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20256796?origin=rss"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Snøstorm rammer Island",
-        "tekst": "Oransje og gule farevarsler gjelder i deler av Island på grunn av kraftige snøstormer.",
-        "utdypning": "Island opplever sin andre dag med oransje og gule farevarsler for snøstorm. Været treffer spesielt de østlige og sørlige delene av landet etter at fredagen førte til store veistengninger i nord og på Vestfjorden.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-14-storm-conditions-move-over-east-and-south-this-morning-492760/"
+            "lenke": "https://www.svt.se/nyheter/utrikes/ukrainas-forsvar-om-rysslands-nya-taktik-tysta-och-osynliga-dronare"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
+    "Norden": [],
     "Europa": [
       {
-        "tittel": "Europa inkluderes i fredssamtaler",
-        "tekst": "USAs og Ukrainas ledere bekrefter at Europa vil delta i neste runde med fredssamtaler med Russland.",
-        "utdypning": "Ukrainas president Volodymyr Zelensky og USAs utsending Jared Kushner opplyste torsdag at Europa vil delta i neste runde med samtaler med Russland. Vladimir Putin gjorde det samtidig klart at Moskva ikke vil fire på sine harde krav for å avslutte krigen. Kunngjøringen kom etter omfattende diplomati i Abu Dhabi, Kreml og Dublin.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 4,
-        "vekt": 5
-      },
-      {
-        "tittel": "USA skal ha foreslått Donbas-bytte",
-        "tekst": "USA skal ha foreslått at Ukraina gir opp Donbas mot Nato-medlemskap, ifølge Zelensky.",
-        "utdypning": "Ukrainas president Volodymyr Zelensky opplyser at amerikanske utsendinger har foreslått at Ukraina overdrar den østlige byen Donbas til Russland i bytte mot Nato-medlemskap. Zelensky gjentar at Kyiv ikke vil trekke seg fra sitt territorium, og advarer om at Kreml-forsøk på å endre sikkerhetsarkitekturen kan utløse flere kriger.",
+        "tittel": "Zelenskyj: USA har foreslått Donbas-bytte mot Nato",
+        "tekst": "Ukrainas president sier USAs utsendinger har spilt inn at landet gir opp Donbas i bytte mot Nato-medlemskap.",
+        "utdypning": "President Zelenskyj uttalte dette etter fredssamtaler i Abu Dhabi denne uken. Han gjentok at Kyiv ikke er villige til å trekke seg tilbake fra sitt territorium, og advarte om at Kremls forsøk på å endre kontinentets sikkerhetsarkitektur kan føre til flere kriger. Samtidig bekrefter Tyskland og andre europeiske aktører at sikkerhetsavtaler diskuteres, og Frankrikes president Emmanuel Macron advarer mot at begrenset bistand vil bane vei for en urettferdig fred.",
         "kilder": [
           {
             "navn": "BBC",
@@ -194,36 +90,9 @@
         ],
         "antall_kilder": 2,
         "vekt": 5
-      },
-      {
-        "tittel": "Omfattende angrep i Ukraina",
-        "tekst": "Russiske angrep rammet ukrainske mål, mens Ukraina svarte med nesten 1.200 droner.",
-        "utdypning": "Russiske rakettangrep traff torsdag mål over hele Ukraina, blant annet med skader på et sykehus. Samtidig svarte Ukraina med å avfyre nesten 1.200 droner mot russiske mål i løpet av natten, noe som er et av de største luftangrepene siden krigens start.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
       }
     ],
-    "Verden": [
-      {
-        "tittel": "Forverret krise i Sudan",
-        "tekst": "Humanitær hjelp til fordrevne i Sudan kuttes kraftig midt under pågående krig.",
-        "utdypning": "Sudans humanitære krise forverres av kutt i internasjonal bistand og omfattende kamper. Nærmere 34 millioner mennesker har behov for hjelp, mens krigshandlinger og droneangrep hindrer nødhjelpsleveranser til befolkningen.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ]
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

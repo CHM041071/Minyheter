@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USA søker å forhandle fram en fredsløsning mellom Ukraina og Russland.",
+      "tekst": "Estland stenger alle grenseoverganger mot Russland fra 1. desember etter et sabotasjeangrep mot en dronefabrikk.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/estland-stenger-grensen-mot-russland-1.18082258"
         }
       ]
     },
     {
-      "tekst": "Transportminister Sean Duffy undersøker om en feil under utskifting av kobbertråd forårsaket den store flystansen i USA.",
+      "tekst": "Norge rammes av sitt største utbrudd av fugleinfluensa noensinne i kommersielt fjørfehold med rundt 100.000 avlivete fugler.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036"
+          "lenke": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377"
         }
       ]
     },
     {
-      "tekst": "Oslo Aps nominasjonskomité har innstilt Birgit Skarstein som ordførerkandidat til kommunevalget neste høst.",
+      "tekst": "En ny undersøkelse viser at hver tiende bussjåfør har vært utsatt for vold eller trusler på jobb det siste året.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/stor-oslo/skarstein_-_-heldigvis-er-det-lov-a-tenke-seg-om-1.18082145"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/sorlandet/hver-tiende-bussjafor-utsatt-for-vold-1.18080028"
         }
       ]
     }
@@ -31,63 +31,133 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Flystans i USA granskes",
-        "tekst": "Utskifting av en kobbertråd kan være årsaken til at over 15.000 flygninger ble forsinket eller innstilt i USA.",
-        "utdypning": "USAs transportminister Sean Duffy opplyste på en pressekonferanse at problemene kan ha oppstått i forbindelse med arbeid der gamle kobberkabler ble byttet ut med fiber ved et av FAAs anlegg. Luftfartsmyndighetene nektet alle fly å ta av i fire timer fredag på grunn av forstyrrelser i flykontrollen. Ministeren oppga også navnet på selskapet han mente stod bak feilen, og hendelsen skal nå granskes videre.",
+        "tittel": "Stort utbrudd av fugleinfluensa",
+        "tekst": "Sju fjørfehold i Rogaland og Agder har fått påvist fugleinfluensa, noe som fører til avlivning av 100.000 fugler.",
+        "utdypning": "Dette er Norges største utbrudd noensinne i kommersielt fjørfehold, både i antall berørte dyrehold og geografisk utbredelse, ifølge Mattilsynet. Folkehelseinstituttet (FHI) understreker at risikoen for mennesker er svært lav, og at det er trygt å spise egg og kjøtt.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/flystansen-i-usa_-bytting-av-kabel-mulig-arsak-1.18082036"
+            "lenke": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Estland stenger grensen mot Russland",
+        "tekst": "Estland vil stenge alle grenseoverganger mot Russland fra 1. desember etter et mistenkt sabotasjeangrep.",
+        "utdypning": "Russlands militæretterretning skal ha beordret et sabotasjeangrep mot et forsvarsselskap, ifølge Estlands utenriksminister. Ifølge estiske myndigheter dreier det seg om et forsøk på brannstiftelse mot en dronefabrikk. Utenriksminister Margus Tsahkna bekrefter stengningen på X.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/estland-stenger-grensen-mot-russland-1.18082258"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Vold og trusler mot bussjåfører",
+        "tekst": "En ny undersøkelse viser at hver tiende bussjåfør har vært utsatt for vold eller trusler på jobb det siste året.",
+        "utdypning": "Fagforeningen ber folk om hjelp i julebordsesongen ettersom situasjonen får store konsekvenser for de berørte sjåførene.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/hver-tiende-bussjafor-utsatt-for-vold-1.18080028"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      }
+    ],
+    "Skandinavia": [
+      {
+        "tittel": "Estland stenger grensen mot Russland",
+        "tekst": "Estland stenger alle grenseoverganger mot Russland den første desember som følge av et russisk sabotasjeangrep.",
+        "utdypning": "Anledningen for stengningen er et russisk sabotasjeangrep mot et estisk forsvarsföretag, melder Reuters.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/estlands-stanger-gransen-mot-ryssland-i-december"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Skarstein aktuell som ordførerkandidat",
-        "tekst": "Oslo Aps nominasjonskomité vil ha Birgit Skarstein som ordførerkandidat ved kommunevalget neste høst.",
-        "utdypning": "Den tidligere idrettsutøveren sa først nei til forespørselen, men ombestemte seg da nominasjonskomiteen ringte tilbake tre uker senere. Skarstein uttrykker at hun er klar til å bidra og kjente seg motivert etter betenkningstid. Den endelige avgjørelsen fattes på nominasjonsmøtet i Samfunnssalen over Sentrum Scene.",
+        "tittel": "Svensk tenåring siktet for overgrep knyttet til Roblox",
+        "tekst": "En svensk tonårsflicka som sitter häktet misstänkt för våldtäkt mot barn knyts til et extremistisk nätverk.",
+        "utdypning": "SVT har fulgt tonåringens digitala fotspår og kan koppla henne til det extremistiska nätverket Com. Hun misstänks ha utsatt et norskt barn for brott, ifølge SVT's oppgifter.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/stor-oslo/skarstein_-_-heldigvis-er-det-lov-a-tenke-seg-om-1.18082145"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/flicka-utreds-for-valdtakt-mot-barn-traffade-ett-misstankt-offer-pa-roblox"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Centerpartiet velger Socialdemokraterna",
+        "tekst": "Centerpartiet i Sverige velger å forhandle videre om Socialdemokraternas totalpakke.",
+        "utdypning": "Det opplyser partileder Elisabeth Thand Ringqvist i en kommentar til SVT. Etter å ha gransket Anderssons totalpaket er beskjeden at Socialdemokraternas alternativ er det foretrukne.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Skandinavia": [],
     "Norden": [],
     "Europa": [
       {
-        "tittel": "Advarer mot begrenset Ukraina-støtte",
-        "tekst": "Frankrikes president Emmanuel Macron advarer om at begrenset støtte til Ukraina baner vei for en ny krig.",
-        "utdypning": "Macron uttalte lørdag at mindre bistand vil tvinge Kyiv inn i en urettferdig fred og øke faren for nye konflikter i Europa. Uttalelsen kommer samtidig som USA intensiverer innsatsen for å få i stand forhandlinger mellom Ukraina og Russland.",
+        "tittel": "Estland stenger grensen etter sabotasje",
+        "tekst": "Estland stenger grensen mot Russland fra 1. desember etter et droneangrep og mistenkt sabotasje.",
+        "utdypning": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday. Tallinn has blamed Moscow for a suspected sabotage attack after a drone factory was set alight in Viimsi, leading Estonia to accuse Russia of conducting hybrid warfare.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261114-macron-says-limiting-ukraine-aid-would-pave-way-to-another-war"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Meta botlagt i Italia",
-        "tekst": "Italienske konkurransemyndigheter gir Meta en bot på 805 millioner euro for manglende informasjon om bildebruk.",
-        "utdypning": "Selskapet anklages for ikke å ha opplyst 20 millioner brukere om at de hadde tilgang til deres bilder og multimedieinnhold via Facebook-applikasjonen for Android. Meta har foreløpig ikke kommentert boten eller anklagene fra regulatorene i landet.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Protest mot endringer i tsjekkisk allmennkringkasting",
+        "tekst": "Hundrevis av tusen tsjekkere har samlet seg i protest mot regjeringens planer for allmennkringkasteren.",
+        "utdypning": "Demonstranter og kritikere mener grepet vil kvele mediefriheten og at den nasjonalistiske koalisjonen ønsker kontroll over media, mens regjeringen insisterer på at kringkasterne må kutte kostnader og avskaffe kringkastingsavgiften.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Ukrainske droneangrep mot russisk industri",
+        "tekst": "Ukrainske luftangrep har rammet et petrokjemisk kompleks i Nizhnekamsk og en elektrisk stasjon i Taganrog.",
+        "utdypning": "Russiske embetsfolk bekreftet søndag langvarige ukrainske luftangrep mot den sentrale industribyen Nizhnekamsk, som skadet en boligbygning og startet en brann i et kompleks samt skadet tre personer. Separat drepte angrep på Taganrog en ingeniør ved en elektrisk substasjon.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 3
       }
     ],

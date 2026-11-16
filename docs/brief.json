@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Estland stenger alle grenseoverganger mot Russland fra 1. desember etter et sabotasjeangrep mot en dronefabrikk.",
+      "tekst": "Estland stenger alle grenseoverganger mot Russland fra 1. desember etter et mistenkt sabotasjeangrep mot en estisk dronefabrikk.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Norge rammes av sitt største utbrudd av fugleinfluensa noensinne i kommersielt fjørfehold med rundt 100.000 avlivete fugler.",
+      "tekst": "USA, Kina og Russland har bekreftet at det skal holdes et toppmøte mellom de tre presidentene i Kina kommende torsdag.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377"
+          "lenke": "https://www.nrk.no/nyheter/kina-bekrefter_-trump_-xi-og-putin-motes-torsdag-1.18082462"
         }
       ]
     },
     {
-      "tekst": "En ny undersøkelse viser at hver tiende bussjåfør har vært utsatt for vold eller trusler på jobb det siste året.",
+      "tekst": "SV reagerer på at staten lar et russisk-ledet selskap kjøpe en kobbergruve i Finnmark samtidig som det advares mot russisk sabotasje.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/sorlandet/hver-tiende-bussjafor-utsatt-for-vold-1.18080028"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/sv-og-mdg-er-kritiske-til-et-salg-av-nussir-gruva-_-sp-venter-pa-ap-redegjorelse-1.18082135"
         }
       ]
     }
@@ -31,22 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Stort utbrudd av fugleinfluensa",
-        "tekst": "Sju fjørfehold i Rogaland og Agder har fått påvist fugleinfluensa, noe som fører til avlivning av 100.000 fugler.",
-        "utdypning": "Dette er Norges største utbrudd noensinne i kommersielt fjørfehold, både i antall berørte dyrehold og geografisk utbredelse, ifølge Mattilsynet. Folkehelseinstituttet (FHI) understreker at risikoen for mennesker er svært lav, og at det er trygt å spise egg og kjøtt.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/fugleinfluensa-pavist-i-rogaland-og-agder-1.18082377"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
         "tittel": "Estland stenger grensen mot Russland",
-        "tekst": "Estland vil stenge alle grenseoverganger mot Russland fra 1. desember etter et mistenkt sabotasjeangrep.",
-        "utdypning": "Russlands militæretterretning skal ha beordret et sabotasjeangrep mot et forsvarsselskap, ifølge Estlands utenriksminister. Ifølge estiske myndigheter dreier det seg om et forsøk på brannstiftelse mot en dronefabrikk. Utenriksminister Margus Tsahkna bekrefter stengningen på X.",
+        "tekst": "Estland vil stenge alle grenseoverganger mot Russland fra 1. desember etter et mistenkt sabotasjeangrep mot en dronefabrikk.",
+        "utdypning": "Russlands militæretterretning skal ha beordret et sabotasjeangrep mot et forsvarsselskap, ifølge Estlands utenriksminister Margus Tsahkna. Ifølge estiske myndigheter dreier det seg om forsøk på brannstiftelse mot en dronefabrikk i Viimsi. Utenriksministeren meldte om beslutningen om å stenge grensene på X.",
         "kilder": [
           {
             "navn": "NRK",
@@ -57,24 +44,63 @@
         "vekt": 5
       },
       {
-        "tittel": "Vold og trusler mot bussjåfører",
-        "tekst": "En ny undersøkelse viser at hver tiende bussjåfør har vært utsatt for vold eller trusler på jobb det siste året.",
-        "utdypning": "Fagforeningen ber folk om hjelp i julebordsesongen ettersom situasjonen får store konsekvenser for de berørte sjåførene.",
+        "tittel": "Trump, Xi og Putin møtes torsdag",
+        "tekst": "Kina bekrefter at USAs, Kinas og Russlands presidenter skal møtes i kystbyen Shenzhen i Kina torsdag 19. november.",
+        "utdypning": "Dermed har både USA, Russland og Kina bekreftet toppmøtet mellom de tre lederne. Nyheten ble kjent etter en uttalelse fra det kinesiske utenriksdepartementet natt til mandag, som ble videreformidlet av nyhetsbyrået AFP. Kina var det siste av de tre landene som bekreftet møtet.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/hver-tiende-bussjafor-utsatt-for-vold-1.18080028"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/kina-bekrefter_-trump_-xi-og-putin-motes-torsdag-1.18082462"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "SV advarer mot russisk-ledet gruvekjøp i Finnmark",
+        "tekst": "SV-leder Kirsti Bergstø reagerer på at staten tillater et russisk-ledet selskap å kjøpe en viktig kobbergruve i Finnmark.",
+        "utdypning": "Folk i Finnmark blir bedt av myndighetene om å se etter mistenkelig aktivitet i lys av den spente sikkerhetssituasjonen. SV-lederen mener det er et paradoks at staten samtidig lar et russisk-ledet selskap kjøpe en viktig kobbergruve i regionen, og etterlyser større årvåkenhet fra statens side.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/sv-og-mdg-er-kritiske-til-et-salg-av-nussir-gruva-_-sp-venter-pa-ap-redegjorelse-1.18082135"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Klimaavgift ga dobbel tilbakebetaling til fiskere",
+        "tekst": "Staten krevde inn 200 millioner kroner i en ny klimaavgift for å presse fram kutt, men endte med å betale det dobbelte tilbake til fiskerne.",
+        "utdypning": "Ordningen ble innført for å tvinge frem klimakutt gjennom økonomiske insentiver. Resultatet ble imidlertid at staten betalte ut 400 millioner kroner tilbake til fiskerinæringen, noe som er dobbelt så mye som det opprinnelige kravet på 200 millioner.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/norge/staten-kravde-200-millionar-i-klimaavgift-_-betalte-400-millionar-tilbake-1.18063592"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Tidligere dagmamma frikjent for drap på ettåring",
+        "tekst": "Kvinnen som har vært tiltalt for drapet på ett år gamle Martine i 2006, er frikjent av Eidsivating lagmannsrett.",
+        "utdypning": "Dommen falt i dag i Eidsivating lagmannsrett, der kvinnen som tidligere har vært tiltalt i saken ble frikjent for drapet som fant sted i 2006.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/buskerud/tidligere-dagmamma-frikjent-for-drap-pa-martine-1.18082586"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Estland stenger grensen mot Russland",
-        "tekst": "Estland stenger alle grenseoverganger mot Russland den første desember som følge av et russisk sabotasjeangrep.",
-        "utdypning": "Anledningen for stengningen er et russisk sabotasjeangrep mot et estisk forsvarsföretag, melder Reuters.",
+        "tittel": "Estland stenger grensen i desember",
+        "tekst": "SVT melder at Estland stenger alle grenseoverganger mot Russland 1. desember på grunn av russisk sabotasje.",
+        "utdypning": "Ifølge opplysninger som Reuters har delt og som svenske medier formidler, er bakgrunnen for stengningen et russisk motivert sabotasjeopplegg rettet mot et estisk forsvarsforetak.",
         "kilder": [
           {
             "navn": "SVT",
@@ -85,39 +111,29 @@
         "vekt": 4
       },
       {
-        "tittel": "Svensk tenåring siktet for overgrep knyttet til Roblox",
-        "tekst": "En svensk tonårsflicka som sitter häktet misstänkt för våldtäkt mot barn knyts til et extremistisk nätverk.",
-        "utdypning": "SVT har fulgt tonåringens digitala fotspår og kan koppla henne til det extremistiska nätverket Com. Hun misstänks ha utsatt et norskt barn for brott, ifølge SVT's oppgifter.",
+        "tittel": "Nye samtaler om den svenske regjeringsfrågan",
+        "tekst": "S-leder Magdalena Andersson og V-leder Nooshi Dadgostar har hatt et nytt møte, men låsningen rundt ministerkravet består.",
+        "utdypning": "Møtet på mandagsformtingen ble beskrevet som 'jättepositivt' av partene, og målet for Socialdemokraterna er å få Vänsterpartiet til å fire på sitt krav om ministerposter. Vänsterpartiets representant Ida Gabrielsson opplyser imidlertid etter møtet at de står fast ved sitt tidligere besked.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/flicka-utreds-for-valdtakt-mot-barn-traffade-ett-misstankt-offer-pa-roblox"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Centerpartiet velger Socialdemokraterna",
-        "tekst": "Centerpartiet i Sverige velger å forhandle videre om Socialdemokraternas totalpakke.",
-        "utdypning": "Det opplyser partileder Elisabeth Thand Ringqvist i en kommentar til SVT. Etter å ha gransket Anderssons totalpaket er beskjeden at Socialdemokraternas alternativ er det foretrukne.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna"
+            "lenke": "https://www.svt.se/nyheter/inrikes/andersson-och-dadgostar-i-nytt-mote-om-regeringsfragan-jattepositivt"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       }
     ],
-    "Norden": [],
-    "Europa": [
+    "Norden": [
       {
-        "tittel": "Estland stenger grensen etter sabotasje",
-        "tekst": "Estland stenger grensen mot Russland fra 1. desember etter et droneangrep og mistenkt sabotasje.",
-        "utdypning": "Estonia will close all its border crossing points with Russia from December 1, its foreign minister said on Sunday. Tallinn has blamed Moscow for a suspected sabotage attack after a drone factory was set alight in Viimsi, leading Estonia to accuse Russia of conducting hybrid warfare.",
+        "tittel": "Finland kommenterer estisk grenselukking",
+        "tekst": "Finske tjenestepersoner merker seg at Russland opptrer desperat og trapper opp sin sabotasjestrategi i Europa.",
+        "utdypning": "Uttalelsen kommer fra Finlands forsvarssminister Antti Häkkänen i forbindelse med at Estland har besluttet å stenge sine grenseoverganger mot Russland fra 1. desember. Bakgrunnen er et mistenkt sabotasjeangrep mot en estisk dronefabrikk i Viimsi, som Tallinn legger skylden for på Moskva.",
         "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20257202?origin=rss"
+          },
           {
             "navn": "France 24",
             "lenke": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
@@ -127,14 +143,72 @@
             "lenke": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 3,
+        "vekt": 4
+      },
+      {
+        "tittel": "Arbeidsledigheten stiger på Island",
+        "tekst": "Tall fra Hagstofa Íslands viser at arbeidsledigheten har steget til 5,9 prosent, og andelen som søker arbeid er den høyeste siden 2021.",
+        "utdypning": "En analyse fra BHM basert på ferske tall viser at ledigheten har økt med over ett prosentpoeng sammenlignet med samme tid i fjor. Andelen som lette etter arbeid eller ønsket mer arbeidstid nådde 14 prosent i september, det høyeste nivået siden koronapandemien vårhøsten 2021. Rundt 34 000 personer trengte arbeid eller mer tid, opp fra knapt 29 000 året før.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-16-warnings-from-labour-market-says-economist-492872/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Økende spenning mellom Icelandair og fagforeninger",
+        "tekst": "Det er oppstått økt temperatur i lønnsforhandlingene mellom Icelandair og fagforeningene for piloter og flyteknikere.",
+        "utdypning": "Fagforeningene stiller spørsmål ved flyselskapets vilje til å komme til en enighet, noe toppledelsen i Icelandair kategorisk avviser. Partene har utvekslet brev de siste dagene. Selskapets ledelse, representert ved blant andre Bogi Nils Bogason, opplyser at de er klare til å fortsette konstruktive forhandlinger og ønsker raske avtaler, noe fagforeningslederne betviler.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-16-tensions-rising-between-icelandair-and-trade-unions-492886/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Europa": [
+      {
+        "tittel": "Omfattende droneangrep mot Russland og Krim-broen",
+        "tekst": "Russiske luftforsvar avskar 600 ukrainske droner på vei mot Moskva-regionen, samtidig som Krim-broen ble rammet.",
+        "utdypning": "Ifølge Moskvas ordfører Sergey Sobyanin ble de mange hundre dronene stanset natt til og utover mandag morgen. Ukrainske styrker traff også broen som binder sammen Russland og Krim over Kertsj-stredet, opplyser den russiskstøttede guvernøren på halvøya.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Protest mot endringer i tsjekkisk allmennkringkasting",
-        "tekst": "Hundrevis av tusen tsjekkere har samlet seg i protest mot regjeringens planer for allmennkringkasteren.",
-        "utdypning": "Demonstranter og kritikere mener grepet vil kvele mediefriheten og at den nasjonalistiske koalisjonen ønsker kontroll over media, mens regjeringen insisterer på at kringkasterne må kutte kostnader og avskaffe kringkastingsavgiften.",
+        "tittel": "Ukrainske droner rammet russisk petrokjemisk senter",
+        "tekst": "Langvarige ukrainske luftangrep har skadet en boligblokk og startet en brann ved et petrokjemisk kompleks i Nizhnekamsk.",
+        "utdypning": "Russiske tjenestepersoner bekreftet søndag at industribyen Nizhnekamsk ble utsatt for omfattende angrep over natten, der tre personer ble skadet. I tillegg meldte den regionale guvernøren at separate angrep mot byen Taganrog kostet en ingeniør ved en elektrisk substasjon livet.",
         "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Hundretusenvis demonstrerer i Praha mot mediefinansiering",
+        "tekst": "En stor folkemengde samlet seg i Praha i Tsjekkia i protest mot regjeringens planer om å erstatte allmennkringkasteravgift med statsbudsjett.",
+        "utdypning": "Demonstrasjonene søndag var rettet mot regjeringens plan om å avskaffe kringkastingsavgiftene til fordel for direkte statlig finansiering. Kritikerne frykter at dette truer medienes uavhengighet og gir den nasjonalistiske koalisjonen kontroll over kringkasterne, mens regjeringen hevder det handler om kostnadskutt. Organisasjonene opplyser at oppmøtet overgikk marsdemonstrasjonen med over 200 000 deltakere, og kan være den største protesten siden Fløyelsrevolusjonen i 1989.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261116-czechs-protest-prague-public-media-funding-plan"
+          },
           {
             "navn": "BBC",
             "lenke": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
@@ -144,24 +218,55 @@
             "lenke": "https://www.dw.com/en/czechia-scores-protest-against-public-media-reform/a-79953057?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 3,
         "vekt": 3
-      },
+      }
+    ],
+    "Verden": [
       {
-        "tittel": "Ukrainske droneangrep mot russisk industri",
-        "tekst": "Ukrainske luftangrep har rammet et petrokjemisk kompleks i Nizhnekamsk og en elektrisk stasjon i Taganrog.",
-        "utdypning": "Russiske embetsfolk bekreftet søndag langvarige ukrainske luftangrep mot den sentrale industribyen Nizhnekamsk, som skadet en boligbygning og startet en brann i et kompleks samt skadet tre personer. Separat drepte angrep på Taganrog en ingeniør ved en elektrisk substasjon.",
+        "tittel": "Ukraina ber om oppheving av Starshield-begrensninger",
+        "tekst": "Ukrainske myndigheter melder at struping av det satellittbaserte internettsystemet hindrer landet i å avverge russiske angrep.",
+        "utdypning": "President Volodymyr Zelenskyy har oppfordret USA og Elon Musk til å fjerne restriksjonene på Starlink- og Starshield-systemene. Ifølge den ukrainske ledelsen gjør de gjenværende begrensningene det vanskeligere for Kyiv å stoppe de pågående russiske angrepene og være på 'historiens rette side'.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
+      },
+      {
+        "tittel": "Tyskland henger seg på EUs ordning for deportasjonssentre",
+        "tekst": "Tyskland vil slutte seg til andre EU-land og opprette et mottakssenter for utvisninger i Rwanda.",
+        "utdypning": "Tiltaket kommer i kjølvannet av at EU har godkjent nye regelverk som forenkler deportasjoner og tillater opprettelse av mottakssentre utenfor unionens grenser. En lignende ordning som britene forsøkte å få på plass tidligere, kollapset på grunn av juridiske problemer.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-to-join-other-eu-states-in-announcing-rwanda-deportation-hub/a-79959158?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "17 drepte i masseskytinger i Sør-Afrika",
+        "tekst": "Sørafrikansk politi etterforsker to separate masseskytinger i provinsene Gauteng og KwaZulu-Natal som krevde 17 menneskeliv.",
+        "utdypning": "Hendelsene understreker landets vedvarende og alvorlige utfordringer med å få bukt med den voldelige kriminaliteten. Masseskytinger har vist en bekymringsfull økende trend og preget overskriftene i landet de siste årene.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
       }
-    ],
-    "Verden": []
+    ]
   },
   "folg_med": [],
   "senere": [],

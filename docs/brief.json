@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Den strategisk viktige Kertjbroen mellom Russland og annekterte Krym er rammet av nye ukrainske angrep.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine"
-        }
-      ]
-    },
-    {
-      "tekst": "Senterpartiet sikrer et flertall for å halvere bompaddprisen i et prøveprosjekt.",
+      "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte av selskapets IT-systemer.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
+          "lenke": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829"
         }
       ]
     },
     {
-      "tekst": "Regjeringen foreslår å åpne nye havområder for havbruk til havs.",
+      "tekst": "Regjeringen foreslår nye havområder som skal lysast ut for oppdrett til havs.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/trondelag/regjeringa-vil-opne-nye-havomrade-for-oppdrett-1.18083212"
+        }
+      ]
+    },
+    {
+      "tekst": "Senterpartiet sikrer et prøveprosjekt med halverte bompriser i et år.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
         }
       ]
     }
@@ -31,35 +31,39 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Kertjbroen stengt etter ukrainske angrep",
-        "tekst": "Den viktige broen til okkuperte Krym er stengt for veitrafikk etter ukrainske drone- og missilangrep.",
-        "utdypning": "Det ukrainske militæret opplyser at angrepene har forårsaket at en veiseksjon har kollapset og blokkert tilgangen til den russisk-okkuperte halvøya. Den russisk-innsatte guvernøren på Krym, Sergej Aksjonov, bekrefter angrepet som skjedde natt til tirsdag. Samtidig har russiske angrep i Kyiv truffet to broer og slått ut oppvarming og vann.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Senterpartiet sikrer halverbar bompris i prøveprosjekt",
-        "tekst": "Regjeringa avviste først å gripe inn mot høye bompenger, men Senterpartiet sikrer nå flertall for å halvere prisen i et år.",
-        "utdypning": "Prisreduksjonen skal gjennomføres som eit prøveprosjekt. Det var tidlegare avvist av regjeringa å gripe inn mot dei høge prisane i bommen, men politisk enighet sikrer nå denne endringen for bilistane.",
+        "tittel": "Cyberangrep mot Equinor",
+        "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, men det er ingen indikasjoner på at data er stjålet.",
+        "utdypning": "Selskapet opplyser at relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene. Angrepet har ikke påvirket Equinors drift eller produksjon, og det er foreløpig ingen indikasjoner på at data har kommet på avveie. Ansatte kan oppleve forstyrrelser på enkelte tjenester, men det er per nå ikke behov for at ansatte foretar seg noe spesielt.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
+            "lenke": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829"
+          },
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/artikkel/equinor-pagaende-cyberangrep-mot-it-systemer-1533278"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Angrep på Krim-broen",
+        "tekst": "Den russisk-innsatte guvernøren på Krym melder at det ukrainske militæret har angrepet den viktige broen mellom Krym og Russland.",
+        "utdypning": "Trafikken over broen er stanset etter angrepet natt til tirsdag, som er det andre på to dager. Russland annekterte den ukrainske halvøya i 2014.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/russisk-leder_-bro-til-krym-angrepet-1.18083128"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Vil åpne nye havområder for havbruk til havs",
-        "tekst": "Regjeringa foreslår hvilke havområder som skal lysast ut for oppdrett til havs, og korleis selskapa skal konkurrere.",
-        "utdypning": "Dette blir omtalt som en sentral milepæl for næringen. Forslaget avklarer rammer for framtidig havbruk og hvordan tildelingen av de nye havområdene skal foregå.",
+        "tittel": "Vil åpne nye havområder for oppdrett",
+        "tekst": "Regjeringen foreslår hvilke havområde som skal lysast ut for havbruksnæringen og hvordan konkurransen skal foregå.",
+        "utdypning": "Regjeringens forslag markerer en sentral milepæl for næringen ved å avklare både lokasjoner for havbasert oppdrett og de konkrete konkurranseformene selskapene må gjennom for å sikre seg rettighetene til å ta områdene i bruk.",
         "kilder": [
           {
             "navn": "NRK",
@@ -68,13 +72,39 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Sikrer flertall for halverte bompriser",
+        "tekst": "Senterpartiet sikrer et prøveprosjekt som halverer bomprisen i et år etter at regjeringen først avviste å gripe inn.",
+        "utdypning": "Til tross for at regjeringen tidligere avviste å gjøre grep mot de høye prisene i bomringen, sørger Senterpartiet nå for flertall for en halvering av prisen som et ettårig prøveprosjekt.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Hemmelig Storting-møte om Finnmark-gruve",
+        "tekst": "Stortinget har avholdt et hemmelig møte om regjeringens sikkerhetsvurdering av et omstridt gruvesalg.",
+        "utdypning": "Saken gjelder salget av en gruve i Finnmark til et selskap som har en russisk toppsjef. Det ble avholdt et orienteringsmøte bak lukkede dører på Stortinget, der regjeringens sikkerhetsvurdering ble holdt hemmelig.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/naeringsministeren-orienterte-om-nussir-gruva-i-hemmelig-mote-pa-stortinget-1.18083481"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Krimbroen delvis kollapset etter ukrainsk angrep",
-        "tekst": "Svenske eksperter peker på at ødeleggelsene av Kertjbroen er et alvorlig slag mot Rysslands ockupation.",
-        "utdypning": "Johan Huovinen ved Försvarshögskolan sier angrepet er et tydelig virkemiddel for å øke presset på Moskva i forkant av kommende forhandlinger. Delar av den viktiga bron har kollapsat etter de ukrainska angrepen.",
+        "tittel": "Krim-broen delvis kollapset etter ukrainsk angrep",
+        "tekst": "En del av Kertjbron har kollapset etter ukrainske angrep, noe som betegnes som et alvorlig slag mot den russiske okkupasjonen.",
+        "utdypning": "Johan Huovinen ved Försvarshögskolan peker på at dette er en måte å øke presset på Moskva i forkant av de kommende forhandlingene.",
         "kilder": [
           {
             "navn": "SVT",
@@ -85,13 +115,13 @@
         "vekt": 4
       },
       {
-        "tittel": "Danmark vil trene kunstig intelligens på ukrainske data",
-        "tekst": "Det danske forsvar skal trene AI på ukrainsk data.",
-        "utdypning": "Initiativet er en del av et utvidet forsvarssamarbeid knyttet til erfaringer fra krigen i Ukraina.",
+        "tittel": "Svensk regjeringskrise uten flertall",
+        "tekst": "Sverige har nå vært uten ny regering i 65 dager, med Centerpartiet i brennpunktet for det politiske spillet.",
+        "utdypning": "Centerpartiet ønsker Magdalena Andersson som statsminister, men motsetter seg at Vänsterpartiet skal få ministerposter. Samtidig vurderer partiet om en borgerlig minoritetsregering med aktivt støtte fra SD kan være en utvei for å unngå nyvalg.",
         "kilder": [
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/det-danske-forsvar-skal-traene-ai-paa-ukrainsk-data"
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund"
           }
         ],
         "antall_kilder": 1,
@@ -100,24 +130,67 @@
     ],
     "Norden": [
       {
-        "tittel": "Finland tester ut nødvarslingssystem",
-        "tekst": "Finland gjennomfører en test av beredskapssystemet FI-Alert tirsdag formiddag.",
-        "utdypning": "Testen er en del av forberedelsene før en bredere utrulling og uttesting av nasjonale varsler via mobiltelefoner, apper, radio og fjernsyn som skjer senere i november.",
+        "tittel": "Stubb: Europa bør snakke direkte med Putin",
+        "tekst": "Den finske presidenten Alexander Stubb kaller det uansvarlig å overlate forhandlingene mellom Russland og Ukraina til USA.",
+        "utdypning": "Stubb mener at europeiske ledere selv må føre direkte samtaler med Vladimir Putin i stedet for å outsource denne dialogen til amerikanske myndigheter.",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20257359?origin=rss"
+            "lenke": "https://yle.fi/a/74-20257532?origin=rss"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Kraftsfall for islandske hytte- og sommarhus",
+        "tekst": "Salget av ferieboliger på Island faller med 26,5 prosent og styrer mot sitt laveste nivå på seks år.",
+        "utdypning": "Ifølge eiendomsmegler Páll Pálsson er det registrert 253 kjøpekontrakter så langt i år, mot 344 i samme periode i fjor. Nedgangen tilskrives høye renter, vedvarende inflasjon samt usikkerhet i den internasjonale økonomien.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-17-holiday-home-sales-fall-by-265-492988/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Advarer mot uunngåelige kutt i islandsk helsevesen",
+        "tekst": "Sex helseinstitusjoner utenfor hovedstadsområdet på Island varsler et samlet underskudd på rundt fem milliarder kroner.",
+        "utdypning": "Lederne har overlevert et notat til Alltingets budsjettkomité der de slår fast at kutt er uunngåelige uten friske midler. Underskuddene skyldes en flere år lang trend med høye lønnsøkninger og økte driftskostnader.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-17-cuts-at-healthcare-institutions-unavoidable-without-more-funding-says-director-492986/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Diskusjoner om mulig landbytte mot Nato-medlemskap for Ukraina",
-        "tekst": "President Volodymyr Zelenskyy opplyser at USA har spurt om et mulig scenario der Russland får Donbas mot at resten av Ukraina får Nato-medlemskap.",
-        "utdypning": "Det er uklart om tilbudet er reelt eller om noen av partidene vil akseptere det. Diskusjonen om en deling markerer et mulig vendepunkt i en nesten fem år lang krig som har preget sikkerhetssituasjonen i Europa.",
+        "tittel": "Ukraina rammer Krim-forbindelsen",
+        "tekst": "Ukrainske styrker har påført en livlinen mellom Russland og den okkuperte Krim-halvøya alvorlig skade med droner og missiler.",
+        "utdypning": "President Volodymyr Zelenskyy omtaler aksjonen som en enestående operasjon utført som svar på vedvarende russiske angrep på ukrainsk infrastruktur. Samtidig melder Russland om nedskyting av rekordmange ukrainske droner for andre dag på rad, og det ble også meldt om broangrep i Kyiv.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261117-ukraine-critically-damages-bridge-linking-occupied-crimea-with-russia"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Diskusjoner om landbytte mot Nato-medlemskap",
+        "tekst": "Volodymyr Zelenskyy hevder USA har foreslått en avtale der Russland beholder Donbas mot at resten av Ukraina får Nato-medlemskap.",
+        "utdypning": "Det er uklart om tilbudet er reelt, om noen av partiene vil akseptere det, eller om samtalene om en oppdeling markerer et faktisk vendepunkt i den nesten fem år lange krigen.",
         "kilder": [
           {
             "navn": "France 24",
@@ -125,38 +198,76 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Japan sender opp jagerfly etter påstått russisk luftromskrenkelse",
-        "tekst": "Japan har levert en svært streng protest til Moskva etter at to mistenkte russiske fly krenket landets luftrom.",
-        "utdypning": "Også Taiwan og Sør-Korea responderte på russiske militærfly som ble oppdaget nær deres luftrom. Japanske myndigheter reagerte raskt og sendte opp jagerfly for å avskjære flygningene.",
+        "tittel": "Tyrkiske myndigheter overtar opposisjonskanal",
+        "tekst": "Politiet raidet Istanbul-hovedkvarteret til opposisjonskanalen Sozcu TV og utpekte ny administrasjon.",
+        "utdypning": "Aksjonen, som stanset kanalens sendinger og innledet etterforskning, er den tredje beslagleggelsen av pro-opposisjonell media i Tyrkia på litt over ett år. Hendelsen skjer i en spent politisk periode preget av et milliardstor investeringsfondskanal-skandalen som rammer halv million menneskers sparing og legger press på president Recep Tayyip Erdogans parti foran valget i 2028.",
         "kilder": [
           {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/authorities-take-over-turkey-s-last-pro-opposition-broadcaster-sozcu-tv"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Canada og Kina enig om å lette på tollsatser",
-        "tekst": "De to landene inngår tettere samarbeid for å redusere sin avhengighet av USA i lys av pågående handelsstrider.",
-        "utdypning": "Canadas regjering opplyser at de er blitt enige med Kina om å redusere tollen på en rekke produkter ytterligere.",
+        "tittel": "Stormaktsmøte i Asia",
+        "tekst": "USAs president Donald Trump har ankommet Asia for samtale med sine russiske og kinesiske motparter.",
+        "utdypning": "Besøket inkluderer et møte med Quad i Manila og en etterlengtet reise til Kina for samtale med Xi Jinping. Trump har i forkant opplyst at han er åpen for et en-til-en-møte med Vladimir Putin dersom det lar seg gjøre, mens det internasjonale teknologimarkedet følger spent med på bakteppet av skiftende maktstrukturer i KI-kappløpet.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/urix/trippelmote-i-kina_-xi_-trump_-putin-og-mannen-som-ikke-er-der-1.18082205"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 3,
+        "vekt": 3
+      },
+      {
+        "tittel": "EU sanksjonerer toppsjef i Wildberries",
+        "tekst": "EU har innført reiseforbud og frosset eiendommene til Tatyana Kim, sjef for Russlands største nettbutikk.",
+        "utdypning": "Wildberries, som er Russlands største nettforhandler, har tidligere vært mål for ukrainske angrep på grunn av sin rolle med å forsyne den russiske militærmakten.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "USA og Mexico mister status som meslingfrie",
+        "tekst": "USA har mistet sin offisielle status som meslingfri etter 26 år som følge av et høyt antall smittetilfeller.",
+        "utdypning": "Pan American Health Organization opplyser at også Bolivia og Mexico har mistet sin status. USA har registrert over 5 400 tilfeller og 10 meslingrelaterte dødsfall, noe som er det høyeste nivået siden tidlig på 1990-tallet.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]

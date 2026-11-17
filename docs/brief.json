@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USA har spurt Ukraina om de vil bytte Donbas mot Nato-medlemskap, ifølge president Volodymyr Zelenskyj.",
+      "tekst": "Den strategisk viktige Kertjbroen mellom Russland og annekterte Krym er rammet av nye ukrainske angrep.",
       "kilder": [
         {
           "navn": "France 24",
-          "lenke": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership"
+          "lenke": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine"
         }
       ]
     },
     {
-      "tekst": "Kina bekrefter at det blir et toppmøte mellom USAs, Kinas og Russlands presidenter torsdag.",
+      "tekst": "Senterpartiet sikrer et flertall for å halvere bompaddprisen i et prøveprosjekt.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/kina-bekrefter_-trump_-xi-og-putin-motes-torsdag-1.18082462"
+          "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
         }
       ]
     },
     {
-      "tekst": "Fem EU-land vil opprette et felles mottakssenter for asylsøkere i Rwanda etter nye innvandringsregler.",
+      "tekst": "Regjeringen foreslår å åpne nye havområder for havbruk til havs.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/eu-nations-unveil-rwanda-deal-for-migrant-return-hub"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/trondelag/regjeringa-vil-opne-nye-havomrade-for-oppdrett-1.18083212"
         }
       ]
     }
@@ -31,26 +31,93 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Bekrefter toppmøte mellom USA, Kina og Russland",
-        "tekst": "USAs, Kinas og Russlands presidenter møtes i kystbyen Shenzhen i Kina torsdag 19. november.",
-        "utdypning": "Det er klart etter en uttalelse fra det kinesiske utenriksdepartementet natt til mandag, melder nyhetsbyrået AFP. Dermed har alle de tre stormaktene bekreftet toppmøtet mellom Donald Trump, Xi Jinping og Vladimir Putin.",
+        "tittel": "Kertjbroen stengt etter ukrainske angrep",
+        "tekst": "Den viktige broen til okkuperte Krym er stengt for veitrafikk etter ukrainske drone- og missilangrep.",
+        "utdypning": "Det ukrainske militæret opplyser at angrepene har forårsaket at en veiseksjon har kollapset og blokkert tilgangen til den russisk-okkuperte halvøya. Den russisk-innsatte guvernøren på Krym, Sergej Aksjonov, bekrefter angrepet som skjedde natt til tirsdag. Samtidig har russiske angrep i Kyiv truffet to broer og slått ut oppvarming og vann.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/kina-bekrefter_-trump_-xi-og-putin-motes-torsdag-1.18082462"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261117-live-russian-attacks-target-bridges-in-kyiv-knocking-out-heating-and-water-ukraine"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
+      },
+      {
+        "tittel": "Senterpartiet sikrer halverbar bompris i prøveprosjekt",
+        "tekst": "Regjeringa avviste først å gripe inn mot høye bompenger, men Senterpartiet sikrer nå flertall for å halvere prisen i et år.",
+        "utdypning": "Prisreduksjonen skal gjennomføres som eit prøveprosjekt. Det var tidlegare avvist av regjeringa å gripe inn mot dei høge prisane i bommen, men politisk enighet sikrer nå denne endringen for bilistane.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Vil åpne nye havområder for havbruk til havs",
+        "tekst": "Regjeringa foreslår hvilke havområder som skal lysast ut for oppdrett til havs, og korleis selskapa skal konkurrere.",
+        "utdypning": "Dette blir omtalt som en sentral milepæl for næringen. Forslaget avklarer rammer for framtidig havbruk og hvordan tildelingen av de nye havområdene skal foregå.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/trondelag/regjeringa-vil-opne-nye-havomrade-for-oppdrett-1.18083212"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
-    "Skandinavia": [],
-    "Norden": [],
+    "Skandinavia": [
+      {
+        "tittel": "Krimbroen delvis kollapset etter ukrainsk angrep",
+        "tekst": "Svenske eksperter peker på at ødeleggelsene av Kertjbroen er et alvorlig slag mot Rysslands ockupation.",
+        "utdypning": "Johan Huovinen ved Försvarshögskolan sier angrepet er et tydelig virkemiddel for å øke presset på Moskva i forkant av kommende forhandlinger. Delar av den viktiga bron har kollapsat etter de ukrainska angrepen.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Danmark vil trene kunstig intelligens på ukrainske data",
+        "tekst": "Det danske forsvar skal trene AI på ukrainsk data.",
+        "utdypning": "Initiativet er en del av et utvidet forsvarssamarbeid knyttet til erfaringer fra krigen i Ukraina.",
+        "kilder": [
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/det-danske-forsvar-skal-traene-ai-paa-ukrainsk-data"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Norden": [
+      {
+        "tittel": "Finland tester ut nødvarslingssystem",
+        "tekst": "Finland gjennomfører en test av beredskapssystemet FI-Alert tirsdag formiddag.",
+        "utdypning": "Testen er en del av forberedelsene før en bredere utrulling og uttesting av nasjonale varsler via mobiltelefoner, apper, radio og fjernsyn som skjer senere i november.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20257359?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      }
+    ],
     "Europa": [
       {
-        "tittel": "Zelenskyj: USA har spurt om Donbas-bytte mot Nato",
-        "tekst": "President Volodymyr Zelenskyj hevder USA har spurt om Ukraina kan bytte Donbas mot Nato-medlemskap.",
-        "utdypning": "Forslaget innebærer at Russland får Donbas, mens resten av Ukraina får Nato-medlemskap som en garanti mot at Moskva annekterer hele landet på et senere tidspunkt. Det er uklart om tilbudet er reelt eller om noen av sidene vil akseptere det. Spørsmålet reiser debatt om hvorvidt snakket om oppdeling signaliserer et vendepunkt i en nesten fem år lang krig som har endt i en brutal fastlåst situasjon.",
+        "tittel": "Diskusjoner om mulig landbytte mot Nato-medlemskap for Ukraina",
+        "tekst": "President Volodymyr Zelenskyy opplyser at USA har spurt om et mulig scenario der Russland får Donbas mot at resten av Ukraina får Nato-medlemskap.",
+        "utdypning": "Det er uklart om tilbudet er reelt eller om noen av partidene vil akseptere det. Diskusjonen om en deling markerer et mulig vendepunkt i en nesten fem år lang krig som har preget sikkerhetssituasjonen i Europa.",
         "kilder": [
           {
             "navn": "France 24",
@@ -61,20 +128,38 @@
         "vekt": 5
       },
       {
-        "tittel": "EU-land enige om avtale for retursenter i Rwanda",
-        "tekst": "Fem EU-land vil opprette et felles mottakssenter for avviste asylsøkere i Rwanda.",
-        "utdypning": "Tyskland, Danmark, Austria, Hellas og Nederland avduket mandag avtalen om å etablere et deportasjonssenter utenfor EU. Landene har presset på for å få åpnet et slikt retursenter til tross for bekymringer fra menneskerettighetsgrupper. Dette skjer etter at EU nylig har strammet inn regelverket for migrasjon.",
+        "tittel": "Japan sender opp jagerfly etter påstått russisk luftromskrenkelse",
+        "tekst": "Japan har levert en svært streng protest til Moskva etter at to mistenkte russiske fly krenket landets luftrom.",
+        "utdypning": "Også Taiwan og Sør-Korea responderte på russiske militærfly som ble oppdaget nær deres luftrom. Japanske myndigheter reagerte raskt og sendte opp jagerfly for å avskjære flygningene.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/eu-nations-unveil-rwanda-deal-for-migrant-return-hub"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 4
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Canada og Kina enig om å lette på tollsatser",
+        "tekst": "De to landene inngår tettere samarbeid for å redusere sin avhengighet av USA i lys av pågående handelsstrider.",
+        "utdypning": "Canadas regjering opplyser at de er blitt enige med Kina om å redusere tollen på en rekke produkter ytterligere.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ]
   },
   "folg_med": [],
   "senere": [],

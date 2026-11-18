@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, men det er ingen indikasjoner på stjålne data.",
+      "tekst": "Equinor melder om et pågående cyberangrep mot enkelte IT-systemer, men driften er ikke påvirket.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "tekst": "Statsminister Jonas Gahr Støre ga onsdag ingen avklaring på om salget av Nussir-gruva er innenfor sikkerhetsloven.",
+      "tekst": "Statsminister Jonas Gahr Støre fulgte nøye med da Stortinget debatterte det omstridte salget av Nussir-gruva i Finnmark.",
       "kilder": [
         {
           "navn": "NRK Norge",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "Sør-Varanger har opphevet kokepåbodet på drikkevannet etter flere uker med restriksjoner for flere tusen innbyggere.",
+      "tekst": "Danmarks etterretningstjeneste oppgraderer trusselnivået for terror i Norge.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/kokevarselet-er-oppheva-i-sor-varanger-kommune-1.18084136"
+          "navn": "DR",
+          "lenke": "https://www.dr.dk/nyheder/seneste/efterretningstjeneste-opgraderer-risikoen-terror-i-norge"
         }
       ]
     }
@@ -32,8 +32,8 @@
     "Norge": [
       {
         "tittel": "Cyberangrep mot Equinor",
-        "tekst": "Equinor utsettes for et pågående dataangrep som rammer enkelte IT-systemer, men driften påvirkes ikke.",
-        "utdypning": "Selskapet opplyser i en pressemelding at relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene. Det er per nå ingen indikasjoner på at data er blitt stjålet, og hendelsen har ikke påvirket Equinors drift eller produksjon. Ansatte kan imidlertid oppleve forstyrrelser på enkelte tjenester.",
+        "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, men understreker at driften ikke er påvirket.",
+        "utdypning": "Selskapet opplyser i en pressemelding at relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene. Det er per nå ingen indikasjoner på at data er blitt stjålet, og produksjonen går som normalt. Enkelte ansatte kan imidlertid oppleve forstyrrelser på noen tjenester.",
         "kilder": [
           {
             "navn": "NRK",
@@ -48,9 +48,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Usikkerhet rundt Nussir-gruva",
-        "tekst": "Statsministeren avklarte ikke hvorvidt salget av Finnmark-gruva er i tråd med sikkerhetsloven da han møtte Stortinget.",
-        "utdypning": "Statsminister Jonas Gahr Støre (Ap) møtte Stortinget onsdag for å diskutere saken. Samtidig kom det fram gjennom en annen rapport at regjeringens sikkerhetsvurdering av gruvesalget til et selskap med en russisk toppsjef holdes hemmelig.",
+        "tittel": "Støre om Nussir-gruva",
+        "tekst": "Statsminister Jonas Gahr Støre ga ingen klar avklaring på om salget av finnmarksgruva er innenfor sikkerhetsloven.",
+        "utdypning": "Statsminister Jonas Gahr Støre møtte Stortinget onsdag for å diskutere kjøpet av finnmarksgruva nær grensen til Russland. Flere partier legger press på regjeringen for å gå inn med penger i gruveprosjektet. Regjeringens sikkerhetsvurdering av salget til et selskap med en russisk toppsjef holdes hemmelig.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -61,22 +61,22 @@
         "vekt": 5
       },
       {
-        "tittel": "Vil halvere bompenger i prøveprosjekt",
-        "tekst": "Senterpartiet sikrer flertallet for å halvere bomprisen i et ettårig prøveprosjekt til tross for tidligere avvisning.",
-        "utdypning": "Regjeringa avviste først å gripe inn mot høge prisar i bommen. No sikrar likevel Senterpartiet at prisen kan halverast som eit prøveprosjekt i eit år.",
+        "tittel": "Russisk gigant tapte søksmål mot staten",
+        "tekst": "Det russiske fiskerikonsernet Norebo tapte saksanlegget mot den norske stat.",
+        "utdypning": "Norebo hadde saksøkt den norske stat i et forsøk på å utfordre reguleringer, men nådde ikke frem med sitt søksmål i det norske rettssystemet.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/russiske-norebo-tapte-soksmalet-mot-den-norske-stat-1.18084597"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Kokepåbud opphevet i Sør-Varanger",
-        "tekst": "Innbyggerne i grensekommunen kan igjen drikke vannet rett fra springen etter nesten en måneds restriksjon.",
-        "utdypning": "Sidan 22. oktober har fleire tusen innbyggarar i den norske grensekommunen mot Russland kokt drikkevatnet. Tirsdag 18. november blei kokepåbodet endeleg oppheva.",
+        "tittel": "Opphever kokepåbud i Sør-Varanger",
+        "tekst": "Innbyggerne i Sør-Varanger kan igjen drikke vannet fra springen uten å koke det.",
+        "utdypning": "Siden 22. oktober har flere tusen innbyggarar i den norske grensekommunen mot Russland vært nødt til å koke drikkevannet. Den 18. november ble kokepåbudet omsider opphevet.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -84,14 +84,14 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Etterretningstjeneste oppgraderer trusselbilde",
-        "tekst": "Den danske etterretningstjenesten har oppgradert risikovurderingen for terror i Norge.",
-        "utdypning": "DR melder at etterretningstjenesten har oppgradert risikoen for terror i Norge, uten at det er gitt ytterligere detaljer i meldingen.",
+        "tittel": "Oppgraderer terrortrussel mot Norge",
+        "tekst": "En ikke spesifisert etterretningstjeneste oppgraderer risikoen for terror i Norge.",
+        "utdypning": "Ifølge danske opplysninger har en etterretningstjeneste valgt å oppgradere risikovurderingen for terrorrelaterte hendelser i nabolandet Norge.",
         "kilder": [
           {
             "navn": "DR",
@@ -102,9 +102,9 @@
         "vekt": 4
       },
       {
-        "tittel": "Sverige vil nekte russiske utøvere VM-deltakelse",
-        "tekst": "Den svenske regjeringen vil ikke tillate russiske idrettstiftere å delta i ski-VM i Falun i februar.",
-        "utdypning": "Idrettsminister Jakob Forssmed (KD) uttalte på en pressträff at så lenge Rysslands aggressionskrig mot Ukraina pågår, kan de ikke acceptera en normalisering av Ryssland genom internationell idrott.",
+        "tittel": "Vil stoppe russiske utøvere i Falun",
+        "tekst": "Den svenske regjeringen vil nekte russiske idrottarar å delta under det kommende skid-VM i Falun.",
+        "utdypning": "På en pressemelding uttalte idrettsminister Jakob Forssmed at så lenge Russlands krig mot Ukraina pågår, kan Sverige ikke akseptere en normalisering av Russland gjennom internasjonal idrett. Ski-VM i Falun innledes i slutten av februar.",
         "kilder": [
           {
             "navn": "SVT",
@@ -112,16 +112,16 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       },
       {
-        "tittel": "Svensk regjeringskrise i dødvannet",
-        "tekst": "Sverige har vært uten ny regjering i 65 dager, og Centerpartiet er i sentrum for regjeringsbildningen.",
-        "utdypning": "Sverige har nå vært uten ny regjering i 65 dager. Centerpartiet ønsker Magdalena Andersson som statsminister, men setter foten ned for at Vänsterpartiet skal få noen ministerposter.",
+        "tittel": "Kustbevakningen vil avvikle fartøy",
+        "tekst": "Til tross for et skjerpet sikkerhetsläge i Østersjøen planlegger Kustbevakningen å kvitte seg med flere fartøy grunnet kutt.",
+        "utdypning": "Regjeringen ønsker å øke den svenske nærværen til sjøs i lys av den spente situasjonen i Østersjøen. Samtidig tvinges Kustbevakningen til besparingar, noe interne kilder omtaler som et helt obegripligt beslut.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/jamtland/centern-i-fokus-i-regeringsbildningen-sa-reagerar-c-i-ostersund"
+            "lenke": "https://www.svt.se/nyheter/inrikes/kustbevakningen-vill-avveckla-sju-fartyg-obegripligt"
           }
         ],
         "antall_kilder": 1,
@@ -130,39 +130,26 @@
     ],
     "Norden": [
       {
-        "tittel": "Island beholder styringsrenten på åtte prosent",
-        "tekst": "Den islandske sentralbankens pengepolitiske komité vedtok å holde styringsrenten uendret på 8,00 prosent.",
-        "utdypning": "Beslutningen var enstemmig og ble støttet av alle medlemmer i komiteen. Renten har stått uendret siden august. Inflasjonen ble målt til 5,9 prosent i oktober og har steget siden sommeren.",
+        "tittel": "Stubb: Ansvarløst å overlate Ukraina til USA",
+        "tekst": "Den finske presidenten Alexander Stubb mener Europa bør snakke direkte med Vladimir Putin.",
+        "utdypning": "Stubb kritiserer den nåværende europeiske linjen og omtaler det som uansvarlig å outsource forhandlingene om Russland og Ukraina fullstendig til USA.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-18-central-bank-holds-interest-rates-at-800-unchanged-since-august-493141/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20257532?origin=rss"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Bekymring for fiskeeksport på Island",
-        "tekst": "Fiskarlag og bedrifter i Vestmannaeyjar advarer mot å begrense eksporten av ubehandlet fisk.",
-        "utdypning": "En arbeidsgruppe ble oppnevnt i sommer for å se på eksporten av ubehandlet, sløyd torsk etter økt volum fra 2019 til 2025. Fiskeriorganisasjonene advarer nå mot reguleringer som er foreslått for å beskytte innenlandsk foredling.",
+        "tittel": "Island holder renten uendret",
+        "tekst": "Seðlabanki Íslands holder styringsrenten uendret på 8,00 prosent.",
+        "utdypning": "Den monetære politiske komiteen på Island besluttet enstemmig å beholde renten på samme nivå som siden august. Inflasjonen ble målt til 5,9 prosent i oktober og har steget siden i sommer, men underliggende inflasjon har holdt seg.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-17-fish-export-concerns-in-vestmannaeyjar-492992/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Foreslår kraftig økning i resirkuleringsavgift på Island",
-        "tekst": "Regjeringens statsbudsjett legger opp til at miljøavgiften på rundballeplast kan nesten doble seg.",
-        "utdypning": "Resirkuleringsavgiften på rundballeplast kan øke med 92,3 prosent fra dagens 65 ISK til 125 ISK per kilo. Bønder uttrykker skepsis og krever dokumentasjon på at pengene faktisk går til innsamling og resirkulering.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-18-hay-bale-plastic-recycling-levy-could-nearly-double-493124/"
+            "lenke": "https://www.ruv.is/english/2026-11-18-central-bank-holds-interest-rates-at-800-unchanged-since-august-493141/"
           }
         ],
         "antall_kilder": 1,
@@ -171,9 +158,9 @@
     ],
     "Europa": [
       {
-        "tittel": "EU foreslår lån til Ukraina finansiert av russiske midler",
-        "tekst": "EU-kommisjonen foreslår et lån på 45 milliarder euro til Ukraina for 2027, som skal nedbetales med fremtidige russiske krigserstatninger.",
-        "utdypning": "Kommisjonspresident Ursula von der Leyen kunngjorde onsdag forslaget, som skal dekke rundt to tredjedeler av Kyjivs finansieringsbehov for 2027. Lånets tilbakebetaling er knyttet til framtidige krigserstatninger fra Russland.",
+        "tittel": "EU foreslår kjempelån til Ukraina",
+        "tekst": "EU-kommisjonen foreslår et nytt lån på 45 milliarder euro til Ukraina for 2027, som skal nedbetales med fremtidige krigsskadeerstatninger fra Russland.",
+        "utdypning": "EU-kommisjonens president Ursula von der Leyen bekjentgjorde onsdag låneforslaget som skal dekke rundt to tredjedeler av Kyifs finansieringsbehov. Midlene skal tilbakebetales gjennom fremtidige russiske reparasjoner.",
         "kilder": [
           {
             "navn": "France 24",
@@ -184,86 +171,86 @@
         "vekt": 5
       },
       {
-        "tittel": "Krimbrua delvis ødelagt etter ukrainsk angrep",
-        "tekst": "Ukrainske styrker har utført et omfattende drone- og missilangrep som har skadet den strategiske forbindelsen til Krim.",
-        "utdypning": "Ukrainas president Volodymyr Zelenskyy betegner operasjonen mot Kerch-brua som en enestående aksjon utført som svar på russiske angrep på infrastruktur. Angrepet har gitt alvorlige logistiske tilbakeslag for Russlands ockupasjon, samtidig som Russland melder om nedskyting av rekordmange droner.",
+        "tittel": "Undergrunnskrig og hemmelige oppdrag",
+        "tekst": "Ukrainske styrker kjemper en underjordisk krig mot Russland i gamle gassrørledninger, mens en avsløring kaster lys over fransk militært personell.",
+        "utdypning": "En undersøkelse publisert av franske RFI viser at en konfidensiell fransk militærmisjon kalt 'Volia' har skjult tilstedeværelsen av fransk personell i Ukraina i måneder, noe Russland har brukt til å anklage Frankrike for direkte involvering. Samtidig følger britiske medier ukrainske soldater som tar kampen under bakken for å unngå russiske droner.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261117-ukraine-critically-damages-bridge-linking-occupied-crimea-with-russia"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-updates-russia-crimea-bridge-appears-destroyed-after-strike/live-79964446?maca=en-rss-en-all-1573-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia"
           }
         ],
         "antall_kilder": 2,
         "vekt": 5
       },
       {
-        "tittel": "Tyrkiske myndigheter razzia mot opposisjonskanal",
-        "tekst": "Politiet stormet hovedkontor og stanset sendingene til opposisjonskanalen Sozcu TV i Istanbul.",
-        "utdypning": "Dette er den tredje beslagleggelsen av pro-opposisjonell media i Tyrkia på litt over et år. Aksjonen skjer i kjølvannet av et massivt investeringsskandale som rammer en halv million menneskers sparing, og setter press på president Recep Tayyip Erdogans parti frem mot valget i 2028.",
+        "tittel": "Omfattende skader på Krim-broen",
+        "tekst": "Et sju trinn lang ukrainsk angrep har påført den strategisk viktige Krim-broen store skader.",
+        "utdypning": "Angrepet på det sentrale symbolet på den russiske okkupasjonen har rammet en nøkkelkorridor for transport. Hendelsen skaper store utfordringer for russisk militær logistikk og Vladimir Putins prestisje. I etterkant har også falske, KI-genererte videoer som viser broen fullstendig kollapset spredd seg på nett.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/authorities-take-over-turkey-s-last-pro-opposition-broadcaster-sozcu-tv"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/turkish-authorities-raid-opposition-sozcu-news-channel-appoint-new-management/a-79966297?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "Toppmøte mellom Xi, Trump og Putin i Kina",
-        "tekst": "USAs, Kinas og Russlands ledere samles til diplomatiske samtaler i Shenzhen, med krigen i Ukraina og teknologikappløp på dagsordenen.",
-        "utdypning": "Torsdagens møte mellom Donald Trump, Xi Jinping og Vladimir Putin gir sistnevnte en stor internasjonal scene, selv om møtet ikke bringer ham nærmere seier i Ukraina. Samtidig markerer det et historisk toppmøte i APEC-regi der også globale forsyningskjeder og KI-konkurranse diskuteres.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/urix/trippelmote-i-kina_-xi_-trump_-putin-og-mannen-som-ikke-er-der-1.18082205"
-          },
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Demokratene vant senatsvalget i Alaska",
-        "tekst": "Mary Peltola sikret Demokratene den siste gjenværende plassen i senatsvalget etter et knapt flertall.",
-        "utdypning": "Peltola slo ut Republikanernes Dan Sullivan med 50,1 prosent av stemmene. Seieren bekrefter Demokratenes sterke sluttspurt i midtveisvalgets senatskamper to uker etter at stemmetellingen startet.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Voldsbølge preger valgkampen i Nigeria",
-        "tekst": "Politisk vold og uro under folkemøter skaper økende frykt for sikkerheten foran landets valg i januar 2027.",
-        "utdypning": "Bruken av økser, sabel og slagvåpen under tilstelninger har ført til bekymring for deltakernes sikkerhet fram mot valgdagen, og situasjonen følges tett av internasjonale observatører.",
+        "tittel": "USA vurderer landbytte for Nato",
+        "tekst": "USA utforsker om Ukraina vil avgi territorium i Donetsk i bytte mot Nato-medlemskap eller sikkerhetsgarantier.",
+        "utdypning": "Idéen om at Ukraina skal oppgi deler av provinsen som fremdeles er under ukrainsk kontroll, har blitt møtt med sterke advarsler fra eksperter som anser grepet for å være risikabelt.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/axes-cutlass-and-blunt-objects-nigeria-s-campaign-trail-of-violence/a-79978467?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/would-ukraine-trade-land-for-nato-membership-or-protection/a-79984492?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Israelsk bakkeoperasjon i Gaza",
+        "tekst": "Det israelske militæret har startet en sjelden bakkegående operasjon bortenfor den såkalte Gule Linjen.",
+        "utdypning": "Operasjonen i det sentrale Gaza retter seg mot Hamas-infrastruktur og det militæret beskriver som en 'terrortunnel'. Hamas fordømmer inntrengningen som et flagrant brudd på en våpenhvile, mens situasjonen for sivile palestinere er svært presset.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Lang fengselsstraff for attentatplan",
+        "tekst": "En pakistansk mann med bånd til Iran er dømt til over 27 års fengsel for å ha planlagt drap på amerikanske ledere.",
+        "utdypning": "Asif Merchant ble funnet skyldig i å ha forsøkt å leie inn undercover-agenter fra FBI som leiemordere for å ramme amerikanske toppolitikere, inkludert president Donald Trump.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/pakistani-man-gets-27-years-for-foiled-plot-to-kill-trump-biden/a-79976086?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]

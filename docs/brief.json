@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte av selskapets IT-systemer.",
+      "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, men det er ingen indikasjoner på stjålne data.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Regjeringen foreslår nye havområder som skal lysast ut for oppdrett til havs.",
+      "tekst": "Statsminister Jonas Gahr Støre ga onsdag ingen avklaring på om salget av Nussir-gruva er innenfor sikkerhetsloven.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/trondelag/regjeringa-vil-opne-nye-havomrade-for-oppdrett-1.18083212"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/statsminister-jonas-gahr-store-svarte-pa-sporsmal-om-nussir-gruva-1.18084274"
         }
       ]
     },
     {
-      "tekst": "Senterpartiet sikrer et prøveprosjekt med halverte bompriser i et år.",
+      "tekst": "Sør-Varanger har opphevet kokepåbodet på drikkevannet etter flere uker med restriksjoner for flere tusen innbyggere.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/kokevarselet-er-oppheva-i-sor-varanger-kommune-1.18084136"
         }
       ]
     }
@@ -32,8 +32,8 @@
     "Norge": [
       {
         "tittel": "Cyberangrep mot Equinor",
-        "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, men det er ingen indikasjoner på at data er stjålet.",
-        "utdypning": "Selskapet opplyser at relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene. Angrepet har ikke påvirket Equinors drift eller produksjon, og det er foreløpig ingen indikasjoner på at data har kommet på avveie. Ansatte kan oppleve forstyrrelser på enkelte tjenester, men det er per nå ikke behov for at ansatte foretar seg noe spesielt.",
+        "tekst": "Equinor utsettes for et pågående dataangrep som rammer enkelte IT-systemer, men driften påvirkes ikke.",
+        "utdypning": "Selskapet opplyser i en pressemelding at relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene. Det er per nå ingen indikasjoner på at data er blitt stjålet, og hendelsen har ikke påvirket Equinors drift eller produksjon. Ansatte kan imidlertid oppleve forstyrrelser på enkelte tjenester.",
         "kilder": [
           {
             "navn": "NRK",
@@ -48,35 +48,22 @@
         "vekt": 5
       },
       {
-        "tittel": "Angrep på Krim-broen",
-        "tekst": "Den russisk-innsatte guvernøren på Krym melder at det ukrainske militæret har angrepet den viktige broen mellom Krym og Russland.",
-        "utdypning": "Trafikken over broen er stanset etter angrepet natt til tirsdag, som er det andre på to dager. Russland annekterte den ukrainske halvøya i 2014.",
+        "tittel": "Usikkerhet rundt Nussir-gruva",
+        "tekst": "Statsministeren avklarte ikke hvorvidt salget av Finnmark-gruva er i tråd med sikkerhetsloven da han møtte Stortinget.",
+        "utdypning": "Statsminister Jonas Gahr Støre (Ap) møtte Stortinget onsdag for å diskutere saken. Samtidig kom det fram gjennom en annen rapport at regjeringens sikkerhetsvurdering av gruvesalget til et selskap med en russisk toppsjef holdes hemmelig.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/russisk-leder_-bro-til-krym-angrepet-1.18083128"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/statsminister-jonas-gahr-store-svarte-pa-sporsmal-om-nussir-gruva-1.18084274"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Vil åpne nye havområder for oppdrett",
-        "tekst": "Regjeringen foreslår hvilke havområde som skal lysast ut for havbruksnæringen og hvordan konkurransen skal foregå.",
-        "utdypning": "Regjeringens forslag markerer en sentral milepæl for næringen ved å avklare både lokasjoner for havbasert oppdrett og de konkrete konkurranseformene selskapene må gjennom for å sikre seg rettighetene til å ta områdene i bruk.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/trondelag/regjeringa-vil-opne-nye-havomrade-for-oppdrett-1.18083212"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Sikrer flertall for halverte bompriser",
-        "tekst": "Senterpartiet sikrer et prøveprosjekt som halverer bomprisen i et år etter at regjeringen først avviste å gripe inn.",
-        "utdypning": "Til tross for at regjeringen tidligere avviste å gjøre grep mot de høye prisene i bomringen, sørger Senterpartiet nå for flertall for en halvering av prisen som et ettårig prøveprosjekt.",
+        "tittel": "Vil halvere bompenger i prøveprosjekt",
+        "tekst": "Senterpartiet sikrer flertallet for å halvere bomprisen i et ettårig prøveprosjekt til tross for tidligere avvisning.",
+        "utdypning": "Regjeringa avviste først å gripe inn mot høge prisar i bommen. No sikrar likevel Senterpartiet at prisen kan halverast som eit prøveprosjekt i eit år.",
         "kilder": [
           {
             "navn": "NRK",
@@ -87,13 +74,13 @@
         "vekt": 4
       },
       {
-        "tittel": "Hemmelig Storting-møte om Finnmark-gruve",
-        "tekst": "Stortinget har avholdt et hemmelig møte om regjeringens sikkerhetsvurdering av et omstridt gruvesalg.",
-        "utdypning": "Saken gjelder salget av en gruve i Finnmark til et selskap som har en russisk toppsjef. Det ble avholdt et orienteringsmøte bak lukkede dører på Stortinget, der regjeringens sikkerhetsvurdering ble holdt hemmelig.",
+        "tittel": "Kokepåbud opphevet i Sør-Varanger",
+        "tekst": "Innbyggerne i grensekommunen kan igjen drikke vannet rett fra springen etter nesten en måneds restriksjon.",
+        "utdypning": "Sidan 22. oktober har fleire tusen innbyggarar i den norske grensekommunen mot Russland kokt drikkevatnet. Tirsdag 18. november blei kokepåbodet endeleg oppheva.",
         "kilder": [
           {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/naeringsministeren-orienterte-om-nussir-gruva-i-hemmelig-mote-pa-stortinget-1.18083481"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/kokevarselet-er-oppheva-i-sor-varanger-kommune-1.18084136"
           }
         ],
         "antall_kilder": 1,
@@ -102,22 +89,35 @@
     ],
     "Skandinavia": [
       {
-        "tittel": "Krim-broen delvis kollapset etter ukrainsk angrep",
-        "tekst": "En del av Kertjbron har kollapset etter ukrainske angrep, noe som betegnes som et alvorlig slag mot den russiske okkupasjonen.",
-        "utdypning": "Johan Huovinen ved Försvarshögskolan peker på at dette er en måte å øke presset på Moskva i forkant av de kommende forhandlingene.",
+        "tittel": "Etterretningstjeneste oppgraderer trusselbilde",
+        "tekst": "Den danske etterretningstjenesten har oppgradert risikovurderingen for terror i Norge.",
+        "utdypning": "DR melder at etterretningstjenesten har oppgradert risikoen for terror i Norge, uten at det er gitt ytterligere detaljer i meldingen.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/krimbron-delvis-kollapsad-efter-ukrainsk-attack"
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/efterretningstjeneste-opgraderer-risikoen-terror-i-norge"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Svensk regjeringskrise uten flertall",
-        "tekst": "Sverige har nå vært uten ny regering i 65 dager, med Centerpartiet i brennpunktet for det politiske spillet.",
-        "utdypning": "Centerpartiet ønsker Magdalena Andersson som statsminister, men motsetter seg at Vänsterpartiet skal få ministerposter. Samtidig vurderer partiet om en borgerlig minoritetsregering med aktivt støtte fra SD kan være en utvei for å unngå nyvalg.",
+        "tittel": "Sverige vil nekte russiske utøvere VM-deltakelse",
+        "tekst": "Den svenske regjeringen vil ikke tillate russiske idrettstiftere å delta i ski-VM i Falun i februar.",
+        "utdypning": "Idrettsminister Jakob Forssmed (KD) uttalte på en pressträff at så lenge Rysslands aggressionskrig mot Ukraina pågår, kan de ikke acceptera en normalisering av Ryssland genom internationell idrott.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/sport/langdskidor/regeringen-om-ryska-idrottare-infor-skid-vm-i-falun"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Svensk regjeringskrise i dødvannet",
+        "tekst": "Sverige har vært uten ny regjering i 65 dager, og Centerpartiet er i sentrum for regjeringsbildningen.",
+        "utdypning": "Sverige har nå vært uten ny regjering i 65 dager. Centerpartiet ønsker Magdalena Andersson som statsminister, men setter foten ned for at Vänsterpartiet skal få noen ministerposter.",
         "kilder": [
           {
             "navn": "SVT",
@@ -130,39 +130,39 @@
     ],
     "Norden": [
       {
-        "tittel": "Stubb: Europa bør snakke direkte med Putin",
-        "tekst": "Den finske presidenten Alexander Stubb kaller det uansvarlig å overlate forhandlingene mellom Russland og Ukraina til USA.",
-        "utdypning": "Stubb mener at europeiske ledere selv må føre direkte samtaler med Vladimir Putin i stedet for å outsource denne dialogen til amerikanske myndigheter.",
+        "tittel": "Island beholder styringsrenten på åtte prosent",
+        "tekst": "Den islandske sentralbankens pengepolitiske komité vedtok å holde styringsrenten uendret på 8,00 prosent.",
+        "utdypning": "Beslutningen var enstemmig og ble støttet av alle medlemmer i komiteen. Renten har stått uendret siden august. Inflasjonen ble målt til 5,9 prosent i oktober og har steget siden sommeren.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20257532?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-18-central-bank-holds-interest-rates-at-800-unchanged-since-august-493141/"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Kraftsfall for islandske hytte- og sommarhus",
-        "tekst": "Salget av ferieboliger på Island faller med 26,5 prosent og styrer mot sitt laveste nivå på seks år.",
-        "utdypning": "Ifølge eiendomsmegler Páll Pálsson er det registrert 253 kjøpekontrakter så langt i år, mot 344 i samme periode i fjor. Nedgangen tilskrives høye renter, vedvarende inflasjon samt usikkerhet i den internasjonale økonomien.",
+        "tittel": "Bekymring for fiskeeksport på Island",
+        "tekst": "Fiskarlag og bedrifter i Vestmannaeyjar advarer mot å begrense eksporten av ubehandlet fisk.",
+        "utdypning": "En arbeidsgruppe ble oppnevnt i sommer for å se på eksporten av ubehandlet, sløyd torsk etter økt volum fra 2019 til 2025. Fiskeriorganisasjonene advarer nå mot reguleringer som er foreslått for å beskytte innenlandsk foredling.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-17-holiday-home-sales-fall-by-265-492988/"
+            "lenke": "https://www.ruv.is/english/2026-11-17-fish-export-concerns-in-vestmannaeyjar-492992/"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Advarer mot uunngåelige kutt i islandsk helsevesen",
-        "tekst": "Sex helseinstitusjoner utenfor hovedstadsområdet på Island varsler et samlet underskudd på rundt fem milliarder kroner.",
-        "utdypning": "Lederne har overlevert et notat til Alltingets budsjettkomité der de slår fast at kutt er uunngåelige uten friske midler. Underskuddene skyldes en flere år lang trend med høye lønnsøkninger og økte driftskostnader.",
+        "tittel": "Foreslår kraftig økning i resirkuleringsavgift på Island",
+        "tekst": "Regjeringens statsbudsjett legger opp til at miljøavgiften på rundballeplast kan nesten doble seg.",
+        "utdypning": "Resirkuleringsavgiften på rundballeplast kan øke med 92,3 prosent fra dagens 65 ISK til 125 ISK per kilo. Bønder uttrykker skepsis og krever dokumentasjon på at pengene faktisk går til innsamling og resirkulering.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-17-cuts-at-healthcare-institutions-unavoidable-without-more-funding-says-director-492986/"
+            "lenke": "https://www.ruv.is/english/2026-11-18-hay-bale-plastic-recycling-levy-could-nearly-double-493124/"
           }
         ],
         "antall_kilder": 1,
@@ -171,9 +171,22 @@
     ],
     "Europa": [
       {
-        "tittel": "Ukraina rammer Krim-forbindelsen",
-        "tekst": "Ukrainske styrker har påført en livlinen mellom Russland og den okkuperte Krim-halvøya alvorlig skade med droner og missiler.",
-        "utdypning": "President Volodymyr Zelenskyy omtaler aksjonen som en enestående operasjon utført som svar på vedvarende russiske angrep på ukrainsk infrastruktur. Samtidig melder Russland om nedskyting av rekordmange ukrainske droner for andre dag på rad, og det ble også meldt om broangrep i Kyiv.",
+        "tittel": "EU foreslår lån til Ukraina finansiert av russiske midler",
+        "tekst": "EU-kommisjonen foreslår et lån på 45 milliarder euro til Ukraina for 2027, som skal nedbetales med fremtidige russiske krigserstatninger.",
+        "utdypning": "Kommisjonspresident Ursula von der Leyen kunngjorde onsdag forslaget, som skal dekke rundt to tredjedeler av Kyjivs finansieringsbehov for 2027. Lånets tilbakebetaling er knyttet til framtidige krigserstatninger fra Russland.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Krimbrua delvis ødelagt etter ukrainsk angrep",
+        "tekst": "Ukrainske styrker har utført et omfattende drone- og missilangrep som har skadet den strategiske forbindelsen til Krim.",
+        "utdypning": "Ukrainas president Volodymyr Zelenskyy betegner operasjonen mot Kerch-brua som en enestående aksjon utført som svar på russiske angrep på infrastruktur. Angrepet har gitt alvorlige logistiske tilbakeslag for Russlands ockupasjon, samtidig som Russland melder om nedskyting av rekordmange droner.",
         "kilder": [
           {
             "navn": "France 24",
@@ -188,22 +201,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Diskusjoner om landbytte mot Nato-medlemskap",
-        "tekst": "Volodymyr Zelenskyy hevder USA har foreslått en avtale der Russland beholder Donbas mot at resten av Ukraina får Nato-medlemskap.",
-        "utdypning": "Det er uklart om tilbudet er reelt, om noen av partiene vil akseptere det, eller om samtalene om en oppdeling markerer et faktisk vendepunkt i den nesten fem år lange krigen.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/tv-shows/the-debate/20261116-should-ukraine-trade-donbas-for-nato-membership"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Tyrkiske myndigheter overtar opposisjonskanal",
-        "tekst": "Politiet raidet Istanbul-hovedkvarteret til opposisjonskanalen Sozcu TV og utpekte ny administrasjon.",
-        "utdypning": "Aksjonen, som stanset kanalens sendinger og innledet etterforskning, er den tredje beslagleggelsen av pro-opposisjonell media i Tyrkia på litt over ett år. Hendelsen skjer i en spent politisk periode preget av et milliardstor investeringsfondskanal-skandalen som rammer halv million menneskers sparing og legger press på president Recep Tayyip Erdogans parti foran valget i 2028.",
+        "tittel": "Tyrkiske myndigheter razzia mot opposisjonskanal",
+        "tekst": "Politiet stormet hovedkontor og stanset sendingene til opposisjonskanalen Sozcu TV i Istanbul.",
+        "utdypning": "Dette er den tredje beslagleggelsen av pro-opposisjonell media i Tyrkia på litt over et år. Aksjonen skjer i kjølvannet av et massivt investeringsskandale som rammer en halv million menneskers sparing, og setter press på president Recep Tayyip Erdogans parti frem mot valget i 2028.",
         "kilder": [
           {
             "navn": "France 24",
@@ -220,54 +220,50 @@
     ],
     "Verden": [
       {
-        "tittel": "Stormaktsmøte i Asia",
-        "tekst": "USAs president Donald Trump har ankommet Asia for samtale med sine russiske og kinesiske motparter.",
-        "utdypning": "Besøket inkluderer et møte med Quad i Manila og en etterlengtet reise til Kina for samtale med Xi Jinping. Trump har i forkant opplyst at han er åpen for et en-til-en-møte med Vladimir Putin dersom det lar seg gjøre, mens det internasjonale teknologimarkedet følger spent med på bakteppet av skiftende maktstrukturer i KI-kappløpet.",
+        "tittel": "Toppmøte mellom Xi, Trump og Putin i Kina",
+        "tekst": "USAs, Kinas og Russlands ledere samles til diplomatiske samtaler i Shenzhen, med krigen i Ukraina og teknologikappløp på dagsordenen.",
+        "utdypning": "Torsdagens møte mellom Donald Trump, Xi Jinping og Vladimir Putin gir sistnevnte en stor internasjonal scene, selv om møtet ikke bringer ham nærmere seier i Ukraina. Samtidig markerer det et historisk toppmøte i APEC-regi der også globale forsyningskjeder og KI-konkurranse diskuteres.",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/urix/trippelmote-i-kina_-xi_-trump_-putin-og-mannen-som-ikke-er-der-1.18082205"
           },
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/trump-kicks-off-asia-tour-ahead-of-major-talks-with-putin-xi-in-china/live-79964719?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 3,
-        "vekt": 3
-      },
-      {
-        "tittel": "EU sanksjonerer toppsjef i Wildberries",
-        "tekst": "EU har innført reiseforbud og frosset eiendommene til Tatyana Kim, sjef for Russlands største nettbutikk.",
-        "utdypning": "Wildberries, som er Russlands største nettforhandler, har tidligere vært mål for ukrainske angrep på grunn av sin rolle med å forsyne den russiske militærmakten.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "USA og Mexico mister status som meslingfrie",
-        "tekst": "USA har mistet sin offisielle status som meslingfri etter 26 år som følge av et høyt antall smittetilfeller.",
-        "utdypning": "Pan American Health Organization opplyser at også Bolivia og Mexico har mistet sin status. USA har registrert over 5 400 tilfeller og 10 meslingrelaterte dødsfall, noe som er det høyeste nivået siden tidlig på 1990-tallet.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Demokratene vant senatsvalget i Alaska",
+        "tekst": "Mary Peltola sikret Demokratene den siste gjenværende plassen i senatsvalget etter et knapt flertall.",
+        "utdypning": "Peltola slo ut Republikanernes Dan Sullivan med 50,1 prosent av stemmene. Seieren bekrefter Demokratenes sterke sluttspurt i midtveisvalgets senatskamper to uker etter at stemmetellingen startet.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Voldsbølge preger valgkampen i Nigeria",
+        "tekst": "Politisk vold og uro under folkemøter skaper økende frykt for sikkerheten foran landets valg i januar 2027.",
+        "utdypning": "Bruken av økser, sabel og slagvåpen under tilstelninger har ført til bekymring for deltakernes sikkerhet fram mot valgdagen, og situasjonen følges tett av internasjonale observatører.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/axes-cutlass-and-blunt-objects-nigeria-s-campaign-trail-of-violence/a-79978467?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
         "vekt": 3
       }
     ]

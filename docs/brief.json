@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Equinor melder om et pågående cyberangrep mot enkelte IT-systemer, men driften er ikke påvirket.",
+      "tekst": "Støttepartiene krever en gigantskatt på 200 milliarder kroner fra oljenæringen, som de mener tjener for mye på krigen.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829"
+          "lenke": "https://www.nrk.no/rogaland/regjeringas-stotteparti-foreslar-200-milliardar-kroner-i-auka-skattar-og-avgifter-for-olja-1.18084003"
         }
       ]
     },
     {
-      "tekst": "Statsminister Jonas Gahr Støre fulgte nøye med da Stortinget debatterte det omstridte salget av Nussir-gruva i Finnmark.",
+      "tekst": "Dataangrepet mot Equinor går inn i sin tredje dag, og energiselskapet vet fremdeles ikke når det vil ta slutt.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/rogaland/dag-tre-med-pagaende-dataangrep-mot-equinor-_-forsker-reagerer-1.18085015"
+        }
+      ]
+    },
+    {
+      "tekst": "Statsministeren følger situasjonen nøye etter at salget av Nussir-gruva har skapt politisk debatt om sikkerhetsloven.",
       "kilder": [
         {
           "navn": "NRK Norge",
           "lenke": "https://www.nrk.no/tromsogfinnmark/statsminister-jonas-gahr-store-svarte-pa-sporsmal-om-nussir-gruva-1.18084274"
-        }
-      ]
-    },
-    {
-      "tekst": "Danmarks etterretningstjeneste oppgraderer trusselnivået for terror i Norge.",
-      "kilder": [
-        {
-          "navn": "DR",
-          "lenke": "https://www.dr.dk/nyheder/seneste/efterretningstjeneste-opgraderer-risikoen-terror-i-norge"
         }
       ]
     }
@@ -31,26 +31,48 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Cyberangrep mot Equinor",
-        "tekst": "Equinor har avdekket et pågående cyberangrep mot enkelte IT-systemer, men understreker at driften ikke er påvirket.",
-        "utdypning": "Selskapet opplyser i en pressemelding at relevante ressurser er mobilisert for å nøytralisere angrepet og gjenopprette full integritet i systemene. Det er per nå ingen indikasjoner på at data er blitt stjålet, og produksjonen går som normalt. Enkelte ansatte kan imidlertid oppleve forstyrrelser på noen tjenester.",
+        "tittel": "Vil innføre gigantskatt på oljenæringen",
+        "tekst": "Støttepartiene vil ha en samlet regning på 200 milliarder kroner mer i skatter og avgifter for oljenæringen.",
+        "utdypning": "Regjeringens støttepartier mener oljenæringen tjener for mye på krigen og ønsker å innføre en gigantskatt. Den samlede regningen i form av økte skatter og avgifter er beregnet til 200 milliarder kroner.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/pagaende-cyberangrep-mot-equinor-1.18083829"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/artikkel/equinor-pagaende-cyberangrep-mot-it-systemer-1533278"
+            "lenke": "https://www.nrk.no/rogaland/regjeringas-stotteparti-foreslar-200-milliardar-kroner-i-auka-skattar-og-avgifter-for-olja-1.18084003"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Støre om Nussir-gruva",
-        "tekst": "Statsminister Jonas Gahr Støre ga ingen klar avklaring på om salget av finnmarksgruva er innenfor sikkerhetsloven.",
-        "utdypning": "Statsminister Jonas Gahr Støre møtte Stortinget onsdag for å diskutere kjøpet av finnmarksgruva nær grensen til Russland. Flere partier legger press på regjeringen for å gå inn med penger i gruveprosjektet. Regjeringens sikkerhetsvurdering av salget til et selskap med en russisk toppsjef holdes hemmelig.",
+        "tittel": "Fortsatt dataangrep mot Equinor",
+        "tekst": "Dataangrepet mot Equinor er inne i sin tredje dag, og selskapet vet ikke når det vil ta slutt.",
+        "utdypning": "Dataangrepet mot energigiganten Equinor fortsetter for tredje dag på rad. Selskapet kan fremdeles ikke si noe om når angrepet vil avsluttes. Forsker Martin Gilje Jaatun reagerer på at angrepet har fått pågå så lenge.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/dag-tre-med-pagaende-dataangrep-mot-equinor-_-forsker-reagerer-1.18085015"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Båtsfjord taper stort på sanksjoner",
+        "tekst": "Båtsfjord rammes hardt av sanksjonene mot russiske skip, og ber staten om økonomisk hjelp.",
+        "utdypning": "Fiskerihovedstaden Båtsfjord opplever sviktende inntekter fra russiske fiskebåter. Kombinert med store havneinvesteringer og rentehopp presser dette kommuneøkonomien, og kommunen ber nå staten om en hjelpende hånd.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/kommuneokonomien-i-batsfjord-i-krise_-frykter-robek-lista-etter-havnesmell-1.18084506"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Støre følger med på Nussir-kjøp",
+        "tekst": "Statsministeren avklarte ikke om salget av finnmarksgruva er innenfor sikkerhetsloven da han møtte Stortinget.",
+        "utdypning": "Statsminister Jonas Gahr Støre (Ap) fikk spørsmål om salget av finnmarksgruva i Stortinget onsdag. Han ga ingen avklaring på om kjøpet er innenfor sikkerhetsloven, men understreket at regjeringen følger saken nøye etter at opposisjonen har krevd handling.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -58,53 +80,27 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
+        "vekt": 4
       },
       {
-        "tittel": "Russisk gigant tapte søksmål mot staten",
-        "tekst": "Det russiske fiskerikonsernet Norebo tapte saksanlegget mot den norske stat.",
-        "utdypning": "Norebo hadde saksøkt den norske stat i et forsøk på å utfordre reguleringer, men nådde ikke frem med sitt søksmål i det norske rettssystemet.",
+        "tittel": "Frykter vedvarende høy prisvekst",
+        "tekst": "Folk og bedrifter tror prisveksten blir langt høyere enn det Norges Bank spår, noe som skaper usikkerhet.",
+        "utdypning": "Høye kostnader skaper stor usikkerhet hos bedrifter som Stangeland Maskin, med frykt for færre oppdrag fremover. Både husholdninger og næringsliv frykter at inflasjonen ikke vil bremse i den grad Norges Bank har lagt til grunn.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/russiske-norebo-tapte-soksmalet-mot-den-norske-stat-1.18084597"
+            "lenke": "https://www.nrk.no/rogaland/norges-bank-med-ny-forventningsundersokelse_-stangeland-maskin-frykter-inflasjonen-ikke-vil-bremse-1.18084262"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Opphever kokepåbud i Sør-Varanger",
-        "tekst": "Innbyggerne i Sør-Varanger kan igjen drikke vannet fra springen uten å koke det.",
-        "utdypning": "Siden 22. oktober har flere tusen innbyggarar i den norske grensekommunen mot Russland vært nødt til å koke drikkevannet. Den 18. november ble kokepåbudet omsider opphevet.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/kokevarselet-er-oppheva-i-sor-varanger-kommune-1.18084136"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Oppgraderer terrortrussel mot Norge",
-        "tekst": "En ikke spesifisert etterretningstjeneste oppgraderer risikoen for terror i Norge.",
-        "utdypning": "Ifølge danske opplysninger har en etterretningstjeneste valgt å oppgradere risikovurderingen for terrorrelaterte hendelser i nabolandet Norge.",
-        "kilder": [
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/efterretningstjeneste-opgraderer-risikoen-terror-i-norge"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Vil stoppe russiske utøvere i Falun",
-        "tekst": "Den svenske regjeringen vil nekte russiske idrottarar å delta under det kommende skid-VM i Falun.",
-        "utdypning": "På en pressemelding uttalte idrettsminister Jakob Forssmed at så lenge Russlands krig mot Ukraina pågår, kan Sverige ikke akseptere en normalisering av Russland gjennom internasjonal idrett. Ski-VM i Falun innledes i slutten av februar.",
+        "tittel": "Sverige vil stoppe russiske idrettstutøvere",
+        "tekst": "Den svenske regjeringen vil ikke tillate at russiske idrettstutøvere deltar under ski-VM i Falun.",
+        "utdypning": "Idrottsminister Jakob Forssmed (KD) kunngjorde på en pressemøte at regjeringen ikke aksepterer en normalisering av Russland gjennom internasjonal idrett. Så lenge landets aggressionskrig mot Ukraina pågår, kan russiske utøvere ikke delta på svensk mark under ski-VM i slutten av februar.",
         "kilder": [
           {
             "navn": "SVT",
@@ -112,12 +108,12 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       },
       {
-        "tittel": "Kustbevakningen vil avvikle fartøy",
-        "tekst": "Til tross for et skjerpet sikkerhetsläge i Østersjøen planlegger Kustbevakningen å kvitte seg med flere fartøy grunnet kutt.",
-        "utdypning": "Regjeringen ønsker å øke den svenske nærværen til sjøs i lys av den spente situasjonen i Østersjøen. Samtidig tvinges Kustbevakningen til besparingar, noe interne kilder omtaler som et helt obegripligt beslut.",
+        "tittel": "Kustbevakningen må avvikle fartøy",
+        "tekst": "Til tross for et skjerpet sikkerhetsläge i Østersjøen, tvinges Kustbevakningen til å avvikle flere fartøy.",
+        "utdypning": "Den svenske regjeringen ønsker økt nærvær til sjøs på grunn av det spente sikkerhetsregimet i Østersjøen. Samtidig tvinges Kustbevakningen til omfattende besparingar og planlegger å kvitte seg med sju fartøy, noe kilder internt betegner som obegripelig.",
         "kilder": [
           {
             "navn": "SVT",
@@ -130,26 +126,39 @@
     ],
     "Norden": [
       {
-        "tittel": "Stubb: Ansvarløst å overlate Ukraina til USA",
-        "tekst": "Den finske presidenten Alexander Stubb mener Europa bør snakke direkte med Vladimir Putin.",
-        "utdypning": "Stubb kritiserer den nåværende europeiske linjen og omtaler det som uansvarlig å outsource forhandlingene om Russland og Ukraina fullstendig til USA.",
+        "tittel": "Islands sentralbank holder renten uendret",
+        "tekst": "Seðlabanki Íslands beholder styringsrenten på 8,00 prosent.",
+        "utdypning": "Den islandske sentralbankens pengepolitiske komité vedtok enstemmig å holde styringsrenten på sjudagers termininnskudd uendret på 8,00 prosent, et nivå den har ligget på siden august. Inflasjonen ble målt til 5,9 prosent i oktober og har steget siden sommermånedene.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20257532?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-18-central-bank-holds-interest-rates-at-800-unchanged-since-august-493141/"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Island holder renten uendret",
-        "tekst": "Seðlabanki Íslands holder styringsrenten uendret på 8,00 prosent.",
-        "utdypning": "Den monetære politiske komiteen på Island besluttet enstemmig å beholde renten på samme nivå som siden august. Inflasjonen ble målt til 5,9 prosent i oktober og har steget siden i sommer, men underliggende inflasjon har holdt seg.",
+        "tittel": "Island holder fast ved budsjettmål",
+        "tekst": "Den islandske regjeringen fastholder målet om et balansert statsbudsjett til tross for motforestillinger.",
+        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir avviste i Alþingi at regjeringen vil fravike sitt mål om et balansert budsjett. Opposisjonen krevde svar på sentralbankens prognoser som spår et underskudd på om lag 16,5 milliarder islandske kroner, stikk i strid med regjeringens anslåtte overskudd på 5 milliarder.",
         "kilder": [
           {
             "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-18-central-bank-holds-interest-rates-at-800-unchanged-since-august-493141/"
+            "lenke": "https://www.ruv.is/english/2026-11-19-we-will-not-budge-from-our-commitment-to-a-balanced-budget-493246/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Nye unntak for utenlandsk helsepersonell på Island",
+        "tekst": "Utdanningsministeren innfører unntak for helsepersonell i nye regler for statlig universitetsfinansiering.",
+        "utdypning": "Fra studieåret 2027–2028 vil fullførte studiepoeng for studenter utenfor EØS og EFTA som hovedregel ikke telle med i beregningen av statlig finansiering av universiteter. Det er imidlertid innført særskilte unntak for helsepersonell og ansatte i barnehager og grunnskoler.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-17-higher-education-minister-grants-exemptions-for-foreign-healthcare-workers-493014/"
           }
         ],
         "antall_kilder": 1,
@@ -158,9 +167,34 @@
     ],
     "Europa": [
       {
-        "tittel": "EU foreslår kjempelån til Ukraina",
-        "tekst": "EU-kommisjonen foreslår et nytt lån på 45 milliarder euro til Ukraina for 2027, som skal nedbetales med fremtidige krigsskadeerstatninger fra Russland.",
-        "utdypning": "EU-kommisjonens president Ursula von der Leyen bekjentgjorde onsdag låneforslaget som skal dekke rundt to tredjedeler av Kyifs finansieringsbehov. Midlene skal tilbakebetales gjennom fremtidige russiske reparasjoner.",
+        "tittel": "Ukraines allierte samles til krisemøte i Berlin",
+        "tekst": "Europeiske ledere og amerikanske utsendinger møtes i Berlin for å vise støtte til Ukraina.",
+        "utdypning": "Ledere fra Tyskland, Frankrike, Storbritannia, Polen og Italia samt Nato-sjef Mark Rutte er samlet i Berlin torsdag. Møtet finner sted samtidig som USAs president Donald Trump og Russlands Vladimir Putin møtes i Kina, noe som skaper frykt i Europa for at avgjørelser om krigen vil bli tatt uten europeisk medvirkning. USAs utsendinger Steve Witkoff og Jared Kushner deltar også på møtet.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/ukraine-s-european-allies-meet-in-berlin-in-show-of-support"
+          },
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 4,
+        "vekt": 5
+      },
+      {
+        "tittel": "EU foreslår lån på 45 milliarder euro til Ukraina",
+        "tekst": "EU-kommisjonen vil gi et nytt lån som skal tilbakebetales gjennom fremtidige russiske krigserstatninger.",
+        "utdypning": "EU-kommisjonens president Ursula von der Leyen la onsdag frem et forslag om et lån på 45 milliarder euro til Ukraina for 2027. Lånets formål er å dekke omtrent to tredjedeler av Kyivs finansieringsbehov, og planen er at det skal tilbakebetales ved hjelp av fremtidige krigserstatninger fra Russland.",
         "kilder": [
           {
             "navn": "France 24",
@@ -171,34 +205,17 @@
         "vekt": 5
       },
       {
-        "tittel": "Undergrunnskrig og hemmelige oppdrag",
-        "tekst": "Ukrainske styrker kjemper en underjordisk krig mot Russland i gamle gassrørledninger, mens en avsløring kaster lys over fransk militært personell.",
-        "utdypning": "En undersøkelse publisert av franske RFI viser at en konfidensiell fransk militærmisjon kalt 'Volia' har skjult tilstedeværelsen av fransk personell i Ukraina i måneder, noe Russland har brukt til å anklage Frankrike for direkte involvering. Samtidig følger britiske medier ukrainske soldater som tar kampen under bakken for å unngå russiske droner.",
+        "tittel": "Danmark ratifiserer sikkerhetsavtale om Grønland",
+        "tekst": "Det danske parlamentet har ratifisert en sikkerhetsavtale med USA og Grønland etter langvarig press.",
+        "utdypning": "Danmarks nasjonalforsamling har godkjent avtalen som gir USA utvidet militær tilgang på Grønland utover den eksisterende avtalen. Avtalen kommer etter måneder med diplomatisk tautrekking og trusler fra USAs president Donald Trump om å sikre seg kontroll over øya i Arktis.",
         "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
-          },
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Omfattende skader på Krim-broen",
-        "tekst": "Et sju trinn lang ukrainsk angrep har påført den strategisk viktige Krim-broen store skader.",
-        "utdypning": "Angrepet på det sentrale symbolet på den russiske okkupasjonen har rammet en nøkkelkorridor for transport. Hendelsen skaper store utfordringer for russisk militær logistikk og Vladimir Putins prestisje. I etterkant har også falske, KI-genererte videoer som viser broen fullstendig kollapset spredd seg på nett.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.france24.com/en/europe/20261119-denmark-ratifies-greenland-security-deal-after-months-of-pressure-by-trump"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/what-the-crimean-bridge-attack-means-for-russia/a-79985991?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
@@ -207,9 +224,22 @@
     ],
     "Verden": [
       {
-        "tittel": "USA vurderer landbytte for Nato",
-        "tekst": "USA utforsker om Ukraina vil avgi territorium i Donetsk i bytte mot Nato-medlemskap eller sikkerhetsgarantier.",
-        "utdypning": "Idéen om at Ukraina skal oppgi deler av provinsen som fremdeles er under ukrainsk kontroll, har blitt møtt med sterke advarsler fra eksperter som anser grepet for å være risikabelt.",
+        "tittel": "Tysk enighet om kutt i stridsskatt",
+        "tekst": "Den tyske regjeringskoalisjonen er blitt enige om et kutt i stridsskatten for husholdninger.",
+        "utdypning": "Tiltaket kommer som følge av energipris sjokk utløst av krigen knyttet til Iran. Samtidig avviste landet et forsøk fra BSW-partiet på å få til en omtelling av valget i 2025.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-news-merz-s-coalition-agrees-on-electricity-tax-cut/live-79976869?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "USA utforsker landbytte mot Nato-medlemsskap",
+        "tekst": "USA undersøker om Ukraina vil avstå territorium i Donetsk i bytte mot sikkerhetsgarantier.",
+        "utdypning": "Washington undersøker muligheten for at Ukraina kan gi fra seg deler av Donetsk-provinsen som landet fremdeles kontrollerer. Til gjengjeld vurderes Nato-medlemsskap eller andre sikkerhetsgarantier, en fremgangsmåte eksperter betegner som svært risikabel.",
         "kilder": [
           {
             "navn": "DW World",
@@ -217,29 +247,12 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       },
       {
-        "tittel": "Israelsk bakkeoperasjon i Gaza",
-        "tekst": "Det israelske militæret har startet en sjelden bakkegående operasjon bortenfor den såkalte Gule Linjen.",
-        "utdypning": "Operasjonen i det sentrale Gaza retter seg mot Hamas-infrastruktur og det militæret beskriver som en 'terrortunnel'. Hamas fordømmer inntrengningen som et flagrant brudd på en våpenhvile, mens situasjonen for sivile palestinere er svært presset.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/israel-launches-new-ground-operation-in-gaza/a-79984958?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Lang fengselsstraff for attentatplan",
-        "tekst": "En pakistansk mann med bånd til Iran er dømt til over 27 års fengsel for å ha planlagt drap på amerikanske ledere.",
-        "utdypning": "Asif Merchant ble funnet skyldig i å ha forsøkt å leie inn undercover-agenter fra FBI som leiemordere for å ramme amerikanske toppolitikere, inkludert president Donald Trump.",
+        "tittel": "Dømt til 27 års fengsel for attentatplaner",
+        "tekst": "En pakistansk mann er dømt for å ha ledet et Iran-støttet plott for å drepe amerikanske politikere.",
+        "utdypning": "Asif Merchant ble dømt til mer enn 27 års fengsel for sin rolle i en plan om å eliminere amerikanske toppolitikere, inkludert president Donald Trump. Han ble funnet skyldig i å ha forsøkt å leie inn undercover-agenter fra FBI til attentatene.",
         "kilder": [
           {
             "navn": "DW World",

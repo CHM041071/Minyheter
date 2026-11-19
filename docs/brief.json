@@ -1,7 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Støttepartiene krever en gigantskatt på 200 milliarder kroner fra oljenæringen, som de mener tjener for mye på krigen.",
+      "tekst": "Støttepartiene krever en gigantskatt på 200 milliarder kroner fra oljenæringen.",
       "kilder": [
         {
           "navn": "NRK",
@@ -10,20 +10,20 @@
       ]
     },
     {
-      "tekst": "Dataangrepet mot Equinor går inn i sin tredje dag, og energiselskapet vet fremdeles ikke når det vil ta slutt.",
+      "tekst": "Flyselskapet Norwegian ber 5 000 kunder om å spære bankkortene sine etter et dataangrep.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/dag-tre-med-pagaende-dataangrep-mot-equinor-_-forsker-reagerer-1.18085015"
+          "navn": "SVT",
+          "lenke": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang"
         }
       ]
     },
     {
-      "tekst": "Statsministeren følger situasjonen nøye etter at salget av Nussir-gruva har skapt politisk debatt om sikkerhetsloven.",
+      "tekst": "Norske verft mener de blir stengt ute fra store forsvarskontrakter.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/statsminister-jonas-gahr-store-svarte-pa-sporsmal-om-nussir-gruva-1.18084274"
+          "lenke": "https://www.nrk.no/artikkel/norske-verft-meiner-dei-blir-utestengde-fra-stor-forsvarskontrakt-1533376"
         }
       ]
     }
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Vil innføre gigantskatt på oljenæringen",
-        "tekst": "Støttepartiene vil ha en samlet regning på 200 milliarder kroner mer i skatter og avgifter for oljenæringen.",
-        "utdypning": "Regjeringens støttepartier mener oljenæringen tjener for mye på krigen og ønsker å innføre en gigantskatt. Den samlede regningen i form av økte skatter og avgifter er beregnet til 200 milliarder kroner.",
+        "tittel": "Vil ha gigantskatt på oljenæringen",
+        "tekst": "Regjeringens støttepartier krever at oljenæringen må betale 200 milliarder kroner mer i skatter og avgifter.",
+        "utdypning": "Støttepartiene mener oljenæringen tjener for mye på krigen og vil innføre en massiv skatteøkning på totalt 200 milliarder kroner i form av økte skatter og avgifter.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,22 +44,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Fortsatt dataangrep mot Equinor",
-        "tekst": "Dataangrepet mot Equinor er inne i sin tredje dag, og selskapet vet ikke når det vil ta slutt.",
-        "utdypning": "Dataangrepet mot energigiganten Equinor fortsetter for tredje dag på rad. Selskapet kan fremdeles ikke si noe om når angrepet vil avsluttes. Forsker Martin Gilje Jaatun reagerer på at angrepet har fått pågå så lenge.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/dag-tre-med-pagaende-dataangrep-mot-equinor-_-forsker-reagerer-1.18085015"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Båtsfjord taper stort på sanksjoner",
-        "tekst": "Båtsfjord rammes hardt av sanksjonene mot russiske skip, og ber staten om økonomisk hjelp.",
-        "utdypning": "Fiskerihovedstaden Båtsfjord opplever sviktende inntekter fra russiske fiskebåter. Kombinert med store havneinvesteringer og rentehopp presser dette kommuneøkonomien, og kommunen ber nå staten om en hjelpende hånd.",
+        "tittel": "Båtsfjord taper millioner på sanksjoner",
+        "tekst": "Sviktende inntekter fra russiske fiskebåter, rentehopp og store havneinvesteringer presser kommuneøkonomien i Båtsfjord.",
+        "utdypning": "Båtsfjord kommune, som omtales som fiskerihovedstaden, taper store summer som følge av sanksjonene mot russiske skip. Kombinasjonen av sviktende inntekter, rentehopp og kostbare havneinvesteringer gjør at kommunen nå ber staten om en hjelpende hånd.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -70,13 +57,13 @@
         "vekt": 4
       },
       {
-        "tittel": "Støre følger med på Nussir-kjøp",
-        "tekst": "Statsministeren avklarte ikke om salget av finnmarksgruva er innenfor sikkerhetsloven da han møtte Stortinget.",
-        "utdypning": "Statsminister Jonas Gahr Støre (Ap) fikk spørsmål om salget av finnmarksgruva i Stortinget onsdag. Han ga ingen avklaring på om kjøpet er innenfor sikkerhetsloven, men understreket at regjeringen følger saken nøye etter at opposisjonen har krevd handling.",
+        "tittel": "EUs planer for Arktis og Norge",
+        "tekst": "Norge trekkes fram som en viktig brikke når EU ønsker bedre kontroll i nordområdene.",
+        "utdypning": "EUs planer for Norge og Arktis viser at regionen ikke lenger ansees som et lavspenningsområde. Norge er en sentral aktør i EUs arbeid med å bygge motstandskraft og skaffe bedre kontroll over utviklingen i nord.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/statsminister-jonas-gahr-store-svarte-pa-sporsmal-om-nussir-gruva-1.18084274"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/norge-er-en-viktig-brikke-i-eus-arktis-strategi_-_-vi-ma-bygge-motstandskraft-1.18084251"
           }
         ],
         "antall_kilder": 1,
@@ -84,8 +71,8 @@
       },
       {
         "tittel": "Frykter vedvarende høy prisvekst",
-        "tekst": "Folk og bedrifter tror prisveksten blir langt høyere enn det Norges Bank spår, noe som skaper usikkerhet.",
-        "utdypning": "Høye kostnader skaper stor usikkerhet hos bedrifter som Stangeland Maskin, med frykt for færre oppdrag fremover. Både husholdninger og næringsliv frykter at inflasjonen ikke vil bremse i den grad Norges Bank har lagt til grunn.",
+        "tekst": "Både folk og bedrifter frykter at inflasjonen vil holde seg høyere enn det Norges Bank legger til grunn.",
+        "utdypning": "Den høye prisveksten skaper fortsatt bekymring i næringslivet. Hos bedrifter som Stangeland Maskin fører økte kostnader til stor usikkerhet og frykt for færre oppdrag fremover, mens befolkningen forventer en høyere inflasjon enn det sentralbanken spår.",
         "kilder": [
           {
             "navn": "NRK",
@@ -94,54 +81,45 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Norske verft føler seg utestengt",
+        "tekst": "Norske verft uttrykker misnøye med at de mener seg utestengt fra en stor forsvarskontrakt.",
+        "utdypning": "Saken omhandler norske verfts bekymringer knyttet til forsvarssektoren, der de opplever å bli forbigått eller utestengt fra større oppdrag.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/artikkel/norske-verft-meiner-dei-blir-utestengde-fra-stor-forsvarskontrakt-1533376"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Sverige vil stoppe russiske idrettstutøvere",
-        "tekst": "Den svenske regjeringen vil ikke tillate at russiske idrettstutøvere deltar under ski-VM i Falun.",
-        "utdypning": "Idrottsminister Jakob Forssmed (KD) kunngjorde på en pressemøte at regjeringen ikke aksepterer en normalisering av Russland gjennom internasjonal idrett. Så lenge landets aggressionskrig mot Ukraina pågår, kan russiske utøvere ikke delta på svensk mark under ski-VM i slutten av februar.",
+        "tittel": "Norwegian ber kunder spære kort",
+        "tekst": "Omlag 5 000 Norwegian-kunder må spære bankkortene sine etter et dataintrang hos en ekstern leverandør.",
+        "utdypning": "Flyselskapet Norwegian har blitt rammet av et dataintrang via en ekstern IT-leverandør. Omkring 5 000 kunder blir nå bedt om å umiddelbart spære sine bankkort som følge av hendelsen.",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/sport/langdskidor/regeringen-om-ryska-idrottare-infor-skid-vm-i-falun"
+            "lenke": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang"
+          },
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/norwegian-beder-5-000-kunder-spaerre-kort-efter-databrud"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 4
-      },
-      {
-        "tittel": "Kustbevakningen må avvikle fartøy",
-        "tekst": "Til tross for et skjerpet sikkerhetsläge i Østersjøen, tvinges Kustbevakningen til å avvikle flere fartøy.",
-        "utdypning": "Den svenske regjeringen ønsker økt nærvær til sjøs på grunn av det spente sikkerhetsregimet i Østersjøen. Samtidig tvinges Kustbevakningen til omfattende besparingar og planlegger å kvitte seg med sju fartøy, noe kilder internt betegner som obegripelig.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/kustbevakningen-vill-avveckla-sju-fartyg-obegripligt"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Islands sentralbank holder renten uendret",
-        "tekst": "Seðlabanki Íslands beholder styringsrenten på 8,00 prosent.",
-        "utdypning": "Den islandske sentralbankens pengepolitiske komité vedtok enstemmig å holde styringsrenten på sjudagers termininnskudd uendret på 8,00 prosent, et nivå den har ligget på siden august. Inflasjonen ble målt til 5,9 prosent i oktober og har steget siden sommermånedene.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-18-central-bank-holds-interest-rates-at-800-unchanged-since-august-493141/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
         "tittel": "Island holder fast ved budsjettmål",
-        "tekst": "Den islandske regjeringen fastholder målet om et balansert statsbudsjett til tross for motforestillinger.",
-        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir avviste i Alþingi at regjeringen vil fravike sitt mål om et balansert budsjett. Opposisjonen krevde svar på sentralbankens prognoser som spår et underskudd på om lag 16,5 milliarder islandske kroner, stikk i strid med regjeringens anslåtte overskudd på 5 milliarder.",
+        "tekst": "Islands utenriksminister slår fast at regjeringen ikke vil rikke seg fra målet om et balanseført budsjett.",
+        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir uttalte i Alltinget at regjeringen står fast ved sitt budsjettløfte til tross for kritikk. Opposisjonen krevde svar etter at Sentralbankens monetære bulletin anslo et underskudd på rundt 16,5 milliarder islandske kroner, stikk i strid med regjeringens egne overskuddsprognoser.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -150,26 +128,13 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
-      },
-      {
-        "tittel": "Nye unntak for utenlandsk helsepersonell på Island",
-        "tekst": "Utdanningsministeren innfører unntak for helsepersonell i nye regler for statlig universitetsfinansiering.",
-        "utdypning": "Fra studieåret 2027–2028 vil fullførte studiepoeng for studenter utenfor EØS og EFTA som hovedregel ikke telle med i beregningen av statlig finansiering av universiteter. Det er imidlertid innført særskilte unntak for helsepersonell og ansatte i barnehager og grunnskoler.",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-17-higher-education-minister-grants-exemptions-for-foreign-healthcare-workers-493014/"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Ukraines allierte samles til krisemøte i Berlin",
-        "tekst": "Europeiske ledere og amerikanske utsendinger møtes i Berlin for å vise støtte til Ukraina.",
-        "utdypning": "Ledere fra Tyskland, Frankrike, Storbritannia, Polen og Italia samt Nato-sjef Mark Rutte er samlet i Berlin torsdag. Møtet finner sted samtidig som USAs president Donald Trump og Russlands Vladimir Putin møtes i Kina, noe som skaper frykt i Europa for at avgjørelser om krigen vil bli tatt uten europeisk medvirkning. USAs utsendinger Steve Witkoff og Jared Kushner deltar også på møtet.",
+        "tittel": "Europeiske allierte møtes i Berlin",
+        "tekst": "Lederskap fra Tyskland, Frankrike, Storbritannia, Polen, Italia og NATO samles i Berlin for å vise støtte til Ukraina.",
+        "utdypning": "Ukrainas viktigste europeiske allierte møtes i Berlin samtidig som USAs president Donald Trump møter Vladimir Putin i Kina. Til stede er også amerikanske utsendinger samt NATO-sjef Mark Rutte, noe som skaper bekymring i Europa for at avgjørelser om krigen kan bli tatt uten europeisk medvirkning.",
         "kilder": [
           {
             "navn": "France 24",
@@ -177,37 +142,24 @@
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf"
           },
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 4,
         "vekt": 5
       },
       {
-        "tittel": "EU foreslår lån på 45 milliarder euro til Ukraina",
-        "tekst": "EU-kommisjonen vil gi et nytt lån som skal tilbakebetales gjennom fremtidige russiske krigserstatninger.",
-        "utdypning": "EU-kommisjonens president Ursula von der Leyen la onsdag frem et forslag om et lån på 45 milliarder euro til Ukraina for 2027. Lånets formål er å dekke omtrent to tredjedeler av Kyivs finansieringsbehov, og planen er at det skal tilbakebetales ved hjelp av fremtidige krigserstatninger fra Russland.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Danmark ratifiserer sikkerhetsavtale om Grønland",
-        "tekst": "Det danske parlamentet har ratifisert en sikkerhetsavtale med USA og Grønland etter langvarig press.",
-        "utdypning": "Danmarks nasjonalforsamling har godkjent avtalen som gir USA utvidet militær tilgang på Grønland utover den eksisterende avtalen. Avtalen kommer etter måneder med diplomatisk tautrekking og trusler fra USAs president Donald Trump om å sikre seg kontroll over øya i Arktis.",
+        "tittel": "Danmark ratifiserer Grønland-avtale",
+        "tekst": "Det danske parlamentet har godkjent sikkerhetsavtalen med USA og Grønland etter langvarig press.",
+        "utdypning": "Danmarks parlament ratifiserte sikkerhetsavtalen som gir USA utvidet militær tilgang på Grønland. Avtalen kommer i stand etter måneder med press og trusler fra USAs president Donald Trump om å sikre kontroll over øya, og markerer slutten på striden om Arktis-øyas fremtid.",
         "kilder": [
           {
             "navn": "France 24",
@@ -220,50 +172,63 @@
         ],
         "antall_kilder": 2,
         "vekt": 4
-      }
-    ],
-    "Verden": [
+      },
       {
-        "tittel": "Tysk enighet om kutt i stridsskatt",
-        "tekst": "Den tyske regjeringskoalisjonen er blitt enige om et kutt i stridsskatten for husholdninger.",
-        "utdypning": "Tiltaket kommer som følge av energipris sjokk utløst av krigen knyttet til Iran. Samtidig avviste landet et forsøk fra BSW-partiet på å få til en omtelling av valget i 2025.",
+        "tittel": "Åpen for sikkerhetsgarantier til Ukraina",
+        "tekst": "USA indikerer at administrasjonen er åpen for å utvide en forsvarsgaranti tilsvarende NATO til Ukraina.",
+        "utdypning": "USAs utsending Jared Kushner uttalte at president Donald Trump er åpen for å gi Ukraina en sikkerhetsgaranti som minner om NATOs gjensidige forsvarsklausul. Samtidig understreket han at Washington må ivareta egne interesser i prosessen.",
         "kilder": [
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/germany-news-merz-s-coalition-agrees-on-electricity-tax-cut/live-79976869?maca=en-rss-en-all-1573-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      }
+    ],
+    "Verden": [
+      {
+        "tittel": "FNs domstol: Folkemord i Myanmar",
+        "tekst": "Den internasjonale domstolen (ICJ) slår fast at Myanmar har begått folkemord mot rohingya-minoriteten.",
+        "utdypning": "I en historisk dom har ICJ opprettholdt store deler av folkemordanklagen mot Myanmar knyttet til militæroffensiven i 2017 som krevde tusenvis av liv. Domstolen krever at landet betaler erstatning og sørger for at flyktninger kan vende trygt tilbake.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/icj-myanmar-committed-genocide-against-rohingya/a-79987898?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
       },
       {
-        "tittel": "USA utforsker landbytte mot Nato-medlemsskap",
-        "tekst": "USA undersøker om Ukraina vil avstå territorium i Donetsk i bytte mot sikkerhetsgarantier.",
-        "utdypning": "Washington undersøker muligheten for at Ukraina kan gi fra seg deler av Donetsk-provinsen som landet fremdeles kontrollerer. Til gjengjeld vurderes Nato-medlemsskap eller andre sikkerhetsgarantier, en fremgangsmåte eksperter betegner som svært risikabel.",
+        "tittel": "Toppmøte mellom Trump, Xi og Putin",
+        "tekst": "Lederne for USA, Kina og Russland har gjennomført et uvanlig trepartsmøte i forbindelse med APEC-toppmøtet.",
+        "utdypning": "USA, Kina og Russland holdt trepartssamtaler i Shenzhen i Kina. President Donald Trump omtalte møtet som historisk, mens Xi Jinping kalte det fruktbart og Vladimir Putin beskrev samtalene som åpne og ærlige, til tross for bekymringer i vestlige hovedsteder.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/would-ukraine-trade-land-for-nato-membership-or-protection/a-79984492?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Dømt til 27 års fengsel for attentatplaner",
-        "tekst": "En pakistansk mann er dømt for å ha ledet et Iran-støttet plott for å drepe amerikanske politikere.",
-        "utdypning": "Asif Merchant ble dømt til mer enn 27 års fengsel for sin rolle i en plan om å eliminere amerikanske toppolitikere, inkludert president Donald Trump. Han ble funnet skyldig i å ha forsøkt å leie inn undercover-agenter fra FBI til attentatene.",
+        "tittel": "Irans balansegang mellom stormaktene",
+        "tekst": "Iran opprettholder båndene til Kina og Russland mens det økonomiske presset fra USA øker.",
+        "utdypning": "Mens Donald Trump trapper opp det økonomiske presset mot Iran, forblir Kina landets største oljekjøper og Russland en sentral partner. Begge stormaktene forsøker samtidig å balansere denne støtten mot sine bredere relasjoner med Washington.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/pakistani-man-gets-27-years-for-foiled-plot-to-kill-trump-biden/a-79976086?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 3
       }
     ]

@@ -10,7 +10,7 @@
       ]
     },
     {
-      "tekst": "Flyselskapet Norwegian ber 5 000 kunder om å spære bankkortene sine etter et dataangrep.",
+      "tekst": "Flyselskapet Norwegian ber 5 000 kunder spære bankkortene sine etter et datainnbrudd.",
       "kilder": [
         {
           "navn": "SVT",
@@ -19,11 +19,11 @@
       ]
     },
     {
-      "tekst": "Norske verft mener de blir stengt ute fra store forsvarskontrakter.",
+      "tekst": "Å Energi tapte 1,45 milliarder kroner på den feilslåtte investeringen i Morrow Batteries.",
       "kilder": [
         {
           "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/artikkel/norske-verft-meiner-dei-blir-utestengde-fra-stor-forsvarskontrakt-1533376"
+          "lenke": "https://www.nrk.no/sorlandet/tapte-milliardbelop-pa-morrow_-_-mye-a-laere-av-investeringen-1.18085719"
         }
       ]
     }
@@ -33,7 +33,7 @@
       {
         "tittel": "Vil ha gigantskatt på oljenæringen",
         "tekst": "Regjeringens støttepartier krever at oljenæringen må betale 200 milliarder kroner mer i skatter og avgifter.",
-        "utdypning": "Støttepartiene mener oljenæringen tjener for mye på krigen og vil innføre en massiv skatteøkning på totalt 200 milliarder kroner i form av økte skatter og avgifter.",
+        "utdypning": "Støttepartiene mener oljenæringen tjener for mye på krig og fremmer kravet om en massiv økning i skatter og avgifter. Totalt dreier det seg om 200 milliarder kroner i økt regning til bransjen.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,63 +44,63 @@
         "vekt": 5
       },
       {
-        "tittel": "Båtsfjord taper millioner på sanksjoner",
-        "tekst": "Sviktende inntekter fra russiske fiskebåter, rentehopp og store havneinvesteringer presser kommuneøkonomien i Båtsfjord.",
-        "utdypning": "Båtsfjord kommune, som omtales som fiskerihovedstaden, taper store summer som følge av sanksjonene mot russiske skip. Kombinasjonen av sviktende inntekter, rentehopp og kostbare havneinvesteringer gjør at kommunen nå ber staten om en hjelpende hånd.",
+        "tittel": "Tapte 1,45 milliarder på Morrow-investering",
+        "tekst": "En ny rapport viser at Å Energi tapte 1,45 milliarder kroner på den feilslåtte batterisatsingen.",
+        "utdypning": "Kraftselskapet Å Energi har lidd et milliardtap på investeringen i Morrow Batteries. Ifølge den nye rapporten er det mye å lære av den feilslåtte prosessen som endte med et tap på 1,45 milliarder kroner.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/kommuneokonomien-i-batsfjord-i-krise_-frykter-robek-lista-etter-havnesmell-1.18084506"
+            "lenke": "https://www.nrk.no/sorlandet/tapte-milliardbelop-pa-morrow_-_-mye-a-laere-av-investeringen-1.18085719"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "EUs planer for Arktis og Norge",
-        "tekst": "Norge trekkes fram som en viktig brikke når EU ønsker bedre kontroll i nordområdene.",
-        "utdypning": "EUs planer for Norge og Arktis viser at regionen ikke lenger ansees som et lavspenningsområde. Norge er en sentral aktør i EUs arbeid med å bygge motstandskraft og skaffe bedre kontroll over utviklingen i nord.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/norge-er-en-viktig-brikke-i-eus-arktis-strategi_-_-vi-ma-bygge-motstandskraft-1.18084251"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Frykter vedvarende høy prisvekst",
-        "tekst": "Både folk og bedrifter frykter at inflasjonen vil holde seg høyere enn det Norges Bank legger til grunn.",
-        "utdypning": "Den høye prisveksten skaper fortsatt bekymring i næringslivet. Hos bedrifter som Stangeland Maskin fører økte kostnader til stor usikkerhet og frykt for færre oppdrag fremover, mens befolkningen forventer en høyere inflasjon enn det sentralbanken spår.",
+        "tittel": "Flyktet fra Gaza – må reise til Ukraina",
+        "tekst": "Wardeh Makhamar har boedd i Norge i flere år, men har nå fått utreisefrist til Ukraina.",
+        "utdypning": "Etter å ha bodd i flere år i Norge, er det bestemt at Wardeh Makhamar skal sendes til Ukraina. Hun har utreisefrist om få dager, men håper fortsatt at hun kan få bli.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/norges-bank-med-ny-forventningsundersokelse_-stangeland-maskin-frykter-inflasjonen-ikke-vil-bremse-1.18084262"
+            "lenke": "https://www.nrk.no/tromsogfinnmark/flyktet-fra-gaza-til-norge_-na-ma-hun-reise-til-ukraina-1.18084497"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Norske verft føler seg utestengt",
-        "tekst": "Norske verft uttrykker misnøye med at de mener seg utestengt fra en stor forsvarskontrakt.",
-        "utdypning": "Saken omhandler norske verfts bekymringer knyttet til forsvarssektoren, der de opplever å bli forbigått eller utestengt fra større oppdrag.",
+        "tittel": "Stortinget sier nei til uførekutt-likebehandling nå",
+        "tekst": "Stortinget vil ikke likebehandle uføretrygden umiddelbart, men ber regjeringen utrede saken nærmere.",
+        "utdypning": "Kjell-Robin avbrøt rusbehandlingen fordi uføretrygden ble kraftig kuttet og han satt igjen med 3800 kroner i måneden. Stortinget sier nei til en umiddelbar likebehandling, men ber regjeringen om å se nærmere på saken.",
         "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/artikkel/norske-verft-meiner-dei-blir-utestengde-fra-stor-forsvarskontrakt-1533376"
+            "lenke": "https://www.nrk.no/sorlandet/far-ikke-flertall-pa-stortinget-for-a-beholde-uforetrygd-under-behandling-1.18084822"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Regjeringen sier nei til mannshelseutvalg",
+        "tekst": "Til tross for at menn står for tre av fire selvmord, avviser regjeringen et eget mannshelseutvalg.",
+        "utdypning": "Avgjørelsen har vakt reaksjoner blant pårørende som har mistet barn i selvmord. De er skuffet over at regjeringen skroter et eget mannshelseutvalg, spesielt med tanke på at menn står for omtrent tre av fire selvmord.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/topper-selvmordsstatistikken_-regjeringa-sier-nei-til-eget-mannshelseutvalg-1.18084847"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Norwegian ber kunder spære kort",
-        "tekst": "Omlag 5 000 Norwegian-kunder må spære bankkortene sine etter et dataintrang hos en ekstern leverandør.",
-        "utdypning": "Flyselskapet Norwegian har blitt rammet av et dataintrang via en ekstern IT-leverandør. Omkring 5 000 kunder blir nå bedt om å umiddelbart spære sine bankkort som følge av hendelsen.",
+        "tittel": "Norwegian ber kunder spære bankkort",
+        "tekst": "Omkring 5 000 kunder hos Norwegian bes om å spære bankkortene sine etter et eksternt datainnbrudd.",
+        "utdypning": "Flyselskapet Norwegian oppfordrer om lag 5 000 kunder til å omgående spære sine bankkort. Årsaken er et datainnbrudd hos en ekstern IT-leverandør, melder VG.",
         "kilder": [
           {
             "navn": "SVT",
@@ -117,9 +117,22 @@
     ],
     "Norden": [
       {
-        "tittel": "Island holder fast ved budsjettmål",
-        "tekst": "Islands utenriksminister slår fast at regjeringen ikke vil rikke seg fra målet om et balanseført budsjett.",
-        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir uttalte i Alltinget at regjeringen står fast ved sitt budsjettløfte til tross for kritikk. Opposisjonen krevde svar etter at Sentralbankens monetære bulletin anslo et underskudd på rundt 16,5 milliarder islandske kroner, stikk i strid med regjeringens egne overskuddsprognoser.",
+        "tittel": "Finland kjøper eksplosiver for 450 millioner euro",
+        "tekst": "Den finske hær gjør store innkjøp av eksplosiver fra finske og norsk-finske leverandører.",
+        "utdypning": "Finland gjennomfører militære innkjøp av eksplosiver til en verdi av 450 millioner euro. Procurements vil bli hentet fra en finsk-norsk firm samt fra et finsk selskap.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20257988?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Island satser på balanse i statsbudsjettet",
+        "tekst": "Islands utenriksminister avviser budsjettunderskudd trass i sentralbankens advarsler.",
+        "utdypning": "Utenriksminister Þorgerður Katrín Gunnarsdóttir fastslo i Alþingi at regjeringen ikke vil vike fra sitt mål om et balansert budsjett. Opposisjonen krevde svar etter at sentralbanken varslet et underskudd på rundt 16,5 milliarder islandske kroner, mens regjeringen selv anslår et overskudd på 5 milliarder.",
         "kilder": [
           {
             "navn": "RÚV English",
@@ -128,13 +141,26 @@
         ],
         "antall_kilder": 1,
         "vekt": 3
+      },
+      {
+        "tittel": "Okonom optimistisk om raskt fall i islandsk inflasjon",
+        "tekst": "Sjeføkonom tror inflasjonen kan falle raskt tidlig neste år, men det krever ofre.",
+        "utdypning": "Sentralbankguvernør Ásgeir Jónsson holdt renten uendret på 8,00 prosent på et møte arrangert av Islands handelskammer. Sjeføkonom i Kvika banki uttrykte optimisme for at inflasjonen vil avta raskt tidlig neste år, selv om det vil kreve økonomiske ofre.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-20-economist-optimistic-over-inflation-fall-493357/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Europeiske allierte møtes i Berlin",
-        "tekst": "Lederskap fra Tyskland, Frankrike, Storbritannia, Polen, Italia og NATO samles i Berlin for å vise støtte til Ukraina.",
-        "utdypning": "Ukrainas viktigste europeiske allierte møtes i Berlin samtidig som USAs president Donald Trump møter Vladimir Putin i Kina. Til stede er også amerikanske utsendinger samt NATO-sjef Mark Rutte, noe som skaper bekymring i Europa for at avgjørelser om krigen kan bli tatt uten europeisk medvirkning.",
+        "tittel": "Europeiske ledere møtes i Berlin for å diskutere Ukraina",
+        "tekst": "Europeiske toppledere og NATO-sjefen samles i Berlin mens Trump og Putin møtes i Kina.",
+        "utdypning": "Ukrainas europeiske allierte møtes i Berlin for å vise støtte til Kyiv, med amerikanske spesialutsendinger til stede. Møtet samler lederne for Tyskland, Frankrike, Storbritannia, Polen, Italia og NATO-sjef Mark Rutte. Samtidig møtes USAs og Russlands presidenter i Kina, noe som vekker frykt i Europa for at avgjørelser om krigen tas uten europeisk medvirkning.",
         "kilder": [
           {
             "navn": "France 24",
@@ -157,41 +183,45 @@
         "vekt": 5
       },
       {
-        "tittel": "Danmark ratifiserer Grønland-avtale",
-        "tekst": "Det danske parlamentet har godkjent sikkerhetsavtalen med USA og Grønland etter langvarig press.",
-        "utdypning": "Danmarks parlament ratifiserte sikkerhetsavtalen som gir USA utvidet militær tilgang på Grønland. Avtalen kommer i stand etter måneder med press og trusler fra USAs president Donald Trump om å sikre kontroll over øya, og markerer slutten på striden om Arktis-øyas fremtid.",
+        "tittel": "Polen melder om russisk missil på territoriet",
+        "tekst": "Polsk statsminister kaller det en provokasjon etter at et missil slo ned sørøst i Polen.",
+        "utdypning": "Polen opplyser at en russisk missil traff sørøst i landet under et angrep mot Ukraina, men at ingen ble skadet. Statsminister Donald Tusk uttalte at hendelsen ikke ser ut til å være et uhell, spesielt ettersom vestlige militærøvelser fant sted i regionen samtidig.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261119-denmark-ratifies-greenland-security-deal-after-months-of-pressure-by-trump"
+            "lenke": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
           },
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-rdf"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 5
       },
       {
-        "tittel": "Åpen for sikkerhetsgarantier til Ukraina",
-        "tekst": "USA indikerer at administrasjonen er åpen for å utvide en forsvarsgaranti tilsvarende NATO til Ukraina.",
-        "utdypning": "USAs utsending Jared Kushner uttalte at president Donald Trump er åpen for å gi Ukraina en sikkerhetsgaranti som minner om NATOs gjensidige forsvarsklausul. Samtidig understreket han at Washington må ivareta egne interesser i prosessen.",
+        "tittel": "Storbritannia og EU inngår ny avtale",
+        "tekst": "Britiske og europeiske ledere er enige om nye avtaler for handel, energi og ungdomsmobilitet.",
+        "utdypning": "Storbritannia og EU har blitt enige om en ny avtale som dekker handel, energi og ungdomsmobilitet. Britisk statsminister Andy Burnham kaller det en god dag for Europa og håper avtalene kan bøte på noe av skaden etter Brexit.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine"
+            "lenke": "https://www.france24.com/en/europe/20261120-eu-and-uk-set-to-sign-deals-on-trade-energy-youth-mobility-at-brussels-summit"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 4
       }
     ],
     "Verden": [
       {
-        "tittel": "FNs domstol: Folkemord i Myanmar",
-        "tekst": "Den internasjonale domstolen (ICJ) slår fast at Myanmar har begått folkemord mot rohingya-minoriteten.",
-        "utdypning": "I en historisk dom har ICJ opprettholdt store deler av folkemordanklagen mot Myanmar knyttet til militæroffensiven i 2017 som krevde tusenvis av liv. Domstolen krever at landet betaler erstatning og sørger for at flyktninger kan vende trygt tilbake.",
+        "tittel": "FN-domstol: Myanmar begikk folkemord på rohingyaene",
+        "tekst": "Den internasjonale domstolen (ICJ) slår fast at Myanmar er skyldig i folkemord under 2017-krisen.",
+        "utdypning": "I en historisk dom har ICJ opprettholdt store deler av folkemordsaken mot Myanmar knyttet til militæroffensiven i 2017 som krevde tusenvis av liv. Domstolen krever at landet betaler erstatning og lar flyktninger vende trygt tilbake.",
         "kilder": [
           {
             "navn": "BBC World",
@@ -206,29 +236,33 @@
         "vekt": 3
       },
       {
-        "tittel": "Toppmøte mellom Trump, Xi og Putin",
-        "tekst": "Lederne for USA, Kina og Russland har gjennomført et uvanlig trepartsmøte i forbindelse med APEC-toppmøtet.",
-        "utdypning": "USA, Kina og Russland holdt trepartssamtaler i Shenzhen i Kina. President Donald Trump omtalte møtet som historisk, mens Xi Jinping kalte det fruktbart og Vladimir Putin beskrev samtalene som åpne og ærlige, til tross for bekymringer i vestlige hovedsteder.",
+        "tittel": "Klimatoppmøtet COP31 inn i sluttfasen uten enighet",
+        "tekst": "Forhandlere er dypt uenige om fossile brennstoffer idet COP31 går inn i sine siste dager.",
+        "utdypning": "Etter nesten to uker med forhandlinger gjenstår store uenigheter på klimatoppmøtet. Et nytt utkast til sliterkler nevner ikke en utfasing av fossil energi, som regnes som hoveddriveren for global oppvarming.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-79999516?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
       },
       {
-        "tittel": "Irans balansegang mellom stormaktene",
-        "tekst": "Iran opprettholder båndene til Kina og Russland mens det økonomiske presset fra USA øker.",
-        "utdypning": "Mens Donald Trump trapper opp det økonomiske presset mot Iran, forblir Kina landets største oljekjøper og Russland en sentral partner. Begge stormaktene forsøker samtidig å balansere denne støtten mot sine bredere relasjoner med Washington.",
+        "tittel": "Det hvide hus bytter ut sjefen for cybersikkerhet",
+        "tekst": "Sean Cairncross går av som nasjonal cyberdirektør etter en uke preget av tekniske utfall.",
+        "utdypning": "Det hvite hus har skiftet ut sin sjef for cybersikkerhet etter tekniske problemer. Kirsten Davies fra Pentagon tar over stillingen midlertidig etter at forgjengeren mistet tilliten hos stabssjefen.",
         "kilder": [
           {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
+        "antall_kilder": 2,
         "vekt": 3
       }
     ]

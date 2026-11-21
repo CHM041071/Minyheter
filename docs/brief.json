@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "De rødgrønne budsjettforhandlingene på Stortinget fortsetter utover sin opprinnelige frist.",
+      "tekst": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/ap-om-budsjettforhandlingene_-fortsetter-utover-fristen-1.18086191"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes"
         }
       ]
     },
     {
-      "tekst": "Equinors oljeplattform på Visund-feltet i Nordsjøen forblir stengt ut året etter en brann.",
+      "tekst": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/equinor-brann-stenger-visund-feltet-i-nordsjoen-ut-aret-1.18085802"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
         }
       ]
     },
     {
-      "tekst": "Å Energi tapte 1,45 milliarder kroner på den feilslåtte investeringen i Morrow Batteries.",
+      "tekst": "EU, UK reach reset deal after Brexit",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/sorlandet/tapte-milliardbelop-pa-morrow_-_-mye-a-laere-av-investeringen-1.18085719"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit"
         }
       ]
     }
@@ -31,123 +31,163 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Budsjettforhandlingene fortsetter",
-        "tekst": "Stortingets budsjettforhandlinger har gått ut over fristen på kvelden. Partene arbeider videre for å komme til enighet.",
-        "utdypning": "Aps finanspolitiske talsperson Tuva Moflag opplyser til NRK at budsjettforhandlingene fortsetter utover fristen klokka 23. Moflag peker på at det er helt naturlig at uenighetene i enkelte saker blir tydeligere i denne fasen av forhandlingene. Målet til Arbeiderpartiet er å finne gode løsninger som alle de rødgrønne partiene kan stille seg bak.",
+        "tittel": "Begge mistet barn i selvmord – skuffet over at regjeringen skroter mannshelseutvalg",
+        "tekst": "Menn står for omtrent tre av fire selvmord. Likevel sier regjeringen nei til mannshelseutvalg.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/topper-selvmordsstatistikken_-regjeringa-sier-nei-til-eget-mannshelseutvalg-1.18084847"
+          },
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/video/DKNO98112026"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Flyktet fra Gaza til Norge, nå må hun reise til Ukraina",
+        "tekst": "Etter å ha bodd flere år i Norge, er det bestemt at Wardeh Makhamar skal sendes til Ukraina. Hun har utreisefrist om få dager, men håper at hun fortsatt kan få bli.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/flyktet-fra-gaza-til-norge_-na-ma-hun-reise-til-ukraina-1.18084497"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "AP om budsjettforhandlingene: Fortsetter utover fristen",
+        "tekst": "Aps finanspolitiske talsperson Tuva Moflag sier til NRK at budsjettforhandlingene fortsetter utover fristen klokka 23. – Vi fortsetter arbeidet med å komme til enighet med de rødgrønne partiene. Det er helt naturlig at uenighetene i enkelte saker …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/nyheter/ap-om-budsjettforhandlingene_-fortsetter-utover-fristen-1.18086191"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 1
       },
       {
-        "tittel": "Visund-feltet stengt ut året",
-        "tekst": "Etter en brann blir det ingen olje- og gassproduksjon på Visund-feltet i Nordsjøen før i januar.",
-        "utdypning": "Hendelsen fører til stans i all olje- og gassproduksjon på feltet ut året. Ifølge operatøren kreves det et omfattande arbeid for å utbedre skadene etter brannen før produksjonen kan starte opp igjen i januar neste år.",
+        "tittel": "Jakob Lillejordet fra Stange fikk ros fra stats­ministeren",
+        "tekst": "",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/artikkel/statsministeren-fikk-mote-jakob-lillejordet-14-fra-stange-1533634"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Equinor-brann stenger oljeplattform ut året: – Krevst eit omfattande arbeid",
+        "tekst": "Det blir ikkje noko olje- og gassproduksjon på Visund-feltet i Nordsjøen før januar neste år.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/rogaland/equinor-brann-stenger-visund-feltet-i-nordsjoen-ut-aret-1.18085802"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Tapte milliarder på Morrow",
-        "tekst": "En ny rapport viser at Å Energi tapte 1,45 milliarder kroner på sin feilslåtte investering i Morrow Batteries.",
-        "utdypning": "Rapporten slår fast at kraftselskapet har mye å lære av den uheldige investeringen. Tapet beløper seg til totalt 1,45 milliarder kroner.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/tapte-milliardbelop-pa-morrow_-_-mye-a-laere-av-investeringen-1.18085719"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "EUs planer for Norge og Arktis",
-        "tekst": "Norge trekkes fram som en sentral brikke når EU ønsker å styrke motstandskraften og kontrollen i nord.",
-        "utdypning": "Utviklingen knytter seg til at Arktis ikke lenger regnes som et lavspenningsområde. EU legger nå planer for hvordan de skal forholde seg til Norge og de nordlige havområdene i en ny sikkerhetspolitisk virkelighet.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/norge-er-en-viktig-brikke-i-eus-arktis-strategi_-_-vi-ma-bygge-motstandskraft-1.18084251"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Stortinget sier nei til likebehandling for uføre",
-        "tekst": "Stortinget avviser en umiddelbar likebehandling, men ber regjeringen utrede kuttet i uføretrygden nærmere.",
-        "utdypning": "Saken gjelder situasjonen til personer som Kjell-Robin, som avbrøt rusbehandlingen etter at uføretrygden ble kraftig kuttet til 3800 kroner i måneden. Stortinget har nå bestemt seg for å be regjeringen se nærmere på regelverket gjennom en utredning.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/far-ikke-flertall-pa-stortinget-for-a-beholde-uforetrygd-under-behandling-1.18084822"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Norwegian ber kunder sprenge bankkort",
-        "tekst": "Omkring 5 000 kunder hos flyselskapet Norwegian bes om å spærre kortene sine etter et eksternt dataintrang.",
-        "utdypning": "Dataintranget har skjedd hos en ekstern IT-leverandør som betjener flyselskapet. For å hindre misbruk blir rundt 5 000 berørte kunder umiddelbart oppfordret til å spærre sine bankkort.",
+        "tittel": "Tung premiär för Skistad – utslagen i kvartsfinal",
+        "tekst": "Norgepremiären tog slut snabbt för skidstjärnan Kristine Stavås Skistad. Sprintspecialisten åkte ut redan i kvartsfinal i Beitostölen. – Det här är inte Kristine i sin allra vassaste form – det kan vi lugnt säga, säger NRK-experten Pål Golberg.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/utrikes/norwegian-ber-5-000-kunder-sparra-sina-bankkort-efter-dataintrang"
-          },
-          {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/norwegian-beder-5-000-kunder-spaerre-kort-efter-databrud"
+            "lenke": "https://www.svt.se/sport/langdskidor/tung-premiar-for-skistad-utslagen-i-kvartsfinal"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Därför backar inte V",
+        "tekst": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Splittringen i norska damlandslaget – en dök upp på lägret: ”Extremt dåligt”",
+        "tekst": "Milla Grosberghaugen Andreassen, 21, är debutant i norska längdlandslaget. På ett försäsongsläger i Idre var hon den enda åkaren som dök upp. – Jag tycker det är extremt dåligt, säger hon till NRK.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
     "Norden": [
       {
-        "tittel": "Stor eksplosivbestilling",
-        "tekst": "Det finske militæret bestiller eksplosiver for 450 millioner euro fra finske og norsk-finske leverandører.",
-        "utdypning": "Innkjøpet av militæreksplosiver vil bli hentet fra en finsk-norwegisk samt en annen finsk bedrift. Ordren har en samlet verdi på 450 millioner euro.",
+        "tittel": "Economist optimistic over inflation fall",
+        "tekst": "All the conditions are in place for inflation to fall rapidly at the beginning of next year, according to Kvika banki's chief economist, although achieving this will require sacrifices. Central Bank Governor Ásgeir Jónsson discussed the latest …",
+        "utdypning": "",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20257988?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-20-economist-optimistic-over-inflation-fall-493357/"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       },
       {
-        "tittel": "Mel tilbakekalles i Norden",
-        "tekst": "Islandske matmyndigheter advarer mot mel som inneholder mykotoksiner over tillatte grenseverdier.",
-        "utdypning": "Produktet er importert fra den danske produsenten Valsemöllen A/S og solgt under merkevarene Kornax, First Price og Euroshopper. Tilbakemeldingen gjelder varer med best-before-datoer i september, og distributøren Kornax har sendt melet til større dagligvarebutikker over hele Island.",
+        "tittel": "Flour recalled over mycotoxin contamination",
+        "tekst": "Matvælastofnun (MAST, Icelandic Food and Veterinary Authority) has issued a warning about flour containing mycotoxins above permitted levels. All the flour comes from the same manufacturer, the Danish company Valsemöllen A/S. It has been imported …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "RÚV English",
             "lenke": "https://www.ruv.is/english/2026-11-20-flour-recalled-over-mycotoxin-contamination-493410/"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Finland's military ordering €450m in explosives",
+        "tekst": "The procurements will be sourced from a Finnish-Norwegian firm as well as from a Finnish company.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20257988?origin=rss"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
     "Europa": [
       {
-        "tittel": "Polsk statsminister anklager Russland for provokasjon",
-        "tekst": "Polen melder at en russisk missil traff sørøstlige deler av landet under et angrep mot Ukraina, uten å gjøre skade.",
-        "utdypning": "Statsminister Donald Tusk uttaler at hendelsen ikke virker å være et uhell, særlig med tanke på at vestlige militærøvelser fant sted i regionen samtidig. Polske myndigheter undersøkte tidligere rapporter om at minst to ukjente objekter hadde falt ned nær grensen til Ukraina. Ingen personer kom til skade i hendelsen.",
+        "tittel": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
+        "tekst": "A Russian tech firm backed by an oligarch close to President Vladimir Putin has secretly been collecting data from hundreds of thousands – possibly millions – of Swedes, a newspaper investigation found. The revelation has rattled the Nordic nation, …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
+        "tekst": "Poland on Friday said that no one was hurt after what Warsaw alleged was a Russian missile hit southeast Poland during an attack on Ukraine. Polish authorities earlier said they were investigating reports that at ​least two unknown objects had …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
@@ -158,66 +198,66 @@
             "lenke": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 5
+        "antall_kilder": 2
       },
       {
-        "tittel": "EU og Storbritannia i brexit-avtale",
-        "tekst": "EU og Storbritannia har inngått en omfattende avtale for å gjenoppbygge relasjonene etter Brexit.",
-        "utdypning": "Avtalen ble inngått under et toppmøte i Brussel på fredag. Den dekker sentrale områder som enklere kontroller ved mathandel, et nytt ungdomsmobilitetsprogram og felles kvoter for karbonutslipp. Ledere på begge sider roser enigheten som en ny start for samarbeidet.",
+        "tittel": "EU, UK reach reset deal after Brexit",
+        "tekst": "The UK and the EU signed three agreements on Friday at a summit in Brussels, marking a new effort to reset post-Brexit relations. The deals aim to reduce red tape for food exports, link emissions trading schemes and allow tens of thousands of young …",
+        "utdypning": "",
         "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit"
+          },
           {
             "navn": "DW",
             "lenke": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-eu-2092-rdf"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 4
+        "antall_kilder": 2
       }
     ],
     "Verden": [
       {
-        "tittel": "Europa åpner for samtaler med Russland",
-        "tekst": "Europeiske ledere melder om en samlet forhandlingsposisjon for å få en slutt på krigen i Ukraina.",
-        "utdypning": "Under et toppmøte i Berlin uttalte Tysklands rikskansler Friedrich Merz at europeiske ledere kan delta i nye Ukraina-samtaler på «nøytral grunn» innen kort tid. Både Storbritannia og EU-landene har presset på for å få en fast plass ved forhandlingsbordet i dialogen mellom USA, Russland og Ukraina.",
+        "tittel": "Germany news: Support for Ukraine military aid waning, survey shows",
+        "tekst": "Nearly half of Germany's population wants to reduce military aid to Ukraine, a survey has found. Meanwhile, German consumers are set to pay more in energy bills next year due in part to the Iran war. DW has more.",
+        "utdypning": "",
         "kilder": [
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "antall_kilder": 1
       },
       {
-        "tittel": "Trilateral fredserklæring fra APEC",
-        "tekst": "Lederne fra USA, Kina og Russland har gjennomført et historisk møte og lagt fram en felles fredserklæring.",
-        "utdypning": "Toppmøtet under APEC-samlingen markerte den første tresidige diskusjonen mellom USAs president Trump, Kinas president Xi og Russlands president Putin. Partene diskuterte blant annet den russiske invasjonen av Ukraina samt kontroll over atomvåpen.",
+        "tittel": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
+        "tekst": "Ukrainian President Volodymyr Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland has said its airspace was violated in the process. Follow DW.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 3
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "tekst": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1
       }
     ]
   },
   "folg_med": [],
   "senere": [],
-  "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modus": "regler",
+  "modell": ""
 }

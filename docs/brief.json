@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
+      "tekst": "Stortinget og de rødgrønne partiene forhandler om statsbudsjettet på overtid etter at fristen har passert.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/ap-om-budsjettforhandlingene_-fortsetter-utover-fristen-1.18086191"
         }
       ]
     },
     {
-      "tekst": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
+      "tekst": "Visund-feltet i Nordsjøen stenges ut året etter en brann, noe som stanser all olje- og gassproduksjon der.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/rogaland/equinor-brann-stenger-visund-feltet-i-nordsjoen-ut-aret-1.18085802"
         }
       ]
     },
     {
-      "tekst": "EU, UK reach reset deal after Brexit",
+      "tekst": "Flyplassavgiftene har økt kraftig på tre år, og Senterpartiet peker på taxfree-kvoten for å snu den økonomiske trenden.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/hoge-flyplassavgifter-i-nord_-ap-opnar-dora-pa-glott-om-taxfree-kvoten-1.18086222"
         }
       ]
     }
@@ -31,179 +31,126 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Begge mistet barn i selvmord – skuffet over at regjeringen skroter mannshelseutvalg",
-        "tekst": "Menn står for omtrent tre av fire selvmord. Likevel sier regjeringen nei til mannshelseutvalg.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nordland/topper-selvmordsstatistikken_-regjeringa-sier-nei-til-eget-mannshelseutvalg-1.18084847"
-          },
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/video/DKNO98112026"
-          }
-        ],
-        "antall_kilder": 2
-      },
-      {
-        "tittel": "Flyktet fra Gaza til Norge, nå må hun reise til Ukraina",
-        "tekst": "Etter å ha bodd flere år i Norge, er det bestemt at Wardeh Makhamar skal sendes til Ukraina. Hun har utreisefrist om få dager, men håper at hun fortsatt kan få bli.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/flyktet-fra-gaza-til-norge_-na-ma-hun-reise-til-ukraina-1.18084497"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "AP om budsjettforhandlingene: Fortsetter utover fristen",
-        "tekst": "Aps finanspolitiske talsperson Tuva Moflag sier til NRK at budsjettforhandlingene fortsetter utover fristen klokka 23. – Vi fortsetter arbeidet med å komme til enighet med de rødgrønne partiene. Det er helt naturlig at uenighetene i enkelte saker …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/ap-om-budsjettforhandlingene_-fortsetter-utover-fristen-1.18086191"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Jakob Lillejordet fra Stange fikk ros fra stats­ministeren",
-        "tekst": "",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/artikkel/statsministeren-fikk-mote-jakob-lillejordet-14-fra-stange-1533634"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Equinor-brann stenger oljeplattform ut året: – Krevst eit omfattande arbeid",
-        "tekst": "Det blir ikkje noko olje- og gassproduksjon på Visund-feltet i Nordsjøen før januar neste år.",
-        "utdypning": "",
+        "tittel": "Visund-feltet stenges ut året etter brann",
+        "tekst": "Det blir ingen olje- og gassproduksjon på Visund-feltet i Nordsjøen før i januar etter en brann.",
+        "utdypning": "Det vil ikke bli produsert olje eller gass på Visund-feltet i Nordsjøen før i januar neste år. Årsaken er en tidligere brann som gjør at det kreves et omfattende arbeid før feltet kan åpne igjen.",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/rogaland/equinor-brann-stenger-visund-feltet-i-nordsjoen-ut-aret-1.18085802"
           }
         ],
-        "antall_kilder": 1
-      }
-    ],
-    "Skandinavia": [
-      {
-        "tittel": "Tung premiär för Skistad – utslagen i kvartsfinal",
-        "tekst": "Norgepremiären tog slut snabbt för skidstjärnan Kristine Stavås Skistad. Sprintspecialisten åkte ut redan i kvartsfinal i Beitostölen. – Det här är inte Kristine i sin allra vassaste form – det kan vi lugnt säga, säger NRK-experten Pål Golberg.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/sport/langdskidor/tung-premiar-for-skistad-utslagen-i-kvartsfinal"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 5
       },
       {
-        "tittel": "Därför backar inte V",
-        "tekst": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för …",
-        "utdypning": "",
+        "tittel": "Budsjettforhandlingene fortsetter på overtid",
+        "tekst": "Arbeiderpartiet opplyser at budsjettforhandlingene med de rødgrønne partiene fortsetter utover den opprinnelige fristen.",
+        "utdypning": "Aps finanspolitiske talsperson Tuva Moflag bekrefter at arbeidet fortsetter etter klokken 23. Moflag forklarer at det er naturlig at uenigheter blir tydeligere i denne fasen, men at målet er å finne gode løsninger alle partier kan stille seg bak.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/ap-om-budsjettforhandlingene_-fortsetter-utover-fristen-1.18086191"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 5
       },
       {
-        "tittel": "Splittringen i norska damlandslaget – en dök upp på lägret: ”Extremt dåligt”",
-        "tekst": "Milla Grosberghaugen Andreassen, 21, är debutant i norska längdlandslaget. På ett försäsongsläger i Idre var hon den enda åkaren som dök upp. – Jag tycker det är extremt dåligt, säger hon till NRK.",
-        "utdypning": "",
+        "tittel": "Debatt om flyplassavgifter og taxfree",
+        "tekst": "Prisene for å bruke norske flyplasser har økt med 75 prosent på tre år, og Senterpartiet vil vurdere taxfree-kvoten.",
+        "utdypning": "Prisveksten på norske flyplasser bekymrer Senterpartiet, som frykter svenske tilstander i lufta. Partiet mener en endring i taxfree-kvoten kan bidra til å snu økonomien, et grep Arbeiderpartiet ikke avviser.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/sport/langdskidor/splittringen-i-norska-damlandslaget-en-dok-upp-pa-lagret-extremt-daligt"
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/hoge-flyplassavgifter-i-nord_-ap-opnar-dora-pa-glott-om-taxfree-kvoten-1.18086222"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Likestillingsombudet etterlyser helsetiltak for menn",
+        "tekst": "Likestillingsombudet savner konkrete tiltak fra regjeringen for gutters og menns helse.",
+        "utdypning": "Ombudet krever handling og ønsker blant annet selvmordsforebygging inn i skolen. I tillegg foreslås egne samtaler med fedre på helsestasjonen.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nordland/etterlyser-mer-handling-for-gutters-og-menns-helse-1.18086324"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
+    "Skandinavia": [],
     "Norden": [
       {
-        "tittel": "Economist optimistic over inflation fall",
-        "tekst": "All the conditions are in place for inflation to fall rapidly at the beginning of next year, according to Kvika banki's chief economist, although achieving this will require sacrifices. Central Bank Governor Ásgeir Jónsson discussed the latest …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-20-economist-optimistic-over-inflation-fall-493357/"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Flour recalled over mycotoxin contamination",
-        "tekst": "Matvælastofnun (MAST, Icelandic Food and Veterinary Authority) has issued a warning about flour containing mycotoxins above permitted levels. All the flour comes from the same manufacturer, the Danish company Valsemöllen A/S. It has been imported …",
-        "utdypning": "",
+        "tittel": "Melkilde trekkes tilbake i Island grunnet giftstoffer",
+        "tekst": "Islandske matmyndigheter advarer mot mel fra danske Valsemöllen A/S etter funn av muggsoppgift.",
+        "utdypning": "Matvælastofnun har utstedt en advarsel om mel som inneholder mykotoksiner over tillatte grenseverdier. Melen er importert fra Danmark og solgt under merkene Kornax, First Price og Euroshopper med holdbarhetsdato i september.",
         "kilder": [
           {
             "navn": "RÚV English",
             "lenke": "https://www.ruv.is/english/2026-11-20-flour-recalled-over-mycotoxin-contamination-493410/"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       },
       {
-        "tittel": "Finland's military ordering €450m in explosives",
-        "tekst": "The procurements will be sourced from a Finnish-Norwegian firm as well as from a Finnish company.",
-        "utdypning": "",
+        "tittel": "Alvorlig dataangrep rammer islandske nettsider",
+        "tekst": "Hosting-selskapet 1984 ehf. stengte alle tjenester etter et omfattende og profesjonelt dataangrep.",
+        "utdypning": "Selskapets sjef opplyser at velfinansierte aktører sto bak angrepet som rammet en stor del av islandske nettsteder. Tjenestene ble midlertidig stengt for å sikre kundenes data og gjenopprettes gradvis.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20257988?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411/"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Statistikk viser lavinntekt på Island",
+        "tekst": "Omtrent 8,5 prosent av den islandske befolkningen levde under lavinntektsgrensen, viser ny statistikk.",
+        "utdypning": "Hagstofa Íslands har lagt fram en ny analyse som viser at om lag 34.000 personer tilhører husholdninger med inntekt under 60 prosent av medianen. Andelen har svingt mellom 7,4 og 9,0 prosent de siste fem årene.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-20-85-of-icelands-population-lives-below-low-income-threshold-493413/"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
-        "tekst": "A Russian tech firm backed by an oligarch close to President Vladimir Putin has secretly been collecting data from hundreds of thousands – possibly millions – of Swedes, a newspaper investigation found. The revelation has rattled the Nordic nation, …",
-        "utdypning": "",
+        "tittel": "Russisk angrep mot Zelenskyjs hjemby og nye kamper",
+        "tekst": "Et russisk rakettangrep mot Ukrainas president Volodymyr Zelenskyjs hjemby krevde to liv, mens kampene og angrepene fortsetter.",
+        "utdypning": "Angrepet på Kryvyj Rih drepte to og såret flere, kort tid etter at Russland lovet et smertefullt svar på ukrainske angrep mot Kerch-broen. Russiske styrker har også gjennomført store angrep mot broer og jernbanestasjoner i Kyiv. Zelenskyj gjentok sitt ønske om NATO-medlemskap og forsvarssamarbeid.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Poland's Tusk denounces Russian 'provocation' after Warsaw says missile hit territory",
-        "tekst": "Poland on Friday said that no one was hurt after what Warsaw alleged was a Russian missile hit southeast Poland during an attack on Ukraine. Polish authorities earlier said they were investigating reports that at ​least two unknown objects had …",
-        "utdypning": "",
-        "kilder": [
+            "lenke": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
+          },
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine"
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-eu-2092-rdf"
           },
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2
+        "antall_kilder": 3,
+        "vekt": 5
       },
       {
-        "tittel": "EU, UK reach reset deal after Brexit",
-        "tekst": "The UK and the EU signed three agreements on Friday at a summit in Brussels, marking a new effort to reset post-Brexit relations. The deals aim to reduce red tape for food exports, link emissions trading schemes and allow tens of thousands of young …",
-        "utdypning": "",
+        "tittel": "EU og Storbritannia enige om post-Brexit-avtaler",
+        "tekst": "Partene har signert tre avtaler i Brussel for å redusere byråkrati og knytte sammen klimakvoter.",
+        "utdypning": "Avtalene omfatter enklere matvareeksport, samkjøring av utslippshandel og en ordning som gir unge mennesker friere bevegelser mellom Storbritannia og EU. Britisk statsminister Andy Burnham omtaler Brexit som en feilslått politikk som krever tettere bånd, noe EU-kritikere advarer mot.",
         "kilder": [
           {
             "navn": "France 24",
@@ -214,50 +161,75 @@
             "lenke": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-eu-2092-rdf"
           }
         ],
-        "antall_kilder": 2
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "Russisk skip i brann etter droneangrep i Finska viken",
+        "tekst": "Et russisk lasteskip knyttet til militær logistikk ble treffet av droner og drev inn i finsk farvann.",
+        "utdypning": "Finske forsvarsstyrker og eksperter peker på at Ukraina sto bak droneangrepet mot lasteskipet Sparta II i Østersjøen. Skipet tok fyr og ble evakuert, og hendelsen knyttes også til en mulig finsk luftromskrenkelse av et russisk helikopter.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Germany news: Support for Ukraine military aid waning, survey shows",
-        "tekst": "Nearly half of Germany's population wants to reduce military aid to Ukraine, a survey has found. Meanwhile, German consumers are set to pay more in energy bills next year due in part to the Iran war. DW has more.",
-        "utdypning": "",
+        "tittel": "Måling i Tyskland viser synkende støtte til militærhjelp",
+        "tekst": "Nesten halvparten av den tyske befolkningen ønsker mindre militær støtte til Ukraina, ifølge en ny undersøkelse.",
+        "utdypning": "Samtidig meldes det at tyske forbrukere vil få høyere energiregninger neste år, blant annet som følge av krigen knyttet til Iran.",
         "kilder": [
           {
             "navn": "DW World",
             "lenke": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       },
       {
-        "tittel": "Ukraine updates: Russian attack 'one of largest,' Zelenskyy says",
-        "tekst": "Ukrainian President Volodymyr Zelenskyy said Russia launched one of the largest aerial attacks since the invasion began. Poland has said its airspace was violated in the process. Follow DW.",
-        "utdypning": "",
+        "tittel": "Klimatoppmøtet COP31 på overtid uten enighet",
+        "tekst": "FNs klimatoppmøte har gått på overtid etter at landene ikke har klart å bli enige om en slutterklæring.",
+        "utdypning": "Forhandlingene har vart i nesten to uker uten at deltakerne er kommet til en konklusjon. Et nytt utkast til erklæring nevner ikke utfasing av fossil energi, som regnes som hoveddriveren for global oppvarming.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       },
       {
-        "tittel": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-        "tekst": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-        "utdypning": "",
+        "tittel": "Mann dømt for dødelig skogbrann i Los Angeles",
+        "tekst": "En 30-åring er kjent skyldig i mordbrann som startet en av de mest ødeleggende skogbrannene i Los Angeles.",
+        "utdypning": "Dommen falt i en gjenopptatt rettssak etter brannen i 2025, som krevde 12 menneskeliv og la mer enn 6800 bygninger i aske.",
         "kilder": [
           {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf"
+          },
+          {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 2,
+        "vekt": 3
       }
     ]
   },
   "folg_med": [],
   "senere": [],
-  "modus": "regler",
-  "modell": ""
+  "modus": "ai",
+  "modell": "gemini-3.5-flash-lite"
 }

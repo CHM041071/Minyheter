@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Et russisk lasteskip i Finska viken ble truffet av drønare og tok fyr, noe som knyttes til krigen i Ukraina.",
+      "tekst": "Høyre og SV krever lovendring og strengere regler for tilbydere av botox og fillers i Norge.",
       "kilder": [
         {
-          "navn": "BBC",
-          "lenke": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/dokumentar/krev-lovendring-etter-brennpunkt-dokumentar-1.18085794"
         }
       ]
     },
     {
-      "tekst": "Tromsø lufthavn ble midlertidig evakuert etter at en lighter formet som en håndgranat ble oppdaget i sikkerhetskontrollen.",
+      "tekst": "Sjømannsforbundet advarer om at kortere kontrakter kan svekke Kystruten mellom Bergen og Kirkenes.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/tromsogfinnmark/sjomannsforbundet-frykter-regjeringen-vil-svekke-kystruten-1.18086256"
+        }
+      ]
+    },
+    {
+      "tekst": "Tromsø lufthavn ble midlertidig evakuert etter at en lighter formet som en håndgranat ble funnet.",
       "kilder": [
         {
           "navn": "NRK",
           "lenke": "https://www.nrk.no/nyheter/tromso-lufthavn-ble-evakuert---falsk-alarm-1.18086630"
-        }
-      ]
-    },
-    {
-      "tekst": "EU og Indonesia har signert en omfattende handelsavtale etter ti år med forhandlinger.",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations"
         }
       ]
     }
@@ -31,13 +31,13 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Tromsø lufthavn evakuert",
-        "tekst": "Tromsø lufthavn Langnes ble evakuert etter funn av en mistenkelig gjenstand i sikkerhetskontrollen, som viste seg å være en lighter.",
-        "utdypning": "Ansatte ved Tromsø lufthavn Langnes varslet politiet etter å ha oppdaget en gjenstand formet som en håndgranat i røntgenmaskinen under bagasjeskanningen. Flyplassen ble umiddelbart evakuert, men evakueringen ble senere opphevet da det ble klart at gjenstanden var en lighter. Eieren av lighteren, en mann i 40-årene, er anmeldt av politiet.",
+        "tittel": "Vil ha strengere regler for botox og fillers",
+        "tekst": "Høyre og SV krever lovendring etter at det kommer frem at ingen har full oversikt over tilbydere av botox og fillers i Norge.",
+        "utdypning": "Etter avsløringer om at markedet for kosmetiske behandlinger mangler oversikt, krever Høyre og SV at Norge innfører strengere regler etter mønster fra Sverige og Danmark. Partiene mener regelverket må strammes inn for å sikre bedre kontroll og forbrukervern.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/tromso-lufthavn-ble-evakuert---falsk-alarm-1.18086630"
+            "lenke": "https://www.nrk.no/dokumentar/krev-lovendring-etter-brennpunkt-dokumentar-1.18085794"
           }
         ],
         "antall_kilder": 1,
@@ -45,8 +45,8 @@
       },
       {
         "tittel": "Frykter svekkelse av Kystruten",
-        "tekst": "Sjømannsforbundet advarer mot at kortere kontrakter for Kystruten kan svekke tilbudet mellom Bergen og Kirkenes.",
-        "utdypning": "Forslaget om å innføre kortere kontrakter for Kystruten møter kraftig motstand fra Sjømannsforbundet. Organisasjonen frykter at disse endringene vil fungere som det første steget mot en gradvis svekkelse av det tradisjonelle sjøtransport- og reiselivstilbudet som opererer mellom Bergen og Kirkenes.",
+        "tekst": "Sjømannsforbundet advarer mot regjeringens forslag om kortere kontrakter for Kystruten.",
+        "utdypning": "Forslaget om kortere kontrakter for Kystruten mellom Bergen og Kirkenes møter sterk motstand. Sjømannsforbundet frykter at endringene kan bli det første steget mot en gradvis svekkelse av det viktige transport- og /$tilbudet langs kysten.",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -55,34 +55,43 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Tromsø lufthavn evakuert grunnet lighter",
+        "tekst": "Tromsø lufthavn Langnes ble kortvarig evakuert søndag etter funn av en mistenkelig gjenstand i sikkerhetskontrollen.",
+        "utdypning": "Ansatte oppdaget en gjenstand formet som en håndgranat i en røntgenmaskin. Det viste seg å være en lighter, og evakueringen ble raskt hevet. Eieren av gjenstanden, en mann i 40-årene, er anmeldt av politiet.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/tromso-lufthavn-ble-evakuert---falsk-alarm-1.18086630"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Russisk lasteskip angrepet i Finska viken",
-        "tekst": "Et russisk lasteskip ble rammet av en drøneaktig angrep i Østersjøen og drev inn i finsk farvann med brann om bord.",
-        "utdypning": "De finske forsvarsstyrken antyder at Ukraina sannsynligvis sto bak drøneangrepet mot lasteskipet Sparta II i Finska viken lørdag. Skipet, som er knyttet til et større russisk militært logistikkselskap og står på USAs sanksjonsliste, ble evakuert mens slukningsarbeidet pågikk. Hendelsen har ført til at Finland advarer om at krigen i Ukraina smitter over på nabolandene.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Advarer om at Europa ikke er rede",
-        "tekst": "En tidligere amerikansk general mener Nato og Sverige er uforberedt på det ventede russiske luftkrigen.",
-        "utdypning": "Ben Hodges, den tidligere sjefen for USA i Europa, uttrykker i en minidokumentar på SVT Play sterk bekymring for det europeiske luftforsvaret. Han advarer om at Russland vil ta i bruk missiler, drønare og glidbomber for å ødelegge infrastruktur i en eventuell væpnet konflikt, og at verken Nato eller Sverige er tilstrekkelig forberedt på en slik offensiv.",
+        "tittel": "Advarer om at Europa ikke er klart for russisk luftkrig",
+        "tekst": "Tidligere toppsjef advarer om at verken Nato eller Sverige har et luftforsvar som er godt nok forberedt.",
+        "utdypning": "I en minidokumentar på SVT Play advarer Ben Hodges, tidligere sjef for USA sin armé i Europa, om at Nato og Sverige er dårlig forberedt på en eventuell væpnet konflikt. Han peker på utstrakt bruk av missiler, drönare og glidbomber rettet mot infrastruktur.",
         "kilder": [
           {
             "navn": "SVT",
             "lenke": "https://www.svt.se/nyheter/inrikes/ex-generalens-kritik-europa-inte-redo-for-rysslands-luftkrig"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Slukningsarbeid pågår etter droneangrep i Finska viken",
+        "tekst": "Innsatsen for å slukke det ryskflaggede skipet som ble angrepet av en drone pågår fortsatt.",
+        "utdypning": "Hendinga i Finska viken blir av SVTs sikkerhetsreporter betegnet som nok et tegn på at krigen i Ukraina kommer nærmere de nordiske nærområdene. Eksperter advarer om at denne typen utvikling kan komme til å fortsette fremover.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/utrikes/fartyget-i-finska-viken-annu-inte-slackt"
           }
         ],
         "antall_kilder": 1,
@@ -92,9 +101,9 @@
     "Norden": [],
     "Europa": [
       {
-        "tittel": "EU og Indonesia signerer handelsavtale",
-        "tekst": "EU og Indonesia har signert en stor handelsavtale som fjerner nesten alle tollsatser etter ti års forhandlinger.",
-        "utdypning": "Avtalen fjerner 98,5 prosent av tollen mellom EU og Sørøst-Asias største økonomi. For EU sikrer den tilgang til et marked på 280 millioner mennesker samt en mer stabil forsyning av nikkel til batterier, mens Indonesia får enklere eksport av palmeolje, tekstiler og fottøy før landets nåværende EU-handelspreferanser utløper 1. januar. Avtalen dekker totalt rundt 730 millioner mennesker og skal bidra til å diversifisere EUs handelsforbindelser.",
+        "tittel": "EU og Indonesia signerer stor handelsavtale",
+        "tekst": "EU og Indonesia har signert en omfattende handelsavtale som fjerner nesten all toll etter ti års forhandlinger.",
+        "utdypning": "Avtalen fjerner 98,5 prosent av tollen mellom EU og Sørøst-Asias største økonomi. For EU sikrer den tilgang til et marked på 280 millioner mennesker og en stabil tilførsel av nikkel til batterier, samtidig som Indonesia får enklere eksport av blant annet palmeolje.",
         "kilder": [
           {
             "navn": "France 24",
@@ -105,55 +114,37 @@
         "vekt": 4
       },
       {
-        "tittel": "Russisk angrep på Zelenskyjs hjemby",
-        "tekst": "Et russisk rakettangrep mot President Volodymyr Zelenskyjs hjemby i Ukraina drepte to personer og skadet flere.",
-        "utdypning": "Angrepet med ballistisk missil rammet sentrale Ukraina lørdag og krevde to menneskeliv, i tillegg til at titalls personer ble skadet. Angrepene kommer i kjølvannet av Russlands løfter om en smertefull respons på ukrainske angrep mot Kerch-broen ved Krim. I etterkant av hendelsen gjentok Zelenskyj Ukrainas mål om å bli medlem av Nato, som svar på forslag om å gi landet sikkerhetsgarantier.",
+        "tittel": "COP31 avsluttes uten enighet om fossile brennstoffer",
+        "tekst": "Klimatoppmøtet COP31 har brutt sammen etter intense forhandlinger og dyp uenighet om avvikling av olje, kull og gass.",
+        "utdypning": "Forhandlingene strakte seg utover den opprinnelige fristen i det som ble det lengste toppmøtet i historien. Deltakerne klarte ikke å komme til enighet om finansiering av sårbare land eller en felles plan for å fase ut fossil energi, noe som har vakt sterke reaksjoner fra europeiske land og øystater.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
           },
           {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-eu-2092-rdf"
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
-      }
-    ],
-    "Verden": [
+        "vekt": 3
+      },
       {
-        "tittel": "Klimatoppmøtet i overtid",
-        "tekst": "Klimatoppmøtet COP31 er på overtid etter at EU og andre har avvist et utkast som utelater fossil energi.",
-        "utdypning": "Forhandlingene på klimatoppmøtet har strukket seg inn i sin andre dag på overtid til tross for uker med forberedelser. Nasjonene er dypt splittet over et utkast til sluttdiagnose som ikke nevner fossil energi, hovedårsaken til den globale oppvarmingen.",
+        "tittel": "Nye demonstrasjoner mot levekostnader i Europa",
+        "tekst": "Søndag markerer den tredje dagen på rad med omfattende protester mot økte levekostnader og bolignød i flere europeiske land.",
+        "utdypning": "Demonstrasjonene strekker seg fra Portugal til Frankrike, der det har vært protester seks helger på rad. Misnøyen retter seg særlig mot økende økonomisk ulikhet og svekkede offentlige tjenester.",
         "kilder": [
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/cop31-climate-deal-in-doubt-as-eu-others-reject-draft-declaration/live-79999516?maca=en-rss-en-all-1573-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services"
           }
         ],
         "antall_kilder": 1,
         "vekt": 3
-      },
-      {
-        "tittel": "Dødelig brann i indonesisk fabrikk",
-        "tekst": "Minst tre personer omkom og flere titalls er savnet etter en voldsom brann på en godterifabrikk i Indonesia.",
-        "utdypning": "Brannen brøt ut på en konfektyrfabrikk i Banten-provinsen i Indonesia og la store deler av anlegget i ruin. Minst tre personer mistede livet i flammene, og 36 personer er fremdeles ikke gjort rede for i kjølvannet av katastrofen.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
       }
-    ]
+    ],
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

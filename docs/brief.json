@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Vår Energi kjøper ConocoPhillips sin norske virksomhet i et historisk oljeoppkjøp.",
+      "tekst": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/var-energi-kjoper-conocophillips_-norske-virksomhet-1.18086906"
+          "navn": "BBC",
+          "lenke": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
     {
-      "tekst": "De rødgrønne partiene fortsetter mandag forhandlingene om neste års statsbudsjett.",
+      "tekst": "Ukraine claims it sank Russian warship off Libya",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/de-rodgronne-partiene-fortsetter-budsjettforhandlinger-mandag-1.18086872"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
         }
       ]
     },
     {
-      "tekst": "Fem personer ble hentet med helikopter etter et nødsignal fra et fiskefartøy i Skagerak.",
+      "tekst": "Ingen utsatt frist for de rødgrønne: Må avklare innen onsdag",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/sorlandet/nodsignal-fra-fiskefartoy-i-skagerak_-personer-plukket-opp-1.18087369"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741"
         }
       ]
     }
@@ -31,35 +31,61 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Vår Energi kjøper ConocoPhillips i Norge",
-        "tekst": "Amerikanske ConocoPhillips selger sin norske virksomhet til Vår Energi.",
-        "utdypning": "Amerikanske ConocoPhillips har vært med på Norges oljeeventyr fra starten. Nå kjøper Vår Energi selskapets norske virksomhet i det som beskrives som et historisk oppkjøp.",
+        "tittel": "Ingen utsatt frist for de rødgrønne: Må avklare innen onsdag",
+        "tekst": "Finanskomiteen på Stortinget fastholder at fristen for å melde inn politiske forslag og omprioriteringer til statsbudsjettet utløper klokken 10 i morgen, onsdag. Komiteen hadde et kort møte i dag klokken 13, der det ikke ble gjort endringer i …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/var-energi-kjoper-conocophillips_-norske-virksomhet-1.18086906"
+            "lenke": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 1
       },
       {
-        "tittel": "Videre budsjettforhandlinger",
-        "tekst": "De rødgrønne partiene må fortsette forhandlingene om statsbudsjettet etter uenighet søndag kveld.",
-        "utdypning": "Etter at de rødgrønne partiene ikke klarte å lande en avtale om neste års statsbudsjett søndag kveld, må de fortsette forhandlingene mandag. Finanskomiteen skal avgi innstilling til neste års statsbudsjett 30. november. I forhandlingene har særlig striden stått om klimatiltak og drivstoffavgifter, men det har også vært rivninger om den samlede pengebruken og hvordan økte utgifter skal finansieres.",
+        "tittel": "To menn pågrepet i Sverige: – Det har vært en konflikt",
+        "tekst": "Raskt samarbeid med svensk og finsk politi sikret at de to siktede personene ble pågrepet i Sverige et halvt døgn etter voldshendelsen i Alta. Politiet tror ikke det er snakk om kriminelle nettverk.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/to-menn-ble-pagrepet-i-sverige-etter-voldshendelse-i-alta_-_-ikke-gjengoppgjor-1.18087751"
+          },
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/to-siktet-for-drapsforsok-etter-voldshendelse-i-alta-_-pagrepet-i-sverige-1.18087408"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Equinor med gigantisk gassavtale – lengste på 40 år",
+        "tekst": "Norge skal levere gass til Tyskland i lang tid fremover. I dag signerte Equinor nok en gigaavtale for europeisk energiforsyning.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/de-rodgronne-partiene-fortsetter-budsjettforhandlinger-mandag-1.18086872"
+            "lenke": "https://www.nrk.no/rogaland/equinor-med-gigantisk-gassavtale-med-tyske-vng-_-lengste-avtalen-siden-1986-1.18086945"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 5
+        "antall_kilder": 1
       },
       {
-        "tittel": "Redningsaksjon i Skagerak",
-        "tekst": "Fem personer ble hentet med helikopter etter at et fiskefartøy sendte ut nødsignal i Skagerak.",
-        "utdypning": "Hovedredningssentralen i Sør-Norge mottok nødsignal fra et fiskefartøy i Skagerak. De fem personene om bord ble fraktet til Danmark med helikopter.",
+        "tittel": "Fleirtal vil droppe klimaregel: – Kan ikkje øydelegge ein flyplass",
+        "tekst": "Agder fylkeskommune ber tilsette om å bruke tog på reise. No vil eit fleirtal av samferdselspolitikarane opne for at dei i staden kan fly.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/fleirtal-vil-droppe-klimarad_-tilsette-skal-kunne-fly-til-oslo-1.18087856"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Nødsignal fra fiskefartøy i Skagerak: – Vil bli fraktet til Danmark",
+        "tekst": "Hovedredningssentralen i Sør-Norge har mottatt nødsignal fra et fiskefartøy i Skagerak.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "NRK Norge",
@@ -70,31 +96,110 @@
             "lenke": "https://www.dr.dk/nyheder/seneste/noedsignal-fra-dansk-baad-i-skagerak-fem-personer-hentet-med-helikopter"
           }
         ],
-        "antall_kilder": 2,
-        "vekt": 5
+        "antall_kilder": 2
       }
     ],
-    "Skandinavia": [],
+    "Skandinavia": [
+      {
+        "tittel": "Klart: Senegal tilldelas Afcon-titeln",
+        "tekst": "Det blev rörigt när Afcon avgjordes i början av året. Nu har Senegal tilldelats titeln igen, bekräftar Idrottens skiljedomstol.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/sport/fotboll/klart-senegal-tilldelas-afcon-titeln"
+          },
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-all-1573-rdf"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Högsta domstolen: Elsparkcykelföretag måste ha polistillstånd",
+        "tekst": "Det är olagligt att ställa ut elsparkcyklar för uthyrning utan polistillstånd. Det här slår Högsta domstolen, HD, fast i en vägledande dom som gäller Gävle kommun och elsparkföretaget Ryde.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/gavleborg/hogsta-domstolen-elsparkcykelforetag-maste-ha-polistillstand"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Tidigare V-toppen om samarbetet med S: ”Göran Persson hånade mig”",
+        "tekst": "Vänsterpartiet har blivit erbjudna tjänstemän i regeringskansliet och statssekreterare men tydligt sagt nej. Tidigare mandatperioder som stödparti till S har gett känslan av att man blivit lurad. – Man kände sig som en gäst, en främling, säger Johan …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/tidigare-v-toppen-om-samarbetet-med-s-goran-persson-hanade-mig"
+          }
+        ],
+        "antall_kilder": 1
+      }
+    ],
     "Norden": [
       {
-        "tittel": "Brennende lasteskip tauet til Russland",
-        "tekst": "Det russiske skipet Sparta II ble truffet av en drone og drev inn i finsk farvann.",
-        "utdypning": "Lasteskipet Sparta II var på vei til Russlands eksklave Kaliningrad da det ble truffet av en drone. Skipet tok fyr og drev inn i Finlands territorialwaters før Russland hentet det ut.",
+        "tittel": "Natural History Museum to merge with Institute of Natural History",
+        "tekst": "The poor financial position of Náttúruminjasafn Íslands (the Icelandic Museum of Natural History) appears to be one of the principal reasons behind the government's desire to merge it with Náttúrufræðistofnun (the Natural Science Institute of …",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-24-natural-history-museum-to-merge-with-institute-of-natural-history-493632/"
+          }
+        ],
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Finland seeks 'cyber soldiers' for new conscript training programme",
+        "tekst": "The training is designed to counter information warfare.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20258435?origin=rss"
+            "lenke": "https://yle.fi/a/74-20258670?origin=rss"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "Finland's unemployment rate remains above 10%",
+        "tekst": "The latest figures reveal that one in four people aged 15-24 are now unemployed.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20258745?origin=rss"
+          }
+        ],
+        "antall_kilder": 1
       }
     ],
     "Europa": [
       {
-        "tittel": "Ukraina hevder å ha senket russisk krigsskip ved Libya",
-        "tekst": "Ukraina sier de stod bak angrep på to russiske skip utenfor kysten av Libya.",
-        "utdypning": "Ukraina hevdet på mandag å stå bak angrep på to russiske fartøy off Libya, inkludert et moderne krigsskip som sank. Angrepene skjedde søndag nær den libyske havnen Benghazi. President Volodymyr Zelenskyy opplyste at angrepet ble utført med ukrainskproduserte undervanns-droner, og saken har ført til internasjonale reaksjoner og krav om FN-etterforskning.",
+        "tittel": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "tekst": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Ukraine claims it sank Russian warship off Libya",
+        "tekst": "Ukraine on Monday claimed it was behind strikes on two Russian vessels off Libya, including one that sank a modern warship, in the latest spillover from Moscow's invasion. The attacks on Sunday near the Libyan port of Benghazi come at a time when …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
@@ -103,60 +208,93 @@
           {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 3,
-        "vekt": 5
+        "antall_kilder": 2
       },
       {
-        "tittel": "NATO lover romforsvar etter rapport om atomstridsvåpen",
-        "tekst": "NATO-sjef Mark Rutte varsler at alliansen vil forsvare seg mot trusler i rommet.",
-        "utdypning": "NATO-sjef Mark Rutte uttalte mandag at alliansen vil forsvare mot trusler i rommet. Kommentaren kom som svar på tyske medierapporter om at Russland kanskje forbereder å skyte opp en atombevæpnet satellitt som kan ødelegge andre satellitter.",
+        "tittel": "Live: Tripoli denies any link with Ukraine's attack on Russian ships",
+        "tekst": "Libya's internationally recognised government based in Tripoli on Tuesday said it had not condoned the Ukrainian attack on two Russian ships near the eastern city of Benghazi. Sunday's attacks, which were claimed by Kyiv, came as Ukraine steps up …",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report"
+            "lenke": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 4
-      },
-      {
-        "tittel": "Zelenskyj ber om firepartssamtaler",
-        "tekst": "Ukrainas president ønsker nye fredsforhandlinger med Russland, USA og EU.",
-        "utdypning": "Ukrainas president Volodymyr Zelensky ber om en ny runde med forhandlinger som involverer Ukraina, Russland, USA og europeiske ledere. Ifølge Zelensky er Kyiv klar til å møtes allerede tirsdag.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "antall_kilder": 1
       }
     ],
     "Verden": [
       {
-        "tittel": "Tadsjikistan trekker seg fra ICC",
-        "tekst": "Tadsjikistan har startet prosessen med å trekke seg fra Den internasjonale straffedomstolen.",
-        "utdypning": "Tadsjikistan har initiert sin tilbaketrekning fra Den internasjonale straffedomstolen (ICC) etter amerikansk press om å avvikle domstolen. Beslutningen ble tatt under et nylig besøk av Russlands president Vladimir Putin.",
+        "tittel": "Is North Korea holding back on sending Russia more troops?",
+        "tekst": "A North Korean troop buildup Ukraine warned about months ago has yet to materialize, even as strategic cooperation continues. Analysts say Pyongyang is balancing its ties with Moscow and Beijing.",
+        "utdypning": "",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1,
-        "vekt": 3
+        "antall_kilder": 1
+      },
+      {
+        "tittel": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
+        "tekst": "The Trump administration has added Megaspeed to a trade blacklist after tensions over its failure to do so raised questions. The news came the same day that Jensen Huang was reinstated as Nvidia's CEO.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/us-adds-megaspeed-at-center-of-nvidia-scandal-to-a-trade-blacklist/a-80026849?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2
+      },
+      {
+        "tittel": "Car bomb tears through Colombian city wounding more than 20",
+        "tekst": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+        "utdypning": "",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1
       }
     ]
   },
-  "folg_med": [],
+  "folg_med": [
+    {
+      "tid": "",
+      "kategori": "Statsbudsjett, fra nyhetene",
+      "hendelse": "Ingen utsatt frist for de rødgrønne: Må avklare innen onsdag",
+      "hvorfor": "Finanskomiteen på Stortinget fastholder at fristen for å melde inn politiske forslag og omprioriteringer til statsbudsjettet utløper klokken 10 i morgen, onsdag. Komiteen hadde et kort møte i dag klokken 13, der det ikke ble gjort endringer i fremdriftsplanen som gjelder for behandlingen av budsjettet på Stortinget. I praksis betyr dette at budsjettforhandlingene på rødgrønn side må få en avklaring i løpet av dagen, kvelden eller natta. Dermed øker presset på de fem partiene som har forhandlet om statsbudsjettet siden 6. november. En avklaring må ikke nødvendigvis innebære en budsjettavtale …",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741"
+        }
+      ]
+    },
+    {
+      "tid": "",
+      "kategori": "Energimarked, fra nyhetene",
+      "hendelse": "Equinor med gigantisk gassavtale – lengste på 40 år",
+      "hvorfor": "Norge skal levere gass til Tyskland i lang tid fremover. I dag signerte Equinor nok en gigaavtale for europeisk energiforsyning.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/rogaland/equinor-med-gigantisk-gassavtale-med-tyske-vng-_-lengste-avtalen-siden-1986-1.18086945"
+        }
+      ]
+    }
+  ],
   "senere": [],
-  "modus": "ai",
-  "modell": "gemini-3.5-flash-lite"
+  "modus": "regler",
+  "modell": ""
 }

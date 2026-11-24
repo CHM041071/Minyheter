@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Live: UN urges investigation into Ukrainian drone attacks on Russian ships in Libya",
-      "kilder": [
-        {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says"
-        }
-      ]
-    },
-    {
-      "tekst": "What's next after no deal at COP31 climate talks?",
-      "kilder": [
-        {
-          "navn": "BBC",
-          "lenke": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
-        }
-      ]
-    },
-    {
-      "tekst": "Jensen Huang gjeninnsettes som toppsjef i Nvidia, opplyser selskapet",
+      "tekst": "Vår Energi kjøper ConocoPhillips sin norske virksomhet i et historisk oljeoppkjøp.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/jensen-huang-gjeninnsettes-som-toppsjef-i-nvidia_-opplyser-selskapet-1.18087233"
+          "lenke": "https://www.nrk.no/rogaland/var-energi-kjoper-conocophillips_-norske-virksomhet-1.18086906"
+        }
+      ]
+    },
+    {
+      "tekst": "De rødgrønne partiene fortsetter mandag forhandlingene om neste års statsbudsjett.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/de-rodgronne-partiene-fortsetter-budsjettforhandlinger-mandag-1.18086872"
+        }
+      ]
+    },
+    {
+      "tekst": "Fem personer ble hentet med helikopter etter et nødsignal fra et fiskefartøy i Skagerak.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/sorlandet/nodsignal-fra-fiskefartoy-i-skagerak_-personer-plukket-opp-1.18087369"
         }
       ]
     }
@@ -31,258 +31,132 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Jensen Huang gjeninnsettes som toppsjef i Nvidia, opplyser selskapet",
-        "tekst": "Styret i Nvidia gjeninnsetter Jensen Huang som toppsjef i selskapet. Avgjørelsen kommer etter samtaler og møter med Huang, opplyser selskapet i en pressemelding. – I prosessen med å fatte beslutningen mottok styret innspill fra høytstående hold i …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/jensen-huang-gjeninnsettes-som-toppsjef-i-nvidia_-opplyser-selskapet-1.18087233"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2
-      },
-      {
-        "tittel": "De rødgrønne partiene fortsetter budsjettforhandlinger mandag",
-        "tekst": "Etter at de rødgrønne partiene ikke klarte å lykkes i å lande en avtale om neste års statsbudsjett søndag kveld, må de fortsette forhandlingene mandag. Finanskomiteen skal avgi innstilling til neste års statsbudsjett 30. november. I forhandlingene …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/de-rodgronne-partiene-fortsetter-budsjettforhandlinger-mandag-1.18086872"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Staten tar del av regningen etter kvikkleireskredet",
-        "tekst": "Kommunal- og distriktsdepartementet vil stille med pengestøtte for å fikse fylkesvei 890 i Austertana.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/kan-fa-stotte-for-a-fikse-fylkesvei-etter-ras-1.18086959"
-          },
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/trondelag/marianne-fekk-me-kort-tid-etter-ho-tok-koronavaksinen-_-har-saksokt-staten-1.18084068"
-          }
-        ],
-        "antall_kilder": 2
-      },
-      {
-        "tittel": "Historisk oppkjøp: Amerikansk oljegigant ut av Norge",
-        "tekst": "Amerikanske ConocoPhillips har vært med på Norges oljeeventyr fra starten. Nå kjøper Vår Energi selskapets norske virksomhet.",
-        "utdypning": "",
+        "tittel": "Vår Energi kjøper ConocoPhillips i Norge",
+        "tekst": "Amerikanske ConocoPhillips selger sin norske virksomhet til Vår Energi.",
+        "utdypning": "Amerikanske ConocoPhillips har vært med på Norges oljeeventyr fra starten. Nå kjøper Vår Energi selskapets norske virksomhet i det som beskrives som et historisk oppkjøp.",
         "kilder": [
           {
             "navn": "NRK",
             "lenke": "https://www.nrk.no/rogaland/var-energi-kjoper-conocophillips_-norske-virksomhet-1.18086906"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 5
       },
       {
-        "tittel": "Én siktet for drapsforsøk i Arendal",
-        "tekst": "To menn er pågrepet, én siktet for drapsforsøk etter et slagsmål i Arendal sentrum natt til søndag.",
-        "utdypning": "",
+        "tittel": "Videre budsjettforhandlinger",
+        "tekst": "De rødgrønne partiene må fortsette forhandlingene om statsbudsjettet etter uenighet søndag kveld.",
+        "utdypning": "Etter at de rødgrønne partiene ikke klarte å lande en avtale om neste års statsbudsjett søndag kveld, må de fortsette forhandlingene mandag. Finanskomiteen skal avgi innstilling til neste års statsbudsjett 30. november. I forhandlingene har særlig striden stått om klimatiltak og drivstoffavgifter, men det har også vært rivninger om den samlede pengebruken og hvordan økte utgifter skal finansieres.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/en-mann-siktet-for-drapsforsok-i-arendal-1.18086708"
-          },
+            "lenke": "https://www.nrk.no/nyheter/de-rodgronne-partiene-fortsetter-budsjettforhandlinger-mandag-1.18086872"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Redningsaksjon i Skagerak",
+        "tekst": "Fem personer ble hentet med helikopter etter at et fiskefartøy sendte ut nødsignal i Skagerak.",
+        "utdypning": "Hovedredningssentralen i Sør-Norge mottok nødsignal fra et fiskefartøy i Skagerak. De fem personene om bord ble fraktet til Danmark med helikopter.",
+        "kilder": [
           {
             "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/rogaland/mann-siktet-for-overfallsvoldtekt-i-stavanger-1.18087082"
+            "lenke": "https://www.nrk.no/sorlandet/nodsignal-fra-fiskefartoy-i-skagerak_-personer-plukket-opp-1.18087369"
+          },
+          {
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/noedsignal-fra-dansk-baad-i-skagerak-fem-personer-hentet-med-helikopter"
           }
         ],
-        "antall_kilder": 2
+        "antall_kilder": 2,
+        "vekt": 5
       }
     ],
-    "Skandinavia": [
-      {
-        "tittel": "Därför lyckas Estland i Pisa-undersökningen medan resultaten sjunker i Sverige och Finland",
-        "tekst": "I den nordiska skoldebatten har Finland länge setts som ett föregångsland. Nu är det Estland som för tredje gången toppar Pisa-jämförelsen i Europa. – Estland har varit ett litet land som har varit ockuperat och väldigt sällan fritt. I en sådan …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/uutiset/svenska/darfor-lyckas-estland-i-pisa-undersokningen-medan-resultaten-sjunker-i-sverige-och-finland"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Chatt: Vem blir statsminister – och när är det klart?",
-        "tekst": "Över 70 dagar utan regering. Förhandlingar inför öppen ridå. Andersson vs. Kristersson. Hur ska regeringsbildningen sluta? Och när? Ställ dina frågor till SVT:s politikreporter Kristoffer Törnmalm – som svarar i chatt och livesändning.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Missvisande video sprider oro kring nya kreditlagen: ”Hejdå Klarna!”",
-        "tekst": "I en video som fått två miljoner visningar hävdas att en ny ”EU-lag” gör att AI får tillgång till upp till två års banktransaktioner när man handlar på avbetalning. Men det påståendet är missvisande. En ny svensk lag skärper kraven på …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/missvisande-video-sprider-oro-kring-nya-kreditlagen-hejda-klarna"
-          }
-        ],
-        "antall_kilder": 1
-      }
-    ],
+    "Skandinavia": [],
     "Norden": [
       {
-        "tittel": "Investigation into fuel prices at Icelandic pumps",
-        "tekst": "Samkeppniseftirlitið (Icelandic Competition Authority) plans to investigate whether Icelandic consumers have benefited from falling global fuel prices. The authority has requested information from oil companies to assess how fuel prices in Iceland …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-23-investigation-into-fuel-prices-at-icelandic-pumps-493576/"
-          }
-        ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Russia retrieves burning cargo ship from Gulf of Finland after drone strike",
-        "tekst": "The Sparta II ship was sailing to Russia's Baltic exclave of Kaliningrad when it was struck by a drone, caught fire, and drifted into Finland's territorial waters.",
-        "utdypning": "",
+        "tittel": "Brennende lasteskip tauet til Russland",
+        "tekst": "Det russiske skipet Sparta II ble truffet av en drone og drev inn i finsk farvann.",
+        "utdypning": "Lasteskipet Sparta II var på vei til Russlands eksklave Kaliningrad da det ble truffet av en drone. Skipet tok fyr og drev inn i Finlands territorialwaters før Russland hentet det ut.",
         "kilder": [
           {
             "navn": "Yle News",
             "lenke": "https://yle.fi/a/74-20258435?origin=rss"
           }
         ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Warning over image sharing",
-        "tekst": "Sharing digital images or footage of people in situations that should remain private can violate criminal and data protection laws, regardless of whether those depicted have behaved inappropriately. This is according to María Rún Bjarnadóttir, a …",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-23-warning-over-image-sharing-493538/"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Europa": [
       {
-        "tittel": "Live: UN urges investigation into Ukrainian drone attacks on Russian ships in Libya",
-        "tekst": "The United Nations on Monday called for an independent investigation into drone attacks on two Russian ships at the Libyan port of Benghazi, warning the country must not become \"a battleground for foreign conflicts\". Ukrainian President Volodymyr …",
-        "utdypning": "",
+        "tittel": "Ukraina hevder å ha senket russisk krigsskip ved Libya",
+        "tekst": "Ukraina sier de stod bak angrep på to russiske skip utenfor kysten av Libya.",
+        "utdypning": "Ukraina hevdet på mandag å stå bak angrep på to russiske fartøy off Libya, inkludert et moderne krigsskip som sank. Angrepene skjedde søndag nær den libyske havnen Benghazi. President Volodymyr Zelenskyy opplyste at angrepet ble utført med ukrainskproduserte undervanns-droner, og saken har ført til internasjonale reaksjoner og krav om FN-etterforskning.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says"
+            "lenke": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
           },
           {
             "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2
-      },
-      {
-        "tittel": "What's next after no deal at COP31 climate talks?",
-        "tekst": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+            "lenke": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
           },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 3
-      },
-      {
-        "tittel": "Flights and train services cancelled in Belgium due to strike",
-        "tekst": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1
-      }
-    ],
-    "Verden": [
-      {
-        "tittel": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
-        "tekst": "President Volodymyr Zelenskyy said the attack was carried out with Ukrainian-made naval drones. Meanwhile, NATO members are meeting to discuss an alleged Russian violation of Polish airspace. DW has more.",
-        "utdypning": "",
-        "kilder": [
           {
             "navn": "DW World",
             "lenke": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1
+        "antall_kilder": 3,
+        "vekt": 5
       },
       {
-        "tittel": "NATO Parliamentary Assembly convenes amid Russian airspace violations",
-        "tekst": "Ukrainian President Zelenskyy and German Foreign Minister Wadephul are set to address the NATO Parliamentary Assembly in Berlin while NATO representatives discuss Russian airspace violations in Brussels. DW has more.",
-        "utdypning": "",
+        "tittel": "NATO lover romforsvar etter rapport om atomstridsvåpen",
+        "tekst": "NATO-sjef Mark Rutte varsler at alliansen vil forsvare seg mot trusler i rommet.",
+        "utdypning": "NATO-sjef Mark Rutte uttalte mandag at alliansen vil forsvare mot trusler i rommet. Kommentaren kom som svar på tyske medierapporter om at Russland kanskje forbereder å skyte opp en atombevæpnet satellitt som kan ødelegge andre satellitter.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Zelenskyj ber om firepartssamtaler",
+        "tekst": "Ukrainas president ønsker nye fredsforhandlinger med Russland, USA og EU.",
+        "utdypning": "Ukrainas president Volodymyr Zelensky ber om en ny runde med forhandlinger som involverer Ukraina, Russland, USA og europeiske ledere. Ifølge Zelensky er Kyiv klar til å møtes allerede tirsdag.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      }
+    ],
+    "Verden": [
+      {
+        "tittel": "Tadsjikistan trekker seg fra ICC",
+        "tekst": "Tadsjikistan har startet prosessen med å trekke seg fra Den internasjonale straffedomstolen.",
+        "utdypning": "Tadsjikistan har initiert sin tilbaketrekning fra Den internasjonale straffedomstolen (ICC) etter amerikansk press om å avvikle domstolen. Beslutningen ble tatt under et nylig besøk av Russlands president Vladimir Putin.",
         "kilder": [
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/nato-parliamentary-assembly-convenes-amid-russian-airspace-violations/live-80016415?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-all-1573-rdf"
           }
         ],
-        "antall_kilder": 1
-      },
-      {
-        "tittel": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-        "tekst": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
-        "utdypning": "",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 1
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ]
   },
-  "folg_med": [
-    {
-      "tid": "",
-      "kategori": "Energimarked, fra nyhetene",
-      "hendelse": "Investigation into fuel prices at Icelandic pumps",
-      "hvorfor": "Samkeppniseftirlitið (Icelandic Competition Authority) plans to investigate whether Icelandic consumers have benefited from falling global fuel prices. The authority has requested information from oil companies to assess how fuel prices in Iceland have developed compared with prices abroad. Samkeppniseftirlitið announced the investigation today. It noted that fuel prices had begun falling rapidly on international markets in November, and that, Consumer and trade union organisations have publicly claimed that oil companies have increased their profit margins under these circumstances. For …",
-      "kilder": [
-        {
-          "navn": "RÚV English",
-          "lenke": "https://www.ruv.is/english/2026-11-23-investigation-into-fuel-prices-at-icelandic-pumps-493576/"
-        }
-      ]
-    }
-  ],
+  "folg_med": [],
   "senere": [],
-  "modus": "regler",
-  "modell": ""
+  "modus": "ai",
+  "modell": "gemini-3.5-flash-lite"
 }

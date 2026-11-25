@@ -1,16 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Stortingets finanskomité fastholder at fristen for å avklare statsbudsjettet utløper klokken ti onsdag.",
-      "kilder": [
-        {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741"
-        }
-      ]
-    },
-    {
-      "tekst": "Equinor har signert en historisk lang gassavtale med Tyskland for europeisk energiforsyning.",
+      "tekst": "Equinor har signert en historisk stor gassavtale med Tyskland for å sikre europeisk energiforsyning fremover.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,7 +10,16 @@
       ]
     },
     {
-      "tekst": "Russisk sikkerhetstjeneste har pågrepet en person etter ulovlig grensekryssing fra Norge.",
+      "tekst": "Stortingets finanskomité fastholder fristen for statsbudsjettet, og presset øker på partiene i forhandlingene.",
+      "kilder": [
+        {
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/ingen-utsatt-frist-for-de-rodgronne_-ma-avklare-innen-onsdag-1.18087741"
+        }
+      ]
+    },
+    {
+      "tekst": "Russisk sikkerhetstjeneste har pågrepet en person etter ulovlig grensekryssing fra norsk territorium.",
       "kilder": [
         {
           "navn": "NRK",
@@ -31,9 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Gigantisk gassavtale for Equinor",
-        "tekst": "Norge skal levere gass til Tyskland i lang tid fremover gjennom en ny kjempeavtale signert av Equinor.",
-        "utdypning": "Norge skal levere gass til Tyskland i lang tid fremover. Equinor signerte onsdag nok en gigaavtale for europeisk energiforsyning. Avtalen beskrives som den lengste på 40 år.",
+        "tittel": "Gigantisk gassavtale mellom Equinor og Tyskland",
+        "tekst": "Norge skal levere gass til Tyskland gjennom Equinors lengste avtale på 40 år.",
+        "utdypning": "Norge skal levere gass til Tyskland i lang tid fremover gjennom en ny gigantavtale som ble signert i dag. Equinor står bak avtalen, som er den lengste som er inngått på 40 år, og som styrker Norges rolle i den europeiske energiforsyningen.",
         "kilder": [
           {
             "navn": "NRK",
@@ -44,9 +44,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Avgjørende dag for statsbudsjettet",
-        "tekst": "Finanskomiteen på Stortinget krever en avklaring på statsbudsjettet innen onsdag formiddag.",
-        "utdypning": "Finanskomiteen på Stortinget fastholder at fristen for å melde inn politiske forslag og omprioriteringer til statsbudsjettet utløper klokken 10 onsdag. Komiteen hadde et kort møte tirsdag der det ikke ble gjort endringer i fremdriftsplanen. Dermed øker presset på de fem partiene som har forhandlet siden 6. november. En avklaring betyr ikke nødvendigvis en ferdig budsjettavtale.",
+        "tittel": "Stram innspurt i Stortingets finanskomité",
+        "tekst": "Fristen for å melde inn politiske forslag til statsbudsjettet utløper onsdag klokken 10.",
+        "utdypning": "Finanskomiteen på Stortinget fastholder at fristen for å melde inn politiske forslag og omprioriteringer til statsbudsjettet utløper klokken 10 onsdag. Komiteen hadde et kort møte tirsdag der det ikke ble gjort endringer i fremdriftsplanen. Dermed øker presset på de fem partiene som har forhandlet siden 6. november, og en avklaring må på plass i løpet av døgnet.",
         "kilder": [
           {
             "navn": "NRK",
@@ -57,9 +57,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Person pågrepet etter ulovlig grensekryssing",
-        "tekst": "Russisk sikkerhetstjeneste har pågrepet en utenlandsk statsborger som krysset grensen fra Norge.",
-        "utdypning": "En utenlandsk statsborger er pågrepet av Russlands sikkerhetstjeneste FSB etter ulovlig grensekryssing fra Norge. Norsk politi kjenner foreløpig ikke til hendelsen.",
+        "tittel": "Person pågrepet av FSB etter grensekryssing fra Norge",
+        "tekst": "Russlands sikkerhetstjeneste har pågrepet en utenlandsk statsborger som krysset grensen ulovlig.",
+        "utdypning": "En utenlandsk statsborger er pågrepet av Russlands sikkerhetstjeneste FSB etter en ulovlig grensekryssing fra Norge. Norsk politi kjenner ikke til hendelsen ifølge de foreliggende opplysningene.",
         "kilder": [
           {
             "navn": "NRK",
@@ -68,43 +68,13 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Siktet for drapsforsøk i Alta",
-        "tekst": "To menn er pågrepet i Sverige etter en voldshendelse i Alta, og norsk politi krever dem utlevert.",
-        "utdypning": "Raskt samarbeid mellom norsk, svensk og finsk politi sikret at de to siktede personene ble pågrepet i Sverige et halvt døgn etter voldshendelsen i Alta. Politiet tror ikke det dreier seg om kriminelle nettverk. Norsk politi vil nå begjære de siktede utlevert.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/to-menn-ble-pagrepet-i-sverige-etter-voldshendelse-i-alta_-_-ikke-gjengoppgjor-1.18087751"
-          },
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/to-siktet-for-drapsforsok-etter-voldshendelse-i-alta-_-pagrepet-i-sverige-1.18087408"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 3
-      },
-      {
-        "tittel": "Vil endre loven om utsatt skolestart",
-        "tekst": "Det er flertall på Stortinget for å gjøre det lettere å få utsatt skolestart, mot regjeringens vilje.",
-        "utdypning": "Etter at en familie måtte kjempe i månedsvis for at sønnen skulle få ett år til i barnehagen etter den såkalte Nicolas-saken, snur nå politikere. Det er flertall for å endre loven om utsatt skolestart, til tross for regjeringens motstand.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/vestfoldogtelemark/snuoperasjon-etter-nicolas-saken_-stortinget-vil-be-regjeringen-endre-loven-om-skolestart-1.18053674"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Ny avstemning om svensk statsminister",
-        "tekst": "Svenske politikere skal stemme over om Ulf Kristersson kan fortsette som statsminister.",
-        "utdypning": "Det er tredje gang siden det svenske valget at det skal stemmes om en ny statsminister. Ulf Kristersson fra Moderaterna sier han er beredt til å prøves som statsminister for en borgerlig regjering med M, KD, L og C når talmannen anser tiden for inne. S-lederen Magdalena Andersson påpeker samtidig at Vänsterpartiet ikke har flyttet seg.",
+        "tittel": "Sverige: Ny avstemning om Ulf Kristersson som statsminister",
+        "tekst": "Svenske politikere skal stemme om Kristersson kan fortsette som statsminister for en borgerlig regjering.",
+        "utdypning": "Det er tredje gang siden det svenske valget at det skal stemmes om en ny statsminister. Ulf Kristersson fra Moderaterna sier han er beredt til å prøves som statsminister for en borgerlig regjering med M, KD, L og C når talmannen anser tiden er inne. Samtidig melder Socialdemokraterna at Vänsterpartiet står steilt i forhandlingene.",
         "kilder": [
           {
             "navn": "DR",
@@ -121,13 +91,13 @@
     ],
     "Norden": [
       {
-        "tittel": "Høy arbeidsledighet i Finland",
-        "tekst": "Finlands arbeidsledighet forblir over ti prosent, med spesielt høye tall for unge.",
-        "utdypning": "De ferskeste tallene viser at Finlands arbeidsledighet forblir over 10 prosent. Situasjonen er spesielt krevende for unge, der nå en av fire i aldersgruppen 15 til 24 år står uten arbeid.",
+        "tittel": "Island slår sammen naturhistorisk museum og institutt",
+        "tekst": "Den svake økonomiske posisjonen til museet er årsaken til at det slås sammen med naturvitenskapelig institutt.",
+        "utdypning": "Den anstrengte økonomiske situasjonen for Náttúruminjasafn Íslands, det islamske naturhistoriske museet, er en hovedårsak til at regjeringen vil slå det sammen med Náttúrufræðistofnun, det islandske naturvitenskapelige instituttet. Lovforslag vil bli publisert på regjeringens konsultasjonsportal. Dette ble kunngjort i en felles uttalelse fra de ansvarlige departementene.",
         "kilder": [
           {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20258745?origin=rss"
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-24-natural-history-museum-to-merge-with-institute-of-natural-history-493632/"
           }
         ],
         "antall_kilder": 1,
@@ -136,45 +106,71 @@
     ],
     "Europa": [
       {
-        "tittel": "NATO varsler forsvar mot trusselen fra russiske satellitter",
-        "tekst": "NATO-sjef Mark Rutte lover forsvar i rommet etter rapporter om planer om russiske atomvåpen i bane.",
-        "utdypning": "NATO-sjef Mark Rutte uttalte mandag at alliansen vil forsvare seg mot trusler i rommet. Uttalelsen kom som svar på tyske medierapporter om at Russland planlegger å skyte opp en satellitt med atomstridshode i løpet av de kommende ukene. Kilder opplyser at en slik satellitt vil kunne ødelegge andre satellitter, og eksperter advarer om at en slik plan er hensynsløs da virkningen vil være vilkårlig.",
+        "tittel": "Lekkasje viser store russiske tap i Ukraina",
+        "tekst": "Egne russiske tall avslører at nesten 500 000 mennesker har gått tapt som følge av krigen.",
+        "utdypning": "Lekkasjer av interne russiske tall viser at invasjonen av Ukraina har endret dødelighetsmønstrene i Russland fundamentalt. Analyser av data fra den russiske statistikketaten, innhentet av belarusiske og ukrainske hackere, tyder på at over 700 000 russiske soldater har dødd eller er savnet i krigen.",
         "kilder": [
           {
             "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report"
+            "lenke": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Ukraina hevder å ha senket russisk krigsskip ved Libya",
-        "tekst": "Ukraina tar på seg ansvaret for angrep mot to russiske fartøy utenfor kysten av Libya.",
-        "utdypning": "Ukraina hevder de stod bak søndagens angrep mot to russiske fartøy nær den libyske havnebyen Benghazi, der et moderne krigsskip ble senket. Angrepene markerer en eskalering der krigen sprer seg langt utenfor frontlinjene. Libyas internasjonalt anerkjente regjering i Tripoli avviser imidlertid enhver tilknytning til angrepet.",
+        "tittel": "Ukraina ber om 115 milliarder euro i utenlandsk støtte for 2027",
+        "tekst": "President Volodymyr Zelensky sier landet trenger massiv ekstern finansiering for å holde økonomien i gang.",
+        "utdypning": "Ukraina vil trenge 115 milliarder euro i ekstern finansiering neste år for å opprettholde økonomien og krigsinnsatsen mot Russland, opplyste president Volodymyr Zelensky tirsdag. Han la til at Kyiv allerede har sikret forpliktelser på om lag 90 milliarder euro fra Den europeiske union.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
+            "lenke": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "To libyske soldater drepজুর i ukrainsk angrep mot russiske skip",
+        "tekst": "Angrepet nær Benghazi har ført til internasjonale reaksjoner og debatt i EU om Europas rolle.",
+        "utdypning": "To libyske soldater har dalt av skader etter et angrep, som er påberopt av Ukraina, mot russiske skip i nærheten av Benghazi. Ukrainas utenminister har forsvart angrepet som et ledd i å motvirke russisk aggresjon, mens den internasjonalt anerkjente regjeringen i Tripoli har benektet enhver tilknytning. Medlemmer av EU-parlamentet samles i Strasbourg onsdag for å diskutere Europas rolle i å beskytte den internasjonale orden.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
           },
           {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
-        "vekt": 4
+        "vekt": 3
       }
     ],
     "Verden": [
       {
-        "tittel": "Advarer om økt HIV-smitte etter kutt i bistand",
-        "tekst": "UNAIDS advarer om at kutt i amerikansk finansiering vil føre til flere nye tilfeller av hiv.",
-        "utdypning": "Konsekvensene av USAs kutt i offentlig finansiering har vært dramatiske for en rekke hiv-programmer, advarer UNAIDS. FNs organisasjon for aidsbekjempelse venter at data for 2027 vil vise en økning i nye infeksjoner, i en tid da verden ellers var nær ved å få slutt på aids-epidemien.",
+        "tittel": "Salomonøyene kutter sikkerhetsavtale med Kina til fordel for Australia",
+        "tekst": "Australia blir øystatens primære sikkerhetspartner etter at avtalen med Kina ble skrotet.",
+        "utdypning": "Salomonøyene har inngått en omfattende avtale med Australia, som dermed blir landets primære sikkerhetspartner. Samtidig avviser øystaten at fremmede makter skal få blande seg inn i deres sensitive infrastruktur. Leder Matthew Wale uttalte at landet ikke lenger skal være et punkt for regional usikkerhet.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 4
+      },
+      {
+        "tittel": "FN advarer om at kutt i bistand kan øke HIV-infeksjonene",
+        "tekst": "UNAIDS frykter at data for 2027 vil vise en økning i nye infeksjoner etter kutt i amerikansk finansiering.",
+        "utdypning": "Konsekvensene av kutt i finansieringen fra USAs regjering har vært dramatiske for en rekke HIV-programmer, advarer UNAIDS. Etaten forventer at tallene for 2027 vil vise en økning i nye infeksjoner, i en tid da verden ellers var nær ved å få slutt på aids-epidemien.",
         "kilder": [
           {
             "navn": "DW World",

@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Statsforvalteren trekker tilbake tillatelser for Nussir-gruva, og Hammerfest kommune må behandle to byggetillatelser på nytt.",
+      "tekst": "Riksrevisjonen kritiserer sykehusene for svak økonomistyring og fallende effektivitet i helseforetakene.",
       "kilder": [
         {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/nussir-gruva_-statsforvalteren-trekker-tilbake-tillatelser-1.18088705"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/mr/riksrevisjonen-konkluderer-med-at-effektiviteten-i-sjukehusa-har-falle-1.18087192"
         }
       ]
     },
     {
-      "tekst": "Norsk vegansamfunn har vunnet mot staten i Borgarting lagmannsrett, som slår fast at statens vedtak om nektelse var ugyldig.",
+      "tekst": "Folkehelseinstituttet advarer om at årets influensautbrudd er i gang og oppfordrer risikogrupper til å ta vaksine nå.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/norsk-vegansamfunn-vant-mot-staten-1.18088603"
+          "lenke": "https://www.nrk.no/nyheter/utbrudd-av-influensa_-_-ta-vaksinen-na-1.18089136"
         }
       ]
     },
     {
-      "tekst": "Russisk sikkerhetstjeneste har pågrepet en utenlandsk statsborger etter ulovlig grensekryssing fra Norge, en hendelse norsk politi ikke kjenner til.",
+      "tekst": "Mattilsynet vurderer å utsette avlivingen av 225 000 fugler etter en klage fra oppdrettteren i et stort fugleinfluensautbrudd.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/tromsogfinnmark/fsb-pagrep-person-etter-ulovlig-grensekryssing-fra-norge-1.18088080"
+          "lenke": "https://www.nrk.no/rogaland/mattilsynet-vurderer-a-utsette-avliving-av-225.000-fuglar-etter-klage-fra-salte-kyllingoppdrett-1.18089127"
         }
       ]
     }
@@ -31,110 +31,80 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Utenlandsk statsborger pågrepet av FSB etter grensekryssing fra Norge",
-        "tekst": "Russisk sikkerhetstjeneste har pågrepet en person etter ulovlig grensekryssing fra Norge. Norsk politi kjenner ikke til hendelsen.",
-        "utdypning": "En utenlandsk statsborger har blitt pågrepet av Russlands sikkerhetstjeneste (FSB) etter å ha krysset grensen ulovlig fra Norge. Norsk politi kjenner til tross for pågripelsen ikke til selve hendelsen eller hvem personen er.",
+        "tittel": "Riksrevisjonen: Svakere effektivitet i sykehusene",
+        "tekst": "Riksrevisjonen slår fast at effektiviteten i sykehusene har falt, og peker på store forskjeller mellom helseforetakene.",
+        "utdypning": "Riksrevisjonen slår fast at effektiviteten i sykehusene har falt, og mener at økonomistyringa av sykehusene ikkje er god nok. Det blir pekt på at det er stor forskjell på kor effektivt helseføretaka driv.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/fsb-pagrep-person-etter-ulovlig-grensekryssing-fra-norge-1.18088080"
+            "lenke": "https://www.nrk.no/mr/riksrevisjonen-konkluderer-med-at-effektiviteten-i-sjukehusa-har-falle-1.18087192"
           }
         ],
         "antall_kilder": 1,
         "vekt": 5
       },
       {
-        "tittel": "Statsforvalteren trekker tilbake tillatelser for Nussir-gruva",
-        "tekst": "Statsforvalteren trekker tilbake tillatelser knyttet til Nussir-gruva. Dette betyr at Hammerfest kommune må behandle to byggetillatelser på nytt.",
-        "utdypning": "Statsforvalteren har besluttet å trekke tilbake tillatelser for Nussir-gruva. Som følge av dette må Hammerfest kommune nå behandle to byggetillatelser knyttet til gruveprosjektet på nytt.",
+        "tittel": "FHI: Vinterens influensautbrudd er i gang",
+        "tekst": "Folkehelseinstituttet melder at vinterens influensautbrudd har startet samtidig som koronasmitten øker, og ber risikogrupper vaksinere seg.",
+        "utdypning": "Folkehelseinstituttet opplyser torsdag at vinterens influensautbrudd er i gang samtidig som koronasmitten øker. Overlege Ingvild Fjeldheim understreker at det er viktig å ta vaksine nå før smitten øker ytterligere, da beskyttelsen oppnås etter én til to uker. Forsinkelser i leveransene har imidlertid ført til at enkelte kommuner har måttet vente med vaksineringen.",
         "kilder": [
           {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/tromsogfinnmark/nussir-gruva_-statsforvalteren-trekker-tilbake-tillatelser-1.18088705"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/utbrudd-av-influensa_-_-ta-vaksinen-na-1.18089136"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 5
+      },
+      {
+        "tittel": "Vurderer utsettelse av stor avliving i fugleinfluensautbrudd",
+        "tekst": "Mattilsynet vurderer å utsette avlivingen av 225 000 fugler i Norges største utbrudd av fugleinfluensa etter en klage.",
+        "utdypning": "Mattilsynet vurderer å utsette avliving av 225.000 fuglar etter klage. I Noregs største utbrot av fugleinfluensa skulle 225.000 fuglar avlivast, men ein klage frå oppdrettaren kan setje masseavlivinga på vent.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/mattilsynet-vurderer-a-utsette-avliving-av-225.000-fuglar-etter-klage-fra-salte-kyllingoppdrett-1.18089127"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Norsk vegansamfunn vant mot staten i lagmannsretten",
-        "tekst": "Borgarting lagmannsrett har slått fast at statens vedtak om å nekte Norsk vegansamfunn registrering som livssynssamfunn er ugyldig.",
-        "utdypning": "Staten har tidligere ment at veganisme ikke kan godkjennes som livssynssamfunn fordi det ikke dekker et stort nok område i menneskers liv. Norsk vegansamfunn var uenige i dette og saksøkte staten. I en dom avsagt onsdag har Borgarting lagmannsrett gitt samfunnet medhold og erklært statens nektelsesvedtak for ugyldig.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/norsk-vegansamfunn-vant-mot-staten-1.18088603"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Svensk statsministeromrøstning kommende mandag",
-        "tekst": "Svenske politikere skal på mandag stemme for tredje gang om Ulf Kristersson kan fortsette som statsminister.",
-        "utdypning": "Talman Andreas Norlén har meddelt at Moderaternas partiledare Ulf Kristersson vil bli prøvd som statsminister på mandag neste uke. Det er tredje gang siden det svenske valget at det skal stemmes om en ny regjeringssjef. Norlén understreker at han per i dag ikke vet hvordan Centerpartiet vil stille seg.",
+        "tittel": "Mangedardersordre til BAE Systems Hägglunds",
+        "tekst": "Finland kjøper 160 stridsfordon 90 fra BAE Systems Hägglunds for 2,8 milliarder euro gjennom Nordic Initiative.",
+        "utdypning": "Finland har beslutat att köpa in 160 stridsfordon 90 från BAE Systems Hägglunds – till ett värde av 2,8 miljarder euro. Ordern ska ingå i en samaffär med Nederländerna, Sverige, Norge och Litauen som går under den gemensamma upphandlingen Nordic Initiative.",
         "kilder": [
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/svenske-politikere-skal-paa-mandag-stemme-om-hvorvidt-kristersson-kan-fortsaette-som-statsminister"
-          },
-          {
             "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/talmannen-kristersson-provas-som-statsminister-pa-mandag"
+            "lenke": "https://www.svt.se/nyheter/lokalt/vasternorrland/miljardorder-for-bae-systems-hagglunds"
           }
         ],
-        "antall_kilder": 2,
+        "antall_kilder": 1,
         "vekt": 4
-      },
-      {
-        "tittel": "Politiske låsninger foran svensk statsministervalg",
-        "tekst": "S-lederen Magdalena Andersson sier Vänsterpartiet står fast i forhandlingene, mens Miljöpartiet advarer mot et eventuelt sviket fra Centerpartiet.",
-        "utdypning": "Klokken tikker mot statsministeromrøstningen om Ulf Kristersson (M). På den rödgröna siden uttaler S-lederen Magdalena Andersson at Vänsterpartiet ikke har rört seg en centimeter, samtidig som Miljöpartiet ikke har gitt opp håpet om en rödgrön regering. MP:s språkrör Amanda Lind advarer om at dersom Centerpartiet skulle bytte side, vil det være et stort svek mot velgerne.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Interne strider i Centerpartiet før svensk regjeringsvalg",
-        "tekst": "Det pågår interne strider og kilder advarer om mulige avhopp og partisplittring internt i C.",
-        "utdypning": "Inom Centerpartiet pågår det interne strider om hvilket vegvalg partiet skal ta i regeringsfrågan. Motstandere av en Kristersson-løsning mobiliserer for et annet alternativ. Interne kilder advarer om at denne usikkerheten kan føre til en framtid preget av partisplittring og avhopp.",
-        "kilder": [
-          {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
       }
     ],
     "Norden": [
       {
-        "tittel": "Gule farevarsler for hele Island",
-        "tekst": "Hele Island er rammet av gule værvarsler som gjelder gjennom torsdagen og deler av fredagen.",
-        "utdypning": "Meteorologiske myndigheter har utstedt gule værvarsler som dekker hele landet på Island. Varslene gjelder for torsdag og deler av fredag, og henger sammen med ventet sterkt vær i regionen.",
+        "tittel": "Medier: Stubb og Støre kontaktet Putin via oligark",
+        "tekst": "De to nordiske lederne skal ha kontaktet Putin for å forsikre om at Nato ikke ville blokkere russiske skip i Østersjøen.",
+        "utdypning": "The two leaders wanted to assure Russia that Nato would not blockade its ships in the Baltic.",
         "kilder": [
           {
-            "navn": "RÚV English",
-            "lenke": "https://www.ruv.is/english/2026-11-25-yellow-weather-warnings-for-whole-country-493753/"
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20259086?origin=rss"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 4
       }
     ],
     "Europa": [
       {
-        "tittel": "Polen oppretter flyforbudssone ved grensen mot Ukraina",
-        "tekst": "Polen oppretter en flyforbudssone nær grensen til Ukraina for å raskt kunne identifisere og skyte ned russiske militærfly ved krenkelser.",
-        "utdypning": "Et flertall av russiske luftromskrenkelser mot Polen har ført til at en polsk viseforsvarsminister onsdag kunngjorde opprettelsen av en flyforbudssone. sonen er ment å la polske styrker raskt identifisere russiske militærfly og skyte dem ned om nødvendig. Polen har gjentatte ganger anklaget Moskva for å målrette land som støtter Kyiv med droner og andre metoder, og oppfordrer NATO-allierte til å være årvåkne.",
+        "tittel": "Polen oppretter no-fly-sone ved Ukraina-grensen",
+        "tekst": "Polen vil etablere en flyforbudssone nær grensen til Ukraina for raskt å kunne identifisere og skyte ned militære fly.",
+        "utdypning": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other methods. The no-fly zone is intended to allow Polish forces to quickly identify any Russian military aircraft and shoot them down if necessary. FRANCE 24's Selina Sykes reports.",
         "kilder": [
           {
             "navn": "France 24",
@@ -149,58 +119,41 @@
         "vekt": 5
       },
       {
-        "tittel": "To libyske soldater drept i ukrainsk angrep på russiske skip",
-        "tekst": "To libyske soldater har omkommet etter et angrep fra Ukraina mot russiske fartøy i Benghazi, ifølge libyske tjenestemenn.",
-        "utdypning": "To libyske soldater har dukket under for skader pådratt i et angrep nær Benghazi sent tirsdag, bekreftet en høytstående representant for administrasjonen i det østlige Libya. Angrepet var rettet mot russiske skip og ble utført av Ukraina. Ukrainas utenriksminister har forsvart angrepet som et tiltak for å motvirke russisk aggresjon, mens EU-parlamentarikere samles i Strasbourg for å diskutere Europas rolle i å sikre en varig fred.",
+        "tittel": "EU-ledere møtes til klammeri om Ukraina-lån",
+        "tekst": "EU-ledere samles i Brussel torsdag for å diskutere et lån på 45 milliarder euro til Ukraina for 2027.",
+        "utdypning": "EU leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to fund Ukraine in 2027, with Germany pressing members to contribute and others seeking exemption. A day earlier, US President Donald Trump and NATO chief Mark Rutte urged Russia not to escalate its war with Ukraine after talks in Florida.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261125-live-two-libyan-soldiers-killed-in-ukrainian-attack-on-russian-vessels-in-benghazi"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Ukraina ber om 115 milliarder euro i utenlandsk støtte for 2027",
-        "tekst": "Ukrainas president sier landet trenger 115 milliarder euro i ekstern finansiering neste år, og EU har foreløpig lovet 90 milliarder.",
-        "utdypning": "President Volodymyr Zelensky uttalte tirsdag at Ukraina vil trenge 115 milliarder euro i ekstern finansiering i 2027 for å holde økonomien og krigsinnsatsen mot Russland i gang. Kyiv har allerede sikret seg tilsagn på om lag 90 milliarder euro fra EU.",
-        "kilder": [
-          {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says"
+            "lenke": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 5
+      },
+      {
+        "tittel": "Lekkasje viser nesten 500 000 døde i Russland",
+        "tekst": "Russiske tall viser at invasjonen av Ukraina har endret dødelighetsmønstrene i landet dramatisk.",
+        "utdypning": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war. Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+        "kilder": [
+          {
+            "navn": "BBC",
+            "lenke": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
       }
     ],
     "Verden": [
       {
-        "tittel": "USA planlegger nye tollsatser mot EU, Kina og en rekke andre land",
-        "tekst": "Trump-administrasjonen innfører importavgifter på opptil 20 prosent for å motvirke utenlandsk overproduksjon.",
-        "utdypning": "De nye amerikanske tollsatsene vil ramme mange av USAs største handelspartnere, inkludert Kina og EU. Målet med avgiftene på inntil 20 prosent er å møte overdreven produksjon i utlandet, men tiltaket risikerer å legge ytterligere press på amerikanske forbrukere som allerede opplever høye levekostnader.",
-        "kilder": [
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 4
-      },
-      {
-        "tittel": "Tysklands statsbudsjett for 2027 møter hardt press",
-        "tekst": "Tysklands budsjett for 2027 når nye høyder, og pensjoner, forsvar samt svak økonomi skaper økt spenning i regjeringen.",
-        "utdypning": "Budsjettet for 2027 har nådd nye rekorder i Tyskland. Samtidig øker presset som følge av store utgifter til pensjonsfond, økt forsvarssatsing og en svak økonomisk utvikling, noe som fører til at det bygger seg opp spenninger internt i den regjerende koalisjonen.",
+        "tittel": "Tysklands budsjett for 2027 presser koalisjonen",
+        "tekst": "Høye utgifter til pensjon, forsvar og en svak økonomi øker presset på det tyske statsbudsjettet for 2027.",
+        "utdypning": "The budget for 2027 has reached new highs, and pension funds, defense spending and a weak economy are increasing the pressure. At the same time, tensions are mounting within the government.",
         "kilder": [
           {
             "navn": "DW World",
@@ -208,23 +161,6 @@
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
-      },
-      {
-        "tittel": "Nord-Korea utviser sveitsisk diplomat etter sanksjonsstrid",
-        "tekst": "Nord-Korea stenger det nylig gjenåpnede diplomatiske kontoret til Sveits som reaksjon på sveitsiske sanksjoner mot en barneleir.",
-        "utdypning": "Nord-Korea har beordret Sveits til å lukke sitt diplomatiske kontor i landet etter en opptrappet diplomatisk krangel. Konflikten bunner i sveitsiske sanksjoner mot en leir som anklages for å indoktrinere ukrainske barn fra russisk-okkuperte områder. Sveitsiske myndigheter opplyser at den framtidige kontakten vil gå gjennom Nord-Koreas ambassade i Bern og landets egen ambassade i Beijing.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf"
-          },
-          {
-            "navn": "BBC World",
-            "lenke": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "antall_kilder": 2,
         "vekt": 3
       }
     ]

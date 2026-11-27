@@ -1,29 +1,29 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Riksrevisjonen kritiserer sykehusene for svak økonomistyring og fallende effektivitet i helseforetakene.",
+      "tekst": "USA og Nato advarer Russland mot å utvide krigen i Europa.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/mr/riksrevisjonen-konkluderer-med-at-effektiviteten-i-sjukehusa-har-falle-1.18087192"
+          "navn": "France 24",
+          "lenke": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
         }
       ]
     },
     {
-      "tekst": "Folkehelseinstituttet advarer om at årets influensautbrudd er i gang og oppfordrer risikogrupper til å ta vaksine nå.",
+      "tekst": "EU-ledere diskuterer budsjett og støtte til Ukraina i Brussel.",
       "kilder": [
         {
-          "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/utbrudd-av-influensa_-_-ta-vaksinen-na-1.18089136"
+          "navn": "DW World",
+          "lenke": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf"
         }
       ]
     },
     {
-      "tekst": "Mattilsynet vurderer å utsette avlivingen av 225 000 fugler etter en klage fra oppdrettteren i et stort fugleinfluensautbrudd.",
+      "tekst": "Mattilsynet tilbakekaller Monster Energy-bokser etter funn av ulovlig stoff.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/rogaland/mattilsynet-vurderer-a-utsette-avliving-av-225.000-fuglar-etter-klage-fra-salte-kyllingoppdrett-1.18089127"
+          "lenke": "https://www.nrk.no/nyheter/elleve-varianter-av-monster-tilbakekalles-etter-funn-av-ulovlig-stoff-1.18089310"
         }
       ]
     }
@@ -31,50 +31,24 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Riksrevisjonen: Svakere effektivitet i sykehusene",
-        "tekst": "Riksrevisjonen slår fast at effektiviteten i sykehusene har falt, og peker på store forskjeller mellom helseforetakene.",
-        "utdypning": "Riksrevisjonen slår fast at effektiviteten i sykehusene har falt, og mener at økonomistyringa av sykehusene ikkje er god nok. Det blir pekt på at det er stor forskjell på kor effektivt helseføretaka driv.",
+        "tittel": "Influensautbruddet er i gang",
+        "tekst": "Influensaen spres for alvor i Norge, og helsemyndighetene oppfordrer til vaksine før jul.",
+        "utdypning": "Flere personer blir så syke av influensa at de må innlegges på sykehus. Helsemyndighetene minner om at det fremdeles ikke er for sent å ta vaksine for å beskytte seg før julehøytiden starter.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/mr/riksrevisjonen-konkluderer-med-at-effektiviteten-i-sjukehusa-har-falle-1.18087192"
+            "lenke": "https://www.nrk.no/mr/influensautbrotet-er-i-gang_-fhi-og-legar-anbefaler-folk-a-ta-vaksinen-snarast-mogleg-1.18089314"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "FHI: Vinterens influensautbrudd er i gang",
-        "tekst": "Folkehelseinstituttet melder at vinterens influensautbrudd har startet samtidig som koronasmitten øker, og ber risikogrupper vaksinere seg.",
-        "utdypning": "Folkehelseinstituttet opplyser torsdag at vinterens influensautbrudd er i gang samtidig som koronasmitten øker. Overlege Ingvild Fjeldheim understreker at det er viktig å ta vaksine nå før smitten øker ytterligere, da beskyttelsen oppnås etter én til to uker. Forsinkelser i leveransene har imidlertid ført til at enkelte kommuner har måttet vente med vaksineringen.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/utbrudd-av-influensa_-_-ta-vaksinen-na-1.18089136"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Vurderer utsettelse av stor avliving i fugleinfluensautbrudd",
-        "tekst": "Mattilsynet vurderer å utsette avlivingen av 225 000 fugler i Norges største utbrudd av fugleinfluensa etter en klage.",
-        "utdypning": "Mattilsynet vurderer å utsette avliving av 225.000 fuglar etter klage. I Noregs største utbrot av fugleinfluensa skulle 225.000 fuglar avlivast, men ein klage frå oppdrettaren kan setje masseavlivinga på vent.",
-        "kilder": [
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/rogaland/mattilsynet-vurderer-a-utsette-avliving-av-225.000-fuglar-etter-klage-fra-salte-kyllingoppdrett-1.18089127"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
+        "vekt": 3
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Mangedardersordre til BAE Systems Hägglunds",
-        "tekst": "Finland kjøper 160 stridsfordon 90 fra BAE Systems Hägglunds for 2,8 milliarder euro gjennom Nordic Initiative.",
-        "utdypning": "Finland har beslutat att köpa in 160 stridsfordon 90 från BAE Systems Hägglunds – till ett värde av 2,8 miljarder euro. Ordern ska ingå i en samaffär med Nederländerna, Sverige, Norge och Litauen som går under den gemensamma upphandlingen Nordic Initiative.",
+        "tittel": "Milliardordre til svensk industri knyttet til Norden",
+        "tekst": "Finland kjøper inn stridsfordon 90 fra BAE Systems Hägglunds for 2,8 milliarder euro.",
+        "utdypning": "Innkjøpet inngår i en samaffär med Nederland, Sverige, Norge og Litauen gjennom den felles opphandlingen Nordic Initiative. Ordren omfatter 160 kjøretøy og styrker det forsvarsteknologiske samarbeidet i regionen.",
         "kilder": [
           {
             "navn": "SVT",
@@ -87,9 +61,9 @@
     ],
     "Norden": [
       {
-        "tittel": "Medier: Stubb og Støre kontaktet Putin via oligark",
-        "tekst": "De to nordiske lederne skal ha kontaktet Putin for å forsikre om at Nato ikke ville blokkere russiske skip i Østersjøen.",
-        "utdypning": "The two leaders wanted to assure Russia that Nato would not blockade its ships in the Baltic.",
+        "tittel": "Stubb og Støre kontaktet Putin",
+        "tekst": "Ledere fra Finland og Norge tok kontakt med Vladimir Putin med hjelp av en russisk oligark.",
+        "utdypning": "Ifølge Wall Street Journal ønsket de to lederne å forsikre Russland om at Nato ikke ville blokkere landets skip i Østersjøen. Kontakten ble etablert for å dempe spenningen i nærområdet.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -102,68 +76,37 @@
     ],
     "Europa": [
       {
-        "tittel": "Polen oppretter no-fly-sone ved Ukraina-grensen",
-        "tekst": "Polen vil etablere en flyforbudssone nær grensen til Ukraina for raskt å kunne identifisere og skyte ned militære fly.",
-        "utdypning": "Poland will soon create a no-fly zone near the Ukrainian border, a deputy defence minister announced on Wednesday, after several incursions into its airspace it blamed on Russia. Poland backs Ukraine as it fights off Russia's near five-year invasion and has repeatedly accused Moscow of seeking to target Kyiv's supporters with drone incursions and other methods. The no-fly zone is intended to allow Polish forces to quickly identify any Russian military aircraft and shoot them down if necessary. FRANCE 24's Selina Sykes reports.",
+        "tittel": "Trump ber om stans i militær aggresjon",
+        "tekst": "USAs president Donald Trump ba Vladimir Putin om å trekke tilbake all militær aggresjon mot Europa.",
+        "utdypning": "Uttalelsen kom etter et møte mellom de to i Kina, og markerer en endring i tonen fra den amerikanske presidenten. Dagen før møtte Trump Natos sjef Mark Rutte i Florida, hvor de utstedte en felles erklæring som advarer Russland mot å ekspandere krigen i Ukraina.",
         "kilder": [
           {
             "navn": "France 24",
-            "lenke": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations"
+            "lenke": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
           },
           {
             "navn": "DW World",
-            "lenke": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border/live-80047122?maca=en-rss-en-all-1573-rdf"
+            "lenke": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 2,
         "vekt": 5
       },
       {
-        "tittel": "EU-ledere møtes til klammeri om Ukraina-lån",
-        "tekst": "EU-ledere samles i Brussel torsdag for å diskutere et lån på 45 milliarder euro til Ukraina for 2027.",
-        "utdypning": "EU leaders are set to clash in Brussels on Thursday over a proposed €45 billion loan to fund Ukraine in 2027, with Germany pressing members to contribute and others seeking exemption. A day earlier, US President Donald Trump and NATO chief Mark Rutte urged Russia not to escalate its war with Ukraine after talks in Florida.",
+        "tittel": "EU-toppmøte avsluttet tidlig uten budsjettenighet",
+        "tekst": "Uenighet om EU-budsjettet førte til at europeiske ledere avsluttet toppmøtet i Brussel tidlig.",
+        "utdypning": "Avstanden mellom landenes krav gjorde forhandlingene svært krevende. Lederne tar sikte på å bli enige om EUs finansiering i løpet av desember, samtidig som det strides om lån til Ukraina.",
         "kilder": [
           {
-            "navn": "France 24",
-            "lenke": "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen"
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 5
-      },
-      {
-        "tittel": "Lekkasje viser nesten 500 000 døde i Russland",
-        "tekst": "Russiske tall viser at invasjonen av Ukraina har endret dødelighetsmønstrene i landet dramatisk.",
-        "utdypning": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war. Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-        "kilder": [
-          {
-            "navn": "BBC",
-            "lenke": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "navn": "DW",
-            "lenke": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-eu-2092-rdf"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
+        "vekt": 4
       }
     ],
-    "Verden": [
-      {
-        "tittel": "Tysklands budsjett for 2027 presser koalisjonen",
-        "tekst": "Høye utgifter til pensjon, forsvar og en svak økonomi øker presset på det tyske statsbudsjettet for 2027.",
-        "utdypning": "The budget for 2027 has reached new highs, and pension funds, defense spending and a weak economy are increasing the pressure. At the same time, tensions are mounting within the government.",
-        "kilder": [
-          {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/€561-billion-and-still-not-enough-germany-s-2027-budget-exposes-a-coalition-on-the-brink/a-80052664?maca=en-rss-en-all-1573-rdf"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 3
-      }
-    ]
+    "Verden": []
   },
   "folg_med": [],
   "senere": [],

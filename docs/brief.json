@@ -1,25 +1,25 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "USA og Nato advarer Russland mot å utvide krigen i Europa.",
+      "tekst": "Det norske flyselskapet Norse kjemper for å unngå konkurs og har foreløpig ikke utbetalt lønn til ansatte.",
       "kilder": [
         {
-          "navn": "France 24",
-          "lenke": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/sorlandet/norse-konkurs_-slik-gikk-det-galt-1.18089116"
         }
       ]
     },
     {
-      "tekst": "EU-ledere diskuterer budsjett og støtte til Ukraina i Brussel.",
+      "tekst": "Stortingspartiene forsøker å løse budsjettfloken, og det er planlagt samtaler mellom Arbeiderpartiet og MDG.",
       "kilder": [
         {
-          "navn": "DW World",
-          "lenke": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf"
+          "navn": "NRK",
+          "lenke": "https://www.nrk.no/nyheter/kilder-til-nrk_-brenna-og-liland-skal-motes-1.18089667"
         }
       ]
     },
     {
-      "tekst": "Mattilsynet tilbakekaller Monster Energy-bokser etter funn av ulovlig stoff.",
+      "tekst": "Mattilsynet tilbakekaller elleve varianter av Monster-energidrikk etter funn av det ulovlige stoffet L-karnitin-L-tartrat.",
       "kilder": [
         {
           "navn": "NRK",
@@ -31,28 +31,58 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Influensautbruddet er i gang",
-        "tekst": "Influensaen spres for alvor i Norge, og helsemyndighetene oppfordrer til vaksine før jul.",
-        "utdypning": "Flere personer blir så syke av influensa at de må innlegges på sykehus. Helsemyndighetene minner om at det fremdeles ikke er for sent å ta vaksine for å beskytte seg før julehøytiden starter.",
+        "tittel": "Norse kjemper mot konkurs",
+        "tekst": "Det norske lavprisselskapet Norse er i dialog med investorer for å redde selskapet fra konkurs og har ikke utbetalt lønn til ansatte.",
+        "utdypning": "Det norske lavprisselskapet Norse skulle gjøre det Norwegian ikke klarte ved å tjene penger på billige billetter til USA, men slik gikk det ikke. Selskapet er nå i dialog med investorer for å redde selskapet fra konkurs. Flere passasjerer frykter nå å ikke komme hjem som planlagt.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/norse-konkurs_-slik-gikk-det-galt-1.18089116"
+          },
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/sorlandet/kriserammede-norse-kansellerer-avganger-1.18088857"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 5
+      },
+      {
+        "tittel": "Budsjettsamtaler på Stortinget",
+        "tekst": "Arbeiderpartiet og MDG skal ha direkte samtaler for å prøve å løse budsjettfloken på Stortinget.",
+        "utdypning": "For å prøve å løse budsjettfloken på Stortinget er det kontakt mellom de parlamentariske lederne i Ap, MDG, SV, Rødt og Senterpartiet, etter det NRK erfarer. Det er også planlagt direkte samtaler mellom Arbeiderpartiets Tonje Brenna og MDGs Ingrid Liland. Kilder i partiene sier lite tyder på en snarlig løsning som kan få MDG om bord. For Ap, SV, Sp og Rødt framstår det som uklart hva MDG forlanger av konkrete gjennomslag for å kunne stemme for statsbudsjettet, mens de fire partiene har avvist å endre budsjettavtalen som ble inngått onsdag.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/mr/influensautbrotet-er-i-gang_-fhi-og-legar-anbefaler-folk-a-ta-vaksinen-snarast-mogleg-1.18089314"
+            "lenke": "https://www.nrk.no/nyheter/kilder-til-nrk_-brenna-og-liland-skal-motes-1.18089667"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 3
+        "vekt": 5
+      },
+      {
+        "tittel": "Tilbakekaller Monster-produkter",
+        "tekst": "Mattilsynet tilbakekaller elleve varianter av Monster Energy etter funn av det ulovlige stoffet L-karnitin-L-tartrat.",
+        "utdypning": "Det er Monster Energy i 500 ml bokser som tilbakekalles, skriver Mattilsynet i en pressemelding. Varene er solgt i utvalgte frittstående dagligvarebutikker og kiosker i hele Norge. De samme produktene selges allerede lovlig i Norge, men uten innhold av det forbudte stoffet L-karnitin-L-tartrat. Forbrukere som har kjøpt varen kan kaste den eller levere den tilbake til utsalgsstedet der den er kjøpt for refusjon.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/nyheter/elleve-varianter-av-monster-tilbakekalles-etter-funn-av-ulovlig-stoff-1.18089310"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
       }
     ],
     "Skandinavia": [
       {
-        "tittel": "Milliardordre til svensk industri knyttet til Norden",
-        "tekst": "Finland kjøper inn stridsfordon 90 fra BAE Systems Hägglunds for 2,8 milliarder euro.",
-        "utdypning": "Innkjøpet inngår i en samaffär med Nederland, Sverige, Norge og Litauen gjennom den felles opphandlingen Nordic Initiative. Ordren omfatter 160 kjøretøy og styrker det forsvarsteknologiske samarbeidet i regionen.",
+        "tittel": "Norsk flyselskap avlyser flyvninger",
+        "tekst": "Det norske flyselskapet kjemper for overlevelse og avlyser flyvninger.",
+        "utdypning": "Det norske flyselskapet kjemper for overlevelse og har begynt å avlyse flyvninger i forbindelse med den alvorlige økonomiske situasjonen.",
         "kilder": [
           {
-            "navn": "SVT",
-            "lenke": "https://www.svt.se/nyheter/lokalt/vasternorrland/miljardorder-for-bae-systems-hagglunds"
+            "navn": "DR",
+            "lenke": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger"
           }
         ],
         "antall_kilder": 1,
@@ -62,8 +92,8 @@
     "Norden": [
       {
         "tittel": "Stubb og Støre kontaktet Putin",
-        "tekst": "Ledere fra Finland og Norge tok kontakt med Vladimir Putin med hjelp av en russisk oligark.",
-        "utdypning": "Ifølge Wall Street Journal ønsket de to lederne å forsikre Russland om at Nato ikke ville blokkere landets skip i Østersjøen. Kontakten ble etablert for å dempe spenningen i nærområdet.",
+        "tekst": "Finlands president og Norges statsminister skal ha kontaktet Vladimir Putin med hjelp av en russisk oligark.",
+        "utdypning": "Ifølge The Wall Street Journal ønsket de to lederne å sikre Russland mot at Nato skulle blokkere landets skip i Østersjøen. Dette skjedde med hjelp av en russisk oligark.",
         "kilder": [
           {
             "navn": "Yle News",
@@ -72,13 +102,26 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Orpo vil ha store kutt i EU-budsjettet",
+        "tekst": "Finlands statsminister Petteri Orpo mener EUs foreslåtte langtidsbudsjett forble for stort under forhandlingene i Brussel.",
+        "utdypning": "Finlands statsminister Petteri Orpo uttalte at EUs foreslåtte langtidsbudsjett forble for stort, ettersom store uenigheter om utgiftsprioriteringer har komplisert forhandlingene i Brussel.",
+        "kilder": [
+          {
+            "navn": "Yle News",
+            "lenke": "https://yle.fi/a/74-20259445?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Europa": [
       {
-        "tittel": "Trump ber om stans i militær aggresjon",
-        "tekst": "USAs president Donald Trump ba Vladimir Putin om å trekke tilbake all militær aggresjon mot Europa.",
-        "utdypning": "Uttalelsen kom etter et møte mellom de to i Kina, og markerer en endring i tonen fra den amerikanske presidenten. Dagen før møtte Trump Natos sjef Mark Rutte i Florida, hvor de utstedte en felles erklæring som advarer Russland mot å ekspandere krigen i Ukraina.",
+        "tittel": "Trump ba Putin trekke tilbake aggresjon",
+        "tekst": "USAs president Donald Trump sa torsdag at han har bedt Vladimir Putin om å trekke tilbake all militær aggresjon mot Europa.",
+        "utdypning": "US President Donald Trump said Thursday he had asked Vladimir Putin to 'pull back all military aggression' against Europe, marking a shift in tone towards the Russian leader whom he called a friend just a week ago. Trump said he made the request during their meeting in China, adding that he thought it would help lead to a deal to end Moscow's war in Ukraine. The comments followed a meeting in Florida with NATO chief Mark Rutte, where they issued a joint statement calling on Russia not to expand the conflict.",
         "kilder": [
           {
             "navn": "France 24",
@@ -93,20 +136,34 @@
         "vekt": 5
       },
       {
-        "tittel": "EU-toppmøte avsluttet tidlig uten budsjettenighet",
-        "tekst": "Uenighet om EU-budsjettet førte til at europeiske ledere avsluttet toppmøtet i Brussel tidlig.",
-        "utdypning": "Avstanden mellom landenes krav gjorde forhandlingene svært krevende. Lederne tar sikte på å bli enige om EUs finansiering i løpet av desember, samtidig som det strides om lån til Ukraina.",
+        "tittel": "Presser på for EU-budsjettavtale",
+        "tekst": "Paris og Berlin presser på for at EU skal få på plass en budsjettavtale for å sikre finansiell støtte til Ukraina.",
+        "utdypning": "Mens Europa forbereder seg på en rekke spente valg i 2027, presser Frankrike og Tyskland på for at EU skal inngå en budsjettavtale innen 31. desember for å sikre finansiell hjelp til Ukraina. Torsdagens samtaler i Brussel så imidlertid ut til å gjøre lite for å bygge konsensus rundt blokkens neste budsjett.",
         "kilder": [
           {
-            "navn": "DW World",
-            "lenke": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf"
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/europe/20261127-france-and-germany-push-for-eu-budget-deal-by-year-end-as-far-right-rise-threatens-ukraine-aid"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       }
     ],
-    "Verden": []
+    "Verden": [
+      {
+        "tittel": "Zelenskyj kritiserer USAs fokus",
+        "tekst": "Ukrainas president uttrykker frustrasjon over USA og mener de har for mye fokus på Midtøsten.",
+        "utdypning": "Ukrainas president sier til BBC at USA ikke presser Russland hardt nok, og kaller det 'rart' at Donald Trump har beskrevet Vladimir Putin som en venn.",
+        "kilder": [
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ]
   },
   "folg_med": [],
   "senere": [],

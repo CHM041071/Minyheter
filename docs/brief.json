@@ -1,16 +1,7 @@
 {
   "kort_fortalt": [
     {
-      "tekst": "Det norske flyselskapet Norse kjemper for å unngå konkurs og har foreløpig ikke utbetalt lønn til ansatte.",
-      "kilder": [
-        {
-          "navn": "NRK Norge",
-          "lenke": "https://www.nrk.no/sorlandet/norse-konkurs_-slik-gikk-det-galt-1.18089116"
-        }
-      ]
-    },
-    {
-      "tekst": "Stortingspartiene forsøker å løse budsjettfloken, og det er planlagt samtaler mellom Arbeiderpartiet og MDG.",
+      "tekst": "Stortinget strever med å finne en løsning på budsjettfloken, og det er planlagt direkte samtaler mellom Tonje Brenna og Ingrid Liland.",
       "kilder": [
         {
           "navn": "NRK",
@@ -19,11 +10,20 @@
       ]
     },
     {
-      "tekst": "Mattilsynet tilbakekaller elleve varianter av Monster-energidrikk etter funn av det ulovlige stoffet L-karnitin-L-tartrat.",
+      "tekst": "Lav kjøpekraft fører til at flere velger vekk julebord eller utsetter festen til januar, noe hotellbransjen merker.",
+      "kilder": [
+        {
+          "navn": "NRK Norge",
+          "lenke": "https://www.nrk.no/sorlandet/en-av-tre-bedrifter-melder-om-faerre-julebord-1.18089611"
+        }
+      ]
+    },
+    {
+      "tekst": "Døgnvakten som skal hjelpe nyresyke, står i fare for å bli lagt ned, noe både pasienter og leger advarer mot.",
       "kilder": [
         {
           "navn": "NRK",
-          "lenke": "https://www.nrk.no/nyheter/elleve-varianter-av-monster-tilbakekalles-etter-funn-av-ulovlig-stoff-1.18089310"
+          "lenke": "https://www.nrk.no/mr/anne-britt-danielsen-har-vaert-avhengig-av-nyrevakta-i-helse-more-og-romsdal-_-kan-bli-lagt-ned-1.18083505"
         }
       ]
     }
@@ -31,26 +31,9 @@
   "saker": {
     "Norge": [
       {
-        "tittel": "Norse kjemper mot konkurs",
-        "tekst": "Det norske lavprisselskapet Norse er i dialog med investorer for å redde selskapet fra konkurs og har ikke utbetalt lønn til ansatte.",
-        "utdypning": "Det norske lavprisselskapet Norse skulle gjøre det Norwegian ikke klarte ved å tjene penger på billige billetter til USA, men slik gikk det ikke. Selskapet er nå i dialog med investorer for å redde selskapet fra konkurs. Flere passasjerer frykter nå å ikke komme hjem som planlagt.",
-        "kilder": [
-          {
-            "navn": "NRK Norge",
-            "lenke": "https://www.nrk.no/sorlandet/norse-konkurs_-slik-gikk-det-galt-1.18089116"
-          },
-          {
-            "navn": "NRK",
-            "lenke": "https://www.nrk.no/sorlandet/kriserammede-norse-kansellerer-avganger-1.18088857"
-          }
-        ],
-        "antall_kilder": 2,
-        "vekt": 5
-      },
-      {
-        "tittel": "Budsjettsamtaler på Stortinget",
-        "tekst": "Arbeiderpartiet og MDG skal ha direkte samtaler for å prøve å løse budsjettfloken på Stortinget.",
-        "utdypning": "For å prøve å løse budsjettfloken på Stortinget er det kontakt mellom de parlamentariske lederne i Ap, MDG, SV, Rødt og Senterpartiet, etter det NRK erfarer. Det er også planlagt direkte samtaler mellom Arbeiderpartiets Tonje Brenna og MDGs Ingrid Liland. Kilder i partiene sier lite tyder på en snarlig løsning som kan få MDG om bord. For Ap, SV, Sp og Rødt framstår det som uklart hva MDG forlanger av konkrete gjennomslag for å kunne stemme for statsbudsjettet, mens de fire partiene har avvist å endre budsjettavtalen som ble inngått onsdag.",
+        "tittel": "Budsjettkontakt på Stortinget",
+        "tekst": "Det er kontakt mellom parlamentariske ledere for å løse budsjettfloken, og det er planlagt samtaler mellom Tonje Brenna og Ingrid Liland.",
+        "utdypning": "For å prøve å løse budsjettfloken på Stortinget er det kontakt mellom de parlamentariske lederne i Ap, MDG, SV, Rødt og Senterpartiet. Det er også planlagt direkte samtaler mellom Arbeiderpartiets Tonje Brenna og MDGs Ingrid Liland. Kilder i partiene sier lite tyder på en snarlig løsning som kan få MDG om bord, og det er uklart hva MDG forlanger av konkrete gjennomslag. De fire andre partiene har så langt avvist å endre budsjettavtalen som ble inngått onsdag.",
         "kilder": [
           {
             "navn": "NRK",
@@ -61,56 +44,121 @@
         "vekt": 5
       },
       {
-        "tittel": "Tilbakekaller Monster-produkter",
-        "tekst": "Mattilsynet tilbakekaller elleve varianter av Monster Energy etter funn av det ulovlige stoffet L-karnitin-L-tartrat.",
-        "utdypning": "Det er Monster Energy i 500 ml bokser som tilbakekalles, skriver Mattilsynet i en pressemelding. Varene er solgt i utvalgte frittstående dagligvarebutikker og kiosker i hele Norge. De samme produktene selges allerede lovlig i Norge, men uten innhold av det forbudte stoffet L-karnitin-L-tartrat. Forbrukere som har kjøpt varen kan kaste den eller levere den tilbake til utsalgsstedet der den er kjøpt for refusjon.",
+        "tittel": "Frykter nedleggelse av døgnvakt for nyresyke",
+        "tekst": "Anne Britt ble nyresyk i svangerskapet, og nå slår pasienter og leger alarm fordi døgnvakten for nyresyke kan bli lagt ned.",
+        "utdypning": "Anne Britt ble nyresyk i svangerskapet, og frykter nå dødsfall dersom døgnvakten fjernes. Døgnvakten som skal hjelpe nyresyke kan bli lagt ned, og dette har ført til at både pasienter og leger slår alarm.",
         "kilder": [
           {
             "navn": "NRK",
-            "lenke": "https://www.nrk.no/nyheter/elleve-varianter-av-monster-tilbakekalles-etter-funn-av-ulovlig-stoff-1.18089310"
+            "lenke": "https://www.nrk.no/mr/anne-britt-danielsen-har-vaert-avhengig-av-nyrevakta-i-helse-more-og-romsdal-_-kan-bli-lagt-ned-1.18083505"
           }
         ],
         "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Skandinavia": [
+        "vekt": 5
+      },
       {
-        "tittel": "Norsk flyselskap avlyser flyvninger",
-        "tekst": "Det norske flyselskapet kjemper for overlevelse og avlyser flyvninger.",
-        "utdypning": "Det norske flyselskapet kjemper for overlevelse og har begynt å avlyse flyvninger i forbindelse med den alvorlige økonomiske situasjonen.",
+        "tittel": "Risikerer økt bomregning i Ryfylke",
+        "tekst": "Manglende trafikkvekst til tross for rabatter betyr at pendlere i Ryfylke risikerer en økt bomregning på over 27.000 kroner i året.",
+        "utdypning": "Rabatt og støtte til bompenger har ikke ført til den ventede trafikkveksten. Derfor risikerer pendlere i Ryfylke nå en økt bomregning på over 27.000 i året igjen.",
         "kilder": [
           {
-            "navn": "DR",
-            "lenke": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger"
-          }
-        ],
-        "antall_kilder": 1,
-        "vekt": 4
-      }
-    ],
-    "Norden": [
-      {
-        "tittel": "Stubb og Støre kontaktet Putin",
-        "tekst": "Finlands president og Norges statsminister skal ha kontaktet Vladimir Putin med hjelp av en russisk oligark.",
-        "utdypning": "Ifølge The Wall Street Journal ønsket de to lederne å sikre Russland mot at Nato skulle blokkere landets skip i Østersjøen. Dette skjedde med hjelp av en russisk oligark.",
-        "kilder": [
-          {
-            "navn": "Yle News",
-            "lenke": "https://yle.fi/a/74-20259086?origin=rss"
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/rogaland/bomtaksten-i-ryfast-kan-oke-med-27.000-kroner_-ryfylke-far-igjen-landets-dyreste-bomstrekning-1.18089911"
           }
         ],
         "antall_kilder": 1,
         "vekt": 4
       },
       {
-        "tittel": "Orpo vil ha store kutt i EU-budsjettet",
-        "tekst": "Finlands statsminister Petteri Orpo mener EUs foreslåtte langtidsbudsjett forble for stort under forhandlingene i Brussel.",
-        "utdypning": "Finlands statsminister Petteri Orpo uttalte at EUs foreslåtte langtidsbudsjett forble for stort, ettersom store uenigheter om utgiftsprioriteringer har komplisert forhandlingene i Brussel.",
+        "tittel": "Flere velger vekk julebord",
+        "tekst": "Lavere kjøpekraft gjør at færre deltar på julebord eller utsetter feiringen til januar.",
+        "utdypning": "Lavere kjøpekraft gjør at flere står over julebordet eller utsetter festen til januar. Både hotellbransjen og Natteravnene i Kristiansand merker at det er roligere tider enn før.",
+        "kilder": [
+          {
+            "navn": "NRK Norge",
+            "lenke": "https://www.nrk.no/sorlandet/en-av-tre-bedrifter-melder-om-faerre-julebord-1.18089611"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Frikjent for nakenbilder av barn – ber Høyesterett sette grense",
+        "tekst": "En mann som ble frikjent for å ha lastet ned 96 nakenbilder av barn, gjør at Høyesterett nå blir bedt om å sette en grense.",
+        "utdypning": "Bildene viste barns kjønnsorganer og ble lastet ned for seksuell tilfredsstillelse, men den tiltalte mannen gikk fri fordi bildene ble vurdert som ikke-seksualiserende. Nå blir Høyesterett bedt om å sette en grense for slike saker.",
+        "kilder": [
+          {
+            "navn": "NRK",
+            "lenke": "https://www.nrk.no/tromsogfinnmark/frikjent-for-96-nakenbilder-av-barn_-_ikke-seksualiserende_-1.18063751"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Skandinavia": [
+      {
+        "tittel": "Norse Atlantic slår seg konkurs",
+        "tekst": "Det norske lavprisflyselskapet Norse Atlantic har meldt oppbud som følge av høye flybensinpriser.",
+        "utdypning": "Flyselskapet ble grunnlagt for bare få år siden og hadde slitt med å gå med overskudd. Prikken over i-en ble spenningen og det påfølgende prishoppet på flybensin forårsaket av krigen i Iran, som har drevet det norske lavprisselskapet inn i konkurs.",
+        "kilder": [
+          {
+            "navn": "DW",
+            "lenke": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-eu-2092-rdf"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Skåne-Centerpartiet vil ha Kristersson som statsminister",
+        "tekst": "Et flertall i Centerpartiet i Skåne vil stemme ja til en regjering med M, L og KD.",
+        "utdypning": "Det er en klar majoritet innen Centerpartiet i Skåne som vil gå høgerut og ingå i en regjering med Moderaterna, Liberalerna og Kristdemokraterna. Distriktsordfører Anders Edwall bekrefter at de vil stemme ja i förtroenderådet på søndag. Samtidig advarer andre partimedlemmer mot et slikt samarbeid på grunn av båndene til SD.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/lokalt/skane/centern-i-skane-ska-rosta-ja-till-kristersson-som-statsminister"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Svensk borgerlig budsjettmotion",
+        "tekst": "Moderaterna, Liberalerna og Kristdemokraterna har lagt fram en felles budsjettmotion.",
+        "utdypning": "De borgerlige opposisjonspartiene Moderaterna, Liberalerna og Kristdemokraterna har presentert en gemensamt budgetmotion på Expressen Debatt som ledd i det politiske spillet om regjeringsmakten i Sverige.",
+        "kilder": [
+          {
+            "navn": "SVT",
+            "lenke": "https://www.svt.se/nyheter/inrikes/m-l-och-kd-presenterar-gemensam-budget"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      }
+    ],
+    "Norden": [
+      {
+        "tittel": "Orpo krever kutt i EU-budsjettet",
+        "tekst": "Finlands statsminister Petteri Orpo mener EUs langtidssbudget er altfor stort under forhandlinger i Brussel.",
+        "utdypning": "Statsminister Petteri Orpo sier at EUs foreslåtte langtidssbudget fortsatt er for stort. Uenigheter om utgiftsprioriteringer har komplisert forhandlingene mellom medlemslandene i Brussel.",
         "kilder": [
           {
             "navn": "Yle News",
             "lenke": "https://yle.fi/a/74-20259445?origin=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 4
+      },
+      {
+        "tittel": "Island: Kan ikke utelukke statlig aktør bak dataangrep",
+        "tekst": "Islands utenriksminister sier at man ikke kan utelukke at en fremmed stat stod bak nylige cyberangrep.",
+        "utdypning": "Þorgerður Katrín Gunnarsdóttir, minister for utenrikssaker, opplyser at det ikke kan utelukkes at en fremmed stat var involvert i noen av de siste cyberangrepene mot islandske selskaper. Hun oppfordrer virksomheter og institusjoner til å styrke sine digitale forsvar.",
+        "kilder": [
+          {
+            "navn": "RÚV English",
+            "lenke": "https://www.ruv.is/english/2026-11-27-foreign-nation-state-involvement-in-cyberattack-cannot-be-ruled-out-494263/"
           }
         ],
         "antall_kilder": 1,
@@ -119,9 +167,9 @@
     ],
     "Europa": [
       {
-        "tittel": "Trump ba Putin trekke tilbake aggresjon",
-        "tekst": "USAs president Donald Trump sa torsdag at han har bedt Vladimir Putin om å trekke tilbake all militær aggresjon mot Europa.",
-        "utdypning": "US President Donald Trump said Thursday he had asked Vladimir Putin to 'pull back all military aggression' against Europe, marking a shift in tone towards the Russian leader whom he called a friend just a week ago. Trump said he made the request during their meeting in China, adding that he thought it would help lead to a deal to end Moscow's war in Ukraine. The comments followed a meeting in Florida with NATO chief Mark Rutte, where they issued a joint statement calling on Russia not to expand the conflict.",
+        "tittel": "Trump ber Putin trekke tilbake aggresjon i Europa",
+        "tekst": "USAs president Donald Trump ba Vladimir Putin om å stanse den militære aggresjonen i Europa under et nylig møte.",
+        "utdypning": "USAs president Donald Trump sa torsdag at han hadde bedt Vladimir Putin om å \"trekke tilbake all militær aggresjon\" mot Europa, noe som markerer et skifte i tonen fra uken før da han omtalte den russiske lederen som sin venn. Trump sa han fremmet kravet under et møte i Kina, og uttrykte tro på at det kan lede til en avtale som avslutter krigen i Ukraina. Uttalelsene kom dagen etter at han tok imot NATO-sjef Mark Rutte i Florida, hvor de utstedte en felles erklæring mot utvidelse av krigen.",
         "kilder": [
           {
             "navn": "France 24",
@@ -136,9 +184,9 @@
         "vekt": 5
       },
       {
-        "tittel": "Presser på for EU-budsjettavtale",
-        "tekst": "Paris og Berlin presser på for at EU skal få på plass en budsjettavtale for å sikre finansiell støtte til Ukraina.",
-        "utdypning": "Mens Europa forbereder seg på en rekke spente valg i 2027, presser Frankrike og Tyskland på for at EU skal inngå en budsjettavtale innen 31. desember for å sikre finansiell hjelp til Ukraina. Torsdagens samtaler i Brussel så imidlertid ut til å gjøre lite for å bygge konsensus rundt blokkens neste budsjett.",
+        "tittel": "Paris og Berlin presser på for EU-budsjett og Ukraina-støtte",
+        "tekst": "Frankrike og Tyskland presser på for en avtale om EUs budsjett innen nyttår for å sikre finansiell støtte til Ukraina.",
+        "utdypning": "Mens Europa rigger seg for en rekke spente valg i 2027, presser Paris og Berlin på for at EU skal komme til en budsjettenighet innen 31. desember for å låse fast den finansielle støtten til Ukraina. Torsdagens samtaler i Brussel så imidlertid ut til å ha gjort lite for å skape en bredere konsensus rundt blokkens neste budsjett.",
         "kilder": [
           {
             "navn": "France 24",
@@ -147,17 +195,60 @@
         ],
         "antall_kilder": 1,
         "vekt": 4
+      },
+      {
+        "tittel": "Spania holder parlamentsvalg søndag",
+        "tekst": "Statsminister Pedro Sanchez har utskrevet nyvalg midt i sinnelag over boligkrise og levekostnader.",
+        "utdypning": "Tre partiledere kjemper om velgernes gunst i det spanske valget søndag, utskrevet av sosialistisk statsminister Pedro Sanchez etter et tilbakeslag i boliglovgivningen. Analytikere peker på at til tross for solid økonomisk vekst, sliter befolkningen med boligmangel og inflasjon, og velgerne er sinte på etablissementet og det økonomiske systemet.",
+        "kilder": [
+          {
+            "navn": "France 24",
+            "lenke": "https://www.france24.com/en/tv-shows/a-propos/20261126-citizens-angry-with-the-establishment-as-spain-heads-to-the-polls"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
       }
     ],
     "Verden": [
       {
         "tittel": "Zelenskyj kritiserer USAs fokus",
-        "tekst": "Ukrainas president uttrykker frustrasjon over USA og mener de har for mye fokus på Midtøsten.",
-        "utdypning": "Ukrainas president sier til BBC at USA ikke presser Russland hardt nok, og kaller det 'rart' at Donald Trump har beskrevet Vladimir Putin som en venn.",
+        "tekst": "Ukrainas president uttrykker frustrasjon over at USA er for opptatt av Midtøsten og ikke presser Russland hardt nok.",
+        "utdypning": "Ukrainas president Volodymyr Zelenskyj retter kritikk mot USA i et intervju med BBC. Han anklager landet for å være for fokusert på Midtøsten og for ikke å legge tilstrekkelig press på Russland, og kaller det \"spektakulært\" og \"strabasiøst\" at Donald Trump har kalt Vladimir Putin en venn.",
         "kilder": [
           {
             "navn": "BBC World",
             "lenke": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 1,
+        "vekt": 3
+      },
+      {
+        "tittel": "Canadas høyesterett opprettholder lov om religiøse symboler",
+        "tekst": "Quebecs lov om forbud mot religiøse symboler for offentlige ansatte har blitt opprettholdt av landets høyesterett.",
+        "utdypning": "Quebecs regjering vedtok lov 21 for å forby religiøse symboler for offentlige ansatte med den hensikt å beskytte det sekulære samfunnet. Loven har møtt hard kritikk og rettslige utfordringer fra grupper som muslimske, sikh- og katolske lærere som mente den krenker grunnleggende rettigheter, men Canadas øverste domstol har nå i all vesentlighet opprettholdt forbudet.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf"
+          },
+          {
+            "navn": "BBC World",
+            "lenke": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "antall_kilder": 2,
+        "vekt": 3
+      },
+      {
+        "tittel": "Tysk høring av 2027-budsjettet",
+        "tekst": "Tyske lovgivere har godkjent et føderalt budsjett som legger opp til omfattende utgifter.",
+        "utdypning": "Tyske parlamentarikere har stemt gjennom et gjeldsbelastet føderalt budsjett for 2027 som legger opp til 556 milliarder euro i offentlige utgifter. Samtidig avvikles det politiske toppmøter og landsmøter for mindre partier i landet.",
+        "kilder": [
+          {
+            "navn": "DW World",
+            "lenke": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf"
           }
         ],
         "antall_kilder": 1,
